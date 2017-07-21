@@ -1,3 +1,5 @@
+* Reading instream data lines ;
+
 data tq84;
   input num english $ german $;
 datalines;
