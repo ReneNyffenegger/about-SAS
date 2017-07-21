@@ -15,4 +15,7 @@ data _null_;
 * put some selected elements of array ;
   put (fib4 fib7 fib8) (=);
 
+* put values on seperate lines ;
+  put (fib[*]) (=/);
+
 run;
