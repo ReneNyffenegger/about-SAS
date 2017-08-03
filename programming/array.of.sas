@@ -12,4 +12,7 @@ data _null_;
   tq84_avg = mean(of tq84_array1 - tq84_array5);
 
   put "Mean of first 5 elements in array is " tq84_avg;
+
+  tq84_avg = mean(of tq84_array(*));
+  put "Mean of all elements in array is " tq84_avg;
 run;
