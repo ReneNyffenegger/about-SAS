@@ -4,3 +4,5 @@ data _null_;
 
   put tq84_text;
 run;
+
+/* ifc returns a character value. ifn returns a numeric value. */
