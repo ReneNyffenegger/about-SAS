@@ -10,3 +10,5 @@ data _null_;
      put a " * " b " != " c;
 
 run;
+
+/* See also: ifc.sas */
