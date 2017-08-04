@@ -32,8 +32,8 @@ proc sql;
     val,
     nam
   into
-    :val_3_7,
-    :german_names_3_7
+    :val_3,
+    :german_name_3
   from
     tq84_num_translation
   where
@@ -41,5 +41,8 @@ proc sql;
     val between 3 and 7;
 quit;
 
-%put &val_3_7;
-%put &german_names_3_7;
+
+/* Note: only the first record (val = 3) is assigned to
+   the macro variable! */
+%put val_3 = &val_3;
+%put german_name_3 = &german_name_3;
