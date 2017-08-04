@@ -1,7 +1,8 @@
 /*
      Reading instream data lines
      
-     Apparently, datalines is a reserved fileref.
+     Apparently, datalines is also a reserved fileref for 
+     the INFILE statement.
      
 */
 
