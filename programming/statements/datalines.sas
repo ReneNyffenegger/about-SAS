@@ -1,4 +1,9 @@
-* Reading instream data lines ;
+/*
+     Reading instream data lines
+     
+     Apparently, datalines is a reserved fileref.
+     
+*/
 
 data tq84;
   input num english $ german $;
