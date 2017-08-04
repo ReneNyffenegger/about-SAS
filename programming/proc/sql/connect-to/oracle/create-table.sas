@@ -1,3 +1,7 @@
+%let ora_user     = rene;
+%let ora_password = secret_garden;
+%let ora_server   = ora.test.renenyffenegger.ch;
+
 data tq84_stage;
 
   length spelled $20;
