@@ -1,7 +1,7 @@
 options
   sastrace    = ',,,d'   /* show SQL statements sent to data source */
   sastraceloc = saslog   /* required on PC platforms                */
-  nostsuffix             /* nostsuffix: make                        */
+  nostsuffix             /* nostsuffix: make log more readable      */
 ;
 
 
