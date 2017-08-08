@@ -11,6 +11,13 @@ proc sql;
     path     = &ora_server
   );
 
+  /*
+      SQL pass through:
+         execute (stmt) by 
+      stmt is passed to the DBMS/Oracle exactly as stated.
+      It should be used for any dynamic non DML statement.
+  
+  */
   execute (
     create table tq84_execute (
       id     number        primary key,
