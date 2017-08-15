@@ -1,3 +1,5 @@
+libname tq84_lib 'p:\ath\to\dir';
+
 proc sql;
   select
     memname,
