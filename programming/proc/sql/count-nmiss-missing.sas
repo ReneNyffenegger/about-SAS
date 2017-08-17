@@ -17,7 +17,7 @@ datalines;
 7 seven  .      sieben
 8 eight  huit   .
 9 nine   neuf   neun
-10 ten   dix    yehn
+10 ten   dix    zehn
 run;
 
 proc sql;
