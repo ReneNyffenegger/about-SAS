@@ -3,5 +3,7 @@
     value to it.
 */
 
-%let answer="forty-two";
-%put &answer;
+%let   answer=forty-two;
+%put  &answer;
+%put '&answer'   /* Within '...', the macro variable is not expanded */;
+%put "&answer"   /* Within "...", the macro variable is expanded     */;
