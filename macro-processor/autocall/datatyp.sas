@@ -1,3 +1,5 @@
+/* %datatyp returs either NUMERIC or CHAR */
+
 data _null_;
 
   %let fourty_two = 42;
