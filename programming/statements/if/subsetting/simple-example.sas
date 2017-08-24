@@ -1,3 +1,5 @@
+/*  A subsetting if is an "if" without corresponding "then". */
+
 data tq84_one;
 
   infile datalines;
