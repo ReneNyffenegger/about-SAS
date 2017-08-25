@@ -1,0 +1,21 @@
+%macro is_licensed(prod);
+  %if %sysprod(&prod) = 1 %then %put &prod is licensed;
+                          %else %put &prod is not licensed;
+%mend is_licensed;
+
+%is_licensed(af         );
+%is_licensed(assist     );
+%is_licensed(base       );
+%is_licensed(calc       );
+%is_licensed(connect    );
+%is_licensed(cpe        );
+%is_licensed(eis        );
+%is_licensed(ets        );
+%is_licensed(fsp        );
+%is_licensed(gis        );
+%is_licensed(graph      );
+%is_licensed(ph-clinical);
+%is_licensed(qc         );
+%is_licensed(share      );
+%is_licensed(stat       );
+%is_licensed(toolkit    );
