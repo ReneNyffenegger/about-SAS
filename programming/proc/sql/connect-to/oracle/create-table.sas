@@ -22,7 +22,10 @@ datalines;
 
 
 proc sql;
-
+  --
+  -- Apparently, the following "connect to oracle"
+  -- statement is referred to as "pass through".
+  --
   connect to oracle as tq84_ora (
     user     = &ora_user
     password = &ora_password
