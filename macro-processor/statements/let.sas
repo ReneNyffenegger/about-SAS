@@ -1,6 +1,9 @@
 /* 
     %let creates a macro variable and assigns a
     value to it.
+    
+    The macro variable is then resolved by putting an
+    ampersand in its front.
 */
 
 %let   answer=forty-two;
