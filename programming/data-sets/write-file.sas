@@ -16,7 +16,7 @@ run;
 
 /* Write the dataset to a file: */
 data _null_;
-  file '\\datenpool.prod.zkb.ch\Datenpl$\Atrans\SASCC\tq84\ds.txt';
+  file 'p:\ath\to\a\directory\ds.txt';
   set tq84_ds;
   put num txt;
 run;
