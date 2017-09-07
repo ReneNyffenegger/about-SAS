@@ -1,3 +1,7 @@
+%let ora_user     = sasdba;
+%let ora_password = secret_garden;
+%let ora_server   = ora.test.renenyffenegger.ch;
+
 options
   sastrace    = ',,,d'   /* show SQL statements sent to data source */
   sastraceloc = saslog   /* required on PC platforms                */
