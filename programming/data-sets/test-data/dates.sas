@@ -11,7 +11,7 @@ data work.tq84_stage;
   informat tev_dt date9.;
   format   tev_dt date9.;
 
-  infile datalines dlm=',' dsd;
+  infile datalines dlm=',';
 
   input id
         col_1
