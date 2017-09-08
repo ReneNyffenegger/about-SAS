@@ -6,6 +6,8 @@ data eggs_why;
   end;
 run;
 
+ods graphics on;
+
 proc sgplot data=eggs_why;
   title 'Scatter plot';
   scatter
