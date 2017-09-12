@@ -5,7 +5,6 @@ data _null_;
 
   answer = a*b;
 
-* Named output: display variable's name AND value ;
   put answer=;
 
 run;
