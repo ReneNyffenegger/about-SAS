@@ -4,7 +4,7 @@ proc sql;
     objtype,
     objdesc
   from
-     dictionary.catalogs
+    dictionary.catalogs
   where
     libname = 'SASHELP' and
     memtype = 'CATALOG' and
