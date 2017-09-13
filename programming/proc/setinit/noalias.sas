@@ -1,0 +1,2 @@
+proc setinit noalias;
+run;
