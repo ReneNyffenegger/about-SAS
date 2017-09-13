@@ -17,6 +17,6 @@ strawberry blackberry blueberry
 
 proc export
      data=tq84_data(keep=col_1 col_3)
-     outfile='\\datenpool.prod.zkb.ch\datenpl$\Atrans\SASCC\tq84\exported.txt';
+     outfile='p:\ath\to\exported.txt';
      putnames=no;
 run;
