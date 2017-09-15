@@ -14,7 +14,7 @@
 '     http://www.sascommunity.org/wiki/Create_Your_Own_Client_Apps_Using_SAS_Integration_Technologies
 '
 
-private const host = "sasebisandbox.eng.zkb.ch"
+private const host = "sasebi.renenyffenegger.ch"
 
 sub test()
 '
