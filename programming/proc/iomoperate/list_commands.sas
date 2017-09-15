@@ -1,3 +1,5 @@
+%let metaserver_host = "server.foo.ch";
+
 proc iomoperate;
   connect host    = &metaserver_host
           port    =  8561
