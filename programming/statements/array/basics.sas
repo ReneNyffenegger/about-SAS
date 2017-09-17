@@ -1,15 +1,5 @@
 data _null_;
 
-/*
-    An array does not create a new data structure
-    An array statement creates a name by which
-    OTHER variables can be referenced.
-    
-    The name of the underlying variable is returned
-    by the varname() function.
-    
-*/ 
-  
     array ary[3] foo bar baz;
 
     foo =  42;
