@@ -1,5 +1,12 @@
 options nomprint;
 /*
+ 
+    Problems to be solved:
+       Does a semicolon (;) belong to a macro statement or to an ordinary SAS statement?
+
+    str:      The most basic quoting function.
+              It hides symbols that could be interpreted by the macro compiler at
+              macro compile time. (Such symbols are: semicolon, space ...)
     bquote
     left
     nrstr
