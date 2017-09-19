@@ -28,7 +28,7 @@ my $word_queue                = NODE->new('Word queue');
 
 
 my $mc_macro_processor        = NODE->new('Multi component macro processor');
-   $mc_macro_processor->add_line('Invoked after macro triggers (<font face="Courier">%</font> or <font face="Courier">&amp;</font>)');
+   $mc_macro_processor->add_line('Invoked when macro triggers (<font face="Courier">%</font> or <font face="Courier">&amp;</font>)');
 
 
 my $compiler = NODE->new('Compiler');
@@ -51,10 +51,12 @@ NODE::edge($word_queue, $compiler);
 NODE::edge($compiler, $execution);
 NODE::edge($mc_macro_processor, $input_stack);
 
-NODE::edge($mc_macro_processor, $macro_catalog); # Macro compiliation
+my $macro_compilation = NODE::edge($mc_macro_processor, $macro_catalog);
+   $macro_compilation->label({html=>'Macro compilation'});
 NODE::edge($macro_catalog, $mc_macro_processor);
 
-NODE::edge($mc_macro_processor, $macro_table); # %let foo=42
+my $assignment = NODE::edge($mc_macro_processor, $macro_table);
+   $assignment -> label({html => '%let foo=42'});
 NODE::edge($macro_table, $mc_macro_processor);
 
 
@@ -97,7 +99,8 @@ sub edge {
   my $node_from = shift;
   my $node_to   = shift;
 
-  $graph->edge($node_from->{graphviz}, $node_to->{graphviz});
+  my $edge = $graph->edge($node_from->{graphviz}, $node_to->{graphviz});
+  return $edge;
 
 }
 
