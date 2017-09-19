@@ -37,8 +37,8 @@ my $compiler = NODE->new('Compiler');
 
 my $execution = NODE->new('Execution');
 
-my $macro_catalogue = NODE->new('Macro catalogue');
-   $macro_catalogue->add_line('%macro tq84; ... %mend tq84;');
+my $macro_catalog = NODE->new('Macro catalog');
+   $macro_catalog->add_line('%macro tq84; ... %mend tq84;');
 
 my $macro_table     = NODE->new('Macro table');
    $macro_table->add_line('(&amp;)foo=42<br/>(&amp;)bar=99<br/>');
@@ -51,8 +51,8 @@ NODE::edge($word_queue, $compiler);
 NODE::edge($compiler, $execution);
 NODE::edge($mc_macro_processor, $input_stack);
 
-NODE::edge($mc_macro_processor, $macro_catalogue); # Macro compiliation
-NODE::edge($macro_catalogue, $mc_macro_processor);
+NODE::edge($mc_macro_processor, $macro_catalog); # Macro compiliation
+NODE::edge($macro_catalog, $mc_macro_processor);
 
 NODE::edge($mc_macro_processor, $macro_table); # %let foo=42
 NODE::edge($macro_table, $mc_macro_processor);
