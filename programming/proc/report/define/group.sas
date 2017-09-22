@@ -29,6 +29,6 @@ proc report data=tq84_report;
      define txt1 / group;
      define txt2 / group;
      define txt3 / group;
-     define val  / display;
+     define val  / analysis sum;
      
 run;
