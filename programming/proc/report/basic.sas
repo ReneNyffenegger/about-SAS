@@ -15,7 +15,9 @@ quit;
 
 proc report data=tq84_report;
      where val > 20;
-     
+
+  /* The column statement identifies all variables
+     that are used in the report: */
      column txt val val_sq;
 
      define txt / display;
