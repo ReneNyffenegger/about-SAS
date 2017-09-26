@@ -45,3 +45,34 @@ options nomprint;
    %macro_with_one_parameter(        &text_with_percent     );
    %macro_with_one_parameter(        &text_with_comment     );
    %macro_with_one_parameter(%bquote(&text_with_comma       )); /* Use bquote to prevent "ERROR: More positional parameters found than defined." */
+
+/* ---------------------------------------------- */
+
+%let var = foo;
+
+%let put_var_str      = %str     (data _null_; put "&var"; run;);
+%let put_var_nrstr    = %nrstr   (data _null_; put "&var"; run;);
+%let put_var_quote    = %quote   (data _null_; put "&var"; run;);
+%let put_var_nrquote  = %nrquote (data _null_; put "&var"; run;);
+%let put_var_bquote   = %bquote  (data _null_; put "&var"; run;);
+%let put_var_nrbquote = %nrbquote(data _null_; put "&var"; run;);
+%let put_var_superq   = %superq  (data _null_; put "&var"; run;);
+
+%put &put_var_str;
+%put &put_var_nrstr;
+%put &put_var_quote;
+%put &put_var_nrquote;
+%put &put_var_bquote;
+%put &put_var_nrbquote;
+
+
+%let var = bar;
+
+&put_var_str;
+&put_var_nrstr;
+&put_var_quote;
+&put_var_nrquote;
+&put_var_bquote;
+&put_var_nrbquote;
+
+%unquote(&put_var_bquote);
