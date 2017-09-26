@@ -6,7 +6,8 @@ data _null_;
                        38;  /* 38th second       */
 
                          /* 123456789 123456789 123456789 */
-   put val datetime17. ; /*  04JAN60:16:21:38             */
+   put val datetime19. ; /*  04JAN1960:16:21:38           */
+   put val datetime18. ; /*   04JAN1960:16:21:38          */
    put val datetime16. ; /* 04JAN60:16:21:38              */
    put val datetime15. ; /*   04JAN60:16:21               */
    put val datetime13. ; /* 04JAN60:16:21                 */
