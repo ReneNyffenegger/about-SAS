@@ -1,0 +1,56 @@
+data tq84_dat;
+  do i = 1 to 10;
+     j = 1 ** 2;
+     output;
+  end;
+run;
+
+%let dsid = %sysfunc(open(tq84_dat));
+%put &=dsid ;
+
+%put Is password required to alter data set:             %sysfunc(attrn(&dsid, alterpw     ));
+%put Is number of observations known:                    %sysfunc(attrn(&dsid, anobs       ));
+%put Has observations or variables:                      %sysfunc(attrn(&dsid, any         ));
+%put Is random access supported:                         %sysfunc(attrn(&dsid, arand       ));
+%put Can engine manipulate files:                        %sysfunc(attrn(&dsid, arwu        ));
+%put Is logging to audit file enabled:                   %sysfunc(attrn(&dsid, audit       ));
+%put Are after update record images stored:              %sysfunc(attrn(&dsid, audit_data  ));
+%put Are before update record images stored:             %sysfunc(attrn(&dsid, audit_before));
+%put Are unsuccessful after-update record images stored: %sysfunc(attrn(&dsid, audit_error ));
+%put Datetime  f creation of dataset:                    %sysfunc(attrn(&dsid, crdte       ));
+%put What and which referential integrity constraints:   %sysfunc(attrn(&dsid, iconst      ));
+%put Is indexing supported:                              %sysfunc(attrn(&dsid, index       ));
+%put Is data set indexed:                                %sysfunc(attrn(&dsid, isindex     ));
+%put Is where clause actrive (is dataset a subset):      %sysfunc(attrn(&dsid, issubset    ));
+%put Logical record length:                              %sysfunc(attrn(&dsid, lrecl       ));
+%put Lenght of record id:                                %sysfunc(attrn(&dsid, lrid        ));
+%put Maximum number of generation:                       %sysfunc(attrn(&dsid, maxgen      ));
+%put Does application check return codes:                %sysfunc(attrn(&dsid, maxrc       ));
+%put Datetime of modification of data set:               %sysfunc(attrn(&dsid, modte       ));
+%put Number of observations marked for deletion:         %sysfunc(attrn(&dsid, ndel        ));
+%put Next generation number:                             %sysfunc(attrn(&dsid, nextgen     ));
+%put Number of logical observations:                     %sysfunc(attrn(&dsid, nlobsf      ));
+%put Number of physical observations:                    %sysfunc(attrn(&dsid, nobs        ));
+%put Number of variables:                                %sysfunc(attrn(&dsid, nvars       ));
+%put Is password required to access data set:            %sysfunc(attrn(&dsid, pw          ));
+%put Is data set radix accessible:                       %sysfunc(attrn(&dsid, radix       ));
+%put Is password required to read data set:              %sysfunc(attrn(&dsid, readpw      ));
+%put Is a sequential file:                               %sysfunc(attrn(&dsid, tape        ));
+%put Kind of active where clauses:                       %sysfunc(attrn(&dsid, whstmt      ));
+%put Is password required to write data set:             %sysfunc(attrn(&dsid, writepw     ));
+
+%put Charset of data set:                                %sysfunc(attrc(&dsid, charset     ));
+%put Is data set encrypted:                              %sysfunc(attrc(&dsid, encrypt     ));
+%put Engine that accessed data set:                      %sysfunc(attrc(&dsid, engine      ));
+%put Label assigned to data set:                         %sysfunc(attrc(&dsid, label       ));
+%put Libref of library in which data set is:             %sysfunc(attrc(&dsid, lib         ));
+%put Data set name:                                      %sysfunc(attrc(&dsid, mem         ));
+%put Mode in which data set was opened:                  %sysfunc(attrc(&dsid, mode        ));
+%put Library member type:                                %sysfunc(attrc(&dsid, mtype       ));
+%put BY what is data set sorted:                         %sysfunc(attrc(&dsid, sortedby    ));
+%put How was data set sorted:                            %sysfunc(attrc(&dsid, sortlvl     ));
+%put Name of collating sequence used for sorting:        %sysfunc(attrc(&dsid, sortseq     ));
+%put Type of data set:                                   %sysfunc(attrc(&dsid, type        ));
+
+%let rc = %sysfunc(close(&dsid));
+%put &=rc;
