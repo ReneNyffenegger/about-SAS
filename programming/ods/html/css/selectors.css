@@ -1,0 +1,35 @@
+body {
+  background-color: #ffffff;
+}
+
+.table {
+  background-color: #ffffff;
+  border-collapse: collapse;
+  border: 2px solid black;
+  border-spacing: 5px;
+}
+
+
+th.header,
+th.rowheader,
+td.header,
+td.Data     {
+  border: 1px solid black;
+  padding: 6px;
+}
+
+
+td.Data {
+  font-family: Courier New, monospace;
+}
+
+
+th.rowheader {
+  background-color: #22ffff;
+}
+
+
+th.header {
+  background-color: yellow;
+  border: 1px solid black;
+}
