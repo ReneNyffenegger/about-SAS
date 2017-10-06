@@ -1,7 +1,7 @@
 /*     Calling an Oracle function from SAS     */
 
 /*     Specify Oracle user, password and server: */
-%let ora_user     = sasdba;
+%let ora_user     = rene;
 %let ora_password = secret_garden;
 %let ora_server   = ora.test.renenyffenegger.ch;
 
