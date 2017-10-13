@@ -11,7 +11,7 @@ proc printto
   /* Redirect output to print.txt and log.txt */
      print = "&printto_path\print.txt"
      log   = "&printto_path\log.txt"
-     new;
+     new;   /* new: force creation of new file rather than appending to existing one */
 run;
 
 
