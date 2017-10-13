@@ -1,3 +1,5 @@
+filename pw 'p:\ath\to\file\to\create\password';
+
 proc pwencode
      in  = 'secretGarden'
 /*   
