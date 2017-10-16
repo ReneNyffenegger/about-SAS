@@ -62,7 +62,6 @@ DATA _null_;
   %p(SYSRC);
   %p(SYSSCP);
   %p(SYSSCPL);
-  %p(SYSSCPL);
   %p(SYSSITE);
   %p(SYSSIZEOFLONG);
   %p(SYSSIZEOFPTR);
