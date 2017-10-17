@@ -10,8 +10,8 @@ proc sql;
   where  libname = 'TQ84_LIB';
 quit;
 
-proc datasets;
-     library=tq84_lib
+proc datasets
+     library = tq84_lib;
      delete member_one member_three; /* remove some members/data sets from the library. */
 run;
 
