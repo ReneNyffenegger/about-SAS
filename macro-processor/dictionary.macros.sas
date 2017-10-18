@@ -1,6 +1,12 @@
-%let tq84 = 'Hello world';
+%let tq84_macro_var = Hello world;
 
 proc sql;
-  select * from dictionary.macros
-  where name = 'TQ84';
+  select
+    scope,  /* GLOBAL, LOCAL ?...         */
+    offset, /* Offset into macro variable */
+    value
+  from
+    dictionary.macros
+  where
+    name = 'TQ84_MACRO_VAR';
 quit;
