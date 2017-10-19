@@ -6,4 +6,4 @@
 
 %let t_diff = %sysevalf(&t1 - &t0);
 
-%put Slept %sysfunc(putn(&t_diff, time7.5)); /* Slept 0:00:03 */
+%put Slept %sysfunc(putn(&t_diff, time13.4)); /* Slept  0:00:03.1449 */
