@@ -1,7 +1,8 @@
 %macro tq84_cat;
-  %put in tq84_cat;
+   %put in tq84_cat;
 
-  %let result = %sysfunc(dequote(&p1)) %sysfunc(dequote(&p2));
+/* Note the dequote here. */
+   %let result = %sysfunc(dequote(&p1)) %sysfunc(dequote(&p2));
 %mend  tq84_cat;
 
 proc fcmp outlib=work.funcs.tq84;
