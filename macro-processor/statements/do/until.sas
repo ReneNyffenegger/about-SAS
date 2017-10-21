@@ -8,7 +8,9 @@
       %let i = %eval(&i + 1);
   %end;
 
-%mend  tq84_do_until; 
+%mend  tq84_do_until;
+
+%tq84_do_until
 /*
 i = 1
 i = 2
