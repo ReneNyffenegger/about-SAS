@@ -17,4 +17,4 @@ options cmplib=work.funcs;
 
 %put result = &result;                               /* result = &result      */
 %put callMacro returned %sysfunc(callMacro(39, 3));  /* callMacro returned 42 */
-%put result = &result;                               /* result = &result     */
+%put result = &result;                               /* result = &result      */
