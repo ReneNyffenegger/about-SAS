@@ -6,9 +6,9 @@
 %mend  doubleToHex;
 
 data _null_;
-  %doubleToHex(0.0)
-  %doubleToHex(1.0)
-  %doubleToHex(2.0)
-  %doubleToHex(0.5)
-  %doubleToHex(1.5)
+  %doubleToHex(0.0) /* 0  = 0000000000000000 */
+  %doubleToHex(1.0) /* 1  = 000000000000F03F */
+  %doubleToHex(2.0) /* 2  = 0000000000000040 */
+  %doubleToHex(0.5) /* 0.5  = 000000000000E03F */
+  %doubleToHex(1.5) /* 1.5  = 000000000000F83F */
 run;
