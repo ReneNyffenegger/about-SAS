@@ -89,9 +89,7 @@
 %macro tq84_arrayApply(array, funcref);
     
     %local macroName;
-    %put   tq84_arrayApply macroName 1: &macroName;
     %let   macroName = %tq84_createMacro_M(&funcref, this);
-    %put   tq84_arrayApply macroName 2: &macroName;
 
     %local i;
     %do i = 1 %to &&&array.s;
@@ -102,7 +100,6 @@
 
 
 %macro tq84_arrayMap(array, funcref);
-
  
   %local macroNameAM;
   %let   macroNameAM = %tq84_createMacro_M(&funcref, this);
