@@ -122,3 +122,23 @@
   &ret
 
 %mend  tq84_arrayMap;
+
+
+%macro tq84_arrayJoin(array, delim=%str( ));
+   
+   %local ret;
+   %local i;
+
+   %do i = 1 %to %tq84_arrayLength(&array);
+
+      %if &i > 1                         %then %do;
+          %let ret = &ret&delim;
+      %end;
+
+      %let ret = &ret%tq84_arrayGetVal(&array, &i);
+
+   %end;
+  
+   &ret
+
+%mend tq84_arrayJoin;
