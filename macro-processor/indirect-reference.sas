@@ -1,10 +1,8 @@
-%let Forty_two=42;
-%let number=Forty_two;
+%let fourty_two = 42;
+%let number     = fourty_two;
 
-%put &number is &&&number;
-/*
-  Forty_two is 42
-*/
+%put The number &number is  &&number; /* The number fourty_two is  fourty_two */
+%put The number &number is &&&number; /* The number fourty_two is 42          */
 
 * ------------------- ;
 
@@ -19,7 +17,4 @@
 %let lang=french;
 %let num=two;
 
-%put In &lang, &num is &&&lang&num;
-/*
-   In french, two is deux
-*/
+%put In &lang, &num is &&&lang&num; /* In french, two is deux */
