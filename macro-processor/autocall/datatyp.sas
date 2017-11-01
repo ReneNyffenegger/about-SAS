@@ -1,4 +1,4 @@
-/* %datatyp returs either NUMERIC or CHAR */
+/* %datatyp returns either NUMERIC or CHAR */
 
 data _null_;
 
