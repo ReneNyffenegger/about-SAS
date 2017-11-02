@@ -41,7 +41,7 @@ options
 %tq84_CompiledMacro
 
 
-/* Since the 'souce' options was specified when
+/* Since the 'source' options was specified when
    the macro was compiled, the source of the
    macro can be views with the copy statement: */
 %copy tq84_CompiledMacro /source; 
