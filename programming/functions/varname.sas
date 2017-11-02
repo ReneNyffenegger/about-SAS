@@ -1,19 +1,20 @@
-data _null_;
+%macro tq84_dataSetVarNames(ds);
 
-  foo   = 10;
-  bar   =  2;
-  baz   =  7;
+  %local varList;
 
-  array ary{*} foo bar baz;
-  
-  do i = 1 to dim(ary);
-     var_name=vname(ary{i});
-     put "Variable name " i "= " var_name;
-  end;
+  %let fid = %sysFunc(open(&ds));
 
-run;
-/*
-Variable name 1 = foo
-Variable name 2 = bar
-Variable name 3 = baz
-*/
+  %if &fid %then %do;
+      %do i=1 %to %sysFunc(attrn(&fid, nvars));
+          %let varList = &varList %sysFunc(varName(&fid, &i));
+      %end;
+
+      %let fid = %sysFunc(close(&fid));
+  %end;
+
+  &varList;
+
+%mend tq84_dataSetVarNames;
+
+
+%put %tq84_dataSetVarNames(tq84_ds); /* foo bar baz num */
