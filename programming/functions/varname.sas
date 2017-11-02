@@ -8,12 +8,12 @@ data _null_;
   
   do i = 1 to dim(ary);
      var_name=vname(ary{i});
-     put "var_name i = " var_name;
+     put "Variable name " i "= " var_name;
   end;
 
 run;
 /*
-var_name i = foo
-var_name i = bar
-var_name i = baz
+Variable name 1 = foo
+Variable name 2 = bar
+Variable name 3 = baz
 */
