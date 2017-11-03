@@ -20,5 +20,9 @@ libname tq84_ora
 
 
 data dual;
-  set tq84_ora.dual;
+  set tq84_ora.dual (schema=sys);
 run;
+/*
+ORACLE_4: Prepared: on connection 37
+SELECT * FROM sys.DUAL
+*/
