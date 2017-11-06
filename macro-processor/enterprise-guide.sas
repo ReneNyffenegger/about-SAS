@@ -1,0 +1,12 @@
+%put Client application name: &_clientapp;
+%put Client machine name:     &_clientmachine;
+%put Project name:            &_clientprojectname;
+%put Project path:            &_clientprojectpath;
+%put Task filter:             &_clienttaskfilter;
+%put Task label:              &_clienttasklabel;
+%put User id of client:       &_clientuserid;
+%put Username of client:      &_clientusername;
+%put EG version:              &_clientversion;
+%put SAS host:                &_sashostname;
+%put SAS program being run:   &_sasprogramfile;
+%put SAS server:              &_sasservername;
