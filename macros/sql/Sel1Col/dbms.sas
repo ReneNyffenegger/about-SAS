@@ -1,4 +1,4 @@
- %macro tq84_sqlDBMSSel1Col_M;
+%macro tq84_sqlDBMSSel1Col_M;
 
    %let   dbmsLib=%sysfunc(dequote(&dbmsLib));
    %let   stmt   =%sysfunc(dequote(&stmt   ));
@@ -36,3 +36,7 @@ proc fcmp outlib=work.funcs.tq84;
 run;
 
 options cmplib=work.funcs;
+
+%macro tq84_sqlDBMSSel1Col(dbmsLib, stmt);
+   %sysfunc(tq84_sqlDBMSSel1Col_F(&dbmsLib, &stmt))
+%mend  tq84_sqlDBMSSel1Col;
