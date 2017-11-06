@@ -55,7 +55,7 @@ proc sql;
 
    insert into tq84_ora.tq84_date_insert_test
    select 2,
-          dhms(d, 0, 0, 0), /* Oracle wants datetime's not dates, so we convert the date to a dateime */
+          dhms(d, 0, 0, 0), /* Oracle wants datetimes not dates, so we convert the date to a dateime */
           dt
    from   tq84_src;
 
