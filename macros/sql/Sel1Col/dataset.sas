@@ -30,3 +30,7 @@ proc fcmp outlib=work.funcs.tq84;
 run;
 
 options cmplib=work.funcs;
+
+%macro tq84_sqlDataSetSel1Col(stmt);
+   %sysfunc(tq84_sqlDataSetSel1Col_F(&stmt))
+%mend  tq84_sqlDataSetSel1Col;
