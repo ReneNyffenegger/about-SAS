@@ -1,4 +1,3 @@
-
 data tq84_dir_sel_test;
      col_one = 'abc'; col_two = 42; col_three = '28aug17'd; output;
      col_one = 'def'; col_two = 99; col_three = '13sep13'd; output;
