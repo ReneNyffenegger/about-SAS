@@ -11,10 +11,16 @@ libname tq84_ora
    db_length_semantics_byte = no;
 
 
-%let tables = %sysfunc(tq84_sqlDBMSSel1Col_F(tq84_ora, %nrstr(select table_name from user_tables)));
+%let tables = %tq84_sqlDBMSSel1Col(tq84_ora, %nrstr(select table_name from user_tables));
 /*%put tables=&tables;*/
 
 %let tablesArray = %tq84_array(&tables);
 %tq84_arrayApply(&tablesArray, %nrstr(
   %put table = &this;
 ))
+
+
+%put sysdate on Oracle is
+     %tq84_sqlDBMSSel1Col(tq84_ora,
+          select to_char(sysdate, 'dd.mm.yyyy hh24:mi:ss') from dual
+     );
