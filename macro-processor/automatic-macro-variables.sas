@@ -42,7 +42,7 @@ DATA _null_;
   %p(SYSHOSTNAME);
   %p(SYSINDEX);
   %p(SYSINFO);
-  %p(SYSJOBID);
+  %p(SYSJOBID);          /* The PID (process identifier) of the unix process */
   %p(SYSLAST);
   %p(SYSLCKRC);
   %p(SYSLIBRC);
