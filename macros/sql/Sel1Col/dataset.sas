@@ -16,7 +16,7 @@
 %mend  tq84_sqlDataSetSel1Col_M;
 
 
-proc fcmp outlib=work.funcs.tq84;
+proc fcmp outlib=tq84_lib.funcs.tq84;
   function tq84_sqlDataSetSel1Col_F(stmt$) $ 32767;
 
     length tq84_sqlDataSetSel1Col_VAR $32767;
@@ -29,7 +29,7 @@ proc fcmp outlib=work.funcs.tq84;
   endsub;
 run;
 
-options cmplib=work.funcs;
+options cmplib=tq84_lib.funcs;
 
 %macro tq84_sqlDataSetSel1Col(stmt);
    %sysfunc(tq84_sqlDataSetSel1Col_F(&stmt))
