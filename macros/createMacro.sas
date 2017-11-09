@@ -1,4 +1,6 @@
-proc fcmp outlib=work.funcs.tq84;
+libname tq84_lib "&tq84_sasDir.tq84_lib";
+
+proc fcmp outlib=tq84_lib.funcs.tq84;
   subroutine tq84_createMacro_F(prog$, name$, params$);
     call execute(cat(
        '%macro ', name, '(', params, ');',
@@ -8,7 +10,7 @@ proc fcmp outlib=work.funcs.tq84;
   endsub;
 run;
 
-options cmplib=work.funcs;
+options cmplib=tq84_lib.funcs;
 
 %macro tq84_createMacro_M(funcref, params);
 
