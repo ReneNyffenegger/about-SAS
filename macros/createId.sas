@@ -1,7 +1,8 @@
-%let   tq84_idCounter = 0;
+%global tq84_idCounter;
+%let    tq84_idCounter = 0;
+
 %macro tq84_createId(prefix);
 
-   %global tq84_idCounter;
    %local  idRet;
 
    %let  idRet = &prefix&tq84_idCounter._;
