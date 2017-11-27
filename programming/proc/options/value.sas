@@ -1,6 +1,6 @@
 proc options
      option = cmplib value;
-quit;
+run;
 /* Log:
 
 Option Value Information For SAS Option CMPLIB
@@ -11,7 +11,7 @@ Option Value Information For SAS Option CMPLIB
 
 proc options
      option = work value;
-quit;
+run;
 /* Log:
 
 Option Value Information For SAS Option WORK
