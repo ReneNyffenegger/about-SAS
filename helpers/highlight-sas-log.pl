@@ -61,7 +61,7 @@ while (my $line = <>) {
      $in_warning = 0;
      $in_error   = 1;
   }
-  elsif ( $line =~ s/^(\d+)(\w+)(.*)/${lineno}$1$2${cmd}$3$nocolor/ ) {}
+  elsif ( $line =~ s/^(\d+)(\s+)(.*)/${lineno}$1$2${cmd}$3$nocolor/ ) {}
   else  {
 
      if ($in_note) {
