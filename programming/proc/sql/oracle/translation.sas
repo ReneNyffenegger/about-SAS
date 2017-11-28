@@ -1,8 +1,6 @@
 %let ora_user     = rene;
 %let ora_password = secret_garden;
 %let ora_server   = ora.renenyffenegger.ch;
-*/
-
 
 libname tq84_ora
    oracle 
@@ -30,10 +28,7 @@ quit;
 options
   sastrace    =  ',,,d'
   sastraceloc =  saslog;
-
-
-       /*    dt_3  eq  date '2017-11-23' and  does not work ! */
-
+  
 data tq84_dat_1;
   set tq84_ora.tq84_tab;
   where
