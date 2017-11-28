@@ -15,16 +15,15 @@
 
 %mend  tq84_sqlDataSetSel1Col_M;
 
-
 proc fcmp outlib=tq84_lib.funcs.tq84;
   function tq84_sqlDataSetSel1Col_F(stmt$) $ 32767;
 
     length tq84_sqlDataSetSel1Col_VAR $32767;
    
-        rc = run_macro('tq84_sqlDataSetSel1Col_M', stmt, tq84_sqlDataSetSel1Col_VAR);
+    rc = run_macro('tq84_sqlDataSetSel1Col_M', stmt, tq84_sqlDataSetSel1Col_VAR);
 
-        if rc = 0 then return (tq84_sqlDataSetSel1Col_VAR);
-        return(cat(' rc = ', rc));
+    if rc = 0 then return (tq84_sqlDataSetSel1Col_VAR);
+    return(cat(' rc = ', rc));
 
   endsub;
 run;
