@@ -1,3 +1,5 @@
+%let tq84_sasDir = /share/home/tq84/sas/;
+
 libname tq84_lib "&tq84_sasDir.tq84_lib";
 
 proc fcmp outlib=tq84_lib.funcs.tq84;
