@@ -21,6 +21,7 @@
 
 %mend  tq84_sqlDBMSSel1Col_M;
 
+%put dbms.sas two;
 
 proc fcmp outlib=tq84_lib.funcs.tq84;
   function tq84_sqlDBMSSel1Col_F(dbmsLib$, stmt$) $ 32767;
@@ -35,8 +36,14 @@ proc fcmp outlib=tq84_lib.funcs.tq84;
   endsub;
 run;
 
+%put dbms.sas three;
+
 options cmplib=tq84_lib.funcs;
+
+%put dbms.sas four;
 
 %macro tq84_sqlDBMSSel1Col(dbmsLib, stmt);
    %sysfunc(tq84_sqlDBMSSel1Col_F(&dbmsLib, &stmt))
 %mend  tq84_sqlDBMSSel1Col;
+
+%put dbms.sas five;
