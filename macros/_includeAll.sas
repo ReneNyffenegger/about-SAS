@@ -10,3 +10,4 @@
 %include "&tq84_macrosRoot.sql/Sel1Col/dbms.sas";
 %include "&tq84_macrosRoot.members.sas";
 %include "&tq84_macrosRoot.filesInDirectory.sas";
+%include "&tq84_macrosRoot.opt.sas";
