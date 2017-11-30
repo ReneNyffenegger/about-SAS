@@ -1,22 +1,36 @@
+data num_english;
+     length txt $20.;
+     num=1; txt='one'  ; output;
+     num=2; txt='two'  ; output;
+     num=3; txt='three'; output;
+     num=5; txt='five' ; output;
+run;
+
+data num_german;
+     length txt $20.;
+     num=1; txt='eins' ; output;
+     num=3; txt='drei' ; output;
+     num=4; txt='vier' ; output;
+     num=5; txt='fünf' ; output;
+run;
+
 proc sql;
-  
-  create table a (id num, txt char(10));
-  create table b (id num, txt char(10));
-
-  insert into a values (1, 'one' );
-  insert into a values (2, 'two' );
-  insert into a values (4, 'four');
-
-  insert into b values (2, 'II'  );
-  insert into b values (3, 'III' );
-  insert into b values (5, 'V'   );
-
   select
-    coalesce(a.id, b.id) as id,
-    a.txt,
-    b.txt
+    coalesce(en.num, gr.num) as num,
+    en.txt as txt_en,
+    gr.txt as txt_fr
   from
-    a full outer join
-    b on a.id = b.id;
-
+    num_english en full outer join
+    num_german  gr on en.num = gr.num
+      /* using(num) -> The using clause is not supported */
+    ;
 quit;
+/*
+     num  txt_en                txt_fr
+----------------------------------------------------
+       1  one                   eins
+       2  two
+       3  three                 drei
+       4                        vier
+       5  five                  fünf
+*/
