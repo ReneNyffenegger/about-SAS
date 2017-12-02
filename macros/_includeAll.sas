@@ -11,3 +11,4 @@
 %include "&tq84_macrosRoot.members.sas";
 %include "&tq84_macrosRoot.filesInDirectory.sas";
 %include "&tq84_macrosRoot.opt.sas";
+%include "&tq84_macrosRoot.shellCmd.sas";
