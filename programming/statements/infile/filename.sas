@@ -8,7 +8,7 @@ data tq84_ts;
    ge  $
  ;
 
-;
+run;
 
 proc print data=tq84_ts;
 run;
