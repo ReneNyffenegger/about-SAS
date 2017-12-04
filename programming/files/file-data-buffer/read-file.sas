@@ -30,7 +30,7 @@ data _null_;
    the end of a line: */
    %checkRC(%str(fsep(fil, 'a', 'x')))
 
-/* Initialize the varialbe that will store the line read: */
+/* Initialize the variable that will store the line read: */
    line = repeat(' ', 200);
 
 /* Read the five lines in /tmp/tq84.txt: */
