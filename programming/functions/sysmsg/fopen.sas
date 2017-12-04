@@ -5,6 +5,10 @@ data _null_;
   if f eq 0 then do;
      reason = sysmsg();
      put 'Could not open file for reading.';
-     put 'Reason ' reason;
+     put 'Reason: ' reason;
   end;
 run;
+/*
+Could not open file for reading.
+Reason: ERROR: Physical file does not exist /file/that/does/not/exist
+*/
