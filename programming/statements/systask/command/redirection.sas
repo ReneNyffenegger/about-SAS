@@ -8,3 +8,8 @@ systask command "cat &dest"  wait;
 systask command "bash -c '&cmd'" wait;
 systask command "cat &dest"      wait;
 /* > abc def thi */
+
+systask command "rm &dest"       wait;
+systask command "&cmd"           wait shell='bash';
+systask command "cat &dest"      wait;
+/* > abc def thi */
