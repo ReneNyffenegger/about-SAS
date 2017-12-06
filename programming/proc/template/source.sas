@@ -1,0 +1,3 @@
+proc template;
+     source;
+run;
