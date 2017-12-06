@@ -1,0 +1,1493 @@
+ABSCOL              MDCLASS    
+ABSCOL              MDCLH      
+ABSEXT              MDCLASS    
+ABSEXT              MDCLH      
+ABSGROUP            MDCLASS    
+ABSGROUP            MDCLH      
+ABSTRCTJ            MDCLASS    
+ABSTRCTJ            MDCLH      
+ABSTRCTP            MDCLASS    
+ABSTRCTP            MDCLH      
+ACCENTRY            MDCLASS    
+ACCENTRY            MDCLH      
+ACCSMODL            SASDESK   Model class for Access Descriptors.
+ACCSOBJ             SASDESK   Controller class for Access Descriptors
+ACCSSCN0            MDCLASS    
+ACCSSCN0            MDCLH      
+ACCSSCNT            MDCLASS    
+ACCSSCNT            MDCLH      
+ACLADMIN            MB        Access Control Administration Class
+ACLDISP             EISSRV    Access Control Display Class
+ACLMAIN             MB        Access Control Query Class
+ACLSERV             EISSRV    Access Control Server
+ACLSERV             MB        Access Control Server
+ACOMBO              AFCLASS   Color Group Combo Box
+ADD                 PRDAUTH   ADD.CLASS
+ADDLIBWZ            SCM       Add a LIB or CAT Wizard
+ADDOLAP             OPNMDDB   ADDOLAP.CLASS
+ADMPAGE             SCM       Parent Class for SCM Adm wizard pages
+ADM_WIZ             SCM       SCM Administrator Wizard
+ADODATA             SASDESK   ADO Application dataset support class
+ADSINFO             AFTOOLS   Diagnostic class for AppDevStudio
+ADVANCED            EISSRV    Wizard page for Advanced options
+AFCLASS             FSP       AF Application Class
+AFCONTROL           CLASSES   AF Control
+AFSUBMIT            RSASMOD   model class for submitting program text
+AFSUBMIT            RSCLMOD   AFSUBMIT.CLASS
+AFTESTTYPES         IOMSAMP    
+AFTESTTYPESPROXY    IOMSAMP    
+AGENT               CONNECT   AGENT.CLASS
+AGGREGAT            MDCLASS    
+AGGREGAT            MDCLH      
+AGGRGTSS            MDCLASS    
+AGGRGTSS            MDCLH      
+ALIASED             SCM       SCM: Edit Alias Definitions
+ALTATTRCOMPOSITE    FSP       PW Composite shown for nonPW instances.
+AMODEL              ROCFSMP   AMODEL.CLASS
+AMSGMGR             FSP       AMSGMGR.CLASS
+ANLYTCCL            MDCLASS    
+ANLYTCCL            MDCLH      
+ANLYTCTB            MDCLASS    
+ANLYTCTB            MDCLH      
+ANNOBOX             MARKET    ANNOTATE BOX plot and BAR chart class
+APP                 MDCLASS    
+APP                 MDCLH      
+ARCHVFL             MDCLASS    
+ARCHVFL             MDCLH      
+ARCHVNTR            MDCLASS    
+ARCHVNTR            MDCLH      
+ARRAY               ROCFSMP   SASHELP.ROCFSMP.ARRAY.CLASS
+ARROWBOX            AFTOOLS   Navigational Arrows
+ASSCTNPR            MDCLASS    
+ASSCTNPR            MDCLH      
+ASSOC               OBJPH     as CMR Association Class
+ASSOC               OBJPOOL    
+ASSOCMGR            OBJPH     am CMR Association Manager Class
+ASSOCMGR            OBJPOOL    
+ASTAPPL             SASDESK   Assist Application
+ASTMSG              FSP       Assist/EIS MSG Class
+ASTMSG              WEBUTIL   Messaging class
+AT                  MDCLASS    
+AT                  MDCLH      
+ATRCNTRL            FSP       control object for v7
+ATRFRAME            FSP       Frame subclass for v7 CE/PS/IE
+ATRLISTM            FSP       CAF: Parent List Model for v7
+ATRTAB              FSP       Table Editor Subclass for v7 CE/PW/IE.  (Child within tabviewr.class)
+ATRTREE             FSP       Parent tree subclass for v7 CE/PS/IE
+ATTPROP             MDCLASS    
+ATTPROP             MDCLH      
+ATTRDCT             OBJPH     ad CMR Attribute Dictionary Class
+ATTRDCT             OBJPOOL    
+ATTRDICT            MB        Attribute dictionary class (repos ver)
+ATTREXTN            OBJPH     ae CMR Attribute Extension Class
+ATTREXTN            OBJPOOL    
+ATTRIBUT            OBJPH     at CMR Attribute Class
+ATTRIBUT            OBJPOOL    
+ATTRIBUTECHANGEDEVENCLASSES   Attribute Changed Event Class
+AUTHDOM             MDCLASS    
+AUTHDOM             MDCLH      
+AUTHENTICATE        FSP       Verify username/password with host
+AUXPRCS             MDCLASS    
+AUXPRCS             MDCLH      
+BANNER_C            GNG       Text banner class for charts
+BASE                CMRGEN    Base V7 Class for OBJPOOL
+BAZ                 ROCFSMP   BAZ.CLASS
+BCOMBO              AFCLASS   Color Group Combo w/Colorlist
+BINDERY             IOM       BINDERY.CLASS allows external object creation
+BIPLOT              MARKET    BIPLOT.CLASS
+BLOCK               FSP       Block
+BMODEL              ROCFSMP   BMODEL.CLASS
+BOOK                FSP       Book
+BOOKMARK            RSASMOD   BOOKMARK.CLASS
+BOOKMARK            RSCLMOD   BOOKMARK.CLASS
+BUFFER              CLASSES   Buffer Class
+BUSINESS_GRAPH_C    CLASSES   Business Graph Control
+BUSPIE              AFCLASS   Pie options for business object
+BUSREF              AFCLASS   EIS: Business Charts ref lines info
+CALLBACK            ROCFSMP   CALLBACK.CLASS
+CAMSG               AFTOOLS   SCL Coverage Analyzer Note
+CASCDVNT            MDCLASS    
+CASCDVNT            MDCLH      
+CASHFLOW_C          INVEST    Cash Flow Graphics Control
+CASHFLOW_M          INVEST    Cash Flow Model Class
+CASSOC              OBJPH     ca CMR Class Associations Class
+CAT                 SASDESK   Model class for catalog ptrs in folders
+CATALOG             AFCLASS   CATALOG.CLASS
+CATALOG             FSP       SAS Catalog Class
+CATALOG             MDCLASS    
+CATALOG             MDCLH      
+CATALOGA            AFCLASS   gencombo workarea catalog class
+CATALOGENTRYLIST_C  CLASSES   Catalog Entry List Model
+CATALOGENTRYSELECTORCLASSES   Catalog Entry Selector Control
+CATALOGENTRYVIEWER_CCLASSES   Catalog Entry Viewer Control
+CATALOGLIST_C       CLASSES   Catalog List Model
+CATALOGNODE         RSASMOD   Catalog Server Node Class
+CATATT              MDCLASS    
+CATATT              MDCLH      
+CATENTDE            FSP       Catalog Entry
+CATENTRY            FSP       SAS Catentry Class
+CATENTRY            MDCLASS    
+CATENTRY            MDCLH      
+CATFEED             SASDESK   Feeder cls for SAS catalogs
+CATHIER             MDCLASS    
+CATHIER             MDCLH      
+CATMEM              MDCLASS    
+CATMEM              MDCLH      
+CATMODEL            SASDESK   Subclass of SAS catalog class
+CATOBJ              SASDESK   Controller class for catalogs
+CATVIEW             FSP       Catalog Entry Viewer
+CCNCTION            MDCLASS    
+CCNCTION            MDCLH      
+CCOLUMN             MDCLASS    
+CCOLUMN             MDCLH     cc CMR CCOLUMN.CLASS
+CEATTR_M            FSP       CAF: Model for Class Editor attributes
+CEEVNT_M            FSP       CAF: Model for Class Editor Events
+CEHDLR_M            FSP       CAF: Model for Class Editor Handlers
+CEIFCE_M            FSP       CAF: Model for Class Editor Interfaces
+CEMAIN              FSP       Main composite for v7 Class Editor
+CEMETH_M            FSP       CAF: Model class used for methods at v7
+CETREE              FSP       Tree Subclass for v7 Class Editor
+CFRREP              OBJPOOL   Copy Mgmt From Repository Manager
+CHANGE              MDCLASS    
+CHANGE              MDCLH      
+CHARFORMAT          CLASSES   Character Format Component
+CHART_C             CLASSES   Chart Control
+CHAT                ROCFSMP   CHAT.CLASS
+CHECKBOX            FSP       Check Box
+CHECKBOX_C          CLASSES   Check Box Control
+CHNGNF              MDCLASS    
+CHNGNF              MDCLH      
+CHNGSR              MDCLASS    
+CHNGSR              MDCLH      
+CINTRO              OBJPOOL   Copy Mgmt Intro. page
+CJBOX               MARKET    Conjoint Relative Importance plot
+CLASS               FSP       Class objects
+CLASSDOC            AFTOOLS   GenDoc Class Document Object
+CLASSDOCHTML        AFTOOLS   GenDoc Class HTML Document Object
+CLASSLOC            AFTOOLS   ClassDoc HELPLOC Detection Object
+CLASSOC             MDCLASS    
+CLASSOC             MDCLH      
+CLISTM              OBJPOOL   Subclass of SASHELP LISTM class
+CLSIFIER            MDCLASS    
+CLSIFIER            MDCLH      
+CMAP                MDCLASS    
+CMAP                MDCLH      
+CMDBAR              SASDESK   Command toolbar
+CMODEL              ROCFSMP   CMODEL.CLASS
+CMPCATALOGS         CMP       Find all FUNDCL Catalogs based on the SAS Libaries
+CMPSUB              CMP       CMP Methods Class
+CNCTION             CONNECT   CNCTION.CLASS
+CNCTION             MDCLASS    
+CNCTION             MDCLH      
+CNTAINER            OBJPH     cn CMR Persistent Container
+CNTAINER            OBJPOOL    
+COLATTRS            FSP        
+COLLECTION          CLASSES   Collection Class
+COLLECTION          FSP       Collection
+COLLECTN            OBJPOOL   Simple Data Store Container
+COLMNRNG            MDCLASS    
+COLMNRNG            MDCLH      
+COLOR               AFCLASS   COLOR.CLASS
+COLORLIST_C         CLASSES   Color List Model
+COLORS              AFCLASS   Colors Class for graphics
+COLORSEL            AFCLASS   Color Selector
+COLORSET            AFCLASS   Color Palette Base Class
+COLORSWA            AFCLASS   Color push button
+COLSET              MDCLASS    
+COLSET              MDCLH      
+COLUMN              MDCLASS    
+COLUMN              MDCLH     cl CMR Column Class
+COLUMNNODE          RSASMOD   Column Server Node Class
+COLUMNPROPERTIES    CLASSES   Column Properties Class
+COLUMNPROPERTIES_TYPCLASSES   ColumnProperties_Type
+COLUMNS             EISSRV    wizard page for Columns
+COLUMNSNODE         RSASMOD   Columns Server Node Class
+COMBO               AFCLASS   Combo Box
+COMBO               DBIIMEX   Composite control: Combo and DDL boxes
+COMBOBOX_C          CLASSES   Combo Box Control
+COMCONN             MDCLASS    
+COMCONN             MDCLH      
+COMM                FSP       Assist/EIS Communications Class
+COMMAND             SASDESK   COMMAND.CLASS
+COMMONMD            OBJPH     cm CMR Common Metadata Object Classes
+COMMONMD            OBJPOOL    
+COMPCOLS            AFCLASS   Computed Columns
+COMPCOLS            MB        Computed Columns
+COMPDEF             FSP       Composite Definition FRAME
+COMPONENTTREENODE   CLASSES   ComponentNode.class
+COMPOSIT            FSP       Composite
+COMPROX             IOM        
+CONDTNLP            MDCLASS    
+CONDTNLP            MDCLH      
+CONFGRDC            MDCLASS    
+CONFGRDC            MDCLH      
+CONTAINERBOX_C      CLASSES   Container Box Control
+CONTAINR            FSP       Container Box
+CONTNTLC            MDCLASS    
+CONTNTLC            MDCLH      
+CONTNTTY            MDCLASS    
+CONTNTTY            MDCLH      
+CONTROL             FSP       Control Object
+CONTSUB             AFCLASS   CONTSUB.CLASS
+CORRPLOT            ETSTOOL   Correlation Plots
+CREPLST             OBJPOOL   Copy Mgmt From Repository list
+CRON                MDCLASS    
+CRON                MDCLH      
+CROSSES             EISSRV    Crossings for an MDDB
+CROSSING            MDCLASS    
+CROSSING            MDCLH      
+CROSSINGS           EISSRV    Wizard page for Crossings
+CRSPPLOT            MARKET    CORRESP Biplot
+CSELLST             OBJPOOL   Copy Mgmt. Selected repositories list
+CSF                 FSP       Critical Success Factor
+CSFGRAPH            FSP       Critical Success Factor Picture
+CSF_C               CLASSES   Critical Success Factor Control
+CSUMMRY             OBJPOOL   Copy Mgmt. summary page
+CTEXT               FSP       Graphic Text for CSF
+CTEXTLABEL_C        CLASSES   Text label class for charts
+CTEXTLABEL_C        GNG       Text label class for charts
+CTOREP              OBJPOOL   Copy Mgmt. To Repository Manager
+CTRNFM              MDCLASS    
+CTRNFM              MDCLH      
+CUBE                MDCLASS    
+CUBE                MDCLH      
+CUBEREG             MDCLASS    
+CUBEREG             MDCLH      
+CWIZMAIN            OBJPOOL   Main Wizard controlling class
+C_ASSOC             OBJPOOL    
+DATA                SASDESK   Model for tables in folders
+DATAATT             MDCLASS    
+DATAATT             MDCLH      
+DATAFILE            FSP       SAS Datafile Class
+DATAFILE            MDCLASS    
+DATAFILE            MDCLH      
+DATAFORM            FSP       Data Form
+DATAMODEL_C         CLASSES   Data Model Class
+DATAOBJ             SASDESK   Controller class for datasets
+DATASET             AFCLASS   DATASET.CLASS
+DATASETCOLUMNPROPERTCLASSES   DatasetColumnProperties
+DATASETLIST_C       CLASSES   Data Set List Model
+DATASETOBJ_C        CLASSES   Dataset Object Model
+DATASETRECORD_C     CLASSES   Dataset Record Model
+DATAST_M            FSP       Data Set Model
+DATATABL            FSP       Data Table
+DATAVIEW            FSP       Data Viewer
+DATA_M              FSP       Data Set Data Model
+DATA_M_P            ETSTOOL   Dataset Table Data Model w/o Popups
+DATHILIT            EFI       EFI - Highlight vars in ext file data
+DATSRCNM            MDCLASS    
+DATSRCNM            MDCLH      
+DBCAT               MDCLASS    
+DBCAT               MDCLH      
+DBMSCONN            MDCLASS    
+DBMSCONN            MDCLH      
+DBSCHEMA            MDCLASS    
+DBSCHEMA            MDCLH      
+DDATAPKG            MDCLASS    
+DDATAPKG            MDCLH      
+DELEGATE            ROCF      DELEGATE.CLASS
+DELETE              OBJPH     dl CMR DELETE.CLASS
+DELETE              OBJPOOL    
+DELIMITERS          DBIIMEX   Delimiter composite Control
+DEPCOMP             MDCLASS    
+DEPCOMP             MDCLH      
+DESFORM             FSP       Design Dataform Class
+DESKAPPL            SASDESK   DESKAPPL.CLASS
+DESKICON            FSP       Desktop Icon
+DESKOBJ             SASDESK   Superclass for all objects on desktop.
+DESKSUB             SASDESK   DESKSUB.CLASS
+DESKTOP             SASDESK   Main Class on Desktop
+DESKTOPICON_C       CLASSES   Desktop Icon Control
+DESKTYP             SASDESK   DESKTYP.CLASS
+DEVCTYP             MDCLASS    
+DEVCTYP             MDCLH      
+DEVICE              MDCLASS    
+DEVICE              MDCLH      
+DFMATCH             MDCLASS    
+DFMATCH             MDCLH      
+DFRMCLAS            FSP       Dataform: classes and label representat
+DFRMCLRS            FSP       Dataform: column color selection
+DFRMCSEL            FSP       Dataform: Column Selection
+DFRMFONT            FSP       Dataform: fonts, classes, and behavior
+DFRMOPTS            FSP       Dataform: attribute options
+DICTCTRL            OBJPH     dc CMR Dictionary Registration & Control
+DICTCTRL            OBJPOOL    
+DICTIONARY          CLASSES   Dictionary Class
+DICTIONARY          FSP       Dictionary Component
+DIM                 MDCLASS    
+DIM                 MDCLH      
+DIRECTRY            MDCLASS    
+DIRECTRY            MDCLH      
+DISPATCH            IOM       IOM dispatcher class
+DISPOPTS            AFCLASS   Base Options List Displayer class
+DLGBASE             AFTOOLS   Dialog Builder Frame Class
+DLGCBOX             AFTOOLS   Check Box
+DLGCOLR             AFTOOLS   Color Selector
+DLGIO               AFTOOLS   Dialog Builder I/O Class
+DLGPROC             AFTOOLS   Dialog Builder Proc Interface
+DLGRBOX             AFTOOLS   Radio Box
+DLGTEXT             AFTOOLS   Text Entry
+DLGTLAB             AFTOOLS   Text Label
+DMCOLSEL            AFCLASS   DM Color Selector
+DMDBMODL            SASDESK   Model class for DMDBs in explorer.
+DMDBOBJ             SASDESK   Controller class for DMDBs
+DNDDATAM            SCM       Data Table Model: Drag and Drop
+DOCOPTIONS          AFTOOLS   GenDoc Document Options Object
+DOCUMENT            MDCLASS    
+DOCUMENT            MDCLH      
+DRAGANDDROP         CLASSES   Drag and Drop Class
+DRILLHIER           EISSRV    wizard page for Columns
+DRIVE               AFCLASS   Drive list class
+DRLLDWN             FSP       ORG CHART data driver for ORGVIEWR
+DSDVEC              FSP       Data Set Data Vector Class
+DSINFO              GNG       SAS Dataset Information
+DSLIST              ROCFSMP   DSLIST.CLASS
+DSLIST_M            GNG       Dataset List Model
+DSMODEL             SASDESK   Model class for datasets on desktop.
+DSMSG               FSP       SAS Data Set Message Class
+DSOURCE             MDDB      HOLAP Base Data Source Class
+DSPRSIST            OBJPH     ds CMR Data Set Container
+DSPRSIST            OBJPOOL    
+DSSOCK              OBJPH     so CMR TCP/IP socket engine layer
+DSSOCK              OBJPOOL    
+DSTOARR             CLASSES   DSTOARR.CLASS
+DS_DATA             MDDB      HOLAP SAS Data Set Data Source  Class
+DS_DBMS             MDDB      HOLAP SQL Table Data Source Class
+DS_MDDB             MDDB      HOLAP MDDB Data Source Class
+DS_STAR             MDDB      HOLAP Star Schema Data Source  Class
+DTABLE              MDCLASS    
+DTABLE              MDCLH      
+DTJ                 CLASSES    
+DTMB                MB        METABASE model for the desktop
+DTMBCTL             MB        Metabase desktop controller class
+DTMBFD              MB        Metabase feeder class
+DTMBREG             MB        Metabase Registration for the Desktop
+DUALSELECTOR_C      CLASSES    
+DUOCOMBO            AFCLASS   Base Selector Combo
+DVFORM              FSP       Data Viewer Form Viewer
+DWETE               SCHEDUL   Subclass of ETE for SAS/WA
+DWTABBER            SCHEDUL   Tabber Subclass for DW
+DYNATTR             OBJPH     da CMR Dynamic Attribute Class
+DYNATTR             OBJPOOL    
+EDITORCOMBOBOX_C    CLASSES   Editor-Combobox Composite
+EDITORCOMBO_C       CLASSES   Editor-Combination Composite (Abstract Parent Class)
+EDITORTEXTENTRY_C   CLASSES   Editor-Text Entry Composite
+EFICOLUM            EFI       EFI - Column   (Common Metadata Model)
+EFIELD              FSP       Text Entry
+EFILE               MDCLASS    
+EFILE               MDCLH      
+EFILOBJ             SASDESK   Controller for external files
+EFITEMPL            EFI       EFI - Template (Common Metadata Model)
+EISENV              RSCLMOD   EIS ENVIRONMENT CLASS
+EISLOAD             RSCLMOD   EISLOAD.CLASS
+EISMETA             PRDAUTH   EIS Meta Information class
+EMAIL               MDCLASS    
+EMAIL               MDCLH      
+EMDDB_C             EISSRV    Model Coordinator Class
+EMDDB_H             MB        Read MDDB Description
+EMDDB_H             MDDB      Read MDDB Description
+EMDDB_M             MDDB      EIS MDDB Model CLASS
+EMMODEL             MDCLASS    
+EMMODEL             MDCLH      
+EMRULES             MDCLASS    
+EMRULES             MDCLH      
+ENTLIST             FSP       SAS Entries Listbox
+ENTPTR              SASDESK   Model for cat entries in folders
+ENTRY               SASDESK   Model class for catalog entries
+ENTRYOBJ            SASDESK   Controller class for catalog entries
+ERRAGENT            SCM       Error Handling Agent
+ERRJAVA             SCM       ERRJAVA.CLASS
+ETABLE              MDCLASS    
+ETABLE              MDCLH      
+ETE1VAR             MARKET    Extended Text Entry 1 row selection box
+ETSSCL              ETSSCL    SAS/ETS SCL Methods
+EVENT               MDCLASS    
+EVENT               MDCLH      
+EVTHNDLR            ROCF      EVTHNDLR.CLASS
+EVTQUEUE            ROCF      EVTQUEUE.CLASS
+EXAMPLE             ROCFSMP   EXAMPLE.CLASS
+EXFILEDE            FSP       External File
+EXPLORE             SASDESK   EXPLORE.CLASS
+EXPLORER_C          CLASSES   Explorer Control
+EXPORT              DBIIMEX   Wrapper class for the C export engine
+EXPR                AFCLASS   Expression Class
+EXTERNALFILELIST_C  CLASSES   External File List Model
+EXTERNALFILEVIEWER_CCLASSES   External File Viewer Control
+EXTFILE             FSP       SAS Extfile Class
+EXTINPUT            AFCLASS   Extended Input Field
+EXTRACT             MDCLASS    
+EXTRACT             MDCLH      
+EXTRNLDN            MDCLASS    
+EXTRNLDN            MDCLH      
+EXTTBL              FSP       Extended Table
+FACTORED_C          ETSNASH   Factored Polynomial Class
+FASTDATA            ROCFSMP   FASTDATA.CLASS
+FBROWSER            FSP       Text Viewer
+FDBMODL             SASDESK   Model class for MDDBs in desktop.
+FDBOBJ              SASDESK   Controller class for FDBs
+FEATURE             MDCLASS    
+FEATURE             MDCLH      
+FEEDOBJ             SASDESK   Super class for all feeders on desktop
+FEEDTYP             SASDESK   FEEDTYP.CLASS
+FILCNFG             AFCLASS   Fileref configurations
+FILE                DBIIMEX   Composite control: file import
+FILE                MDCLASS    
+FILE                MDCLH      
+FILEOUT             FSP       Print strings to an external file
+FILESEL             AFCLASS   File selector non-visual class
+FILESNODE           RSASMOD   Files Server Node Class
+FILEVIEW            FSP       External File Viewer
+FILMODEL            SASDESK   Model for external files on desktop.
+FILTCOMM            ETSTOOL   Time Series Filtering Class
+FILTER              FSP       SAS Special Filter Class
+FITSTTAB            FORCAST   Statistics of Fit Table Viewer
+FITSTTST            MDCLASS    
+FITSTTST            MDCLH      
+FKEY                MDCLASS    
+FKEY                MDCLH      
+FLDCTRL             SASDESK   FLDCTRL.CLASS
+FMAP                MDCLASS    
+FMAP                MDCLH      
+FMSFRAME            ETSTOOL   FMS Frame Class
+FMSFRAME            INVEST    FMS Frame Class
+FMS_COMM            FORCAST   FMS Main Task Communication Class
+FMTCOMBO            AFCLASS   Format Combo Box
+FNOTES              AFCLASS   Footnotes composite for graphics object
+FOLDER              SASDESK   Model class for folders on desktop.
+FOLDFD              SASDESK   Methods for folder feeders
+FONT                AFCLASS   FONT.CLASS
+FOO                 ROCFSMP   FOO.CLASS
+FORMAT              AFCLASS   FORMAT.CLASS
+FORMAT              RSASMOD   Formatting and informatting class
+FORMAT              RSCLMOD   Formatting and informatting class
+FORMATMGR           CLASSES   Format manager class
+FORMAT_C            CLASSES   Format/Informat Component
+FORMVIEWER_C        CLASSES   Form Viewer Control
+FORM_E              FSP       Form Editor
+FORM_M              FSP       Form Data Model
+FRAME               FSP       SAS/AF General FRAME Class
+FRAMEDOC            AFTOOLS   GenDoc Frame Document Object
+FRAMEDOCHTML        AFTOOLS   GenDoc HTML Frame Document Object
+FUNDCL              CMP       Function Declaration Class
+FUNDCLFIND          CMP       Find Function Declaration in a SAS catalog Given a Function Name or CMPSUB Catalog Entry Name
+GATTR               FSP       Frame General Attributes
+GBUTTON             AFCLASS   Command Push Button
+GCONTROL            FSP       Generic Text Viewer Model
+GDDVEC              FSP       GET_DATA Data Vector Class
+GENCOMBO            AFCLASS   Generic Combo Box
+GFILTER             FSP       SAS Generic Filter Class
+GLABEL              FSP       Extended Text Entry
+GNGAPPL             GNG       GraphNGo Application
+GNGBAR              GNG       Bar Chart
+GNGDATA_C           GNG       GNG Data Model
+GNGGRAPH            GNG       Graphics (abstract)
+GNGHISTOGRAM        GNG       Histogram
+GNGMDDB_C           GNG       SAS Multidimensional Database
+GNGOVERLAY          GNG       Overlay Chart
+GNGOVERLAYPLOT      GNG       Overlay Plot
+GNGPIE              GNG       Pie Chart
+GNGPLOT             GNG       Plot
+GNGSDS_C            GNG       SAS Data Set
+GNGTABLE            GNG       Table View
+GNGTEXT             GNG       Banner Text
+GNGWORK             GNG       GNG Work Area
+GORP                ROCFSMP   GORP.CLASS
+GRAPH               FSP       SAS/GRAPH Output
+GRAPHICS_C          GNG       Abstract Graphics Control
+GRAPHICTEXT_C       CLASSES   Graphic Text Control
+GRAPHOUTPUT_C       CLASSES   Graph Output Control
+GRAPHREF            AFCLASS   CGR: Graphics object ref lines info
+GRAPH_M             GNG       Graphics Data Model (abstract)
+GROUP               MDCLASS    
+GROUP               MDCLH      
+GROUPBY             MDCLASS    
+GROUPBY             MDCLH      
+GRPHVDAT            FSP       Abstract Graphical Data Object
+GRPHVIEW            FSP       Graphical Data Viewer
+GTEXT               FSP       Graphic Text
+GTITLES             AFCLASS   Titles composite for graphics object
+HANALVAR            HOLAPMD   HOLAP Analysis Vars Class
+HAUTO               FSP       Host Automation Object
+HAVING              MDCLASS    
+HAVING              MDCLH      
+HCOMM               MDDB      HOLAP Base Communication  Class
+HCOMMAND            SASDESK   COMMAND.CLASS
+HCSTANDARD          MDDB      HOLAP Standard Communication Class
+HDSOURCE            HOLAPMD   HOLAP Data Source Class
+HELPICON            SASDESK   Help Icon
+HFILE               SASDESK   External files inside folders
+HGROUP              HOLAPMD   HOLAP Group Class
+HHIERARCHIES        MDDB      HOLAP Hierarchies Class
+HISTOGRAM_C         CLASSES   Histogram Control
+HMDDB_M             MDDB      HOLAP MDDB Class
+HMDPBATCH           HOLAPMD   HOLAP Batch Metadata: Batch Class
+HMDPCHECK           HOLAPMD   HOLAP Batch Metadata: Standard Check Class
+HMDPIO              HOLAPMD   HOLAP Batch Metadata: ASCII Text Class
+HMDPMODEL           HOLAPMD   HOLAP Batch Metadata: Standard Model Class
+HMDPPARSER          HOLAPMD   HOLAP Batch Metadata: Standard Parser Class
+HMSG                HOLAPMD   TB: Message Class  (customised)
+HOLAP_DP            MDDB      HOLAP Data Provider Class
+HOST                SCHEDUL   Host class
+HOSTMVS             SCHEDUL   MVS Host class
+HOSTUNIX            SCHEDUL   UNIX Host class
+HOTSPOT             FSP       Hotspot
+HOUSE               ROCFSMP   HOUSE.CLASS
+HPW                 HOLAPMD   HOLAP Password Class
+HRARCHY             MDCLASS    
+HRARCHY             MDCLH      
+HREGISTR            HOLAPMD   HOLAP EIS Registration Class
+HSCRLCTL            AFCLASS   Row scroll control (horizontal)
+HSTAR               HOLAPMD   HOLAP Star Schema Key Class
+HSUBSET             HOLAPMD   HOLAP Subset Class
+HSUBTABL            HOLAPMD   HOLAP SubTable Class
+HTMLDOCOPTIONS      AFTOOLS   GenDoc HTML Options Object
+ICON                FSP       Icon
+IDENTITY            MDCLASS    
+IDENTITY            MDCLH      
+IDNTTYGR            MDCLASS    
+IDNTTYGR            MDCLH      
+IEMAIN              FSP       Main Composite for v7 Interface Editor
+IEMETH_M            FSP       CAF: Model for Interface Editor Methods
+IETREE              FSP       Tree Subclass for v7 Interface Editor
+IMAGE               FSP       Image
+IMAGEMAP            FSP       Image Data Manager
+IMAGEVIEWER_C       CLASSES   Image Viewer Control
+IMGCMAP             FSP       Image Color Map Engine
+IMGDAT              FSP       Image Data Engine
+IMGFIND             AFCLASS   Image Finder
+IMGFLBOX            AFCLASS   Image Finder List Box
+IMGICON             FSP       Image Icon
+IMGIITEM            SASDESK   Image Icon Visual for Folder Viewers
+IMGITEML            SASDESK   IMGITEML.CLASS
+IMGMSG              IMAGEWD   The Image NLS message class
+IMPORT              DBIIMEX    
+INDEX               MDCLASS    
+INDEX               MDCLH      
+INFO                MDCLASS    
+INFO                MDCLH      
+INFOFILE            MDCLASS    
+INFOFILE            MDCLH      
+INFOLBL             AFCLASS   Informational Text
+INFORMAT            AFCLASS   INFORMAT.CLASS
+INITINFO            MDCLASS    
+INITINFO            MDCLH      
+INPUT               AFCLASS   Input Field
+INPUTBUFFER         CLASSES   Input Buffer Class
+INSERT_C            CLASSES   OLE - Insert Object
+INTERFACEDOC        AFTOOLS   GenDoc Interface Document Object
+INTERFACEDOCHTML    AFTOOLS   GenDoc Interface HTML Document Object
+INTRFACE            FSP       Metaclass for interface objects
+INTRPRTR            METAAPI   Base Interpretor Class
+IOMCON              MDCLASS    
+IOMCON              MDCLH      
+IOMSPAWN            MDCLASS    
+IOMSPAWN            MDCLH      
+IOMSPCON            MDCLASS    
+IOMSPCON            MDCLH      
+IOMUTILS            IOM       IOM utilities class
+ISRCCAT             SCHEDUL   Input Source Catalog Entry Class
+ISRCEXT             SCHEDUL   Input Source External File Class
+ITCHNNL             MDCLASS    
+ITCHNNL             MDCLH      
+ITCNTNTS            MDCLASS    
+ITCNTNTS            MDCLH      
+ITFILTER            MDCLASS    
+ITFILTER            MDCLH      
+ITMAP               MDCLASS    
+ITMAP               MDCLH      
+ITMODEL             MDCLASS    
+ITMODEL             MDCLH      
+ITMSMQMD            MDCLASS    
+ITMSMQMD            MDCLH      
+ITQLS               MDCLASS    
+ITQLS               MDCLH      
+ITRNDMDL            MDCLASS    
+ITRNDMDL            MDCLH      
+ITSBSCRB            MDCLASS    
+ITSBSCRB            MDCLH      
+ITTRNSPR            MDCLASS    
+ITTRNSPR            MDCLH      
+ITVNTSBS            MDCLASS    
+ITVNTSBS            MDCLH      
+JBSRCCAT            MDCLASS    
+JBSRCCAT            MDCLH      
+JFJOB               MDCLASS    
+JFJOB               MDCLH      
+JOB                 MDCLASS    
+JOB                 MDCLH      
+JOB                 SCHEDUL   Job Class
+JOBFILE             MDCLASS    
+JOBFILE             MDCLH      
+JOBFLOW             MDCLASS    
+JOBFLOW             MDCLH      
+JOBLIST             SCHEDUL   Job List Class
+JOBLOG              SCHEDUL   Job Log Class
+JOBPGMS             SCHEDUL   Job/programs class
+JOBSRC              SCHEDUL   Job Source Class
+JOBSYSIN            SCHEDUL   Job Sysin Class
+JOIN                MDCLASS    
+JOIN                MDCLH      
+JSAT                SCHEDUL   API: AT Interface Scheduling Server
+JSCRON              SCHEDUL   API: CRON Interface Scheduling Server
+JSDOM               SCHEDUL   API: Domain Scheduling Server
+JSHOST              SCHEDUL   API: Host
+JSJOB               SCHEDUL   API: Job
+JSJOBINC            SCHEDUL   API: Job Input Source (Catalog Entry)
+JSJOBINE            SCHEDUL   API: Job Input Source (External file)
+JSJOBINF            SCHEDUL   API: Job Information File
+JSJOBLOG            SCHEDUL   API: Job log file
+JSJOBLST            SCHEDUL   API: Job list file
+JSJOBSRC            SCHEDUL   API: Generated Job source file
+JSJOBSYS            SCHEDUL   API: Job sysin file
+JSLIBRY             SCHEDUL   API: Library
+JSMTDATA            SCHEDUL   API: Job Scheduler Metadata Repository
+JSPECAT             SCHEDUL   API: Prolog/Epilog Catalog Entry
+JSPEEXT             SCHEDUL   API: Prolog/Epilog External Files
+JSROOT              SCHEDUL   API: Root class of API classes
+JSSCRIPT            SCHEDUL   API: Rlink script file
+JSSERV              SCHEDUL   API: Scheduling Server
+JSSRVLIB            SCHEDUL   API: Scheduling Server Library
+JSTECAT             SCHEDUL   API: Tracking Epilog Catalog Entry
+JSTEEXT             SCHEDUL   API: Tracking Epilog External File
+JSTFILE             SCHEDUL   API: Text/Source code file
+JSTPCAT             SCHEDUL   API: Tracking Prolog Catalog Entry
+JSTPEXT             SCHEDUL   API: Tracking Prolog External File
+JSTREE              RSCLMOD   Model to populate JavaScript Tree
+JSTXTCAT            SCHEDUL   API: Catalog Source Entry
+JSTXTDS             SCHEDUL   API: SAS Dataset
+JSTXTFIL            SCHEDUL   API: External file
+JSUECAT             SCHEDUL   API: User Epilog Catalog Entry
+JSUEEXT             SCHEDUL   API: User Epilog External File
+JSUPCAT             SCHEDUL   API: User Prolog Catalog Entry
+JSUPEXT             SCHEDUL   API: User Prolog External File
+JSWLBLCL            SCHEDUL   API: Local Working Library
+JSWLBRMT            SCHEDUL   API: Remote Working Library
+JTABLE              MDCLASS    
+JTABLE              MDCLH      
+KEY                 FSP       KEY.CLASS
+KEY                 MDCLASS    
+KEY                 MDCLH      
+KEYASSOC            MDCLASS    
+KEYASSOC            MDCLH      
+KEYWORD             MDCLASS    
+KEYWORD             MDCLH      
+LABEL               AFCLASS   Input Field Label
+LABELS              AFCLASS   Graph label fonts
+LANGUAGESERVICE     IOM        
+LAYOUT              FSP       Graphics
+LCOLUMN             MDCLASS    
+LCOLUMN             MDCLH      
+LDAPSERVICES        BASE      LDAPSERVICES.CLASS
+LDPROC              MDCLASS    
+LDPROC              MDCLH      
+LEGEND              FORCAST   Legend Generator
+LEVEL               MDCLASS    
+LEVEL               MDCLH      
+LIB                 SASDESK   Model class for library ptrs in folders
+LIBCNFG             AFCLASS   General client/server methods
+LIBCOMBO            AFCLASS   Libref combo box
+LIBFEED             SASDESK   Feeder cls for SAS libraries
+LIBLIST             FSP       SAS Libnames Listbox
+LIBOBJ              SASDESK   Controller class for libraries
+LIBRARIESNODE       RSASMOD   Libraries Server Node Class
+LIBRARY             FSP       SAS Library Class
+LIBRARY             MDCLASS    
+LIBRARY             MDCLH     lb CMR SAS Library Class
+LIBRARY             SASDESK   Model for library objects in explorer
+LIBRARY             SCHEDUL   Scheduler Library Class
+LIBRARYLIST_C       CLASSES   Library List Model
+LIBRARYNODE         RSASMOD   Library Server Node Class
+LIBRARYSELECTOR_C   CLASSES   Library Selector Control
+LIBTREE             ROCFSMP   LIBTREE.CLASS
+LINKLIST            OBJPH     ll CMRlinklist class
+LISTANAL            AFTOOLS   LISTANAL.CLASS
+LISTBOX             FSP       List Box
+LISTBOX_C           CLASSES   List Box Control
+LISTENTRYLIST_C     CLASSES   LIST Entry List Model
+LISTNAVC            SCM       List Navigator Class
+LISTVIEW_C          CLASSES   List View Control
+LIST_M              FSP       SCL List Model
+LIST_MV             SASDESK   LIST_MV.CLASS
+LOCATION            MDCLASS    
+LOCATION            MDCLH      
+LOCTYPE             MDCLASS    
+LOCTYPE             MDCLH      
+LOGCLSRV            MDCLASS    
+LOGCLSRV            MDCLH      
+LOGFEED             SASDESK   Feeder cls for defined librefs,filerefs
+LOGICAL             FSP       SAS Logical Class
+LOGIN               EISSRV    Login Composite
+LOGIN               MDCLASS    
+LOGIN               MDCLH      
+LOGMODEL            SASDESK   Model for Logical feeder -SAS Filespace
+LOGTRAP             ROCFSMP   LOGTRAP.CLASS
+LOOKTHRU            OBJPOOL   This class has been changed
+LPROC               MDCLASS    
+LPROC               MDCLH      
+LREFCNFG            AFCLASS   Libref configurations
+LRSRC               MDCLASS    
+LRSRC               MDCLH      
+LSTACTS             AFCLASS   List of Actions
+LSWINFO             LOCALE     
+LWRKAREA            SASDESK   LWRKAREA.CLASS
+MACHINE             MDCLASS    
+MACHINE             MDCLH      
+MACSTRL             SQL       QUERY WINDOW macro variable to SCL list
+MAKEFRM             FSP       Frame subclass for the Component Window
+MAKETREE            FSP       Component Window Tree View subclass.
+MAP                 FSP       Map
+MAPCOMBO            MB        MAPINFO table attribute: Composite
+MAPNAME             PRDAUTH    
+MAPNAME             RPRDATH    
+MAPPING             MDCLASS    
+MAPPING             MDCLH      
+MAP_C               CLASSES   Map Control
+MBENGINE            MB        Metabase engine class
+MD                  HOLAPMD   HOLAP Metadata - Class
+MDASSOC             OBJPH     ma CMR Common Metadata Associations Class
+MDASSOC             OBJPOOL    
+MDDB                MDDB      MDDB Object
+MDDB                SASDESK   Subclass of MDDBMODL for MDDB in folder
+MDDBINFO            GNG       MDDB Information
+MDDBLOAD            ROCFSMP   MDDBLOAD.CLASS
+MDDBLOAD            RSCLMOD   MDDBLOAD.CLASS
+MDDBLOC             EISSRV    Wizard page for MDDB Location
+MDDBMODL            SASDESK   Model class for MDDBs in desktop.
+MDDBOBJ             MDCLASS    
+MDDBOBJ             MDCLH      
+MDDBOBJ             SASDESK   Controller class for MDDBs
+MDDB_C              MDDB      Create an MDDB cell by cell
+MDDB_H              FSP       Read MDDB description
+MDDB_M              GNG       Multidimensional Database Model
+MDDB_M              MDDB      MDDB Model Class
+MDGUI               HOLAPMD   HOLAP Metadata - GUI Class
+MDPPLOT             MARKET    MDPREF Biplot
+MDSPLOT             MARKET    MDS Biplot
+MDTABLE             RSASMOD   Multidimensional Table (EMDDBM & HOLAP)
+MDTABLE             RSCLMOD   MDTABLE.CLASS
+MDTREE              FSP       Multi-Dimensional Tree
+MDXSTRUC            OPNMDDB   MDX Structure Class
+MDXSTRUC            OPNOLAP   MDX Structure Class
+MEASURES            MB        MEASURES.CLASS
+MEM                 ROCFSMP   MEM.CLASS
+MEMBER              MDCLASS    
+MEMBER              MDCLH      
+MEMBERSELECTOR_C    CLASSES   Member Selector Control
+MEMLIST             FSP       SAS Members Listbox
+MEMORY              MDCLASS    
+MEMORY              MDCLH      
+MESSAGE             GNG       Message
+METAAPI             METAAPI   Metadata API
+METABASE            MB        Metabase Class
+METALIB             FSP       SAS Metalib Class
+METALIB             GNG       Library objects
+METHODSDOC          AFTOOLS   GenDoc Methods Document Object
+METHODSDOCHTML      AFTOOLS   GenDoc Methods Document HTML Object
+METHODSTACK         CLASSES    
+MFIELD              FSP       Multi-line Text Entry
+MINICOMBO           CLASSES   Combo Box for Mini Properties Window
+MINIVIEWER          CLASSES   Viewer Composite for the mini Properties Window
+MINNGRSL            MDCLASS    
+MINNGRSL            MDCLH      
+MLOGBAR             MARKET    Discrete Choice Attribute Significance
+MODEL               GNG       Graph-N-Go Model
+MODEL               ROCFSMP   MODEL.CLASS
+MODELLISTENTRY      ETSNASH   AF model for selecting model list Slist entries
+MODLCOMM            FORCAST   Model Manager Communication Class
+MODMGR              EISSRV    EIS: Model Manager Local Functions
+MODMGRE             EISSRV    Model Manager Engine Class
+MODVCOMM            FORCAST   Model View Manager Communication Class
+MSG                 FSP       SAS Message Class
+MSGMGR              FSP       SAS Message Manger Class
+MSGSRC              FSP       SAS Message Source Class
+MWIZARD             EISSRV    Wizard CLASS for MDDB Creation
+NAMDSRVC            MDCLASS    
+NAMDSRVC            MDCLH      
+NAME                AFCLASS   Object Name Field
+NAVDATA_M           CLASSES   Data Set Data Model that supports the Navigation Interface
+NAVFORM             CLASSES   Form editor for the Navigation Bar
+NAVIGATIONBAR_C     CLASSES   Navigation Bar
+NCOLUMN             MDCLASS    
+NCOLUMN             MDCLH     nc CMR NCOLUMN.CLASS
+NOBLANK             AFTOOLS   Text entry that clears blanks
+NODE4               AFTOOLS   Class Browser node for children
+NODE5               AFTOOLS   Class Browser node for no children
+NODE6               AFTOOLS   Static Analyzer node for children
+NODE7               AFTOOLS   Static Analyzer node for no children
+NODE8               AFTOOLS   Static Analyzer node for no children
+NOTE                MDCLASS    
+NOTE                MDCLH      
+NSUBMIT             ROCFSMP   NSUBMIT.CLASS
+NULL                MDCLASS    
+NULL                MDCLH      
+NUMATT              MDCLASS    
+NUMATT              MDCLH      
+NUMBER              AFCLASS   A number
+NUMEXT              MDCLASS    
+NUMEXT              MDCLH      
+NUMFORMAT           CLASSES   Numeric Format Component
+NVSTLIST            INVEST    Investment Portfolio Listbox
+OASSOC              OBJPH     oa CMR Object Associations Class
+OBJECT              FSP       Object Class
+OBJECT              OBJPH     ob CMR Object Class
+OBJECT              OBJPOOL    
+OBJECTATTRIBUTEMODELCLASSES   CAF: Model used for the mini PW
+OCCONN              MDCLASS    
+OCCONN              MDCLH      
+OCIMITEM            SASDESK   Icons for both flat & dir orgchart
+OFACTORY            IOM       SAS/AF Ofactory class
+OFACTORY            PRDAUTH   OFACTORY.CLASS
+OFFLINE             ROCFSMP   OFFLINE.CLASS
+OHIER               MDCLASS    
+OHIER               MDCLH      
+OKCANCELHELPH_C     CLASSES   OK, Cancel, Help buttons: horizontal orientation
+OKCANCELHELP_C      CLASSES   OK, Cancel, Help buttons: vertical orientation
+OLAP                MDCLASS    
+OLAP                MDCLH      
+OLAPMETA            OPNMDDB   Object that maintins MDDB metadata slis
+OLAPPROP            MDCLASS    
+OLAPPROP            MDCLH      
+OMEASURE            MDCLASS    
+OMEASURE            MDCLH      
+OMEMBER             MDCLASS    
+OMEMBER             MDCLH      
+OMI                 OMAUTIL   OMI.CLASS
+ON                  MDCLASS    
+ON                  MDCLH      
+OPAQUE              IOM       IOM Opaque Object Class
+OPTION              MDCLASS    
+OPTION              MDCLH      
+OPTIONS             AFCLASS   ASSIST options composite
+OPTIONS             MDCLASS    
+OPTIONS             MDCLH      
+ORDATT              MDCLASS    
+ORDATT              MDCLH      
+ORDERBY             MDCLASS    
+ORDERBY             MDCLH      
+ORDEREDCOLLECTION   CLASSES   Ordered Collection Class
+ORDEREDCOLLECTION   FSP       Ordered collection container class
+ORGCHART            FSP       Organizational Chart
+ORGIMAG             FSP       ORG CHART DEFAULT IMAGE CLASS
+ORGIMGI             FSP       ORG CHART DEFAULT IMAGE ICON CLASS
+ORGPROXY            SCM       ORGPROXY non-gui proxy for org chart
+ORGTEXT             FSP       ORG CHART DEFAULT GRAPHICS TEXT CLASS
+OSCHEMA             MDCLASS    
+OSCHEMA             MDCLH      
+OUTPUTBUFFER        CLASSES   Output Buffer Class
+OUTPUTIDLTOFILE     IOM       generates IDL/MIDL from AF class metadata
+OUTPUTIDLTOLIST     IOM       collects IDL/MIDL into a list
+OVERLAYSTYLE_C      GNG       Overlay Style
+OVERRIDE            OBJPH     or CMR OVERRIDE.CLASS
+OVERRIDE            OBJPOOL    
+O_ASSOC             OBJPOOL    
+PADMTOP             SCM       Top of SCM Administrative Wizard
+PADVOPT1            SCM       Advanced maintenance options 1
+PADVOPT2            SCM       Advanced maintenance options 2
+PADVOPT3            SCM       Advanced maintenance options  3
+PADVOPTS            SCM       Advanced maintenance options
+PALEDIT             AFCLASS   Color Palette
+PALETTE             FSP       Toolbar
+PALOLIB             SCM       Allocate a new library
+PALTICON            AFCLASS   PALTICON.CLASS
+PALTIMG             AFCLASS   Palette Image Button
+PALTLABL            AFCLASS   Palette Label
+PARMETAB            FORCAST   Parameter Estimates Table Viewer
+PARMSOBJ            FSP       Parms object for Assist/EIS
+PARWORK             ROCFSMP   PARWORK.CLASS
+PASTEBUFFER_C       CLASSES   Paste Buffer Class
+PATH                SCHEDUL   Scheduler Path class
+PATHNAME            AFCLASS   PATHNAME.CLASS
+PBUTTON             FSP       Push Button
+PBUTTONT            AFCLASS   Push button (tabbed look)
+PCDBLIB             SCM       Choose CDB libref
+PCNODE              RSCLMOD   Parent Child Data Set Node
+PCOMBO              AFCLASS   Program Combo Box
+PCONFIRM            SCM       Final Confirmation
+PDEFARCH            SCM       Set Default Archive Limit for new CDB
+PERF                ROCFSMP   PERF.CLASS
+PERFANAL            AFTOOLS   PERFANAL.CLASS
+PERM                MDCLASS    
+PERM                MDCLH      
+PERMCOND            MDCLASS    
+PERMCOND            MDCLH      
+PERSIST             OBJPH     pr CMR Persistent
+PERSIST             OBJPOOL    
+PERSISTC            GNG       Persistent Objects in Catalogs
+PERSON              MDCLASS    
+PERSON              MDCLH      
+PFD                 FSP       Process Flow Diagram
+PGMHALT             SCM       handles program halt
+PHONE               MDCLASS    
+PHONE               MDCLH      
+PIE_C               CLASSES   Pie Control
+PKGTREEVIEW         PUBLISH    
+PMADEIT             SCM       Database done, go on?
+PMBBASE             AFTOOLS   Menu Builder Frame Class
+PMBCAT              AFTOOLS   Menu Builder Catalog Selector
+PMBCTRL             AFTOOLS   Menu Builder Control Object
+PMBETE              AFTOOLS   Menu Builder Text Entry Class
+PMBIO               AFTOOLS   Menu Builder I/O Class
+PMBLIST             AFTOOLS   Menu Builder List Class
+PMBMENU             AFTOOLS   Menu Builder Table Class
+PMBOBJ              AFTOOLS   Menu Builder Object Class
+PMBPROC             AFTOOLS   Menu Builder Proc Interface
+PMBTEXT             AFTOOLS   Menu Builder Input Class
+PMBTOOL             AFTOOLS   Menu Builder Toolbar Class
+PMKCDB1             SCM       First page to make a new CDB
+POBJECT             OBJPH     po CMR Persistent Object
+POLYNOMIAL_C        ETSNASH   Polynomial Control Class
+POS                 ROCFSMP   POS.CLASS
+PPICKADD            SCM       Choose add lib, add cat, advanced optns
+PRINTMAN            CLASSES   Print Manager Class
+PRINTO              FSP       SAS Print-To Class
+PRNTCHLD            RSCLMOD   Parent/Child hierarchical model
+PROCESS             MDCLASS    
+PROCESS             MDCLH      
+PRODAUTH            PRDAUTH   PRODAUTH.CLASS
+PRODAUTH            RPRDATH    
+PROGMODL            SASDESK   Model class for Stored SAS Programs.
+PROGOBJ             SASDESK   Controller class for Stored SAS Program
+PROGRAMHALT         CLASSES   Program Halt Class
+PROGRAMHALT         MB        PROGRAMHALT.CLASS
+PROGRESSBAR_C       CLASSES   Progress Bar Control
+PROJCOMM            FORCAST   Project Viewer Comm. Class
+PROP                MDCLASS    
+PROP                MDCLH      
+PROPACCE            SASDESK   PROPERTIES: Access Descriptor - Explorer
+PROPAPPL            SASDESK   PROPERTIES: Desktop Application
+PROPAPRN            SASDESK   PROPERTIES: Appearance
+PROPCAT             SASDESK   PROPERTIES: Catalog Pointer
+PROPCATE            SASDESK   PROPERTIES: Catalog - Explorer
+PROPCMD             SASDESK   PROPERTIES: SAS Command
+PROPDDBE            SASDESK   PROPERTIES: Data Mining DB - Explorer
+PROPDND             SASDESK   PROPERTIES: Drag and Drop
+PROPENT             SASDESK   PROPERTIES: Catalog Entry
+PROPENTE            SASDESK   PROPERTIES: Catalog Entry - Explorer
+PROPFLDR            SASDESK   PROPERTIES: Folder Pointer
+PROPGRP             MDCLASS    
+PROPGRP             MDCLH      
+PROPHCMD            SASDESK   PROPERTIES: Host Command
+PROPHFIL            SASDESK   PROPERTIES: Host File
+PROPHFLE            SASDESK   PROPERTIES: Host File - Explorer
+PROPLIB             SASDESK   PROPERTIES: Library
+PROPLIBE            SASDESK   PROPERTIES: Library - Explorer
+PROPMDDB            SASDESK   PROPERTIES: MDDB Pointer
+PROPNOTE            SASDESK   PROPERTIES: Notes
+PROPSPME            SASDESK   PROPERTIES: Stored Program - Explorer
+PROPTBL             SASDESK   PROPERTIES: Table Pointer
+PROPTBLE            SASDESK   PROPERTIES: Table - Explorer
+PROPTYPE            MDCLASS    
+PROPTYPE            MDCLH      
+PROTO               MDCLASS    
+PROTO               MDCLH      
+PRPRTYST            MDCLASS    
+PRPRTYST            MDCLH      
+PRTTYPPR            MDCLASS    
+PRTTYPPR            MDCLH      
+PSATTR_M            FSP       CAF: Model for Properties Window attribu
+PSCLMNLY            MDCLASS    
+PSCLMNLY            MDCLH      
+PSGRDLYT            MDCLASS    
+PSGRDLYT            MDCLH      
+PSLYTCMP            MDCLASS    
+PSLYTCMP            MDCLH      
+PSNOFRAMESCOMPOSITE FSP       No Active Frames Composite for the Property Sheet
+PSPRTLCL            MDCLASS    
+PSPRTLCL            MDCLH      
+PSPRTLPG            MDCLASS    
+PSPRTLPG            MDCLH      
+PSPRTLPR            MDCLASS    
+PSPRTLPR            MDCLH      
+PSPRTLT             MDCLASS    
+PSPRTLT             MDCLH      
+PSTABVWR            FSP       Table View Composite for V7 Properties ONLY
+PSTREE              FSP       Tree Subclass for v7 Property Window
+PSTREECOMBO         FSP       Combo Box subclass for Treeless Properties Window.
+PS_FDBED            SASDESK   PROPERTIES: FDB dimensions - Explorer
+PS_FDBEG            SASDESK   PROPERTIES: FDB general - Explorer
+PS_MDBED            SASDESK   PROPERTIES: MDDB dimensions - Explorer
+PS_MDBEG            SASDESK   PROPERTIES: MDDB general - Explorer
+PTABLE              MDCLASS    
+PTABLE              MDCLH      
+PUSHBUTTON_C        CLASSES   Push Button Control
+PUSRDATA            SCM       Specify User Dataset Names
+PUSRINFO            SCM       Info about user pref datasets
+P_ADDLIB            SCM       PAGE 1 - Add LIBRARY or CATALOG
+P_EFI               DBIIMEX   Page for EFI import
+P_EFIEXP            DBIIMEX   Page for EFI export
+P_ESTMTS            DBIIMEX   Page to create Export procedure stmts
+P_EXPTYP            DBIIMEX   Page to select export file type
+P_FILEXP            DBIIMEX   Page to select an external file (export
+P_FILSEL            DBIIMEX   Page to select an external file (import
+P_IMPTYP            DBIIMEX   Page to select import file type
+P_LIBARC            SCM       Page 2 - Get Archive path for library
+P_LIBMEM            DBIIMEX   Page for choosing SAS location (import)
+P_LMEXP             DBIIMEX   Page for choosing SAS location (export)
+P_OBJECT            OBJPOOL    
+P_STMTS             DBIIMEX   Page to create Import procedure stmts
+P_TABEXP            DBIIMEX   Page to select export table
+P_TABSEL            DBIIMEX   Page to select import table
+QRYSEG              MDCLASS    
+QRYSEG              MDCLH      
+QTABLE              MDCLASS    
+QTABLE              MDCLH      
+QUERY               MDCLASS    
+QUERY               MDCLH      
+QUERY               SQL       Query Window Class
+QUEUE               CONNECT   QUEUE.CLASS
+QWCLEXPR            SQL       Expression Builder Class
+QWFORMAT            SQL       QWFORMAT.CLASS
+QWWHERE             SQL       Where Builder Class
+RADIOBOX            FSP       Radio Box
+RADIOBOX_C          CLASSES   Radio Box Control
+RANGE_C             CLASSES   Range Model
+RCAL                RSASMOD    
+RCDVEC              FSP       Row Column Data Vector Class
+RDATAM              RSASMOD   DATA_M Interface for Java
+RDATAM              RSCLMOD   DATA_M interface for Java
+RDSCATS             RSASMOD   List of Library members
+RDSCATS             RSCLMOD   List of Library members
+RECSEL              MDCLASS    
+RECSEL              MDCLH      
+REGISTER            EISSRV    Wizard page for Registration of metadata
+REGISTRY            FSP       Registry Class
+REGOLAP             OPNMDDB   Object that maintins MDDB metadata slist
+RELTNLSC            MDCLASS    
+RELTNLSC            MDCLH      
+REMOTE              MDCLASS    
+REMOTE              MDCLH     rt CMR Remote SAS Session Class
+REMOTECATALOGENTRY_CRSCLMOD    
+REMOTECATALOGTEXTENTRSCLMOD    
+REMOTESCLENTRY_C    RSCLMOD    
+REMOTESUPPORT       RSCLMOD    
+RENTRIES            RSASMOD   List of Catalog Entries
+RENTRIES            RSCLMOD   List of catalog entries
+REPCTLP             OBJPH     rl CMR repctlp class
+REPCTLP             OBJPOOL    
+REPMGRP             OBJPH     px CMR repmgrp class
+REPMGRP             OBJPOOL    
+REPMGRPB            OBJPH     mb CMR repmgrpb class
+REPMGRPB            OBJPOOL    
+REPORT              MDCLASS    
+REPORT              MDCLH      
+REPOSMGR            OBJPH     rm CMR Repository Manager Class
+REPOSMGR            OBJPOOL    
+REPOSMGRP           OBJPOOL    
+REPOSMGRPB          OBJPOOL    
+REPOSP              SCHEDUL   Primary Repository class
+REPOSS              SCHEDUL   Secondary Repository class
+RESENTRY            AFCLASS   Resource class
+RESENTRY            GNG       Resource Entry Class
+RESENTRY            SCM       RESOURCE entry
+RESENV              MB        OLAP Server Environment Class
+RESENV              RSCLMOD   Establish resource enviironment class
+RESENV              WEBEIS    Establish resource enviironment class
+RESMGR              FSP       Assist/EIS Resource Manager Class
+RESPONS             MDCLASS    
+RESPONS             MDCLH      
+RETRYVNT            MDCLASS    
+RETRYVNT            MDCLH      
+RGBCOLOR            CLASSES   RGB Colors
+RGBCOLOR            GNG       RGB Colors
+RGBSLIDE            AFCLASS   RGB Color Sliders
+RLIBS               RSASMOD   List of Libraries
+RLIBS               RSCLMOD   List of libraries
+RMCOLOR             FSP       RM: Color attributes
+RMETA               RSASMOD   List of Metabase Entries
+RMETA               RSCLMOD   List of metabase entries
+RMGR                OBJPH     rr CMR Repository Manager Control Block
+RMGR                OBJPOOL    
+RMICONN             MDCLASS    
+RMICONN             MDCLH      
+RMOUTLIN            FSP       RM: Outline attributes
+RMTITLE             FSP       RM: Title attributes
+ROBJECT             CONNECT   ROBJECT.CLASS
+ROLE0               MDCLASS    
+ROLE0               MDCLH      
+ROOT                MDCLASS    
+ROOT                MDCLH      
+ROWSEL              MDCLASS    
+ROWSEL              MDCLH      
+RPOSCTRL            OBJPH     rp CMR Repository Registration & Control
+RPOSCTRL            OBJPOOL    
+RSESCNFG            AFCLASS   Manage Client/Server
+RSIMPDS             RSASMOD   Model for Remote Dataset Information
+RSIMPDS             RSCLMOD   RSIMPDS.CLASS
+RSIMPDSV2           RSASMOD   RSIMPDSV2.CLASS
+RUNSPOOL            CONNECT   RUNSPOOL.CLASS
+SAMECONT            SCHEDUL   Same container class
+SASCONN             MDCLASS    
+SASCONN             MDCLH      
+SASDATASET_C        CLASSES   SAS Data Set Model
+SASENT              AFCLASS   SAS Entries List box
+SASENT              FORCAST   SAS Entries List box
+SASENT2             ETSTOOL   SAS Entries List box with variable name lengths
+SASENTM             AFCLASS   Master SAS Entries Listbox
+SASFILE             DBIIMEX   Composite control: SAS FILE No feedback
+SASFILE             FSP       SAS Generic File Class
+SASFILELIST_C       CLASSES   SAS File List Model
+SASFLRF             MDCLASS    
+SASFLRF             MDCLH      
+SASINFO             MDCLASS    
+SASINFO             MDCLH      
+SASLCNS             MDCLASS    
+SASLCNS             MDCLH      
+SASLIB              AFCLASS   SAS Libnames List box
+SASLIBM             AFCLASS   Master SAS libnames listbox
+SASMEM              AFCLASS   SAS Members List box
+SASMEMM             AFCLASS   Master SAS members listbox
+SASNODE             RSASMOD   Base Server Node Class
+SASPASS             MDCLASS    
+SASPASS             MDCLH      
+SASSHARE            MDCLASS    
+SASSHARE            MDCLH      
+SASTMEM             ETSTOOL   SAS Time Series Members Listbox
+SCATTER_C           CLASSES   Scatter Control
+SCCONN              MDCLASS    
+SCCONN              MDCLH      
+SCHASSOC            SCHEDUL   Root of Scheduler Associations
+SCHAT               SCHEDUL   Windows NT AT Scheduler class
+SCHCRON             SCHEDUL   Unix System V CRON Scheduler class
+SCHDOM              SCHEDUL   Reserved
+SCHEDINT            SCHEDUL   API: Job Scheduler Interpretor class
+SCHEDJOB            MDCLASS    
+SCHEDJOB            MDCLH      
+SCHEDLIB            SCHEDUL   Scheduling Server Library
+SCHEDULR            MDCLASS    
+SCHEDULR            MDCLH      
+SCHEDULR            SCHEDUL   Scheduler class
+SCHROOT             SCHEDUL   Root of scheduler classes
+SCLDEBQUIT          RSASMOD    
+SCLDOC              AFTOOLS   GenDoc Document Object
+SCLDOCHTML          AFTOOLS   GenDoc HTML Document Object
+SCLEXCEPTION        CLASSES   SASHELP.CLASSES.SCLEXCEPTION.CLASS
+SCLFUNCS            ROCFSMP   SCLFUNCS.CLASS
+SCLFUNCS            RSASMOD    
+SCLFUNCS            RSCLMOD   SCLFUNCS.CLASS
+SCLFUNCSV3          RSASMOD    
+SCLLIST             CLASSES   SCL List Class
+SCLLIST             PUBLISH   SCLLIST.CLASS
+SCLLISTMODEL_C      CLASSES   SCL List Model
+SCLLISTTEST         IOMSAMP   SAS/AF SCLlistTest class
+SCLLISTUTILS        RSASMOD   SAS/AF SCL list utility class
+SCLPATV             AFTOOLS   SCL P.A. text viewer model class
+SCLSATV             AFTOOLS   SCL S.A. text viewer model class
+SCLSOCK             RSASMOD    
+SCLTHROWABLE        CLASSES   SCL Throwable Class
+SCLTOOLS            RSCLMOD    
+SCLVMDI             RSASMOD    
+SCMAPI              SCM       SCM API interface for integration
+SCMCAT              SCM       SCM: Catalog File handler
+SCMDATA             SCM       SCM: Dataset Handler
+SCMENTRY            SCM       SCM: Catalog entry handler
+SCMETE              SCM       SCM ETE - DND, Self-graying
+SCMEXTF             SCM       SCM: External File Handler
+SCMFILE             SCM       SCM: Base File Class for Source Manager
+SCMHOST             SCM       SCM Host  Commands
+SCMJAVA             SCM       Wrapper for Java to SCL communication
+SCMLIB              SCM       SCM: Library Handler
+SCMNODE2            SCM       composite scm node with SMALL icons
+SCMORG              SCM       SCM Organizational Chart Subclass
+SCMORGIM            SCM       SCM Org chart image/text node subclass
+SCMPRF01            SCM       SCM: Preference sheet 1 - Globals
+SCMPRF02            SCM       SCM Prefrences - Personal
+SCMSRCMG            SCM       SCM: supplied Source Manager
+SCMWNMGR            SCM       SCMWNMGR.CLASS
+SCRCOMBO            AFCLASS   Script path combo box
+SCRFILE             MDCLASS    
+SCRFILE             MDCLH      
+SCRIPT              SCHEDUL   Rlink Script Class
+SCRLLBAR            FSP       Scrollbar
+SCROLLBAR_C         CLASSES   Scrollbar Control
+SDS_M               GNG       SAS Data Set Data Model
+SECRTYR0            MDCLASS    
+SECRTYR0            MDCLH      
+SECRTYRL            MDCLASS    
+SECRTYRL            MDCLH      
+SECRTYTY            MDCLASS    
+SECRTYTY            MDCLH      
+SECURITY            MDCLASS    
+SECURITY            MDCLH     sc CMR Security
+SELMDL              FSP       Selection Model
+SELVAR              AFCLASS   Dual List Box Selector
+SELVAR1             AFCLASS   Dual List Box Selector1
+SENTRY_M            FSP       Simple Entry Model
+SERVCCMP            MDCLASS    
+SERVCCMP            MDCLH      
+SERVCOMM            ETSTOOL   Series View Manager Communication Class
+SERVER              IOM       IOM Server class
+SERVER              OPNOLAP   OpenOlap SAS Server
+SERVRCMP            MDCLASS    
+SERVRCMP            MDCLH      
+SERVRCNT            MDCLASS    
+SERVRCNT            MDCLH      
+SESSID              AFCLASS   Session ID Combo
+SESSIONEVENT_C      CLASSES   SAS Session Event Class
+SETARCHP            SCM       Define archive paths
+SHARETCP            MDCLASS    
+SHARETCP            MDCLH      
+SHEWHART            ROCFSMP   SHEWHART.CLASS
+SHOTSPOT            FSP       Segment Hotspot
+SIMPLE              ROCFSMP   SIMPLE.CLASS
+SIMPLETEST          IOMSAMP    
+SIMPLETESTPROXY     IOMSAMP    
+SIMPVIEW            ROCFSMP   SIMPVIEW.CLASS
+SINGLETON           IMAGEWD   Enforces only one instantiation of a given class
+SLCT                MDCLASS    
+SLCT                MDCLH      
+SLENTMSG            AFTOOLS   SCL List Utility Note
+SLIDER              FSP       Slider
+SLISTENTRYLIST_C    CLASSES   SLIST Entry List Model
+SMCOMBO             SCM       SCM combo - small control, action image
+SOCK                ROCFSMP   SOCK.CLASS
+SOCKCTRL            OBJPH     sk Socket Repository Registration & Control
+SOCKCTRL            OBJPOOL    
+SOFTCOMP            MDCLASS    
+SOFTCOMP            MDCLH      
+SORTHALT            MDDB      SORTHALT.CLASS
+SOURCEDOC           AFTOOLS   GenDoc Source Document Object
+SPINBOX_C           CLASSES   Spin Box Control
+SPLINE              FSP       Interactive Spline Object
+SPLIT               ROCFSMP   SPLIT.CLASS
+SRCCAT              MDCLASS    
+SRCCAT              MDCLH      
+SRCCODE             MDCLASS    
+SRCCODE             MDCLH      
+SRCFILE             MDCLASS    
+SRCFILE             MDCLH      
+SRCHBOX             SASDESK   List Box with Searching Capability
+SRCSTORE            MDCLASS    
+SRCSTORE            MDCLH      
+SRVINFO             RSASMOD   Server information class
+SRVTYPE             MDCLASS    
+SRVTYPE             MDCLH      
+STATIMG             FSP       Static Image
+STATION             CONNECT   STATION.CLASS
+STATSORT            EISSRV    Wizard page for analysis statistic and class sortorder
+STEPPRED            MDCLASS    
+STEPPRED            MDCLH      
+STREAM              MDCLASS    
+STREAM              MDCLH      
+STRING              AFCLASS   A character String
+SUBCOMBO            AFCLASS   Base Combo Box
+SUBMIT              ROCFSMP   SUBMIT.CLASS
+SUBPRCS             MDCLASS    
+SUBPRCS             MDCLH      
+SUBSET              MDCLASS    
+SUBSET              MDCLH      
+SUMMARY             RSASMOD    
+SUMMARY             RSCLMOD   SAS Dataset Summary
+SUMSTATS            MDCLASS    
+SUMSTATS            MDCLH      
+SXLEMAP             MDCLASS    
+SXLEMAP             MDCLH      
+SYNCSTEP            MDCLASS    
+SYNCSTEP            MDCLH      
+SYSTEM              FSP       System Object
+SYSTEMNODE          RSASMOD   System Server Node Class
+SYSTEM_C            CLASSES   System Object
+TABATTRS            FSP       VIEWTABLE: Table Attributes Composite
+TABBER              FSP       Tab Layout Object
+TABLCLLC            MDCLASS    
+TABLCLLC            MDCLH      
+TABLE               MDCLASS    
+TABLE               MDCLH     tb CMR Table Class
+TABLELDR            MDCLASS    
+TABLELDR            MDCLH      
+TABLELOC            EISSRV    Wizard page for Table Location
+TABLENODE           RSASMOD   Table Server Node Class
+TABLEVIEWER_C       CLASSES   tableviewer_c.CLASS
+TABLE_E             FSP       table_e.CLASS
+TABLE_ED            ETSTOOL   Table Editor w/o Titles
+TABLE_M             FSP       Table Data Model
+TABLE_T             ETSTOOL   Table Editor with Titles (Composite)
+TABMODL             AFCLASS   Tabber Data Model
+TABTABL             AFCLASS   Tabber Data Table
+TABTABLE            FSP       TABTABLE.CLASS
+TABULARLISTEDITOR_C CLASSES   tabularListEditor_c
+TABUNIT             AFCLASS   Tab Layout Object Unit Selector
+TABVIEWR            FSP       Table View Composite for V7 CE/PW/IE
+TAB_LIST            OBJPOOL   Tab_List.class
+TARGET              MDCLASS    
+TARGET              MDCLH      
+TASKCOMM            ETSTOOL   Task Communication Class
+TBLBRDR             FSP       Table editor borders
+TBLDEFLT            FSP       Table editor options
+TBLGRID             FSP       Table editor grid attributes
+TBLJUST             FSP       Table editor justification
+TBLMARGN            FSP       Table editor margins
+TCPIPCON            MDCLASS    
+TCPIPCON            MDCLH      
+TELOGCAT            SCHEDUL   Tracking Epilog Catalog Entry Class
+TELOGEXT            SCHEDUL   Tracking Epilog External File Class
+TENSOR              OPNOLAP   OpenOlap Common Processing
+TESTAPPLICATION     IOMSAMP   Test Application Class
+TESTAPPLICATIONIFNAMIOMSAMP   Test Application Class for outcall proxies
+TESTAPPLICATIONPROXYIOMSAMP   Test Application Class
+TESTCAT             MDCLASS    
+TESTCAT             MDCLH      
+TESTFLEA            MDCLASS    
+TESTFLEA            MDCLH      
+TESTGRND            MDCLASS    
+TESTGRND            MDCLH      
+TESTKTTN            MDCLASS    
+TESTKTTN            MDCLH      
+TESTLEG             MDCLASS    
+TESTLEG             MDCLH      
+TESTMS              MDCLASS    
+TESTMS              MDCLH      
+TESTROOT            MDCLASS    
+TESTROOT            MDCLH      
+TESTRQTT            MDCLASS    
+TESTRQTT            MDCLH      
+TESTV3CLASSES       ROCFSMP    
+TEST_AFTESTTYPES    IOMSAMP   SASHELP.IOMSAMP.TEST_AFTESTTYPES.CLASS
+TEXT                MDCLASS    
+TEXT                MDCLH      
+TEXTCAT             SCHEDUL   Catalog Source Entry class
+TEXTENTRY_C         CLASSES   Text Entry Control
+TEXTEXT             SCHEDUL   External File class
+TEXTFILE            MDCLASS    
+TEXTFILE            MDCLH      
+TEXTFILE            SCHEDUL   Textfile class
+TEXTLABEL_C         CLASSES   Text Label Control
+TEXTPAD             GNG       Input field (with host semantics)
+TEXTPAD_C           CLASSES   Text Pad Control
+TEXTPAGE            OBJPOOL   A page of text to store overflow text for any LongString attribute of any other class.
+TEXTSET             SCHEDUL   SAS Dataset class
+TIMEPLOT            ETSTOOL   Time Series Plot Class
+TIMER               ROCFSMP   TIMER.CLASS
+TIME_C              CLASSES   Time Series
+TIMSTMP             MDCLASS    
+TIMSTMP             MDCLH      
+TITLE               MARKET    TITLE.CLASS
+TITLES              AFCLASS   Titles Entry
+TLABEL              FSP       Text Label
+TMDDB_M             OPNMDDB   Tensor Axis Rowset/Cell Value Class
+TPKG                MDCLASS    
+TPKG                MDCLH      
+TPLOGCAT            SCHEDUL   Tracking Prolog Catalog Entry Class
+TPLOGEXT            SCHEDUL   Tracking Prolog External File Class
+TRANSFER            MDCLASS    
+TRANSFER            MDCLH      
+TRANSFM             MDCLASS    
+TRANSFM             MDCLH      
+TREE                MDCLASS    
+TREE                MDCLH      
+TREE                RSASMOD    
+TREE                RSCLMOD   Model to populate treeview
+TREEITERATOR        CLASSES   TreeIterator.class
+TREENODE_C          CLASSES   Tree Node
+TREEV2              RSASMOD    
+TREEV3              RSASMOD    
+TREEVIEW_C          CLASSES   Tree View Control
+TRNSACT             MDCLASS    
+TRNSACT             MDCLH      
+TRNSFORM            MDCLASS    
+TRNSFORM            MDCLH      
+TRNSFRM             MDCLASS    
+TRNSFRM             MDCLH      
+TRNSSTEP            MDCLASS    
+TRNSSTEP            MDCLH      
+TSUBMIT             ROCFSMP   TSUBMIT.CLASS
+TXTSTORE            MDCLASS    
+TXTSTORE            MDCLH      
+TYPE                CLASSES   Type Class
+TYPES               ROCFSMP   TYPES.CLASS
+UELOGCAT            SCHEDUL   User Epilog Catalog Entry Class
+UELOGEXT            SCHEDUL   User Epilog External File Class
+UICALEN             PUBLISH   Calendar widget class
+UICALEN             SCHEDUL   Calendar widget class
+UIDTTAB             SCHEDUL   Date/time tab composite
+UIJBTAB             SCHEDUL   Job tab composite
+UIJITAB             SCHEDUL   Job Information Library composite
+UIMDTAB             SCHEDUL   Metadata Library composite
+UIPETAB             SCHEDUL   User prolog/epilog tab composite
+UISCTAB             SCHEDUL   Scheduling Server tab composite
+UITRTAB             SCHEDUL   Tracking tab composite
+UKEY                MDCLASS    
+UKEY                MDCLH      
+UMLAUT              ROCFSMP   UMLAUT.CLASS
+UNIQUE              CONNECT   unique.class
+UNTFTM              MDCLASS    
+UNTFTM              MDCLH      
+UPLOGCAT            SCHEDUL   User Prolog Catalog Entry Class
+UPLOGEXT            SCHEDUL   User Prolog External File Class
+USER                SCHEDUL   User class
+USERAUTH            PRDAUTH   USERAUTH.CLASS
+USERAUTH            RPRDATH    
+USEREXIT            MDCLASS    
+USEREXIT            MDCLH      
+USERHALT            STPUTIL   SASHELP.WEBAPS.USERHALT.CLASS
+USERINFO            PRDAUTH   USERINFO.CLASS
+USERINFO            RPRDATH    
+UTILITIES           RSASMOD    
+UTILITY             ROCFSMP   UTILITY.CLASS
+V7INFCLS            ROCFSMP   V7INFCLS.CLASS
+VARIABLE            AFCLASS   Data Set Variable
+VARIABLE            FSP       SAS Variable Class
+VARIABLE            MDCLASS    
+VARIABLE            MDCLH      
+VARIABLELIST_C      CLASSES   Variable List Model
+VARIABLEVALUESLIST_CCLASSES   Variable Values List Model
+VCATVIEW            MARKET    VIEWER: CATVIEW subclass
+VERBMGR             OBJPH     vm CMR VERBMGR.CLASS
+VERBMGR             OBJPOOL    
+VIDEO               FSP       Video Player
+VLABUT              SCM       Version Label Utility
+VOCHART             SASDESK   Org Chart Desktop Viewer
+VSCRLCTL            AFCLASS   Page scroll control (vertical)
+VTABBER             SASDESK   VTABBER.CLASS
+VTABGEN             SASDESK   VTABGEN.CLASS
+VTABLE              SASDESK   Subclass table editor for detail view
+VTBL                ROCF      VTBL.CLASS
+VTFRAME             FSP       VIEWTABLE: Frame Subclass
+VTINPUT             FSP       Input Field (with host font)
+VTLABEL             FSP       Input Field Label (with host font)
+VTMSG               FSP       VIEWTABLE: Message Class
+VT_DATA_M           FSP       subclass of DATA_M.CLASS for Viewtable
+VT_MDDB_M           FSP       Viewtable: MDDB_M subclass
+VT_SENTRY_M         FSP       Viewtable: SENTRY_M subclass
+VWRKAREA            SASDESK   Work Area Folder Viewer
+WALOAD              MDCLASS    
+WALOAD              MDCLH      
+WCOLUMN             MDCLASS    
+WCOLUMN             MDCLH      
+WEBEIS              WEBEIS    MDDB Report Viewer Class
+WEBMSG              RSCLMOD   Web enabled message class
+WHERE               AFCLASS   Where class
+WHERE               MDCLASS    
+WHERE               MDCLH      
+WIDGET              FSP       SAS/AF Frame widget base class
+WIZARD              WIZARD    Virtual base Wizard class
+WIZEXP              DBIIMEX   Export Wizard
+WIZIMP              DBIIMEX   Import Wizard
+WIZPAGE             WIZARD    Virtual base Wizard page class
+WLIBLCL             SCHEDUL   Local Working Library
+WLIBRARY            MDCLASS    
+WLIBRARY            MDCLH      
+WLIBRMT             SCHEDUL   Remote Working Library
+WNPLOT              ETSTOOL   White Noise and Stationarity Plots
+WORKAREA            FSP       Work Area
+WORKLDR             MDCLASS    
+WORKLDR             MDCLH      
+WORKSPACE           IOM        
+WORKUNIT            OBJPH     wu CMR Workunit Class (Transaction Processing)
+WORKUNIT            OBJPOOL    
+WRKCOL              MDCLASS    
+WRKCOL              MDCLH      
+WRKTABLE            MDCLASS    
+WRKTABLE            MDCLH      
+WRMTOBJD            CONNECT   WRMTOBJD.CLASS
+WTABLE              MDCLASS    
+WTABLE              MDCLH      
+XBGEN               CMRGEN    Gen XML class
+XMLUTIL             OMAUTIL   Conversion between SCL lists and XML documents.
+XPATH               MDCLASS    
+XPATH               MDCLH      
+XTBL                AFCLASS   Subclass of x-table for business charts
+XTENSION            MDCLASS    
+XTENSION            MDCLH      
+ZOOMPLOT            ETSTOOL   Zoomable Plot Class
+ZOOMPLT2            ETSTOOL   Zoomable Plot Class
+_RSRC               SCM       TB: Resource Entry Class

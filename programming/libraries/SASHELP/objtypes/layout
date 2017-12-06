@@ -1,0 +1,48 @@
+DSGRAF00            GX        Graph with legend
+DSGRAF01            GX        Graph with legend / 1 footnote
+DSGRAF02            GX        Graph with legend / 2 footnotes
+DSGRAF10            GX        Graph with legend / 1 title
+DSGRAF11            GX        Graph with legend / 1 title, 1 footnote
+DSGRAF12            GX        Graph with legend / 1 title, 2 footnotes
+DSGRAF20            GX        Graph with legend / 2 titles
+DSGRAF21            GX        Graph with legend / 2 titles, 1 footnote
+DSGRAF22            GX        Graph with legend / 2 titles, 2 footnote
+DSGRAF30            GX        Graph with legend / 3 titles
+DSGRAF31            GX        Graph with legend / 3 titles, 1 footnote
+DSGRAF32            GX        Graph with legend / 3 titles, 2 footnote
+DSGRAF40            GX        Graph with legend / 4 titles
+DSGRAF41            GX        Graph with legend / 4 titles, 1 footnote
+DSGRAF42            GX        Graph with legend / 4 titles, 2 footnote
+DSMAP00             GX        Choropleth Map
+DSMAP10             GX        Choropleth Map / 1 title
+DSMAP20             GX        Choropleth Map / 2 titles
+DSPIE00             GX        Pie Chart
+DSPIE01             GX        Pie Chart / 1 footnote
+DSPIE02             GX        Pie Chart / 2 footnotes
+DSPIE10             GX        Pie Chart / 1 title
+DSPIE11             GX        Pie Chart / 1 title, 1 footnote
+DSPIE12             GX        Pie Chart / 1 title, 2 footnotes
+DSPIE20             GX        Pie Chart / 2 titles
+DSPIE21             GX        Pie Chart / 2 titles, 1 footnote
+DSPIE22             GX        Pie Chart / 2 titles, 2 footnotes
+DSPIE30             GX        Pie Chart / 3 titles
+DSPIE31             GX        Pie Chart / 3 titles, 1 footnote
+DSPIE32             GX        Pie Chart / 3 titles, 2 footnotes
+DSPIE40             GX        Pie Chart / 4 titles
+DSPIE41             GX        Pie Chart / 4 titles, 1 footnote
+DSPIE42             GX        Pie Chart / 4 titles, 2 footnotes
+DSPLOT00            GX        Full page graph
+DSPLOT01            GX        Full page graph / 1 footnote
+DSPLOT02            GX        Full page graph / 2 footnotes
+DSPLOT10            GX        Full page graph / 1 title
+DSPLOT11            GX        Full page graph / 1 title, 1 footnote
+DSPLOT12            GX        Full page graph / 1 title, 2 footnotes
+DSPLOT20            GX        Full page graph / 2 titles
+DSPLOT21            GX        Full page graph / 2 titles, 1 footnote
+DSPLOT22            GX        Full page graph / 2 titles, 2 footnotes
+DSPLOT30            GX        Full page graph / 3 titles
+DSPLOT31            GX        Full page graph / 3 titles, 1 footnote
+DSPLOT32            GX        Full page graph / 3 titles, 2 footnotes
+DSPLOT40            GX        Full page graph / 4 titles
+DSPLOT41            GX        Full page graph / 4 titles, 1 footnote
+DSPLOT42            GX        Full page graph / 4 titles, 2 footnotes

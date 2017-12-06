@@ -1,0 +1,69 @@
+ATTR                FSP       ATTR.HELP (used in ?)
+BATCH               OPNMDDB   Open OLAP Server BATCH.HELP
+CALENDAR            SCHEDUL   Calendar widget help
+CATFUNC             FSP       CATFUNC.HELP
+CICS                GRAPH     PROC GREPLAY - CICS Transmit screen
+COLOR               FSP       COLOR.HELP (used in ?)
+COLORS              FSP       from v612 sashelp.graph for scl func colorlist
+CUBE                OPNMDDB   Open OLAP Server CUBE.HELP
+DATASET1            FSP       DATASET1.HELP
+DIMNSION            OPNMDDB   Open OLAP Server DIMNSION.HELP
+FMT                 FSP       FORMAT: Char. & numeric formats: 03:16pm
+FMTC                FSP       FORMAT: Char. & numeric formats: 03:16pm
+FMTN                FSP       FORMAT: Char. & numeric formats: 03:16pm
+FMXL3               FSP       Selection list for ? in cat directory
+HELP                BASE      No More Help
+HELP                ETS       No More Help
+HELP                FSP       No More Help
+HELP                GI        HELP.HELP
+HELP                IML       No More Help
+HELP                STAT      No More Help
+HIERARCH            OPNMDDB   Open OLAP Server HIERARCH.HELP
+INFMT               FSP       INFORMATS: Char. & numeric infmts:03:15p
+INFMTC              FSP       INFORMATS: Char. & numeric infmts:03:15p
+INFMTD              MB        INFORMATS: date infmts only
+INFMTN              FSP       INFORMATS: Char. & numeric infmts:03:15p
+LEVEL               OPNMDDB   Open OLAP Server LEVEL.HELP
+LINE01              GRAPH     Line mode help for IGOUT command
+LINE02              GRAPH     Line mode help for TC command
+LINE03              GRAPH     Line mode help for TEMPLATE command
+LINE04              GRAPH     Line mode help for DEVICE command
+LINE05              GRAPH     Line mode help for VUID command
+LINE06              GRAPH     Line mode help for VDDNAME command
+LINE07              GRAPH     Line mode help for GOUT command
+LINE08              GRAPH     Line mode help for CC command
+LINE09              GRAPH     Line mode help for CMAP command
+LINE10              GRAPH     Line mode help for LIST command
+LINE11              GRAPH     Line mode help for ? command
+LINE12              GRAPH     Line mode help for FS command
+LINE13              GRAPH     Line mode help for QUIT, END, STOP
+LINE14              GRAPH     Line mode help for REPLAY, PLAY
+LINE15              GRAPH     Line mode help for TREPLAY, TPLAY
+LINE16              GRAPH     Line mode help for PREVIEW command
+LINE17              GRAPH     Line mode help for VXMIT command
+LINE18              GRAPH     Line mode help for GROUP command
+LINE19              GRAPH     Line mode help for MODIFY command
+LINE20              GRAPH     Line mode help for DELETE command
+LINE21              GRAPH     Line mode help for TDELETE command
+LINE22              GRAPH     Line mode help for COPY command
+LINE23              GRAPH     Line mode help for TCOPY command
+LINE24              GRAPH     Line mode help for TDEF command
+LINE25              GRAPH     Line mode help for CCOPY command
+LINE26              GRAPH     line mode help for       command
+MAP                 GRAPH     Greplay mapping
+MEASURE             OPNMDDB   MEASURE.HELP
+RESOLVE             OPNMDDB   Open OLAP Server RESOLVE.HELP
+SCCAT               GRAPH     CC field (GREPLAY screen)
+SCMAP               GRAPH     CMAP field (GREPLAY screen)
+SDESC               GRAPH     Description field (GREPLAY screen)
+SDEV                GRAPH     Device field (GREPLAY screen)
+SGOUT               GRAPH     GOUT field (GREPLAY screen)
+SNAME               GRAPH     Name field (GREPLAY screen)
+SSEL                GRAPH     Select field (GREPLAY screen)
+STC                 GRAPH     TC Field (GREPLAY screen)
+STEMPLA             GRAPH     Template field (GREPLAY screen)
+STEPP               GRAPH     interpolation help for dms symbol window
+STYPE               GRAPH     Type field (GREPLAY screen)
+TCOLOR              GRAPH     Color field (GREPLAY screen)
+TPANCLP             GRAPH     Panel & Clp fields (Template Design)
+TPOINTS             GRAPH     Panel vertices (Template Design Screen)

@@ -1,0 +1,73 @@
+ASTER               CORE      SAS/ACCESS to Aster nCluster
+BASE                CORE      Base SAS I/O Engine
+BLOOMBRG            CORE      SAS/Access Interface To Bloomberg
+CRSPACC             CORE      Access to CRSPAccess database
+CRSPCCM             CORE      Access to Expressfeed CCM databases
+CVP                 CORE      Character Variable Padding Engine
+DB2                 CORE      SAS/ACCESS to DB2
+DB2_6000            CORE      DB2 Unix engine
+DB2_UNIX            CORE      DB2 Unix engine
+FAMECHLI            CORE      Access to FAME CHLI database
+FEDSVR              CORE      DataFlux Federation Server Engine
+GREENPLM            CORE      SAS/ACCESS to Greenplum
+HADOOP              CORE      SAS/ACCESS to Hadoop
+HAWQ                CORE      SAS/ACCESS Interface to HAWQ
+HPDATA              CORE      High Performance Distributed Data Engine
+IMDB                CORE      In Memory Database Engine
+IMPALA              CORE      SAS/ACCESS Interface to Cloudera Impala
+INFOMAPS            CORE      SAS Information Maps Engine
+INFORMIX            CORE      SAS/ACCESS to Informix
+JMP                 CORE      Base SAS Libname JMP Engine
+META                CORE      Metadata engine
+MYSQL               CORE      SAS/ACCESS Interface to MySQL
+NEOVIEW             CORE      SAS/ACCESS Interface to HP Neoview
+NETEZZA             CORE      SAS/ACCESS Interface to Netezza
+ODBC                CORE      SAS/ACCESS to ODBC
+OLAP                CORE      SQL Passthru Engine for OLAP
+ORACLE              CORE      SAS/ACCESS to Oracle
+OSIRIS              CORE      OSIRIS Data File engine
+PCFILES             CORE      SAS/ACCESS to PC Files Server
+PIAF                CORE      SAS/ACCESS Interface to the PI System Asset Framework
+PISYSAF             CORE      SAS/ACCESS Interface to the PI System Asset Framework
+PISYSTEM            CORE      SAS/ACCESS Interface to the PI System
+POSTGRES            CORE      SAS/ACCESS Interface to PostgreSQL
+R3                  CORE      SAS Engine for SAP R/3
+REMOTE              CORE      SAS/SHARE Remote access engine
+REMOTE8             CORE      SAS/SHARE V8 Remote access engine
+REUTERS             CORE      Reuters financial market data interface
+SAPHANA             CORE      SAS/ACCESS Interface to SAP HANA
+SASECRSP            CORE      Access to CRSPAccess database
+SASEFAME            CORE      Access to FAME CHLI database
+SASEFRED            CORE      ETS Interface Engine to FRED Data
+SASTS               CORE      SAS Table Services Engine
+SPDE                CORE      Scalable Performance Data Engine
+SPSS                CORE      SPSS Save File engine
+SQLSVR              CORE      SAS/ACCESS Interface to Microsoft SQL Server
+SQLVIEW             CORE      SQL view engine
+SXLE                CORE      W3C XML input/output engine
+SYBASE              CORE      SAS/ACCESS to Sybase
+SYBASEIQ            CORE      SAS/ACCESS to Sybase IQ
+TAPE                CORE      Version 7 sequential engine
+TERADATA            CORE      SAS/ACCESS to Teradata
+TRACE               CORE      Version 7 trace engine
+V6                  CORE      Base SAS I/O Engine
+V607                CORE      Base SAS I/O Engine
+V608                CORE      Base SAS I/O Engine
+V609                CORE      Base SAS I/O Engine
+V610                CORE      Base SAS I/O Engine
+V611                CORE      Base SAS I/O Engine
+V612                CORE      Base SAS I/O Engine
+V6TAPE              CORE      Version 6 sequential engine
+V7                  CORE      Base SAS I/O Engine
+V701                CORE      Base SAS I/O Engine
+V7TAPE              CORE      Version 7 sequential engine
+V8                  CORE      Base SAS I/O Engine
+V8TAPE              CORE      Version 7 sequential engine
+V9                  CORE      Base SAS I/O Engine
+V9TAPE              CORE      Version 7 sequential engine
+VERTICA             CORE      SAS/ACCESS Interface to Vertica
+XLSX                CORE      SAS Interface to XLSX Files
+XML                 CORE      W3C XML input/output engine
+XML92               CORE      W3C XML input/output engine
+XMLV2               CORE      W3C XML input/output engine
+XPORT               CORE      Version 5 transport datasets

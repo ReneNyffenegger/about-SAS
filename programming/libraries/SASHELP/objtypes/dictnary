@@ -1,0 +1,10 @@
+CITIES              BASE      Auxiliary dictionary CITY.
+CITIES              CORE      Auxiliary dictionary CITIES.
+CNTRIES             BASE      Auxiliary dictionary CNTRY.
+CNTRIES             CORE      Auxiliary dictionary CNTRIES.
+MASTER              BASE      Auxiliary dictionary MASTER.
+MASTER              CORE      Auxiliary dictionary MASTER.
+NAMES               BASE      Auxiliary dictionary NAMES.
+NAMES               CORE      Auxiliary dictionary NAMES.
+STATES              BASE      Auxiliary dictionary STATE.
+STATES              CORE      Auxiliary dictionary STATES.

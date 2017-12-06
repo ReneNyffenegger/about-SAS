@@ -1,0 +1,154 @@
+BEANIPA             DATAFMT   BEA National Income and Product Accounts Tapes
+BEANIPAD            DATAFMT   BEA National Income and Product Accounts Diskettes
+BEASPAGE            DATAFMT   BEA S-Page Current Business Statistics
+BLSCPI              DATAFMT   BLS Consumer Price Index Surveys (CU,CW)
+BLSEENA             DATAFMT   BLS Employment, Hours, and Earnings National Survey (EE)
+BLSEESA             DATAFMT   BLS State and Area Employment, Hours, and Earnings Survey (SA)
+BLSWPI              DATAFMT   BLS Producer Price Index Survey (WP)
+CITIBASE            DATAFMT   Citibase New File Format
+CITIDEMO            DATAFMT   Citibase New File Format
+CITIDISK            DATAFMT   Citibase Diskette Format Database
+CITIDSKO            DATAFMT   Citibase Old Diskette Format Database
+CITIOLD             DATAFMT   Citibase Old File Format
+CR95DAA             DATAFMT   CRSP Daily VAX Binary File Annual Data Format
+CR95DAI             DATAFMT   CRSP Daily VAX Binary Calender/Indices File Format
+CR95DAS             DATAFMT   CRSP Daily VAX Binary Security File Format
+CR95DIA             DATAFMT   CRSP Daily IBM Binary File Annual Data Format
+CR95DII             DATAFMT   CRSP Daily IBM Binary Calender/Indices File Format
+CR95DIS             DATAFMT   CRSP Daily IBM Binary Security File Format
+CR95DSA             DATAFMT   CRSP Daily Binary File Annual Data Format
+CR95DSI             DATAFMT   CRSP Daily Binary Calender/Indices File Format
+CR95DSS             DATAFMT   CRSP Daily Binary Security File Format
+CR95DUA             DATAFMT   CRSP Daily Binary File Annual Data Format
+CR95DUI             DATAFMT   CRSP Daily Binary Calender/Indices File Format
+CR95DUS             DATAFMT   CRSP Daily Binary Security File Format
+CR95DVA             DATAFMT   CRSP Daily VAX Binary File Annual Data Format
+CR95DVI             DATAFMT   CRSP Daily VAX Binary Calender/Indices File Format
+CR95DVS             DATAFMT   CRSP Daily VAX Binary Security File Format
+CR95MAA             DATAFMT   CRSP Monthly VAX Binary File Annual Data Format
+CR95MAI             DATAFMT   CRSP Monthly VAX Binary Calender/Indices File Format
+CR95MAS             DATAFMT   CRSP Monthly VAX Binary Security File Format
+CR95MIA             DATAFMT   CRSP Monthly IBM Binary File Annual Data Format
+CR95MII             DATAFMT   CRSP Monthly IBM Binary Calender/Indices File Format
+CR95MIS             DATAFMT   CRSP Monthly IBM Binary Security File Format
+CR95MSA             DATAFMT   CRSP Monthly Binary File Annual Data Format
+CR95MSI             DATAFMT   CRSP Monthly Binary Calender/Indices File Format
+CR95MSS             DATAFMT   CRSP Monthly Binary Security File Format
+CR95MUA             DATAFMT   CRSP Monthly Binary File Annual Data Format
+CR95MUI             DATAFMT   CRSP Monthly Binary Calender/Indices File Format
+CR95MUS             DATAFMT   CRSP Monthly Binary Security File Format
+CR95MVA             DATAFMT   CRSP Monthly VAX Binary File Annual Data Format
+CR95MVI             DATAFMT   CRSP Monthly VAX Binary Calender/Indices File Format
+CR95MVS             DATAFMT   CRSP Monthly VAX Binary Security File Format
+CRE210SO            DATAFMT   C:\crsp_285_291cstprint_post913sp3metadata\acclib\crsp210.dat
+CRE276SO            DATAFMT   C:\crsp_285_291cstprint_post913sp3metadata\acclib\crsp276.dat
+CRE282CO            DATAFMT   C:\crsp_285_291cstprint_post913sp3metadata\acclib\cst282.dat
+CRE282IO            DATAFMT   C:\crsp_285_291cstprint_post913sp3metadata\acclib\ind282.dat
+CRE282SO            DATAFMT   C:\crsp_285_291cstprint_post913sp3metadata\acclib\crsp282.dat
+CRE290CO            DATAFMT   C:\crsp_285_291cstprint_post913sp3metadata\acclib\cst290.dat
+CRE290IO            DATAFMT   C:\crsp_285_291cstprint_post913sp3metadata\acclib\ind290.dat
+CRE291C             DATAFMT   C:\crsp_285_291cstprint_post913sp3metadata\acclib\cst291.dat
+CRE291I             DATAFMT   C:\crsp_285_291cstprint_post913sp3metadata\acclib\ind291.dat
+CRE292C             DATAFMT   C:\crsp_285_291cstprint_post913sp3metadata\acclib\cst292.dat
+CRE292SO            DATAFMT   C:\crsp_285_291cstprint_post913sp3metadata\acclib\crsp292.dat
+CRE920C             DATAFMT   C:\crsp_285_291cstprint_post913sp3metadata\acclib\cst_inp.dat
+CRE920I             DATAFMT   C:\crsp_285_291cstprint_post913sp3metadata\acclib\ind_inp.dat
+CRE920O             DATAFMT   C:\crsp_285_291cstprint_post913sp3metadata\acclib\crspinp.dat
+CRE920S             DATAFMT   C:\crsp_285_291cstprint_post913sp3metadata\acclib\stk_inp.dat
+CRSPDAA             DATAFMT   CRSP Daily VAX Binary File Annual Data Format
+CRSPDAI             DATAFMT   CRSP Daily VAX Binary Calender/Indices File Format
+CRSPDAS             DATAFMT   CRSP Daily VAX Binary Security File Format
+CRSPDBA             DATAFMT   CRSP Daily Binary File Annual Data Format
+CRSPDBI             DATAFMT   CRSP Daily Binary Calender/Indices File Format
+CRSPDBS             DATAFMT   CRSP Daily Binary Security File Format
+CRSPDCA             DATAFMT   CRSP Daily Character File Annual Data Format
+CRSPDCI             DATAFMT   CRSP Daily Character Calendar/Indices File Format
+CRSPDCS             DATAFMT   CRSP Daily Character Security File Format
+CRSPDIA             DATAFMT   CRSP Daily IBM Binary File Annual Data Format
+CRSPDII             DATAFMT   CRSP Daily IBM Binary Calender/Indices File Format
+CRSPDIS             DATAFMT   CRSP Daily IBM Binary Security File Format
+CRSPDOA             DATAFMT   CRSP Daily Old Character File Annual Data Format
+CRSPDOI             DATAFMT   CRSP Daily Old Character Calendar/Indices File Format
+CRSPDOS             DATAFMT   CRSP Daily Old Character Security File Format
+CRSPDSA             DATAFMT   CRSP Daily Binary File Annual Data Format
+CRSPDSI             DATAFMT   CRSP Daily Binary Calender/Indices File Format
+CRSPDSS             DATAFMT   CRSP Daily Binary Security File Format
+CRSPDUA             DATAFMT   CRSP Daily Binary File Annual Data Format
+CRSPDUI             DATAFMT   CRSP Daily Binary Calender/Indices File Format
+CRSPDUS             DATAFMT   CRSP Daily Binary Security File Format
+CRSPDVA             DATAFMT   CRSP Daily VAX Binary File Annual Data Format
+CRSPDVI             DATAFMT   CRSP Daily VAX Binary Calender/Indices File Format
+CRSPDVS             DATAFMT   CRSP Daily VAX Binary Security File Format
+CRSPMAA             DATAFMT   CRSP Monthly VAX Binary File Annual Data Format
+CRSPMAI             DATAFMT   CRSP Monthly VAX Binary Calender/Indices File Format
+CRSPMAS             DATAFMT   CRSP Monthly VAX Binary Security File Format
+CRSPMBA             DATAFMT   CRSP Monthly Binary File Annual Data Format
+CRSPMBI             DATAFMT   CRSP Monthly Binary Calender/Indices File Format
+CRSPMBS             DATAFMT   CRSP Monthly Binary Security File Format
+CRSPMCA             DATAFMT   CRSP Monthly Character File Annual Data Format
+CRSPMCI             DATAFMT   CRSP Monthly Character Calendar/Indices File Format
+CRSPMCS             DATAFMT   CRSP Monthly Character Security File Format
+CRSPMIA             DATAFMT   CRSP Monthly IBM Binary File Annual Data Format
+CRSPMII             DATAFMT   CRSP Monthly IBM Binary Calender/Indices File Format
+CRSPMIS             DATAFMT   CRSP Monthly IBM Binary Security File Format
+CRSPMOA             DATAFMT   CRSP Monthly Old Character File Annual Data Format
+CRSPMOI             DATAFMT   CRSP Monthly Old Character Calendar/Indices File Format
+CRSPMOS             DATAFMT   CRSP Monthly Old Character Security File Format
+CRSPMSA             DATAFMT   CRSP Monthly Binary File Annual Data Format
+CRSPMSI             DATAFMT   CRSP Monthly Binary Calender/Indices File Format
+CRSPMSS             DATAFMT   CRSP Monthly Binary Security File Format
+CRSPMUA             DATAFMT   CRSP Monthly Binary File Annual Data Format
+CRSPMUI             DATAFMT   CRSP Monthly Binary Calender/Indices File Format
+CRSPMUS             DATAFMT   CRSP Monthly Binary Security File Format
+CRSPMVA             DATAFMT   CRSP Monthly VAX Binary File Annual Data Format
+CRSPMVI             DATAFMT   CRSP Monthly VAX Binary Calender/Indices File Format
+CRSPMVS             DATAFMT   CRSP Monthly VAX Binary Security File Format
+CRY2DCA             DATAFMT   CRSP Daily Character File Annual Data Format
+CRY2DCI             DATAFMT   CRSP Daily Character Calendar/Indices File Format
+CRY2DCS             DATAFMT   CRSP Daily Character Security File Format
+CRY2DIA             DATAFMT   CRSP Daily IBM Binary File Annual Data Format
+CRY2DII             DATAFMT   CRSP Daily IBM Binary Calender/Indices File Format
+CRY2DIS             DATAFMT   CRSP Daily IBM Binary Security File Format
+CRY2DUA             DATAFMT   CRSP Daily Binary File Annual Data Format
+CRY2DUI             DATAFMT   CRSP Daily Binary Calender/Indices File Format
+CRY2DUS             DATAFMT   CRSP Daily Binary Security File Format
+CRY2DVA             DATAFMT   CRSP Daily VAX Binary File Annual Data Format
+CRY2DVI             DATAFMT   CRSP Daily VAX Binary Calender/Indices File Format
+CRY2DVS             DATAFMT   CRSP Daily VAX Binary Security File Format
+CRY2MCA             DATAFMT   CRSP Monthly Character File Annual Data Format
+CRY2MCI             DATAFMT   CRSP Monthly Character Calendar/Indices File Format
+CRY2MCS             DATAFMT   CRSP Monthly Character Security File Format
+CRY2MIA             DATAFMT   CRSP Monthly IBM Binary File Annual Data Format
+CRY2MII             DATAFMT   CRSP Monthly IBM Binary Calender/Indices File Format
+CRY2MIS             DATAFMT   CRSP Monthly IBM Binary Security File Format
+CRY2MUA             DATAFMT   CRSP Monthly Binary File Annual Data Format
+CRY2MUI             DATAFMT   CRSP Monthly Binary Calender/Indices File Format
+CRY2MUS             DATAFMT   CRSP Monthly Binary Security File Format
+CRY2MVA             DATAFMT   CRSP Monthly VAX Binary File Annual Data Format
+CRY2MVI             DATAFMT   CRSP Monthly VAX Binary Calender/Indices File Format
+CRY2MVS             DATAFMT   CRSP Monthly VAX Binary Security File Format
+CS48QIBM            DATAFMT   COMPUSTAT 48-Quarter, IBM 360/370 Format
+CS48QUC             DATAFMT   COMPUSTAT 48-Quarter, Universal Character Format
+CSAIBM              DATAFMT   COMPUSTAT Annual,IBM 360/370 Format
+CSAIY2              DATAFMT   COMPUSTAT Annual,IBM 360/370 Format
+CSAUC               DATAFMT   COMPUSTAT Annual, Universal Character Format
+CSAUCY2             DATAFMT   COMPUSTAT Annual, Universal Character Format
+CSAUCY3             DATAFMT   COMPUSTAT Annual, ASCII Universal Character Format
+CSFCANN             DATAFMT   COMPUSTAT Full Coverage Annual, ASCII Format
+CSFCQTR             DATAFMT   COMPUSTAT 48-Quarter, Universal Character Format
+CSQIY2              DATAFMT   COMPUSTAT 48-Quarter, IBM 360/370 Format
+CSQUCY2             DATAFMT   COMPUSTAT 48-Quarter, Universal Character Format
+CSQUCY3             DATAFMT   COMPUSTAT 48-Quarter, Universal Character Format
+DRIBASIC            DATAFMT   DRI Basic Economics Data Tape Format
+DRIDDS              DATAFMT   DRI Data Delivery Service Time Series
+DRIPLUS7            DATAFMT   DRI Data Delivery Service Time Series
+FAME                DATAFMT   FAME Database File Format
+HAVER               DATAFMT   Haver Analytics Tape File Format
+IMFBOPSP            DATAFMT   IMF Balance of Payment Statistics, Packed Format
+IMFDOTSP            DATAFMT   IMF Direction of Trade Statistics, Packed Format
+IMFGFSP             DATAFMT   IMF Goverment Finance Statistics, Packed Format
+IMFIFSP             DATAFMT   IMF International Financial Statistics, Packed Format
+OECDANA             DATAFMT   OECD Annual National Accounts Tape Format
+OECDMEI             DATAFMT   OECD Main Economic Indicators Tape Format
+OECDQNA             DATAFMT   OECD Quarterly National Accounts Tape Format
+WEFADISK            DATAFMT   Wharton Economic Finance Analytic Diskette Data

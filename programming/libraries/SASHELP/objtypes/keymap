@@ -1,0 +1,281 @@
+AARA                DRAFT     MacOS 4-arabic
+AARA                FONTS     MacOS 4-arabic
+ACYR                DRAFT     MacOS 7-cyrillic
+ACYR                FONTS     MacOS 7-cyrillic
+AEUR                DRAFT     MacOS 29-easteuro
+AEUR                FONTS     MacOS 29-easteuro
+AGRK                DRAFT     MacOS 6-greek
+AGRK                FONTS     MacOS 6-greek
+AHEB                DRAFT     MacOS 5-hebrew
+AHEB                FONTS     MacOS 5-hebrew
+AICE                DRAFT     MacOS 37-icelandic
+AICE                FONTS     MacOS 37-icelandic
+ANSI                DRAFT     7-bit ASCII
+ANSI                FONTS     7-bit ASCII
+ARAB                DRAFT     ISO 8859/6-arabic
+ARAB                FONTS     ISO 8859/6-arabic
+AROM                DRAFT     MacOS 0-roman
+AROM                FONTS     MacOS 0-roman
+ASCDBCS             DRAFT     Eight-bit DBCS         Japanese
+ASCDBCS             FONTS     Eight-bit DBCS         Japanese
+ATHA                DRAFT     MacOS 21-thai
+ATHA                FONTS     MacOS 21-thai
+ATUR                DRAFT     MacOS 35-turish
+ATUR                FONTS     MacOS 35-turish
+AUKR                DRAFT     MacOS 152-ukraine
+AUKR                FONTS     MacOS 152-ukraine
+CYRL                DRAFT     ISO 8859/5-cyrill
+CYRL                FONTS     ISO 8859/5-cyrill
+E037                DRAFT     EBCDIC cp037-usa
+E037                FONTS     EBCDIC cp037-usa
+E097                FONTS     EBCDIC cp1097
+E137                FONTS     EBCDIC cp1137
+E140                DRAFT     EBCDIC cp1140-usa
+E140                FONTS     EBCDIC cp1140-usa
+E141                DRAFT     EBCDIC cp1141-de
+E141                FONTS     EBCDIC cp1141-de
+E142                DRAFT     EBCDIC cp1142-da
+E142                FONTS     EBCDIC cp1142-da
+E143                DRAFT     EBCDIC cp1143-fi
+E143                FONTS     EBCDIC cp1143-fi
+E144                DRAFT     EBCDIC cp1144-it
+E144                FONTS     EBCDIC cp1144-it
+E145                DRAFT     EBCDIC cp1145-es
+E145                FONTS     EBCDIC cp1145-es
+E146                DRAFT     EBCDIC cp1146-uk
+E146                FONTS     EBCDIC cp1146-uk
+E147                DRAFT     EBCDIC cp1147-fr
+E147                FONTS     EBCDIC cp1147-fr
+E148                DRAFT     EBCDIC cp1148-inter
+E148                FONTS     EBCDIC cp1148-inter
+E149                FONTS     EBCDIC cp1149
+E153                FONTS     EBCDIC cp1153
+E154                FONTS     EBCDIC cp1154
+E155                FONTS     EBCDIC cp1155
+E156                FONTS     EBCDIC cp1156
+E157                FONTS     EBCDIC cp1157
+E158                FONTS     EBCDIC cp1158
+E273                DRAFT     EBCDIC cp273-de
+E273                FONTS     EBCDIC cp273-de
+E275                DRAFT     EBCDIC cp275-br
+E275                FONTS     EBCDIC cp275-br
+E277                DRAFT     EBCDIC cp277-da
+E277                FONTS     EBCDIC cp277-da
+E278                DRAFT     EBCDIC cp278-fi
+E278                FONTS     EBCDIC cp278-fi
+E280                DRAFT     EBCDIC cp280-it
+E280                FONTS     EBCDIC cp280-it
+E284                DRAFT     EBCDIC cp284-es
+E284                FONTS     EBCDIC cp284-es
+E285                DRAFT     EBCDIC cp285-uk
+E285                FONTS     EBCDIC cp285-uk
+E297                DRAFT     EBCDIC cp297-fr
+E297                FONTS     EBCDIC cp297-fr
+E420                DRAFT     EBCDIC cp420-ar
+E420                FONTS     EBCDIC cp420-ar
+E424                DRAFT     EBCDIC cp424-iw
+E424                FONTS     EBCDIC cp424-iw
+E425                DRAFT     EBCDIC cp425-ar
+E425                FONTS     EBCDIC cp425-ar
+E500                DRAFT     EBCDIC cp500-inter
+E500                FONTS     EBCDIC cp500-inter
+E838                DRAFT     EBCDIC cp838-th
+E838                FONTS     EBCDIC cp838-th
+E870                DRAFT     EBCDIC cp870-lat2
+E870                FONTS     EBCDIC cp870-lat2
+E875                DRAFT     EBCDIC cp875-el
+E875                FONTS     EBCDIC cp875-el
+E880                DRAFT     EBCDIC cp880-ru
+E880                FONTS     EBCDIC cp880-ru
+E905                FONTS     EBCDIC cp905
+E924                DRAFT     EBCDIC cp924-lat1
+E924                FONTS     EBCDIC cp924-lat1
+EBAL                DRAFT     EBCDIC cp1112-balt
+EBAL                FONTS     EBCDIC cp1112-balt
+ECYR                DRAFT     EBCDIC cp1026-cyrl
+ECYR                FONTS     EBCDIC cp1025-cyrl
+EEST                DRAFT     EBCDIC cp1122-et
+EEST                FONTS     EBCDIC cp1122-et
+ELAT                DRAFT     EBCDIC cp1047-lat1
+ELAT                FONTS     EBCDIC cp1047-lat1
+EO40                DRAFT     OE EBCDIC cp1140-usa
+EO40                FONTS     OE EBCDIC cp1140-usa
+EO41                DRAFT     OE EBCDIC cp1141-de
+EO41                FONTS     OE EBCDIC cp1141-de
+EO42                DRAFT     OE EBCDIC cp1142-da
+EO42                FONTS     OE EBCDIC cp1142-da
+EO43                DRAFT     OE EBCDIC cp1143-fi
+EO43                FONTS     OE EBCDIC cp1143-fi
+EO44                DRAFT     OE EBCDIC cp1144-it
+EO44                FONTS     OE EBCDIC cp1144-it
+EO45                DRAFT     OE EBCDIC cp1145-es
+EO45                FONTS     OE EBCDIC cp1145-es
+EO46                DRAFT     OE EBCDIC cp1146-uk
+EO46                FONTS     OE EBCDIC cp1146-uk
+EO47                DRAFT     OE EBCDIC cp1147-fr
+EO47                FONTS     OE EBCDIC cp1147-fr
+EO48                DRAFT     OE EBCDIC cp1148-inter
+EO48                FONTS     OE EBCDIC cp1148-inter
+EO53                FONTS     OpenEd EBCDIC cp1153
+EO54                FONTS     OpenEd EBCDIC cp1154
+EO55                FONTS     OpenEd EBCDIC cp1155
+EO56                FONTS     OpenEd EBCDIC cp1156
+EO57                FONTS     OpenEd EBCDIC cp1157
+EO58                FONTS     OpenEd EBCDIC cp1158
+EOA2                DRAFT     OE EBCDIC cp803-ar
+EOA2                FONTS     OE EBCDIC cp425-ar
+EOAR                DRAFT     OE EBCDIC cp420-ar
+EOAR                FONTS     OE EBCDIC cp420-ar
+EOBL                DRAFT     OE EBCDIC cp1112-bal
+EOBL                FONTS     OE EBCDIC cp1112-balt
+EOBR                DRAFT     OE EBCDIC cp275-br
+EOBR                FONTS     OE EBCDIC cp275-br
+EOCY                DRAFT     OE EBCDIC cp1025-cyr
+EOCY                FONTS     OE EBCDIC cp1025-cyrl
+EODA                DRAFT     OE EBCDIC cp277-da
+EODA                FONTS     OE EBCDIC cp277-da
+EODE                DRAFT     OE EBCDIC cp273-de
+EODE                FONTS     OE EBCDIC cp273-de
+EOEL                DRAFT     OE EBCDIC cp875-el
+EOEL                FONTS     OE EBCDIC cp875-el
+EOES                DRAFT     OE EBCDIC cp284-es
+EOES                FONTS     OE EBCDIC cp284-es
+EOET                DRAFT     OE EBCDIC cp1122-et
+EOET                FONTS     OE EBCDIC cp1122-et
+EOFA                FONTS     OpenEd EBCDIC cp1097
+EOFI                DRAFT     OE EBCDIC cp278-fi
+EOFI                FONTS     OE EBCDIC cp278-fi
+EOFR                DRAFT     OE EBCDIC cp297-fr
+EOFR                FONTS     OE EBCDIC cp297-fr
+EOIN                FONTS     OpenEd EBCDIC cp1137
+EOIS                FONTS     OpenEd EBCDIC cp1149
+EOIT                DRAFT     OE EBCDIC cp280-it
+EOIT                FONTS     OE EBCDIC cp280-it
+EOIW                DRAFT     OE EBCDIC cp424-iw
+EOIW                FONTS     OE EBCDIC cp424-iw
+EOL1                DRAFT     OE EBCDIC cp1047-lt1
+EOL1                FONTS     OE EBCDIC cp1047-lat1
+EOL2                DRAFT     OE EBCDIC cp870-lt2
+EOL2                FONTS     OE EBCDIC cp870-lat2
+EOL3                FONTS     OpenEd EBCDIC cp905
+EOLT                DRAFT     OE EBCDIC cp924-lat1
+EOLT                FONTS     OE EBCDIC cp924-lat1
+EOSW                DRAFT     OE EBCDIC cp500-inter
+EOSW                FONTS     OE EBCDIC cp500-inter
+EOTH                DRAFT     OE EBCDIC cp838-th
+EOTH                FONTS     OE EBCDIC cp838-th
+EOTR                DRAFT     OE EBCDIC cp1026-tr
+EOTR                FONTS     OE EBCDIC cp1026-tr
+EOUK                DRAFT     OE EBCDIC cp285-uk
+EOUK                FONTS     OE EBCDIC cp285-uk
+EOUS                DRAFT     OE EBCDIC cp037-usa
+EOUS                FONTS     OE EBCDIC cp037-usa
+EOVI                DRAFT     OE EBCDIC cp1130-vi
+EOVI                FONTS     OE EBCDIC cp1130-vi
+ETUR                DRAFT     EBCDIC cp1026-tr
+ETUR                FONTS     EBCDIC cp1026-tr
+EVIE                DRAFT     EBCDIC cp1130-vi
+EVIE                FONTS     EBCDIC cp1130-vi
+GREK                DRAFT     ISO 8859/7-greek
+GREK                FONTS     ISO 8859/7-greek
+HEBR                DRAFT     ISO 8859/8-hebrew
+HEBR                FONTS     ISO 8859/8-hebrew
+HP                  DRAFT     Eight-bit HP Roman     International
+HP                  FONTS     Eight-bit HP Roman     International
+IDENTITY            DRAFT     Eight-bit IDENTITY     International
+IDENTITY            FONTS     Eight-bit IDENTITY     International
+ISO8859             DRAFT     Eight-bit ISO-8859     International
+ISO8859             FONTS     Eight-bit ISO-8859     International
+LAT1                DRAFT     ISO 8859/1-latin1
+LAT1                FONTS     ISO 8859/1-latin1
+LAT2                DRAFT     ISO 8859/2-latin2
+LAT2                FONTS     ISO 8859/2-latin2
+LAT3                DRAFT     ISO 8859/3-latin3
+LAT3                FONTS     ISO 8859/3-latin3
+LAT4                DRAFT     ISO 8859/4-latin4
+LAT4                FONTS     ISO 8859/4-latin4
+LAT5                DRAFT     ISO 8859/9-latin5
+LAT5                FONTS     ISO 8859/9-latin5
+LAT6                DRAFT     ISO 8859/10-latin6
+LAT6                FONTS     ISO 8859/10-latin6
+LAT8                FONTS     latin8
+LAT9                DRAFT     ISO 8859/15-latin9
+LAT9                FONTS     ISO 8859/15-latin9
+LATIN2              DRAFT     Key Map
+LATIN2              FONTS     Key Map
+P098                FONTS     Farsi 1098
+P437                DRAFT     IBMPC OEM 437-usa
+P437                FONTS     IBMPC OEM 437-usa
+P720                DRAFT     MSDOS OEM 720-ar
+P720                FONTS     MSDOS OEM 720-ar
+P737                DRAFT     MSDOS OEM 737-el
+P737                FONTS     MSDOS OEM 737-el
+P775                DRAFT     MSDOS OEM 775-balt
+P775                FONTS     MSDOS OEM 775-balt
+P806                FONTS     PC806
+P850                DRAFT     IBMPC OEM 850-west
+P850                FONTS     IBMPC OEM 850-west
+P852                DRAFT     IBMPC OEM 852-slav
+P852                FONTS     IBMPC OEM 852-slav
+P855                DRAFT     IBMPC OEM 855-cyrl
+P855                FONTS     IBMPC OEM 855-cyrl
+P857                DRAFT     IBMPC OEM 857-tr
+P857                FONTS     IBMPC OEM 857-tr
+P858                DRAFT     IBMPC OEM 858-euro
+P858                FONTS     IBMPC OEM 858-euro
+P860                DRAFT     IBMPC OEM 860-pt
+P860                FONTS     IBMPC OEM 860-pt
+P861                DRAFT     IBMPC OEM 861-is
+P861                FONTS     IBMPC OEM 861-is
+P862                DRAFT     IBMPC OEM 862-iw
+P862                FONTS     IBMPC OEM 862-iw
+P863                DRAFT     IBMPC OEM 863-fc
+P863                FONTS     IBMPC OEM 863-fc
+P864                DRAFT     IBMPC OEM 864-ar
+P864                FONTS     IBMPC OEM 864-ar
+P865                DRAFT     IBMPC OEM 865-nord
+P865                FONTS     IBMPC OEM 865-nord
+P866                DRAFT     IBMPC OEM 866-cyrl
+P866                FONTS     IBMPC OEM 866-cyrl
+P869                DRAFT     IBMPC OEM 869-el
+P869                FONTS     IBMPC OEM 869-el
+P874                DRAFT     IBMPC OEM 874-th
+P874                FONTS     IBMPC OEM 874-th
+P921                DRAFT     IBMPC OEM 921-balt
+P921                FONTS     IBMPC OEM 921-balt
+P922                DRAFT     IBMPC OEM 922-et
+P922                FONTS     IBMPC OEM 922-et
+PVIE                DRAFT     IBMPC OEM 1129-vi
+PVIE                FONTS     IBMPC OEM 1129-vi
+ROM8                DRAFT     HP Roman 8
+ROM8                FONTS     HP Roman 8
+SAS8859             DRAFT     Eight-bit ISO-8859     International SAS
+SAS8859             FONTS     Eight-bit ISO-8859     International SAS
+SELT                DRAFT     SAS OEM Mainframe
+SELT                FONTS     SAS OEM Mainframe
+SLT1                DRAFT     SAS OEM Latin1
+SLT1                FONTS     SAS OEM Latin1
+SLT2                DRAFT     SAS OEM Latin2
+SLT2                FONTS     SAS OEM Latin2
+THAI                DRAFT     ISO 8859/11-thai
+THAI                FONTS     ISO 8859/11-thai
+WARA                DRAFT     Win Cp1256-arabic
+WARA                FONTS     Win Cp1256-arabic
+WBAL                DRAFT     Win Cp1257-baltic
+WBAL                FONTS     Win Cp1257-baltic
+WCYR                DRAFT     Win Cp1251-cyrill
+WCYR                FONTS     Win Cp1251-cyrill
+WGRK                DRAFT     Win Cp1253-greek
+WGRK                FONTS     Win Cp1253-greek
+WHEB                DRAFT     Win Cp1255-hebrew
+WHEB                FONTS     Win Cp1255-hebrew
+WINANSI             FONTS     WINDOWS ANSI CHARACTER SET
+WINOEM              FONTS     IBM CHARACTER PAGE 850
+WLT1                DRAFT     Win Cp1252-latin1
+WLT1                FONTS     Win Cp1252-latin1
+WLT2                DRAFT     Win Cp1250-latin2
+WLT2                FONTS     Win Cp1250-latin2
+WTUR                DRAFT     Win Cp1254-turkish
+WTUR                FONTS     Win Cp1254-turkish
+WVIE                DRAFT     Win Cp1258-vietam
+WVIE                FONTS     Win Cp1258-vietam

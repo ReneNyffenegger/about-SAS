@@ -1,0 +1,52 @@
+APDMP               PDEVICE   Apple Dot Matrix Printer
+APIMW               PDEVICE   Apple Imagewriter
+APLQP               PDEVICE   Apple Letter Quality Printer
+CI851               PDEVICE   C. Itoh 8510 A/B
+D1630               PDEVICE   Diablo 630
+DEFAULT             BASE      Default form
+DEFAULT             FSP       Default form
+DEFAULT             GRAPH     Default form
+DEFLT               PDEVICE   Other
+DL100               PDEVICE   DEC LA 100
+DLN03               PDEVICE   DEC LN03
+EPSFX               PDEVICE   Epson FX-80
+EPSLQ               PDEVICE   Epson LQ-1500
+EPSM3               PDEVICE   Epson MX-80/100 III
+EPSMX               PDEVICE   Epson MX-80/100
+EPSRX               PDEVICE   Epson RX-80/100
+FSLETTER            FSP       Default form for FSLETTER
+HPLJC               PDEVICE   Hewlett-Packard LaserJet(+) Courier 10
+HPLJP               PDEVICE   Hewlett-Packard LaserJet(+) Prestige 12
+HPLJT               PDEVICE   Hewlett-Packard LaserJet(+)
+HPQJA               PDEVICE   Hewlett-Packard QuietJet, Alternate mode
+HPQJH               PDEVICE   Hewlett-Packard QuietJet, HP mode
+HPRWR               PDEVICE   Hewlett-Packard Rugged Writer
+HPTJT               PDEVICE   Hewlett-Packard ThinkJet
+I3800               PDEVICE   IBM 3800
+I3812               PDEVICE   IBM 3812
+I3820               PDEVICE   IBM 3820
+I6670               PDEVICE   IBM 6670
+IPROP               PDEVICE   IBM Proprinter
+IQ5210              PDEVICE   IBM Quietwriter 5201
+IW5216              PDEVICE   IBM Wheelprinter 5216
+IZNF12              PDEVICE   Infoscribe 1200
+MPI15               PDEVICE   MPI Printmate 150
+NOPB                FSP       Form used for printing no page breaks
+OKI18               PDEVICE   Okidata 182, 183 IBM Mode
+OKI19               PDEVICE   Okidata 192, 193
+OKI92               PDEVICE   Okidata 84, 92, 93 Step II
+OKI9I               PDEVICE   Okidata 92, 93 IBM Mode
+OKIPM               PDEVICE   Okidata Pacemark 2410
+PX300               PDEVICE   Printronix 300
+PX600               PDEVICE   Printronix 600
+QS11P               PDEVICE   Qume Sprint 11 Plus
+SPRINT              MARKET    Form used when a window is captured
+STRSG               PDEVICE   Star SG-10/15
+TI850               PDEVICE   TI 850
+TI855               PDEVICE   TI 855
+TP135               PDEVICE   Toshiba P1351
+TP351               PDEVICE   Toshiba P351
+X2700               PDEVICE   Xerox 2700
+X4045               PDEVICE   Xerox 4045
+X5700               PDEVICE   Xerox 5700
+X9700               PDEVICE   Xerox 9700

@@ -1,0 +1,1100 @@
+ACADDVAL            EISSRV    Access Control: Add Category Level Value
+ACCECONN            DBIIMEX   MS Access Export Connection dialog
+ACCICONN            DBIIMEX   MS Access Import Connection dialog
+ACCIOPT             DBIIMEX   MS Access Import options
+ACCLASSES           EISSRV    Access Control: Classes
+ACLAPPL             EISSRV    Access Control: Application Access Main
+ACLAPW              EISSRV    Access Control: Set Admin Password
+ACLAUDIT            EISSRV    Access Control: Auditing
+ACLDATA             EISSRV    Access Control: Data Access
+ACLFUNC             EISSRV    Access Control: Function Access
+ACLGRP1             EISSRV    Access Control: Group Management Main
+ACLGRP2             EISSRV    Access Control: Group Management Detail
+ACLPW               EISSRV    Access Control: Enter Setup Password
+ACLSETUP            EISSRV    Access Control: Setup
+ACLSYNC             EISSRV    ACL: Synchronize
+ACLUSR1             EISSRV    Access Control: User Management Main
+ACLUSR2             EISSRV    Access Control: User Management Detail
+ADDCMPCL            MB        Add a computed column to database
+ADDCOL              MB        Add a column to the database
+ADDITEM             SCM       ADDITEM.FRAME
+ADMINONE            SCM       scm or scmdata not allocated
+ADMINOP             SCM       SCM admin utils
+ADVANCED_DATA       PUBLISH   ADVANCED_DATA.FRAME
+AFBRIDGETEST        IOMSAMP   AFBRIDGETEST.FRAME
+AFTERTAX            INVEST    After tax cashflow specification frame
+ANALYSIS            MB        Metabase analysis attribute
+ANNUAL              INVEST    Uniform Periodic Equivalent frame
+ARCHIVEOPTIONS      PUBLISH   Optional advanced archive properties
+ARCHIVEPATHS        PUBLISH   CHANNELS.FRAME
+ARCHIVEPATH_PROPERTIPUBLISH   CHANNEL_PROPERTIES.FRAME
+ARCHLIM             SCM       set archive limit on indiv. files
+ARIMA               FORCAST   Dialog for ARIMA specifications
+ARMA                FORCAST   Dialog for ARIMA specifications
+ARRAYTYPEEDITOR     CLASSES   CAF: Array Type Editor
+ARRAYTYPEEDITOR2    CLASSES   CAF: Array Type Editor for method signature arugments
+ASALIAS             QUERY     as alias dialog box
+ASTOPTS             AFTOOLS   ASTOPTS.FRAME
+ASTOPTS2            AFTOOLS   ASTOPTS.FRAME
+ATEDIT              MB        Edit/Add an attribute  (repos version)
+ATMAIN              MB        Attribute dict main window (repos ver)
+ATMRCBOX            AFTOOLS   Combo Box editor
+ATMRLBOX            FSP       BUILD: List Box Editor
+ATMRRBOX            FSP       BUILD: Radio Box Editor
+ATMRTBOX            FSP       BUILD: Tool Box Editor
+ATPCOLR             MARKET    BUILD: Customize graphics class-color
+ATREN               MB        Attribute dict rename window (repos ver)
+ATTEDIR             SASDESK   Properties for external directories
+ATTRACOM            AFCLASS   Color group combo attributes
+ATTRBLCK            FSP       BUILD: Block attribute screen
+ATTRBOOK            FSP       Book Attributes
+ATTRBOTH            FSP       BUILD: Get block colors
+ATTRBTN             FSP       BUILD: Button object attributes
+ATTRCAT             AFCLASS   CATLIST.FRAME
+ATTRCAT             FSP       BUILD: Catalog entry viewer attributes
+ATTRCATE            FSP       BUILD: Catalog entry data engine attrs
+ATTRCBOX            FSP       BUILD: Checkbox object attributes
+ATTRCLSW            AFCLASS   Attr for colorswa.class
+ATTRCMBO            AFTOOLS   Combo Box editor attr
+ATTRCMPV            FSP       BUILD: Composite value
+ATTRCNTL            FSP       BUILD: Control object attributes
+ATTRCNTR            FSP       BUILD: Attr frame for containers.
+ATTRCOL             AFCLASS   Color group combo attributes
+ATTRCOM             AFCLASS   Combo Box attributes
+ATTRCOMP            FSP       BUILD: Composite object attributes
+ATTRCSF             FSP       BUILD: CSF object attributes
+ATTRCSF2            FSP       BUILD: CSF appearance
+ATTRCTXT            FSP       BUILD: CSF text object attributes
+ATTRDFRM            FSP       BUILD: Dataform attributes
+ATTRDRV             AFCLASS   Drive listbox attributes
+ATTRDSET            FSP       BUILD: Attr frame for data set entry
+ATTRDTP             FSP       BUILD: Workarea Attribute Screen
+ATTRDUO             AFCLASS   Combo Selector attributes
+ATTREINP            AFCLASS   Extended Input Field attributes
+ATTRENTL            AFCLASS   SAS Entry lisbbox attr
+ATTRENTL            FSP       BUILD: Attr screen - SAS Entries List
+ATTREXTF            FSP       BUILD: External file data engine attrs
+ATTREXTT            FSP       BUILD: Extended table attributes
+ATTRFBRS            FSP       BUILD: File browser object attributes
+ATTRFED             FSP       BUILD: Form editor attributes
+ATTRFILE            FSP       BUILD: External file viewer attributes
+ATTRFISL            AFCLASS   File selector non-visual class attrs
+ATTRFORG            FSP       ORG CHART ATTR main attributes window
+ATTRFRAM            FSP       BUILD: General attributes
+ATTRFSV             FSP       BUILD: Attr screen - DATA_M w table_e
+ATTRGCAP            AFCLASS   Generic Combo box attributes
+ATTRGCMD            AFCLASS   Command Push Button attributes
+ATTRGCOL            FSP       BUILD: Graphic text entry columns
+ATTRGCOM            AFCLASS   Generic Combo box attributes
+ATTRGLAB            FSP       BUILD: Graphic text entry attributes
+ATTRGOPT            FSP       BUILD: Gattr window appearance
+ATTRGRPH            FSP       BUILD: Attributes for graph object
+ATTRGTXT            FSP       BUILD: Graphic text object attributes
+ATTRHCLS            FSP       BUILD: Get hotspot class for graph obj
+ATTRHELP            FSP       BUILD: General Help
+ATTRHEXT            FSP       Edit gtext in hex format
+ATTRHOST            FSP       BUILD: System object attributes
+ATTRHOT             FSP       BUILD: Hotspot attributes
+ATTRIBUTESFORMEDITORCLASSES   Attributes Form Editor
+ATTRICON            FSP       BUILD: Icon attribute screen
+ATTRIMAG            FSP       BUILD: IMAGE attributes
+ATTRIMGF            AFCLASS   Image Finder Attributes
+ATTRIMGI            FSP       BUILD: Attributes for Image Icon
+ATTRINP             AFCLASS   Input field attributes
+ATTRIPAL            FSP       ATTRIPAL.FRAME
+ATTRITXT            FSP       BUILD: Graphic text entry initial value
+ATTRLBL             AFCLASS   Input Field Label attributes
+ATTRLBL             FSP       Input Field Label attributes
+ATTRLBOX            FSP       BUILD: List box attribute screen
+ATTRLIBL            AFCLASS   SAS Library listbox attr
+ATTRLIBL            FSP       BUILD: Attr screen - SAS Libnames List
+ATTRLIST            FSP       BUILD: Attr frame for catalog list
+ATTRLSTM            FSP       Attribute screen for the List Model
+ATTRLUDS            FSP       BUILD: Text entry lookup dataset
+ATTRMAP             FSP       ATTRMAP.FRAME
+ATTRMDTR            FSP       Multi-Dimensional Tree Viewer
+ATTRMEML            AFCLASS   SAS Members List Box attributes
+ATTRMEML            FSP       BUILD: Attr screen - SAS Members List
+ATTRMISC            FSP       BUILD: Gattr misc options
+ATTRPALT            FSP       BUILD: Palette attributes
+ATTRPCOM            AFCLASS   Program Combo Box attributes
+ATTRPFD             FSP       PFD Object attributes
+ATTRPFD2            FSP       Node Attributes
+ATTRPFD3            FSP       Subdiagram Attributes
+ATTRPFD4            FSP       Confirm
+ATTRPFD5            FSP       Print options (gsub)
+ATTRPFD6            FSP       Color Palette
+ATTRPFD7            FSP       Save as (new)
+ATTRPFD8            FSP       Diagram Options
+ATTRPFD9            FSP       Print options (host)
+ATTRPFDA            FSP       Node properties
+ATTRPLOT            FSP       BUILD: Customize graphics class
+ATTRPMKY            FSP       BUILD: Gattr pmenu/keys/wpopup/commands
+ATTRPOP             FSP       BUILD: Widget command/wpopup/assoc cmds
+ATTRRBOX            FSP       BUILD: Attr frame for radio box
+ATTRREP             FSP       BUILD: SUBMIT Replace String
+ATTRREPO            FSP       BUILD: Report Viewer Attributes
+ATTRRES             AFCLASS   Object Rescaling attributes
+ATTRSBAR            FSP       BUILD: Scrollbar object attributes
+ATTRSCLV            FSP       BUILD: Attr frame for SCL variables
+ATTRSENT            FSP       BUILD: Attr screen - SENTRY_M w table_e
+ATTRSESS            AFCLASS   Session ID Combo Box attributes
+ATTRSHOT            FSP       BUILD: Segment Hotspot attributes
+ATTRSLBX            AFCLASS   Attr screen - dual listbox selector
+ATTRSLDR            FSP       BUILD: Slider object attributes
+ATTRSPL             FSP       Interactive Spline  Object attributes
+ATTRSTYL            FSP       BUILD: Graphic text entry justification
+ATTRSUB             AFCLASS   Combo Box attributes
+ATTRSVAL            FSP       BUILD: Value to set for buttons
+ATTRTAB             FSP       Tab Layout Object Attributes
+ATTRTBOX            FSP       BUILD: Tool box object attributes
+ATTRTED             FSP       BUILD: Table editor attributes
+ATTRTFSV            FSP       BUILD: Data table attributes
+ATTRTLAB            FSP       BUILD: Text label object attributes
+ATTRTOPT            FSP       BUILD: attitional attributes table_e
+ATTRTVAL            FSP       TE: Text entry validation
+ATTRTXT             FSP       TE: Text entry object attributes (main)
+ATTRVARL            AFCLASS   Catalog Selector attributes
+ATTRVID             FSP       SAS/Video Attribute Frame
+ATTRWSIZ            FSP       BUILD: GATTR: Window Size
+AUTOFIT             FORCAST   "Working ..." notice for auto fitting
+AUTOJNDS            QUERY     Set automatic join data set (profile)
+AUTONOTE            FORCAST   Automatic model fitting prompt
+AUTOOPT             FORCAST   Automatic Fit Options Dialog Box
+BADLEVS             OPNMDDB   Frame that pops a message about badlevs
+BARCOLR             MARKET    Bar chart colors
+BATCH               OPNMDDB   Frame that pops a message about batch
+BEGRAPH             INVEST    breakeven graph
+BENCOST             INVEST    BCRATIO.FRAME
+BINARYRETRIEVE      PUBLISH   Frame for retrieving external binary files
+BONDS               INVEST    BONDS.FRAME
+BOXCOX              ETSTOOL   Prompt for Box-Cox Lambda parameter
+BPGRAPH             INVEST    Bond Price Graph
+BRAKEVEN            INVEST    BRAKEVEN.FRAME
+BRKLOCK             SCM       Break locks frame
+BROWSER             AFTOOLS   Class Browser main frame
+BRWSMDDB            EISTOOLS  Browse an MDDB
+BRWSMDDB            MB        Browse an mddb file
+BY                  FORCAST   Forecast using data stratified by a BY variable
+BYOUT               FORCAST   Forecast Output Selector for BY.FRAME
+CACOLOR             AFTOOLS   SCL Coverage Analyzer: Color selector
+CAENT10             AFTOOLS   SCL Coverage Analyzer: Select dataset
+CAENT11             AFTOOLS   SCL Coverage Analyzer: Compare
+CALATTR             SCHEDUL   Calendar widget attribute frame
+CAMAIN              AFTOOLS   SCL Coverage Analyzer: Main frame
+CAPFD               AFTOOLS   SCL Coverage Analyzer: PFD
+CASHMISC            INVEST    Generic cash flow specification frame
+CASOURCE            AFTOOLS   SCL Coverage Analyzer: Source
+CASUM               AFTOOLS   SCL Coverage Analyser: Summary
+CATLVAL             AFCLASS   Catalog List values
+CBCOPY              AFTOOLS   Class Browser copy frame
+CBFIND              AFTOOLS   Class Browser find frame
+CBNEW               AFTOOLS   Class Browser new class frame
+CBSEARCH            AFTOOLS   Class Browser selection frame
+CBSELECT            AFTOOLS   Class Browser selection frame
+CBSOURCE            AFTOOLS   Class Browser method viewer
+CBSUBCL             AFTOOLS   Class Browser subclass frame
+CBVIEWER            AFTOOLS   Class Browser print viewer
+CHANNELS            PUBLISH   CHANNELS.FRAME
+CHANNEL_PROPERTIES  PUBLISH   CHANNEL_PROPERTIES.FRAME
+CHGPW               EISSRV    Access Control: Change Password Dialog
+CHNGDAD             ETSTOOL   Utility Appl to Change Parent Class Name
+CJCOLR              MARKET    CJ: Change plot colors
+CJMAIN              MARKET    CJ: Conjoint analysis main window
+CJMKTSH1            MARKET    CJ: Market share simulation
+CJQVAL              MARKET    CJ: Get a quant. value (obsolete)
+CJUTPLOT            MARKET    CJ: Plot of utilities
+CJVARS              MARKET    CJ: Select factors, responses
+CLASS               FSP       Class Editor Frame
+CLASSAD             FSP       BUILD: Class Editor additional options
+CLASSAS             FSP       BUILD: Class Editor - save as
+CLASSES             EISSRV    EIS: MDDB Environment
+CLASSREP            FSP       Verify replacement of a class
+CLASSSETTINGS       FSP       CLASSSETTINGS.FRAME
+CLASSTOIDL          IOM       CLASSTOIDL.FRAME
+CLTSRV              AFCLASS   Client Server main window
+CMPREAD             CMP       PROC CMP - *.CMPSUB reader
+CODEGEN             GNG       Print and Export Preview
+COLALI14            QUERY     Column Alias Name and Label (6.14)
+COLALIAS            QUERY     Column Alias Name and Label
+COLMOD14            QUERY     Column Format and Informats (6.14)
+COLMODS             QUERY     Column Format and Informats
+COLOREDITOR         CLASSES   Color Editor
+COLOREDITOR         GNG       Color Editor used in PW color Attributes
+COLORS              AFTOOLS   COLORS.FRAME
+COLORSEL            FSP       Color selector w/groups
+COLRANGE            MB        Metabase column range attribute
+COLSTAT             MDDB      EIS: Select Statistic frame
+COLUMNDEFINITION    CLASSES   column definition editor for columns editor of datamodel_c subclasses
+COLUMNORDEREDITOR   CLASSES   Editor for columnOrder attribute
+COLUMNSEDITOR       CLASSES   COLUMNPROPERTIES.FRAME
+COMBOLST            AFTOOLS   BUILD: Enter Combo Box Values
+COMMENT             SCM       check in comment/change description
+COMPANIONPROPERTIES PUBLISH   Optional advanced HTML/Viewer Properties
+COMPANIONRETRIEVE   PUBLISH   Frame for retrieving HTML files
+COMPAPP             AFCLASS   column attribute frame
+COMPSTAT            FORCAST   Statistics of fit comparisons table
+COMPUTE             AFCLASS   create computed columns
+COMPUTE             MDDB      create computed columns
+COMVAL              QUERY     Select appropriate COMAMID values
+CONFIRM             MARKET    Confirm window
+CONFLICT            OPNMDDB   Frame announcing conflict resolution
+CONFMSG             SCM       the actual confirmation message window
+CONFSMP             MARKET    Confirm Sample Datasets window
+CONNECT             QUERY     Configure Remote Session for Profile
+CONNLIBS            QUERY     Connect libname setup.
+CONSCRPT            QUERY     Connect Scripts assigned to session.
+CONSTDOL            INVEST    Constant Dollar specification frame
+CONVMETA            MB        Metabase conversion selector
+COPY                FSP       COPY.FRAME
+COPY                MB        Metabase copy window
+COPYCDB             MB        Copy a columns database window
+COPYMEM             AFCLASS   Copy catalog or data set
+COPYREG             MB        Metabase copy a database member
+COPYREP             MB        Metabase: copy repository frame
+COPYTO              SCM       copy to prompt
+CPHLPVUE            OPNMDDB   General Help Viewer
+CREATE              SCM       new function dialog
+CRSPCOLR            MARKET    CRSP: Change plot colors
+CRSPFRQ1            MARKET    CRSP: Results window for Frequencies
+CRSPMAIN            MARKET    CRSP: Corresp analysis main window
+CRSPOPTS            MARKET    CRSP: Other options
+CRSPSTA1            MARKET    CRSP: Results window for Statistics
+CRSPVARS            MARKET    CRSP: Select variables
+CRTCAT              SASDESK   CREATE: a new catalog
+CRTCATE             SASDESK   CREATE: a new catalog entry
+CRTDATA             SASDESK   CREATE: a new data set or view
+CRTEFIL             SASDESK   CREATE: Assign or redefine a fileref
+CRTLIBR             SASDESK   CREATE: Assign or redefine a libref
+CSVBINARYRETRIEVE   PUBLISH   Frame for retrieving  binary CSV file as a SAS Data Set
+CUBE                OPNMDDB   Metabase frame to open cube registration
+CURCONVR            INVEST    Currency conversion frame
+CWACCONN            DBIIMEX   W64 client to access connection dialog
+CWACIOPT            DBIIMEX   W64 client to access options dialog
+CWXLCONN            DBIIMEX   W64 Client to Excel Connection
+CWXLIOPT            DBIIMEX   W64 client to excel options dialog
+DATAINFO            GNG       Data Values Window
+DATALISTEDITOR      CLASSES   Editor for dataList attribute of SCLListmodel_c class
+DATASETOBJ          CLASSES   CAF: drag|drop Info attribute Editor
+DATASETPUBLISH      PUBLISH   Frame for publishing SAS Data Sets
+DATASETRETRIEVE     PUBLISH   Frame for retrieving SAS Data Sets
+DATASRC             SQL       DATASRC visual one table query/QUERYNEW.
+DATERROR            ETSTOOL   Error frame for errors in typed-in dates
+DBFIOPT             DBIIMEX   Import options dialog for delimited file
+DCHGWARN            FORCAST   Data set change warning and prompts
+DELEGATE            FSP       DELEGATE.FRAME
+DELLIST             FORCAST   Dialog to delete items from a list
+DELVER              FSP       BUILD: Delete entry
+DELVER2             FSP       BUILD: Delete item verification
+DELVER3             FSP       BUILD: Delete item verification
+DEPOLIST            INVEST    DEPOLIST.FRAME
+DEPSCHED            INVEST    Depreciation Schedule frame
+DEPSCHED1           INVEST    DEPSCHED1.FRAME
+DEPTABLE            INVEST    Depreciation rate table
+DESKFRAM            SASDESK   DESKFRAM.FRAME
+DEVMSG              MARKET    "You must select a graphics printer" msg
+DFRMAPLY            FSP       Dataform: apply customizations to cols
+DFRMASOP            FSP       Dataform: assist options frame
+DFRMCLRS            FSP       Dataform: Select color preferences
+DFRMFLT             FSP       Column window for FORM_E objects
+DFRMNEWC            FSP       Dataform: computed column screen
+DFRMSET             FSP       Dataform: form specific setup customiza
+DIAGSPEC            FORCAST   Series diagnostics specification dialog
+DIMNSION            OPNMDDB   Metabase frame to edit a dimension
+DIMSEL              MDDB      EIS: Subset by Dimension frame
+DIRDUMP             SCM       dirdump frame
+DISPFILE            SCM       ext. file viewer for diff results
+DISPFMT             MARKET    Display formats to be loaded
+DISPMAIN            SCM       launch diff frame
+DISPTEMP            SCM       Set temp directory for scm temp files
+DIVISOR             MB        Metabase divisor attributes
+DLGATCB             AFTOOLS   Check Box attributes
+DLGATRB             AFTOOLS   Radio Box attributes
+DLGATTE             AFTOOLS   Text Entry attributes
+DLGATTL             AFTOOLS   Text Label attributes
+DLGCMD              AFTOOLS   Dialog Builder Command String
+DLGTEST             AFTOOLS   Dialog Builder Test Window
+DLMEOPT             DBIIMEX   Export options dialog for delimited file
+DLMIOPT             DBIIMEX   Import options dialog for delimited file
+DMCOLORS            AFTOOLS   COLORS.FRAME
+DRAGDROPINFOEDITOR  FSP       CAF: drag|drop Info attribute Editor
+DRAGOPERATIONSEDITORFSP       CAF: dragoperationseditor.FRAME
+DRATELST            INVEST    Savings rate list frame
+DROPOPERATIONSEDITORFSP       CAF: Editor for dropOperations attribute
+DSANALY             MARKET    Change dataset and analysis
+DSETSEL             FSP       BUILD: Data set selector
+DSLOAD              INVEST    Dataset Load Dialog
+DSLVAL              AFCLASS   Catalog List values
+DSSAVE              INVEST    Dataset SAVEAS Dialog
+DSSEL               FORCAST   Data Set Selector Dialog
+DSSEL               INVEST    Dataset Selector Dialog
+DTMBATR             MB        Desktop EIS Application Data Base Props
+DTMBRATR            MB        Desktop EIS Metabase Registration Props
+DTPADJ              FSP       Adjust Workarea Arrangement
+DUPEPATH            SCM       which "synch" function should be run
+DUPERUN             SCM       Duplicate copy of SCM running
+EDCOLDB             MB        Edit Columns Database
+EDITBANNER          GNG       Banner Editor
+EDITBAR             GNG       Edit dialog for BarChart objects
+EDITHISTOGRAM       GNG       Edit dialog for Histogram objects
+EDITMDDB            GNG       Edit dialog for MDDB Models
+EDITOVERLAY         GNG       Edit dialog for OverlayChart objects
+EDITOVERLAYPLOT     GNG       Edit dialog for OverlayPlot objects
+EDITPIE             GNG       Edit dialog for PIE charts
+EDITPLOT            GNG       Edit dialog for Plot objects
+EDITSDS             GNG       Edit dialog for SDS Models
+EDITTABLEM          GNG       Edit dialog for Table View
+EDITTABLES          GNG       Edit dialog for Table View
+EDITTEXT            GNG       Edit dialog for Text Banner objects
+EDTAGS              HTMLGEN   Edit HTML Tags - Interactive
+EFI                 EFI       EFI - Main
+EFIDRIVE            EFI       EFI - Batch/GUI test driver
+EFI_DELI            EFI       EFI - Delimiter display
+EFI_EXP             EFI       EFI - Export (Get dataset and file name)
+EFI_IMP             EFI       EFI - Import (Get file and dataset name)
+EFI_IOPT            EFI       EFI - Get import options
+EFI_PER             EFI       EFI - get vars per obs / recs per obs
+EFI_REPO            EFI       EFI - Repository interface
+EFI_SMIS            EFI       EFI - Special missing value display
+EFI_XOPT            EFI       EFI - Get export options
+EIGENPLT            MARKET    Eigenvalues plot (scree)
+EMAILADV            PUBLISH   Advanced email options
+EMAILFRMDATASET     PUBLISH   Advanced email options
+ERRMSG              FSP       BUILD: Display error message window
+ERRMSG              IMAGAPP   Error Message window
+ERROR               ETSTOOL   Error message display
+ERROR2              ETSTOOL   Error message display
+ERRORSTATUSDIALOG   CLASSES   Error Status Dialog
+ESMDVR              ETSSCL    Simple Forecasting Test Driver
+EVALERR             FORCAST   Error message display for model fitting
+EVENTHANDLERSFORMEDICLASSES   Event Handlers Form Editor
+EVENTMAP            AFCLASS   Combo Box attributes
+EVENTMAP            FSP       Combo Box attributes
+EVENTS              AFCLASS   EVENTS.FRAME
+EVENTSFORMEDITOR    CLASSES   Event Form Editor
+EX97ECON            DBIIMEX   Connection dialog for Excel
+EX97ICON            DBIIMEX   Connection dialog for Excel
+EX97IOPT            DBIIMEX   Excel 97 Spreadsheet Options dialog
+EXAMPLES            ETSSCL    Time ID method examples
+EXC97OPT            DBIIMEX   Excel 97 Spreadsheet Options dialog
+EXISTS              QUERY     Message for already exists, ok or cancel
+EXISTSFL            QUERY     ExternalFile already exists,ok or cancel
+EXPGRAFF            EISTOOLS  SAS/EIS: Multidim Expanding Graph
+EXPLOR              SASDESK   EXPLOR.FRAME
+EXPMODS             SQL       Expression Column Attributes
+EXPMODSX            SQL       Expression Column Attributes (NEW UI)
+EXPREL              MARKET    "Experimental release" msg
+EXPRESS             AFCLASS   Expression Evaluator Frame
+EXPRESS             AFTOOLS   Expression Evaluator Frame
+EXPRESS             MB        Expression Evaluator on Computed Columns
+EXPRMSG             SQL       query text dialog box
+EXPRSHN             SQL       Build a Column Expression.
+EXPRSION            PUBLISH   Expression Builder Frame
+EXTRACT             SCM       extract a previous revision from arch
+FACTORED            ETSNASH   AR/MA Polynomial Specification Window
+FASCDEL             OBJPOOL   ASSOCDEL.FRAME
+FASCEDIT            OBJPOOL   Add/Edit Association Template
+FASSCMGR            OBJPOOL   Association Manager
+FATREDIT            OBJPOOL   Attribute Dictionary - Entry Add/Edit
+FATREDIT2           OBJPOOL   Attribute Dictionary - Entry Add/Edit
+FATRMSG             OBJPOOL   Attribute Dictionary - Product Info
+FATRPROD            OBJPOOL   Attribute Dictionary - Product Info
+FATTRDCT            OBJPOOL   Attribute Dictionary Entries
+FATTRDCT2           OBJPOOL   Attribute Dictionary Entries
+FCMSGS              OBJPOOL   Fcmsgs FRAME
+FDCTDEL             OBJPOOL   Delete Dictionary Registration
+FDCTEDIT            OBJPOOL   Register Dictionary - Add/Edit
+FDCTREGS            OBJPOOL   Register Dictionary
+FDCTREGS2           OBJPOOL   Register Dictionary
+FDFLTDYN            OBJPOOL   Attr Dictionary - default vs. dynamic
+FDFTEDIT            OBJPOOL   Attribute Dictionary - Entry Add/Edit
+FDFTEDIT2           OBJPOOL   Attribute Dictionary - Entry Add/Edit
+FEXPRESS            AFTOOLS   Full-Featured Expression Evaluator Frame
+FGXLNEW             FSP       FGXLNEW.FRAME
+FGXLSHW             FSP       FGXLNEW.FRAME
+FILECHOI            FSP       Choose between filename and fileref
+FILINFO             AFCLASS   Fileref Configurations
+FILTER              ETSTOOL   Transformation Specs. for Series Viewer
+FILTER              FSP       Workarea Filter Editor
+FILTMAKE            IMAGEWD   User Defined Filters
+FILTNAME            IMAGEWD   User Defined Filters
+FILTSEL             IMAGAPP   Select a convolution Filter
+FILTSEL             IMAGEWD   Select a convolution Filter
+FIND                SCM       FIND.FRAME
+FINDDUPS            IMAGAPP   Find Duplicate images
+FINDER              CMP       Finds CMP files
+FINLIST             INVEST    Financial Portfolio List - main frame
+FITERR              FORCAST   Error message display for model fitting
+FIXCLASSES          IOM       FIXCLASSES.FRAME
+FLOWCAST            INVEST    Flow Forecast Specification Window
+FLOWSPEC            INVEST    Flow Deterministic Specification Window
+FMS_AUT2            FORCAST   Window used for FORECAST ENTRY=AUTOFIT
+FMS_AUTO            FORCAST   Automatic Model Fitting Entry w/ Prompts
+FMS_FOR2            FORCAST   Window used for FORECAST ENTRY=FORECAST
+FMS_FORE            FORCAST   Forecast Generation Entry w/ Prompts
+FMS_MAIN            FORCAST   Forecasting Menu System's Main Menu
+FMS_VIEW            FORCAST   Window used for FORECAST ENTRY=VIEWMOD
+FONT                MB        Metabase font attribute
+FONTSEL             MARKET    Select SAS/GRAPH font
+FORCCGRF            FORCAST   Forecast command demo app graph
+FORCCMD             FORCAST   Forecast command demo AF application
+FORCCMDOLD          FORCAST   Forecast command demo AF application
+FORCCOUT            FORCAST   Forecast command demo output selector
+FORCCOUT1           FORCAST   Forecast command demo output selector
+FORCCOUT_COPY       FORCAST   Forecast command demo output selector
+FORCCSER            FORCAST   Forecast Command Builder Series Selector
+FORCGRAF            FORCAST   Forecast graph using time series graphics object
+FORCSSEL            FORCAST   Series Selector for Produce Forecasts
+FOREOPT             FORCAST   Forecast Options
+FORMAT              CLASSES   Show formats with example, for selection
+FORMAT              FSP       Show formats with examples for selection
+FORMAT              SQL       Show formats with examples for selection
+FORMATS             FSP       BUILD: Specify format for range frame
+FORWARDMETHODEDITOR CLASSES   CAF: Forward Method Editor
+FPURGE              OBJPOOL   FPURGE.FRAME
+FPURGEOK            OBJPOOL   FPURGE.FRAME
+FREGADV             OBJPOOL   Register Repository - Add/Edit
+FREGDEL             OBJPOOL   Delete Repository Registration
+FREGDEL2            OBJPOOL   Delete Repository Registration
+FREGEDIT            OBJPOOL   Register Repository - Add/Edit
+FREGISTR            OBJPOOL   Register Repository
+FREGISTR2           OBJPOOL   Register Repository
+FREMOTE             OBJPOOL   Remote  Info FRAME
+FREPCPY             OBJPOOL   Frepcpy FRAME
+FRMCLASS            FSP       BUILD: Select a FRAME Class
+FRPOSMGR            OBJPOOL   Repository Manager Frame (V7)
+FSAVGRP             OBJPOOL   Remote  Info FRAME
+FSETOK              OBJPOOL   Setup 'OK' Info FRAME
+FSETUP              OBJPOOL   Repos. Mgr. Setup FRAME
+FSETWRN1            OBJPOOL   Setup 'Install' Warning
+FSETWRN2            OBJPOOL   Setup 'Use' Warning
+FSEVNEW             FSP       FSENEWEXT.FRAME
+FUTILITY            OBJPOOL   FCLEANUP.FRAME
+FUTILOK             OBJPOOL   Setup 'OK' Info FRAME
+FVERBMGR            OBJPOOL   Association Verb Manager
+FVRBDEL             OBJPOOL   Delete Verb Template
+FVRBEDIT            OBJPOOL   Add/Edit Association Verb Template
+FVRBTEMP            OBJPOOL   Verb Template
+FWRDEL              OBJPOOL   worning deleting attribute dictionary
+GAMMA               IMAGEWD   Select Gamma Value
+GATE_KP2            EISSRV    Access Control: Login Dialog w/ Chg Pwd
+GATE_KPR            EISSRV    Access Control: Default Login Dialog
+GENERIC             PUBLISH   KEYWORD.FRAME
+GENFOR              FORCAST   Produce Forecasts window
+GENMLIST            FORCAST   Displays models from genmod
+GENMNOTE            FORCAST   Automatic model fitting prompt
+GENMOD              FORCAST   Fit Automatic Models (Generate Models)
+GENPGM              QUERY     Invocation for access mode frame.
+GENRPT              SCM       Generic report - dsn(dsopt), write,title
+GETCHAR             AFCLASS   GETCHAR.FRAME
+GETCMAP             IMAGAPP   Image Import - Select a Colormap
+GETCMAP             IMAGEWD   Select a Colormap
+GETDEV              ETSTOOL   Frame to Obtain Graphics Device
+GETDS               MARKET    Select dataset
+GETENTRY            ETSTOOL   Frame to Obtain Catalog Entry Name
+GETENTRY            FSP       EIS: Get entry name
+GETHELP             FSP       BUILD: Get prompt help info
+GETINFO             SCM       GETINFO.FRAME
+GETNLAGS            ETSTOOL   Frame to Obtain NLAGS for Corrs Plots
+GETOUTDS            FORCAST   Frame to Obtain Output Data Set Name
+GETOUTDS            INVEST    Save output datasets Dialog
+GETREGDS            FORCAST   Get a data set with regressor variables
+GETSTAT             FSP       BUILD: Get statistics
+GETTSDS             ETSTOOL   Time Series Data Set Name Window
+GNGEBAR             GNG       Edit dialog for GNGBAR Class
+GNGEHISTOGRAM       GNG       Edit Dialog for GNGHISTOGRAM Class
+GNGEMDDB            GNG       Edit Dialog for GNGMDDB_C Class
+GNGEOVERLAY         GNG       Edit Dialog for GNGOVERLAY Class
+GNGEOVERLAYPLOT     GNG       Edit Dialog for GNGOVERLAYPLOT Class
+GNGEPIE             GNG       Edit dialog for GNGPIE Class
+GNGEPLOT            GNG       Edit dialog for GNGPLOT Class
+GNGESDS             GNG       Edit Dialog for GNGSDS_C Class
+GNGETABLE           GNG       Edit Dialog for GNGTABLE Class
+GNGETEXT            GNG       Edit Dialog for GNGTEXT Class
+GOBJECT             GRAPH     GOBJECT.FRAME
+GOTOROW             FSP       GOTOROW.FRAME
+GRAPH2              INVEST    GRAPH2.FRAME
+GRAPH2              QUERY     Display qry in graph.TRANSLATORS IGNORE.
+GRAPHDSP            FSP       Browse a GRSEG entry
+GRAPHIDD            QUERY     includes drag/drop  *TRANSLATORS IGNORE.
+GRAPHOLD            QUERY     Display qry in graph.TRANSLATORS IGNORE.
+GROUPADD            SCM       create or add to a version label
+GROUPCPY            SCM       copy the files associated in a v label
+HANDLERS            AFCLASS   GUI to specify event handlers
+HAVEXPR             QUERY     Create an Expression for Having Clause
+HIERARCH            MB        Metabase data set hierarchies
+HIERARCH            OPNMDDB   Metabase data set hierarchies
+HIEROPTS            MB        Metabase hierarch attribute options
+HIERSEL             MDDB      EIS: Subset by Dimension frame
+HOSTEMAP            FSP       Host object event map
+HOSTOPTD            FSP       ASSIST: MVS host options - fileref/librf
+HOWSYNC             SCM       which "synch" function should be run
+HPROMPT             FSP       Warning prompt window
+HRENAME             EISSRV    HRENAME.FRAME
+HTMLGEN             GNG       Print and Export Preview
+HTMLPROPERTIES      PUBLISH   Optional advanced HTML/Viewer Properties
+HTMLRETRIEVE        PUBLISH   Frame for retrieving HTML files
+HVDB                QUERY     query text dialog box
+IATTR               FSP       TE: Initial attr value window
+ICOLOR              FSP       TE: Initial color value window
+ICONSEL             FSP       Icon selector dialog
+IMAGEDSP            FSP       IMAGEDSP.FRAME
+IMGAPP              FSP       BUILD: IMAGE attributes
+IMGRGB              FSP       IMGRGB.FRAME
+IMGSEL              FSP       BUILD: Image Selector
+IMPCOLOR            IMAGAPP   IMAGE Catalog Import frame
+IMPNAME             IMAGAPP   IMAGE Catalog Import frame
+IMPORT              IMAGAPP   IMAGE Catalog Import frame
+IMPROMPT            IMAGAPP   IMAGE Import Requester Frame
+IMPVIEW             IMAGAPP   IMAGE Catalog Import frame
+INCLCOLS            QUERY     Display columns names in availabletable.
+INCLEDIT            QUERY     edit table names when including query
+INCLTABS            QUERY     Change table name in included query.
+INCLUDE             QUERY     Include clear/leave existing lists
+INCTAX              INVEST    Income Tax Specification frame
+INFLATN             INVEST    Inflation Rate Specification frame
+INFO                SCM       list information on selected file(s)
+INFORMAT            CLASSES   Show informats with example, for selection
+INFORMAT            QUERY     Show formats with examples for selection
+INFOWDW             IMAGEWD   Show Image Info.
+INITVAL             AFCLASS   Extended Input Field initial value
+INSTVAR             FSP       BUILD: Instance Variable Editor
+INTERFACEMETHODSDIALCLASSES   Interface Methods Dialog
+INTERFACESFORMEDITORCLASSES   Interfaces Form Editor
+INTERVAL            ETSTOOL   Interval specification window
+INTRFACE            FSP       INTRFACE.FRAME
+INTVLIST            FORCAST   Specifcation of interventions for series
+INTVSPEC            FORCAST   Interventions specification menu
+IRRORET             INVEST    Internal Rate of Return  frame
+ITAB                CLEATTR   Metabase column range attribute
+IVALUE              FSP       TE: initial value/formats window
+IVIEWER             IMAGAPP   IMAGE Viewer frame
+IVWIN               AFTOOLS   METHWIN.FRAME
+JOINTYPE            QUERY     Give Choice for type of join.
+JOURFILE            MARKET    Define utility file name
+KEYWORD             PUBLISH   KEYWORD.FRAME
+LABEL               INVEST    Symbol description spec frame
+LABEL               MB        Metabase label attributes
+LARMRATE            INVEST    Rate adjustment terms frame
+LBALLOON            INVEST    Loan balloon payment frame
+LENTRY              FSP       TE: Get a .list entry for validation
+LEVEL               OPNMDDB   Metabase frame to edit a level
+LIBLIST             AFCLASS   LIBLIST.FRAME
+LIBOR               INVEST    LIBOR specification frame
+LINEUP              SASDESK   Add automatic line up flag to a folder
+LINITOPT            INVEST    Loan intialization options frame
+LINKTO              FSP       Linkto Editor: Frame
+LISTBDU             FSP       scl varlist dual list box selector
+LISTCAT             QUERY     Select a catalog libname.catname
+LISTED              AFTOOLS   Generic list editor
+LISTEDC             AFTOOLS   List editor helper for character items
+LISTEDN             AFTOOLS   List editor helper for numeric names
+LISTINCL            QUERY     List Saved Queries
+LISTLIB             QUERY     Select a catalog libname.catname
+LISTNAV             SCM       Navigate Lists
+LISTPROF            QUERY     List Saved Preference Profiles
+LISTQRY             QUERY     List Saved Queries
+LKUPDS              QUERY     Set lookup data set for preferences
+LNSELENT            SCM       LNSELENT.FRAME
+LOADICON            FSP       Load sasicon list from msg file
+LOANDATE            INVEST    Date specification frame
+LOANSPEC            INVEST    Loan specification frame
+LOCALE              LOCALE    LOCALE.FRAME
+LOGIN               SCM       ADE LOGIN
+LOOKUP              SQL       Lookup Frame
+LPREPAY             INVEST    Loan prepayment frame
+LREFINFO            AFCLASS   Libref Configurations
+LREFINFO            SCM       Libref Configurations
+LVALS               FSP       TE: Get a list of values for validation
+MACRO               SCHEDUL   MACRO.FRAME
+MACRSHOW            ETSNASH   Information about macro for ODS output
+MAIN                PUBLISH   PUBLISH2.FRAME
+MAKE                FSP       BUILD: Components Window
+MANAGE              IMAGAPP   IMS:  Image Management (Main)
+MAPCOPY             MB        MAPINFO table attribute: Include
+MAPEDIT             MB        MAPINFO table attribute: Assign
+MAPINFO             MB        MAPINFO table attribute: Specify MAPINFO
+MAPMRK              MB        MAPINFO table attribute: Create MARKER
+MAPMSEL             MB        MAPINFO table attribute: Select table
+MARR                INVEST    Minimum Attractive Rate of Return frame
+MBATRSEL            MB        Metabase attributes selection
+MBCOL               MB        Metabase edit columns window
+MBCOLSEL            MB        Metabase column selection window
+MBINUSE             MB        Metabase data selection window
+MBMAIN              MB        Metabase main window
+MBMATTR             MB        Metabase assign attr. to multiple items
+MBNEW               MB        Metabase create/rename window
+MBSEL1              MB        Metabase generic single listbox window
+MBSEL2              MB        Metabase generic selvar window
+MBTABSEL            MB        Metabase table selection window
+MBVARSEL            MB        Metabase variable selection window
+MDADDCMR            HOLAPMD   see  MDGUI class
+MDANALDE            HOLAPMD   see MDGUI class
+MDAPIUI             METAAPI   Metadata API Manager UI frame
+MDATA               IMAGAPP   IMS:  Edit/Browse Data
+MDCLADEF            HOLAPMD   see MDGUI class
+MDDB                EISTOOLS  Create an MDDB frame wizard
+MDDB                MB        Metabase MDDB attribute
+MDDBMODELSEL        GNG       MDDB Model Selector
+MDDBPW              FSP       Password screen for viewing mddbs
+MDDBPW              MB        Password screen for viewing mddbs
+MDDBPW              MDDB      Password screen for viewing mddbs
+MDDEF               HOLAPMD   see MDGUI class
+MDDS                HOLAPMD   see MDGUI class
+MDEISSK             HOLAPMD   see MDGUI class
+MDHGDEF             HOLAPMD   see MDGUI class
+MDMAIN              HOLAPMD   see  MDGUI class
+MDPCOLR             MARKET    MDP: Change plot colors
+MDPMAIN             MARKET    MDP: MDPREF analysis main window
+MDPMSG              MARKET    MDP: Msg about data layout
+MDPOPTS             MARKET    MDP: Other options
+MDPOPTS2            MARKET    MDP: Iteration options
+MDPVARS             MARKET    MDP: Select variables
+MDPW                HOLAPMD   see MDGUI class
+MDPWDEF             HOLAPMD   see MDGUI class
+MDRACK              HOLAPMD   see  MDGUI class
+MDSCOLR             MARKET    MDS: Change plot colors
+MDSCONF1            MARKET    MDS: Results window for configuration
+MDSITER1            MARKET    MDS: Results window for iteration hist.
+MDSMAIN             MARKET    MDS: MDS analysis main window
+MDSOPTS             MARKET    MDS: Select options
+MDSOPTS2            MARKET    MDS: Iteration options
+MDSPEC              HOLAPMD   see  MDGUI class
+MDSSCREE            MARKET    MDP: Eigenvalues plot (scree)
+MDSTADEF            HOLAPMD   see MDGUI class
+MDSUBTDE            HOLAPMD   see MDGUI class
+MDSVARS             MARKET    MDS: Select variables
+MDSVDEF             HOLAPMD   see MDGUI class
+MEASURE             MB        MEASURE.FRAME
+MEASURE             OPNMDDB   Frame for selecting Measures
+METHEDIT            FSP       BUILD: Methods Editor
+METHODSFORMEDITOR   CLASSES   Methods Form Editor
+METHODSIGNATURE     FSP       CAF: Method Signature Window
+METHODSLISTEDITOR   CLASSES   CAF: Methods List Editor
+METHWIN             AFTOOLS   METHWIN.FRAME
+MIGRATE             AFTOOLS   MIGRATE.FRAME
+MIGRATE             FSP       BUILD: Rename lib and or cat in resource
+MIGRATE7            FSP       MIGRATE7.FRAME
+MLEDITOR            FORCAST   Model selection list editor
+MLINK               IMAGAPP   IMS:  Image Management
+MLOGCHK             MARKET    MLOG: Check if data in proper form
+MLOGCOLR            MARKET    MLOG: Change plot colors
+MLOGINFO            MARKET    MLOG: Get info to combine 2 data sets
+MLOGMAIN            MARKET    MLOG: Discrete choice main window
+MLOGPROB            MARKET    MLOG: Display choices by choice set
+MLOGTABL            MARKET    MLOG: Results tables
+MLOGVARS            MARKET    MLOG: Select variables
+MLSTVIEW            FORCAST   Model List Viewer Frame
+MODCRIT             FORCAST   Model Selection Criterion List Box
+MODEL               CLEATTR   Metabase column range attribute
+MODELSEL            FORCAST   Model Selection List Box
+MODFIT              FORCAST   "Working ..." notice for model fitting
+MODFIT2             FORCAST   "Working ..." notice, multiple models
+MODLMNGR            FORCAST   Develop Models Window
+MODSPECA            FORCAST   Model specifation menu for ARIMA models
+MODSPECC            FORCAST   Model specifation menu for Custom models
+MODSPECE            FORCAST   Model spec. for External Forecasts
+MODSPECF            FORCAST   Model specifation for factored and subset ARIMA
+MODSPECS            FORCAST   Model specication for Smoothing Methods
+MODSPECX            FORCAST   Combine forecasts
+MODVIEWM            FORCAST   Model View Manager Frame
+MOVEALL             QUERY     Move columns in listbox
+MOVECOLS            QUERY     Move columns in listbox
+MSG                 MARKET    Display message
+MSG                 SCM       generic message frame
+MSG1                CLEATTR   MSG1.FRAME
+MSGDLG              FSP       Message Dialog window
+MSGDLG2             FSP       Message Dialog window
+MSGWRAP             MARKET    MSG window (word wrap)
+MVSEXP              MB        Expression Evaluator on Computed Columns
+NOADO               FSP       SAS/ASSIST Desktop not yet available
+NUNIQUE             MB        Add or Modify Nunique
+NUNIQUEM            MDDB      Add, Delete, Modify, or Register Nuniques
+NVSTLOAD            INVEST    Investment Portfolio Load Dialog
+NVSTSAVE            INVEST    Investment Portfolio SAVEAS Dialog
+NVSTSEL             INVEST    Portfolio Selector Dialog
+OBJECTATTRIBUTEEDITOCLASSES   UNTITLED1.FRAME
+OBJECTHELPEDITOR    CLASSES   objectHelp Editor
+OBJLINK             FSP       BUILD: Link objects
+ODS                 PUBLISH   ODS.FRAME
+OFFERTUTORIAL       GNG       Open Tutorial dialog
+OLDCLASS            FSP       BUILD: Class Editor
+OPENMODELLISTDIALOG ETSNASH   Open dialog for saved model lists
+OPTDISK             FSP       ASSIST: VSE host options - libref
+OPTDLBL             FSP       ASSIST: VSE host options - libref
+OPTIONS             GNG       Graph-N-Go Options
+OPTSEQ              FSP       ASSIST: VSE host options - libref
+OPTVSAM             FSP       ASSIST: VSE host options - libref
+ORGCLSOP            FSP       ORG CHART ATTR node type properties
+ORGFNTOP            FSP       ORG CHART ATTR node type properties
+ORGMAPOP            FSP       ORG CHART ATTR mapping list editing
+ORGOPTOP            FSP       ORG CHART ATTR additional options
+ORGPRTOP            FSP       ORG CHART ATTR print window
+ORGSLTOP            FSP       ORG CHART ATTR node type SELECT
+ORGSVEOP            FSP       ORG CHART ATTR save-as window
+OUTDSCON            FORCAST   Confirmation prompt to overwrite ds
+OUTDSCON            INVEST    Save output datasets Dialog
+OUTGENI             HTMLGEN   Output Formatter - Interactive
+OUTJNCOL            QUERY     Set criteria for Outer Join.
+OUTPROPI            HTMLGEN   Output Formatter Properties - Int.
+PAGEPROPERTIES      CLASSES   Page Properties frame for Print Manager
+PALETTE             AFCLASS   Color Palette with Sliders
+PALETTE             FSP       Color Palette with Sliders
+PALETTE             IMAGEWD   Set color (with sliders)
+PANIC               MARKET    "Problem has been encountered" window
+PARMS               AFCLASS   GUI to specify event handlers
+PASSWORD            MARKET    Password request window
+PKGTREEVIEW         PUBLISH   PkgTreeView.Frame displays lists of packages/entries - user cans select to retrieve
+PLAYER              VIDEO     VPLAY: Player
+PLOTOVERLAY         GNG       Edit Dialog for Plot Overlays
+PLOTVARS            MARKET    Select plot variables window
+PMBMAIN             AFTOOLS   Menu Builder Main Window
+PMBOPEN             AFTOOLS   Menu Builder Open Window
+PMBSAVE             AFTOOLS   Menu Builder Save Window
+PMBTEST             AFTOOLS   Menu Builder Test Window
+POLYSPEC            ETSNASH   Polynomial Specification Window
+PREFSAVE            QUERY     Preferences Save Catalog info
+PREFTRAN            MARKET    CJ: Select other pref transformations
+PRESVAL             INVEST    Present Value specification frame
+PREVIEW             GNG       Print and Export Preview
+PRICEB              INVEST    Bond Price valuation frame
+PRIMARY             GNG       Main Graph-N-Go window (not entry point)
+PRIME               INVEST    Prime rate specification frame
+PRINT               GNG       Print Dialog
+PRINTPREVIEW        GNG       Print Preview Frame
+PROJLOAD            FORCAST   Project Load Dialog
+PROJNEW             FORCAST   Project New Dialog
+PROJSAVE            FORCAST   Project SAVEAS Dialog
+PROJSEL             FORCAST   Project Selector Dialog
+PROJVIEW            FORCAST   Project Viewer Task Main Frame
+PROJWARN            FORCAST   Project Not Saved Warning Dialog
+PROLOG              MB        Metabase table prolog attribute
+PROMPT              SQL       prompt string frame
+PROPERTY            SCM       main SCM options frame
+PROPERTYSHEET       FSP       PROPERTYSHEET.FRAME
+PROPMAIN            SASDESK   PROPERTIES: Main Frame (Tabber)
+PRQTRAN             MARKET    MDP: Select other transformations
+PRTDEFIN            MARKET    PRT: Define new printer/rename existing
+PRTMAIN             MARKET    PRT: Maintain printer list
+PRTSETUP            ETSTOOL   Print Setup Window
+PUBLISHADVANCED     PUBLISH   Advanced email options
+PUBLISHCOMPANION    PUBLISH   ODS.FRAME
+PW                  GNG       Password Prompt
+QRYCOLS             QUERY     query columns driver frame
+QRYDB               QUERY     query text dialog box
+QRYDB2              QUERY     query text dialog box
+QRYDB3              QUERY     query text dialog box
+QRYDRVR             QUERY     query tables driver frame
+QRYLSTDS            SQL       New UI, display list for selection.
+QRYMAIN             QUERY     query main driver/blank background scrn
+QRYNOLNK            QUERY     query text dialog box
+QRYORDGP            QUERY     Query frame for OrderBy/GroupBy
+QRYRESET            SQL       NEW UI RESET OK/CANCEL WINDOW.
+QRYRPT              QUERY     query text dialog box
+QRYWHDB             SQL       query text dialog box
+QUANTIZE            IMAGEWD   Select Quantization value
+QUERY               QUERY     QUERY.FRAME
+QUERYTAB            SQL       New Query Main Window (TABS and PFD).
+QUEUEOPTIONS        PUBLISH   Optional Advanced Queue Properties
+RANGE               FSP       BUILD: Range editor
+RANGEST             FSP       BUILD: Specify dataset frame
+REACH               MDDB      Show Detail Frame
+READER              CMP        
+RECLIST             FSP       UNTITLED1.FRAME
+RECOMEND            ETSTOOL   Recommendation display
+REFITNEV            FORCAST   "Working ..." notice, refit/reevaluate
+REGERR              FORCAST   Regressor Warning - Missing For. Models
+REGERR2             FORCAST   Regressor Warning - Model Range Changes
+REGERR3             FORCAST   Regressor Warning - Need to Forecast
+REGSPEC0            FORCAST   Model specication menu for Regressors
+REPCOPY             MB        Repository copy window
+REPFNTAL            FSP       FSREPORT: font alias setup
+REPNEW              MB        Metabase create/rename window
+REPORT              QUERY     List Permanent Report Definitions
+REPORTER            QUERY     reporter object/report and graph.
+REPORTS             SCM       main scm reports frame
+REPORT_F            FSP       Report frame
+RESIDPLT            MARKET    Residual scatter plot
+RESNAME             FSP       BUILD: Replace resource name
+RESOLD              FSP       BUILD: Resource Editor (old)
+RESOLVE             OPNMDDB   Frame to resolve dimension conflicts
+RESOURCE            FSP       Build: Resource Editor
+RETRIEVEMAIN        PUBLISH   Main entry point for package retrieval
+RNGLIST             CLEATTR   RNGLIST.FRAME
+ROUNDOFF            INVEST    Round off specification frame
+RSESINFO            AFCLASS   C/S Configurations
+RSLVPRMP            SQL       Resolve Character Prompt
+RSLVPRNM            SQL       Resolve Numeric Prompt
+RTOPTS              EISSRV    Build-/Run-Time Options for multidimensional applications
+RTOPTS              MB        Build-/Run-Time Options for multidimensional applications
+RTPW                MDDB      Run time password window
+RUNUSER             QUERY     RunUser Exit (TRANSLATORS PLEASE IGNORE)
+SADDLOGI            SCM       SCM: Add libraries to config files
+SAMPMENU            IMAGAPP   Main Menu for IMAGE applications
+SASCOLOR            BASE      SASCOLOR.FRAME
+SASRETRIEVE         PUBLISH   Frame for retrieving SAS Files (catalog, SQL View, MDDB, FDB, DMDB)
+SAVASODS            ETSNASH   Save As window with ODS options
+SAVEADV             FORCAST   Advanced options for savesasfiledialog function
+SAVEAS              MARKET    "Save as" file name definition
+SAVEINCL            QUERY     Save/Include list name
+SAVELIST            HTMLGEN   Property List SaveAs Dialog
+SAVEQRY             QUERY     Frontend for Saving Queries
+SAVERPT             QUERY     Save for Proc Report Definitions
+SAVINGS             INVEST    Savings specification frame
+SAVOUTDS            MARKET    Save SAS output data sets window
+SCALE               IMAGEWD   Set Scale size
+SCAT                SCHEDUL   Windows NT AT Configuration frame
+SCCAL               PUBLISH   Calendar frame
+SCCAL               SCHEDUL   Calendar frame
+SCCRON              SCHEDUL   Cron scheduler Configuration frame
+SCDOM               SCHEDUL   Reserved
+SCHOST              SCHEDUL   Host definition frame
+SCINFO              SCHEDUL   Scheduler info frame
+SCL2HTML            AFTOOLS   GenDoc Dialog Box
+SCL2HTMLOPTIONS     AFTOOLS   SCL2HTMLOPTIONS.FRAME
+SCLDATA             FSP       LISTC LISTN SHOWLIST selection frame
+SCLDATA7            FSP       LISTC LISTN SHOWLIST selection frame
+SCLDATDL            FSP       DATALIST.FRAME
+SCLDTFND            FSP       LISTC LISTN SHOWLIST selection list find
+SCLDTFNDS           FSP       LISTC LISTN SHOWLIST selection list find
+SCLIBS              SCHEDUL   Scheduler libraries frame
+SCLLV               CLASSES   datalistc datalistn frame for mvs 3270
+SCLLV               FSP       datalistc datalistn frame for mvs 3270
+SCLPA               AFTOOLS   SCL Performance Analyzer main screen
+SCLPACS             AFTOOLS   SCL P.A. calling sequence
+SCLPACSC            AFTOOLS   SCL P.A. calling sequence compare
+SCLPADT             AFTOOLS   SCL P.A. data table
+SCLPADTC            AFTOOLS   SCL P.A. data table compare
+SCLPALB             AFTOOLS   SCL P.A. caller and traceback list box
+SCLPALD             AFTOOLS   SCL P.A. Select Dataset
+SCLPAMSG            AFTOOLS   SCL P.A. message window
+SCLPASEL            AFTOOLS   SCL P.A. Data set list box
+SCLPASV             AFTOOLS   SCL P.A. source viewer
+SCLPASW             AFTOOLS   SCL P.A. search window
+SCLPATC             AFTOOLS   SCL P.A. timing criteria
+SCLPROF             AFTOOLS   SCLPROF Main frame
+SCLSA               AFTOOLS   SCL Static Analyzer main screen
+SCLSACS             AFTOOLS   SCL S.A. calling sequence
+SCLSADT             AFTOOLS   SCL S.A. data table
+SCLSAEM             AFTOOLS   SCL S.A. expand macro window
+SCLSALW             AFTOOLS   SCL S.A. libname selector window
+SCLSAPF             AFTOOLS   SCL S.A. program flow chart
+SCLSASV             AFTOOLS   SCL S.A. source viewer
+SCLSASW             AFTOOLS   SCL S.A. Calling sequence search window
+SCLSATD             AFTOOLS   SCL S.A. Tabbed dialog window
+SCLSAVS             AFTOOLS   SCL S.A. Data table search window
+SCMAIN              SCHEDUL   Main Scheduler frame
+SCMMAIN             SCM       main scm window
+SCMMAIN7            SCM       new orgview frame using SCM subclasses
+SCMREG              SCM       register default scm cdb
+SCPROG              SCHEDUL   Scheduler in progress frame
+SCVIEW              SCHEDUL   Job viewer frame
+SDSMODELSEL         GNG       SAS Dataset Model Selector
+SEARCH              FSP       Setup search paths
+SELAUTH             QUERY     Select DB2 authorization id.
+SELCAT              QUERY     Select a memname for naming view, etc.
+SELDBNM             QUERY     Select data base name.
+SELDIR              QUERY     Select a directory for naming view, etc.
+SELECTATTRIBUTEEDITOCLASSES   Attribute Editor: for selecting a single attribute
+SELECTATTRIBUTESEDITCLASSES   Attribute Editor: for selecting one or more attributes
+SELLBCAT            SQL       Generic window for create table/view
+SELLBMEM            SQL       Selection window create table/view
+SELLIST             EISSRV    General Selection List
+SELOBJ              QUERY     Select an entry name for a catalog.
+SELOBJECT           PUBLISH   SELOBJECT.FRAME
+SELTAB              QUERY     Select a memname for naming view, etc.
+SELTBLNM            QUERY     Select data base table name.
+SEL_INDEXESEDITOR   CLASSES   Selected Indexes Editor Frame
+SERSEL              ETSTOOL   Series Selector Dialog
+SERVIEWM            ETSTOOL   Series View Manager Frame
+SETAJOTH            QUERY     Set Autojoin links/Oracle,Sybase, etc.
+SETATTR             FSP       BUILD: Class Editor new class attr
+SETAUTOJ            QUERY     Frontend for setting Automatic Joins
+SETDB2              QUERY     DB2 ssid & system table settings.
+SETDB22             QUERY     DB2/2 databasename & profile parms.
+SETDB260            QUERY     DB2/6000 databasename & profile parms.
+SETDBMGR            QUERY     DataBaseManager databasename(required).
+SETDBNM             QUERY     Select data base name.
+SETDEFAU            SCM       set default archive limit
+SETGRDEV            MARKET    Select graphics device
+SETINFMX            QUERY     Allow setting for Informix dbname.
+SETINGRE            QUERY     Allow setting for INGRES database name.
+SETJNCOL            QUERY     Set or Show Automatic Join Column links
+SETODBC             QUERY     Set ODBC system tables to mirror image.
+SETODBCU            QUERY     Set ODBC options for HPUX.
+SETOPTS             QUERY     Set SQL options for Profile.
+SETOPTS2            QUERY     Set SQL options on the fly 6.12+.
+SETOPTSF            QUERY     Set SQL options on the fly 6.12+.
+SETORACL            QUERY     Set Oracle parameters for session.
+SETPREBF            QUERY     Profile Preference Settings
+SETPREF             QUERY     Profile Preference Settings
+SETPREFN            QUERY     Profile Preference (translators ignore)
+SETPREFO            QUERY     Profile Preference(Translators Ignore)
+SETPSWD             QUERY     Set a password for the Profile.
+SETRDB              QUERY     Allow setting for RDB database name.
+SETREGR             ETSNASH   Dialog for changing regressor names in model list
+SETREPRT            QUERY     Set report options/pagenumber/titles.
+SETREST2            QUERY     Show tables for pref sets/nondir modes.
+SETRESTR            QUERY     Show directories/members for pref sets
+SETSQLDS            QUERY     settings for username and password.
+SETSSID             QUERY     Set DB2 Subsystem ID name.
+SETSYBA2            QUERY     Set Sybase access mode specific options.
+SETSYBAS            QUERY     Set Sybase access (TRANSLATORS IGNORE).
+SETSYBDS            QUERY     Set SYBASE system (TRANSLATORS IGNORE).
+SETSYBTC            QUERY     Set SYBASE system tabs to mirror images.
+SETUSER             SCM       prompt for userid
+SETVALUE            AFTOOLS   Sets column values for EXPRESS.FRAME
+SETWHRST            QUERY     Manage Where Restrictions
+SHORTLBL            MB        Metabase short label attribute
+SHOWDB2             QUERY     Profile Preference Settings
+SHOWLIST            MARKET    Listbox version of showlist()
+SHOWSUB             MDDB      SHOWSUB.FRAME
+SIMARIMA            FORCAST   Menu to generate simulated series
+SIMDATA             FORCAST   Menu to generate simulated series
+SIMPLELISTEDITOR    CLASSES   Simple List Editor Frame
+SLENT1              AFTOOLS   SCL List Utility: Main
+SLENT10             AFTOOLS   SCL List Utility: Select dataset
+SLENT11             AFTOOLS   SCL List Utility: Compare
+SLENT12             AFTOOLS   SCL List Utility: Data set list box
+SLENT2              AFTOOLS   SCL List trace: Secondary (old)
+SLENT4              AFTOOLS   SCL List Utility: Summary
+SLENT5              AFTOOLS   SCL List Utility: Source
+SLENT6              AFTOOLS   SCL List Utility: Message
+SLENT7              AFTOOLS   SCL List Utility: List output
+SLENT8              AFTOOLS   SCL List Utility: Delete before create
+SLENT9              AFTOOLS   SCL List Utility: Options
+SNUGFIT             FSP       BUILD: Snug fit in Composite Definition
+SNUGFIT2            FSP       SNUGFIT3.FRAME
+SORT                MB        Metabase sort attributes
+SQUINFRM            SCM       compress archive catalogs
+SRCHPATH            MB        Catalog,Attr.Dict.,Metabase Search Path
+SSHTOPT             DBIIMEX   Spreadsheet options dialog
+SSHTOPTX            DBIIMEX   Spreadsheet options dialog w/range&sheet
+STATIC              FORCAST   Utility app. to create static lists
+STATLABELS          EISSRV    Custom Statistic Labels
+STATLIST            FORCAST   Set selection of statistics of fit
+STRINGLISTEDITOR    CLASSES   String List Editor Frame
+SUBBLOCK            QUERY     Message window for qw invocation.
+SUBCONN             QUERY     Message window for connect invocation.
+SUBSCRIBERGROUP_PROPPUBLISH   subscribergroup_PROPERTIES.FRAME
+SUBSCRIBER_PROPERTIEPUBLISH   CHANNEL_PROPERTIES.FRAME
+SUMMARY             MB        M1: GENERAL : Summary mb attribute
+SYNCHSRC            SCM       detect debris/orphans
+SYNCHVER            MB        Metabase verify sync MDDB hierarchy
+TABGENI             HTMLGEN   Data Set Formatter - Interactive
+TABLENM             QUERY     Create table/view name
+TABOPTS             QUERY     Customize TABS for New Interface(6.12)
+TABORDER            FSP       TABORDER.FRAME
+TABPROPI            HTMLGEN   Data Set Formatter Properties - Int.
+TABTAGS             HTMLGEN   Data Set Formatter HTML Tags - Int.
+TASKWIND            MARKET    VIEWER: task window
+TBILL               INVEST    T-Bill rate specification frame
+TBL                 AFCLASS   list of tables
+TBUGENI             HTMLGEN   Tabulate Formatter - Interactive
+TBUPROPI            HTMLGEN   Tabulate Formatter Properties - Int.
+TBUTAGS             HTMLGEN   Tabulate Formatter HTML Tags - Int.
+TEDCLRS             FSP       BUILD: Table editor color preferences
+TEPRINT             FSP       TEPRINT.FRAME
+TESTCATS            SCM       set test environment
+TESTFRAME           PUBLISH   TEST.FRAME
+TESTSRC2            SCM       another testing utility
+TESTTAB             SQL       TESTTAB.FRAME
+TESTTB2             SQL       TESTTB2.FRAME
+TEST_AFTESTTYPESPROXIOMSAMP   AFBRIDGETEST.FRAME
+TEXTPADEDITOR       CLASSES   CAF: Text Pad Editor
+TEXTRETRIEVE        PUBLISH   Frame for retrieving external text files
+TFSPEC              FORCAST   Transfer function specification menu
+THIERARC            MB        Metabase data set hierarchies (test=yes)
+TIDSEL              ETSTOOL   Time ID Selector Dialog
+TIMEDEF             FORCAST   Global Time Ranges FRAME
+TIMEID0             ETSTOOL   Prompt for ID variable info
+TIMEID1             ETSTOOL   Time ID Creation from Stdate & Interval
+TIMEID2             ETSTOOL   Time ID Creation from Observation Nums
+TIMEID4             ETSTOOL   Time ID creation from several variables
+TIMEID5             ETSTOOL   Time ID creation from variable/informat
+TIMEIDC             ETSTOOL   Prompt for output ds for time id create
+TIMESPEC            FORCAST   Time ranges specification menu
+TITLES              MARKET    Titles: Set title attributes
+TOOLBAR             IMAGEWD   TOOLBAR.FRAME
+TRANSPARENCYCOLOREDICLASSES   Transparency Color Editor for the Image Viewer
+TREGTRAN            MARKET    CJ: Select other transformations
+TUTORIAL            GNG       Tutorial Dialog
+TWOCOLR             MARKET    Change plot colors
+UPDTCDB             SCM       prompt if cdb should be updated
+UPDTPREF            QUERY     set profile name to update
+USERHELP            IMAGEWD   User program information
+V5OPTS              FSP       ASSIST: VSE host options - libref
+V5V6SEQ             FSP       ASSIST: VSE host options - fileref
+VALIDVALUES         FSP       Valid Values Frame
+VALIDVALUESENTRY    CLASSES   Valid Values Entry Editor
+VALIDVALUESSELECTOR CLASSES   Valid Values Selector
+VALID_NEW_NAME      FSP       Provide valid name for a new table
+VALUESLIST          CLASSES   Valid Values Frame
+VALUESLISTSELECTOR  CLASSES   Valid Values Selector
+VARFMT              MB        Metabase variable format attribute
+VARFND              FSP       VARLIST selection list find
+VARINFMT            MB        Metabase variable informat attribute
+VARLVAL             AFCLASS   Variable Selector values
+VERBLIST            FSP       VERBLIST.FRAME
+VERIFY              MB        VERIFY.FRAME
+VGEXPORT            MARKET    VIEWER: Graph device EXPORT dialog
+VGPRINT             MARKET    VIEWER: Graph device print dialog
+VIDINFO             VIDEO     VPLAY: Video file info
+VIEWENTR            SCM       obsolete catalog entry viewer
+VIEWER              CMP       Function Declaration List Viewer
+VIEWER              MB        Metabase viewer attribute
+VIEWERRETRIEVE      PUBLISH   Frame for retrieving a viewer  file
+VIEWMDDB            FSP       View an mddb file
+VIEWREG             MB        Metabase browse registration on DT
+VLABEDIT            SCM       compare version labels
+VRANGE              FSP       TE: Get a range for field validation
+VSEDISK             FSP       ASSIST: VSE host options - fileref
+VSEJCL              FSP       ASSIST: VSE host options - fileref
+VSELIB              FSP       ASSIST: VSE host options - fileref
+VSEOPT              FSP       ASSIST: VSE options category/Acc.Method
+VSEOPTL             FSP       ASSIST: VSE Libname options access meths
+VSEPOW              FSP       ASSIST: VSE host options - fileref
+VSETAPE             FSP       ASSIST: VSE host options - fileref
+VSEVSAM             FSP       ASSIST: VSE host options - fileref
+VTCOLATR            FSP       Viewtable: Column Attributes Window
+VTDFSCL             FSP       VIEWTABLE: Dataform, Model SCL Window
+VTHIDE              FSP       VTSORT.FRAME
+VTHOLD              FSP       VIEWTABLE: Hold Columns
+VTMAIN              FSP       Viewtable: Main frame made from vtframe
+VTMLAY              FSP       VTMLAY_NEW.FRAME
+VTMSUBS             FSP       VIEWTABLE: Subset Classes in MDDB
+VTOPEN              FSP       VIEWTABLE: OPEN Window
+VTSAVEAS            FSP       VTSAVEAS : Viewtable Saveas options
+VTSORT              FSP       VIEWTABLE: Sort a data table
+VTTABATR            FSP       Viewtable: Table Attributes Window
+VT_PRINTOPTIONS     FSP       VT_PRINTOPTIONS.FRAME
+WARNING3            ETSTOOL   Warning Prompt with Three Push Buttons
+WARNING3            INVEST    Warning Prompt with Three Push Buttons
+WEBDAVOPTIONS       PUBLISH   Optional advanced archive properties
+WEBDAVPUBLISH       PUBLISH   Optional advanced archive properties
+WGTBNDS             FORCAST   Winters Method optimization restrictions
+WGTBNDS1            FORCAST   Simple ES optimization restrictions
+WGTBNDS2            FORCAST   Linear ES optimization restrictions
+WGTBNDS3            FORCAST   Damp Trend ES optimization restrictions
+WGTBNDSD            FORCAST   Double ES optimization restrictions
+WGTBNDSS            FORCAST   Seasonal ES optimization restrictions
+WGTSPEC1            FORCAST   Dialog for Simple/Double ES weight spec
+WGTSPEC2            FORCAST   Dialog for Linear ES weight specs
+WGTSPEC3            FORCAST   Dialog for Damp-Trend ES weight specs
+WGTSPECS            FORCAST   Dialog for Seasonal ES weights spec
+WGTSPECW            FORCAST   Dialog for Winters method weights spec
+WGTWARND            FORCAST   Warning notice for damped trend weight
+WGTWARNE            FORCAST   Warning notice for Expo weights
+WGTWARNW            FORCAST   Warning notice for Winters weights
+WHERE               SQL       Where expression frame/recomp only
+WHERE2              SQL       Where builder (EIS)/ rcmp to pickup 9/23
+WHEREDB             SQL       where char. constant 6 lines
+WHEREINC            SQL       Display for CONSTANT select on WHERE
+WHNUMDB             SQL       Where numeric constants
+WIZMAIN             WIZARD    Wizard frame
+XCOMPOSX            DBIIMEX   BUILD: Composite Definition
+XCOMPOSX            FSP       BUILD: Composite Definition
+XCOMPOSX            INVEST    BUILD: Composite Definition
+XRANGE              CLEATTR   Metabase column range attribute
+XRNGEDIT            CLEATTR   BUILD: Range editor
+YESNO               AFCLASS   YESNO.FRAME

@@ -1,0 +1,866 @@
+ACTIVEX             DEVICES   ActiveX enabled GIF Driver
+ACTIVEX             UNXGDV0   ActiveX enabled GIF Driver
+ACTXIMG             DEVICES   ActiveX enabled Image Driver
+ACTXIMG             UNXGDV0   ActiveX enabled Image Driver
+APLPLUS             DGDEVICE  Apple Laserwriter Plus (PostScript)
+APPLELW             DGDEVICE  Apple Laserwriter (PostScript)
+APPLELWM            DGDEVICE  Apple Laserwriter A4 paper
+BJ200               DGDEVICE  Canon Bubble Jet 200--LQ mode
+BJC600              DGDEVICE  Canon Color Bubble Jet 600--LQ mode
+BJC800              DGDEVICE  Canon Color Bubble Jet 800--LQ mode
+BMP                 DEVICES   BMP File Fmt--256 colors
+BMP                 UNXGDV0   BMP File Fmt--256 colors
+CAL81               DGDEVICE  CalComp 81 plotter
+CAL84               DGDEVICE  CalComp 84 plotter
+CAPSL3A4            DGDEVICE  Canon Laser Beam(CaPSL3) - A4 size
+CAPSL3B5            DGDEVICE  Canon Laser Beam(CaPSL3) - B5 size
+CAPSL3EX            DGDEVICE  Canon Laser Beam(CaPSL3) - Executive siz
+CAPSL3LG            DGDEVICE  Canon Laser Beam(CaPSL3) - Legal size
+CAPSL3LT            DGDEVICE  Canon Laser Beam(CaPSL3) - Letter size
+CAPSL4A3            DGDEVICE  Canon Laser Beam(CaPSL4) - A3 size
+CAPSL4A4            DGDEVICE  Canon Laser Beam(CaPSL4) - A4 size
+CAPSL4A5            DGDEVICE  Canon Laser Beam(CaPSL4) - A5 size
+CAPSL4B4            DGDEVICE  Canon Laser Beam(CaPSL4) - B4 size
+CAPSL4B5            DGDEVICE  Canon Laser Beam(CaPSL4) - B5 size
+CAPSL4EX            DGDEVICE  Canon Laser Beam(CaPSL4) - Executive siz
+CAPSL4LG            DGDEVICE  Canon Laser Beam(CaPSL4) - Legal size
+CAPSL4LS            DGDEVICE  Canon Laser Beam(CaPSL4) - Leisure size
+CAPSL4LT            DGDEVICE  Canon Laser Beam(CaPSL4) - Letter size
+CGM                 DEVICES   CGM generator--binary output
+CGM                 UNXGDV0   CGM generator--binary output
+CGM123C             DGDEVICE  CGM color for Lotus 123
+CGM35               DGDEVICE  CGM binary for BPS 35mm EXPRESS
+CGMAM3C             DGDEVICE  CGM color for Lotus Ami Pro 3.0
+CGMAPMA             DGDEVICE  CGM for Aldus PageMaker for Windows
+CGMAPSA             DGDEVICE  CGM for Aldus Persuasion 2.0 Fonts
+CGMAUTO             DGDEVICE  CGM for Autografix System
+CGMBQA              DGDEVICE  CGM color for BORLAND QUATTRO 3.0
+CGMBQWC             DGDEVICE  CGM color for Quattro Windows
+CGMC                DEVICES   CGM generator w/colors--binary output
+CGMC                UNXGDV0   CGM generator w/colors--binary output
+CGMCHAR             DGDEVICE  CGM generator--character format
+CGMCLEAR            DGDEVICE  CGM generator--Clear text format
+CGMCRT              DGDEVICE  CGM for CRTs--binary format
+CGMCRTCH            DGDEVICE  CGM for CRTs--character format
+CGMCRTCL            DGDEVICE  CGM for CRTs--clear text format
+CGMDP               DGDEVICE  CGM for Draw Perfect System
+CGMDPA              DGDEVICE  CGM Draw Perfect with Hardware Fonts
+CGMFL               DGDEVICE  CGM binary for Lotus Freelance rel 3.0
+CGMFL2C             DGDEVICE  CGM color for Lotus Freelance 2.0
+CGMFLALJ            DGDEVICE  CGM Lotus Freelance - Laserjet, EGA
+CGMFLAPL            DGDEVICE  CGM Lotus Freelance - Apple Laserwriter
+CGMFLAPT            DGDEVICE  CGM Lotus Freelance - HP7475A Plotter
+CGMFLM              DGDEVICE  CGM binary monochrome - Lotus Freelance
+CGMFLWA             DGDEVICE  CGM Lotus Freelance - Windows
+CGMFRCA             DGDEVICE  CGM color for Framemaker 3.0
+CGMFRGA             DGDEVICE  CGM Gray for Framemaker 3.0
+CGMFRMA             DGDEVICE  CGM Mono for Framemaker 3.0
+CGMGG               DGDEVICE  CGM driver for H-P Graphics Gallery 3.0
+CGMHG               DGDEVICE  CGM color for Harvard Graphics 2.12
+CGMHG3A             DGDEVICE  CGM color for Harvard Graphics 3.0 FONTS
+CGMHGM              DGDEVICE  CGM mono for Harvard Graphics 2.12
+CGMHGWA             DGDEVICE  CGM for Harvard Graphics Windows
+CGMILFC             DGDEVICE  CGM color for Interleaf 5.0
+CGMIMG              DGDEVICE  CGM color for Image Builder
+CGMLT97L            DGDEVICE  CGM for Smartsuite 97 landscape
+CGMLT97P            DGDEVICE  CGM for Smartsuite 97 portrait
+CGMMPPA             DGDEVICE  CGM driver for Microsoft PowerPoint
+CGMMW6C             DGDEVICE  CGM color for MicroSoft Word 6.0
+CGMMWWC             DGDEVICE  CGM for Microsoft Word Windows
+CGMOF93L            DEVICES   CGM for MS landscape w/o hardware lines
+CGMOF93L            UNXGDV0   CGM for MS landscape w/o hardware lines
+CGMOF93P            DEVICES   CGM for MS portrait w/o hardware lines
+CGMOF93P            UNXGDV0   CGM for MS portrait w/o hardware lines
+CGMOF97L            DEVICES   CGM for Office 97 landscape mode
+CGMOF97L            UNXGDV0   CGM for Office 97 landscape mode
+CGMOF97P            DEVICES   CGM for Microsoft Office 97 portrait
+CGMOF97P            UNXGDV0   CGM for Microsoft Office 97 portrait
+CGMOFML             DEVICES   CGM for MS Office w/ Metric Scaling land
+CGMOFML             UNXGDV0   CGM for MS Office w/ Metric Scaling land
+CGMOFMP             DEVICES   CGM for MS Office w/ Metric Scaling port
+CGMOFMP             UNXGDV0   CGM for MS Office w/ Metric Scaling port
+CGMPIX              DGDEVICE  CGM driver for Pixie and Mirage
+CGMSWP              DGDEVICE  CGM for SLIDEWRITER
+CGMVP               DGDEVICE  CGM binary format for Ventura Publishing
+CGMWP               DGDEVICE  CGM binary format for Word Perfect rel 5
+CGMWP61L            DGDEVICE  CGM for WordPerfect 6.1 landscape
+CGMWP61P            DGDEVICE  CGM for WordPerfect 6.1 portrait
+CGMWP80L            DGDEVICE  CGM for WordPerfect 8 landscape mode
+CGMWP80P            DGDEVICE  CGM for WordPerfect 8 portrait mode
+CGMWPCA             DGDEVICE  CGM for Word Perfect with Colors
+CGMWPCAP            DGDEVICE  Color CGM for Word Perfect Portrait
+CGMWPGA             DGDEVICE  CGM for Word Perfect with Gray Scales
+CGMWPGAP            DGDEVICE  Gray CGM for Word Perfect Portrait
+CGMWPL              DGDEVICE  CGM for Word Perfect rel 5 Landscape
+CGMWPMA             DGDEVICE  Mono CGM for Word Perfect
+CGMWPMAP            DGDEVICE  Mono CGM for Word Perfect Portrait
+CGMWPWA             DGDEVICE  CGM for Word Perfect Windows
+CGRAFIX             DGDEVICE  QMS Colorgrafix printer
+CGRAFIXA            DGDEVICE  QMS Colorgrafix printer--A size paper
+CH5504              DGDEVICE  Seiko ColorPointPS Printer - Model 4
+CHARDRV             UNXGDV0   Generic Character driver--80 columns
+CHARDRVW            UNXGDV0   Generic Character driver--132 columns
+CI3000              DGDEVICE  CGM for Polaroid Palette CI3000
+CLJ                 DEVICES   HP Color LaserJet Printer--Letter Size
+CLJ                 UNXGDV0   HP Color LaserJet Printer--Letter Size
+CLJA3               DGDEVICE  HP Color LaserJet Printer--A3 size
+CLJA4               DGDEVICE  HP Color LaserJet Printer--A4 size
+CLJPS               DEVICES   HP Color LaserJet--PostScript--Letter
+CLJPS               UNXGDV0   HP Color LaserJet--PostScript--Letter
+CLJPSA4             DEVICES   HP Color LaserJet--PostScript--A4 size
+CLJPSA4             UNXGDV0   HP Color LaserJet--PostScript--A4 size
+CLRMSTR             DGDEVICE  CalComp ColorMaster thermal printer
+CLRMSTRM            DGDEVICE  CalComp ColorMaster thermal printer--A4
+COLORJET            DGDEVICE  IBM Color Jet printer
+COLORPRO            DGDEVICE  HP COLORPRO plotter (7440)
+CSCRIPT             DGDEVICE  QMS ColorScript--CMYK color defs
+DEBUGC              DGDEVICE  Debugging driver--color-definable CRT
+DEBUGC              UNXGDV0   Debugging driver--color-definable CRT
+DEBUGLRC            DGDEVICE  Debugging driver--color-definable CRT
+DEBUGLRC            UNXGDV0   Debugging driver--color-definable CRT
+DEBUGLRN            DGDEVICE  Debug driver--non-color definable CRT
+DEBUGLRN            UNXGDV0   Debug driver--non-color definable CRT
+DEBUGLRP            DGDEVICE  Debugging driver--plotter
+DEBUGLRP            UNXGDV0   Debugging driver--plotter
+DEBUGN              DGDEVICE  Debug driver--non-color definable CRT
+DEBUGN              UNXGDV0   Debug driver--non-color definable CRT
+DEBUGP              DGDEVICE  Debug driver--plotter
+DEBUGP              UNXGDV0   Debug driver--plotter
+DEMO4105            DGDEVICE  DEMO driver for Tektronix 4105 terminal
+DEMO4200            DGDEVICE  DEMO driver for Tektronix 42xx terminals
+DESIGNJT            DGDEVICE  HP DesignJet 600 - Model 2848
+DJ1200C             DGDEVICE  HP DeskJet 1200C Printer
+DJ1200CM            DGDEVICE  HP DeskJet 1200C--A4 size paper
+DJ1200CO            DGDEVICE  HP DeskJet 1200C -- Opaque white
+DJ1200PM            DGDEVICE  HP DeskJet 1200C/PS--A4 size paper
+DJ1200PS            DGDEVICE  HP DeskJet 1200C -- Postscript
+DJ1600C             DGDEVICE  HP DeskJet 1600C
+DJ1600PS            DGDEVICE  HP DeskJet 1600C -- Postscript
+DJ550CA4            DGDEVICE  HP DeskJet 550C--A4 size paper
+DJ660               DGDEVICE  HP DeskJet 660C -- b/w only
+DJ660C              DGDEVICE  HP DeskJet 660C
+DJPORTA4            DGDEVICE  HP DeskJet Portable--A4 size paper
+DJPORTBL            DGDEVICE  HP DeskJet Portable Printer
+DJT2C               DEVICES   DesignJet 2000 Series 24" color HPGL/2
+DJT2C               UNXGDV0   DesignJet 2000 Series 24" color HPGL/2
+DJT2CW              DEVICES   DesignJet 2000 Series 36" color HPGL/2
+DJT2CW              UNXGDV0   DesignJet 2000 Series 36" color HPGL/2
+DJT4                DEVICES   DesignJet 400 Series 24" b/w HPGL/2
+DJT4                UNXGDV0   DesignJet 400 Series 24" b/w HPGL/2
+DJT4C               DEVICES   DesignJet 400 Series 24" color HPGL/2
+DJT4C               UNXGDV0   DesignJet 400 Series 24" color HPGL/2
+DJT4CW              DGDEVICE  DesignJet 400 Series 36" color HPGL/2
+DJT4W               DGDEVICE  DesignJet 400 Series 36" b/w HPGL/2
+DJT65024            DEVICES   HP DesignJet 650C - 24 in Roll - Color
+DJT65024            UNXGDV0   HP DesignJet 650C - 24 in Roll - Color
+DJT65036            DEVICES   HP DesignJet 650C - 36 in Roll - Color
+DJT65036            UNXGDV0   HP DesignJet 650C - 36 in Roll - Color
+DJT650CD            DEVICES   HP DesignJet 650C - D size - Color Exp
+DJT650CD            UNXGDV0   HP DesignJet 650C - D size - Color Exp
+DJT650CE            DEVICES   HP DesignJet 650C - E size - Color Exp
+DJT650CE            UNXGDV0   HP DesignJet 650C - E size - Color Exp
+DJT650D             DEVICES   HP DesignJet 650C - D size - 600 dpi Exp
+DJT650D             UNXGDV0   HP DesignJet 650C - D size - 600 dpi Exp
+DJT650E             DEVICES   HP DesignJet 650C - E size - 600 dpi Exp
+DJT650E             UNXGDV0   HP DesignJet 650C - E size - 600 dpi Exp
+DJT7                DGDEVICE  DesignJet 700 Series 24" b/w HPGL/2
+DJT7C               DGDEVICE  DesignJet 700 Series 24" color HPGL/2
+DJT7CW              DGDEVICE  DesignJet 700 Series 36" color HPGL/2
+DJT7W               DGDEVICE  DesignJet 700 Series 36" b/w HPGL/2
+DJTPS24D            DEVICES   DesignJet650C-24 in roll-ArchD
+DJTPS24D            UNXGDV0   DesignJet650C-24 in roll-ArchD
+DJTPS2C             DGDEVICE  DesignJet 2000 Series 24" color PS
+DJTPS2CW            DGDEVICE  DesignJet 2000 Series 36" color PS
+DJTPS36D            DEVICES   DesignJet650C-36 in roll ArchD
+DJTPS36D            UNXGDV0   DesignJet650C-36 in roll ArchD
+DJTPS36E            DEVICES   DesignJet650C-36 in roll-ArchE
+DJTPS36E            UNXGDV0   DesignJet650C-36 in roll-ArchE
+DJTPS7              DGDEVICE  DesignJet 700 Series 24" b/w PS
+DJTPS7C             DGDEVICE  DesignJet 700 Series 24" color PS
+DJTPS7CW            DGDEVICE  DesignJet 700 Series 36" color PS
+DJTPS7W             DGDEVICE  DesignJet 700 Series 36" b/w PS
+DMP29               DGDEVICE  DMP-29 plotter--A3 paper
+DMP29A4             DGDEVICE  DMP-29 plotter--A4 paper
+DMP3                DGDEVICE  DMP-3 plotter--6 pens
+DMP3B               DGDEVICE  DMP-3 plotter--1 pen
+DMP4                DGDEVICE  DMP-4 plotter--6 pens
+DMP40               DGDEVICE  DMP-40 plotter--B size paper
+DMP40A              DGDEVICE  DMP-40 plotter--A size paper
+DMP41               DGDEVICE  DMP-41 plotter--D size paper
+DMP41C              DGDEVICE  DMP-41 plotter--C size paper
+DMP42               DGDEVICE  DMP-42 plotter--architectural paper
+DMP42A1             DGDEVICE  DMP-42 plotter--A1 size paper
+DMP42A2             DGDEVICE  DMP-42 plotter--A2 size paper
+DMP4B               DGDEVICE  DMP-4 plotter--1 pen
+DMP50               DGDEVICE  DMP-50 plotter--B size paper
+DMP50A              DGDEVICE  DMP-50 plotter--A size paper
+DMP51               DGDEVICE  DMP-51 plotter--D size paper
+DMP51C              DGDEVICE  DMP-51 plotter--C size paper
+DMP51D              DGDEVICE  DMP-51 plotter--D size paper
+DMP56A1             DGDEVICE  DMP-56A plotter--DIN A1 paper
+DMP56ENC            DGDEVICE  DMP-56A plotter--engineering C paper
+DMP56END            DGDEVICE  DMP-56A plotter--engineering D paper
+DMP6                DGDEVICE  DMP-6 plotter--8 pens
+DMP61A1             DGDEVICE  DMP-61A plotter--DIN A1 paper
+DMP61END            DGDEVICE  DMP-61A plotter--engineering D paper
+DMP61ENE            DGDEVICE  DMP-61A plotter--engineering E paper
+DMP61ENF            DGDEVICE  DMP-61A plotter--engineering F paper
+DMP6B               DGDEVICE  DMP-6 plotter--1 pen
+DMP7                DGDEVICE  DMP-7 plotter--8 pens
+DMP7B               DGDEVICE  DMP-7 plotter--1 pen
+DRAFTPRO            DGDEVICE  HP 7570A Plotter--C size paper
+EMF                 DEVICES   Enhanced Metafile Format Plus Extensions
+EMF                 UNXGDV0   Enhanced Metafile Format Plus Extensions
+EMFDUAL             DEVICES   EMF and EMF Plus format support
+EMFDUAL             UNXGDV0   EMF and EMF Plus format support
+EPL6000             DGDEVICE  Epson Laser Printer (1 meg)--300 DPI
+EPLQ120             DGDEVICE  Epson LQ800--120 DPI, 8.0 x 10 in
+EPLQ120C            DGDEVICE  Epson LQ2550--120 DPI, 8.0 x 10 in
+EPLQ120W            DGDEVICE  Epson LQ1000--120 DPI, 13.6 x 10 in
+EPLQ180             DGDEVICE  Epson LQ800--180 DPI, 8.0 x 10 in
+EPLQ180C            DGDEVICE  Epson LQ2550--180 DPI, 8.0 x 10 in
+EPLQ180W            DGDEVICE  Epson LQ1000--180 DPI, 13.6 x 10 in
+EPLQ360             DGDEVICE  Epson LQ800--360 DPI, 8.0 x 10 in
+EPLQ360C            DGDEVICE  Epson LQ2550--360 DPI, 8.0 x 10 in
+EPLQ360W            DGDEVICE  Epson LQ1000--360 DPI, 13.6 x 10 in
+EPLQ60              DGDEVICE  Epson LQ800--60 DPI, 8.0 x 10 in
+EPLQ60C             DGDEVICE  Epson LQ2550--60 DPI, 8.0 x 10 in
+EPLQ60W             DGDEVICE  Epson LQ1000--60 DPI, 13.6 x 10 in
+EPLQ90              DGDEVICE  Epson LQ800--90 DPI, 8.0 x 10 in
+EPLQ90C             DGDEVICE  Epson LQ2550--90 DPI, 8.0 x 10 in
+EPLQ90W             DGDEVICE  Epson LQ1000--90 DPI, 13.6 x 10 in
+EXCL                DGDEVICE  Talaris EXCL--letter size paper
+EXCLA4              DGDEVICE  Talaris EXCL--A4 size paper
+EXCLB5              DGDEVICE  Talaris EXCL--B5 size paper
+EXCLL               DGDEVICE  Talaris EXCL--landscape, letter size
+EXCLLGL             DGDEVICE  Talaris EXCL--legal size paper
+FX185               DGDEVICE  Epson FX-185 printer
+FX85                DGDEVICE  Epson FX-85 printer
+GIF                 DEVICES   GIF Universal Printer
+GIF                 UNXGDV0   GIF Universal Printer
+GIF160              DGDEVICE  GIF - Size 160 x 120 pixels
+GIF260              DGDEVICE  GIF - Size 260 x 195 pixels
+GIF373              DGDEVICE  GIF - Size 373 x 280 pixels
+GIF570              DGDEVICE  GIF - Size 570 x 430 pixels
+GIF733              DGDEVICE  GIF - Size 733 x 550 pixels
+GIFANIM             DEVICES   GIF89A - Animation
+GIFANIM             UNXGDV0   GIF89A - Animation
+GRLINK              DGDEVICE  Graphics driver for SAS/CONNECT Software
+GXTAC               DGDEVICE  Metagraphics driver calling a process
+GXTDUMMY            DGDEVICE  Dummy Metagraphics driver
+GXTESTC             DGDEVICE  Driver to test CNTL TPUT and TRANTAB
+GXTHP               DGDEVICE  Metagraphics--HP 7440 with GEC
+GXTSLINK            DGDEVICE  Metagraphics driver simulating LINKABLE
+H7600RTL            DGDEVICE  HP 7600 -- Model 355 -- RTL support
+HP2393              DGDEVICE  HP 2393 graphics terminal
+HP2397              DGDEVICE  HP 2397A graphics terminal
+HP3LEGAL            DGDEVICE  HP LaserJet III - PCL - Legal Size
+HP3SILGL            DGDEVICE  HP LaserJet Series IIISi-PCL-legal size
+HP500CA4            DGDEVICE  HP DeskJet 500C--A4 size paper
+HP7220              DGDEVICE  HP 7220 plotter (4 pens)
+HP7220C             DGDEVICE  HP 7220C plotter (8 pens)
+HP7220S             DGDEVICE  HP 7220S plotter (4 pens)
+HP7220T             DGDEVICE  HP 7220T plotter (8 pens)
+HP7225              DGDEVICE  HP 7225 plotter
+HP7440              DGDEVICE  HP 7440 plotter (COLORPRO)
+HP7440E             DGDEVICE  HP 7440 plotter (COLORPRO) with GEC
+HP7470              DGDEVICE  HP 7470 graphics plotter
+HP7475              DGDEVICE  HP 7475 plotter--B size paper
+HP7475A             DGDEVICE  HP 7475 plotter--A size paper
+HP7475A3            DGDEVICE  HP 7475 plotter--A3 size paper
+HP7475A4            DGDEVICE  HP 7475 plotter--A4 size paper
+HP7475B             DGDEVICE  HP 7475 plotter--B size paper
+HP7510              DGDEVICE  HP 7510 film recorder
+HP7550              DGDEVICE  HP 7550 plotter--B size paper
+HP7550A             DGDEVICE  HP 7550 plotter--A size paper
+HP7550A3            DGDEVICE  HP 7550 plotter--A3 size paper
+HP7550A4            DGDEVICE  HP 7550 plotter--A4 size paper
+HP7550B             DGDEVICE  HP 7550 plotter--B size paper
+HP7570              DGDEVICE  HP DraftPro Plotter--C size paper
+HP7570C             DGDEVICE  HP DraftPro Plotter--C size paper
+HP7570D             DGDEVICE  HP DraftPro Plotter--D size paper
+HP7575              DGDEVICE  HP DraftPro DXL Plotter--Arch C paper
+HP7576              DGDEVICE  HP DraftPro EXL Plotter--Arch D paper
+HP7580              DGDEVICE  HP 7580 plotter--A size paper
+HP7580A             DGDEVICE  HP 7580 plotter--A size paper
+HP7580B             DGDEVICE  HP 7580 plotter--B size paper
+HP7580C             DGDEVICE  HP 7580 plotter--C size paper
+HP7580D             DGDEVICE  HP 7580 plotter--D size paper
+HP7580E             DGDEVICE  HP 7580 plotter--E size paper
+HP7585              DGDEVICE  HP 7585 plotter--C size paper
+HP7585C             DGDEVICE  HP 7585 plotter--C size paper
+HP7585E             DGDEVICE  HP 7585 plotter--E size paper
+HP7586C             DGDEVICE  HP 7586 plotter--C size paper
+HP7586E             DGDEVICE  HP 7586 plotter--E size paper
+HP7595A             DGDEVICE  HP 7595 plotter--A size paper
+HP7595B             DGDEVICE  HP 7595 plotter--B size paper
+HP7595C             DGDEVICE  HP 7595 plotter--C size paper
+HP7595D             DGDEVICE  HP 7595 plotter--D size paper
+HP7595E             DGDEVICE  HP 7595 plotter--E size paper
+HP7600              DGDEVICE  HP 7600 plotter--Model 240D
+HP7600CL            DGDEVICE  HP 7600 color plotter--Model 355
+HP7600D             DGDEVICE  HP 7600 plotter--Model 240D
+HP7600E             DGDEVICE  HP 7600 plotter--Model 240E
+HPDJ100             DGDEVICE  HP DeskJet Printer--100 DPI
+HPDJ100C            DGDEVICE  HP DeskJet 500C -- 100 dpi
+HPDJ150             DGDEVICE  HP DeskJet Printer--150 DPI
+HPDJ150C            DGDEVICE  HP DeskJet 500C -- 150 dpi
+HPDJ300             DGDEVICE  HP DeskJet Printer--300 DPI
+HPDJ300C            DGDEVICE  HP DeskJet 500C -- 300 dpi
+HPDJ310             DGDEVICE  HP DeskJet 310 Printer -- 300 dpi
+HPDJ500C            DGDEVICE  HP DeskJet 500C -- 300 dpi
+HPDJ520             DGDEVICE  HP DeskJet 520 Printer -- 300 dpi
+HPDJ540             DGDEVICE  HP DeskJet 540 Printer
+HPDJ540C            DGDEVICE  HP DeskJet 540 Printer w/color kit
+HPDJ550C            DGDEVICE  HP DeskJet 550C -- 300 dpi
+HPDJ550L            DGDEVICE  HP DeskJet 550C -- 75 dpi
+HPDJ550M            DGDEVICE  HP DeskJet 550C -- 150 dpi
+HPDJ560C            DGDEVICE  HP DeskJet 560C Printer -- 300 dpi
+HPDJ75              DGDEVICE  HP DeskJet Printer--75 DPI
+HPDJ75C             DGDEVICE  HP DeskJet 500C -- 75 dpi
+HPGL                DEVICES   Hewlett-Packard Graphics Language
+HPGL                UNXGDV0   Hewlett-Packard Graphics Language
+HPGL2               DEVICES   HP LaserJet III -- HPGL/2
+HPGL2               UNXGDV0   HP LaserJet III -- HPGL/2
+HPGL3SI             DGDEVICE  HP LaserJet Series IIISi -- HP-GL/2
+HPGL3SIM            DGDEVICE  HP LaserJet Series IIISi--HP-GL/2--A4
+HPGL4SI             DGDEVICE  HP LaserJet Series 4Si--HP-GL/2
+HPLJ0               DGDEVICE  HP LaserJet--8 x 10, 75 DPI
+HPLJ100             DGDEVICE  HP LaserJet Series II--100 DPI
+HPLJ150             DGDEVICE  HP LaserJet Series II--150 DPI
+HPLJ300             DGDEVICE  HP LaserJet Series II (1 meg)--300 DPI
+HPLJ300S            DGDEVICE  HP LaserJet Series II--300 DPI, 4 x 5 in
+HPLJ3SI             DGDEVICE  HP LaserJet Series IIISi -- PCL
+HPLJ3SIM            DGDEVICE  HP LaserJet Series IIISi--A4 size paper
+HPLJ4SI             DGDEVICE  HP LaserJet IV -- 600 dpi
+HPLJ5P2             DGDEVICE  HP LaserJet--8 x 10, 150 DPI
+HPLJ5P3             DGDEVICE  HP LaserJet--4 x 5, 300 DPI
+HPLJ75              DGDEVICE  HP LaserJet Series II--75 DPI
+HPLJGL              DGDEVICE  HP LaserJet III -- HPGL/2
+HPLJGL2             DGDEVICE  HP LaserJet III -- HPGL/2
+HPLJS2              DGDEVICE  HP LaserJet Series II--300 DPI (1 MB)
+HPLJS2A4            DGDEVICE  HP LaserJet Series II--A4 size paper
+HPLJS3              DGDEVICE  HP LaserJet Series III (1 meg)--300 DPI
+HPLJS3A4            DGDEVICE  HP LaserJet Series III--A4 size paper
+HPPJ180             DGDEVICE  HP PaintJet (180 dpi)
+HPPJ180T            DGDEVICE  HP PaintJet (180 dpi /transparency mode)
+HPPJ90              DGDEVICE  HP PaintJet (90 dpi)
+HPPJ90H             DGDEVICE  HP PaintJet (90 dpi)
+HPPJ90HT            DGDEVICE  HP PaintJet (90 dpi / transparency mode)
+HPPJ90T             DGDEVICE  HP PaintJet (90 dpi / transparency mode)
+HPPJXL              DGDEVICE  HP PaintJet XL (180 dpi)
+HPPLUS              DGDEVICE  HP 7550 Plus plotter -- HPGL/2
+HPXL300             DGDEVICE  HP PaintJet XL300 Color Printer
+HPXL300M            DGDEVICE  HP PaintJet XL300--A4 size paper
+HPXL300T            DGDEVICE  HP XL300--HPGL2--Transparency Mode
+HPXLGL              DGDEVICE  HP PaintJet XL with HPGL/2 Cartridge
+HPXLGL2             DGDEVICE  HP PaintJet XL with HPGL/2 Cartridge
+HTML                DEVICES   HTML/GIF File Formats
+HTML                UNXGDV0   HTML/GIF File Formats
+IBM3179             UNXGDV0   IBM 3179G terminal
+IBM3852             DGDEVICE  IBM 3852-2 printer--100x96 DPI
+IBM3852H            DGDEVICE  IBM 3852-2 printer--100x96 DPI
+IBM3852L            DGDEVICE  IBM 3852-2 printer--100x72 DPI
+IBM5550             UNXGDV0   IBM 5550 Graphics Window
+IBMGPRT             DGDEVICE  IBM graphics printer
+IBMPCG              UNXGDV0   IBM 3270 PC/G
+IBMPCGX             UNXGDV0   IBM 3270 PC/GX
+IBMXY749            DGDEVICE  IBM Instruments XY/749 plotter
+IBMXY750            DGDEVICE  IBM Instruments XY/750 plotter
+IMGGIF              DGDEVICE  GIF File Format
+IMGJPEG             DGDEVICE  JPEG/JFIF Format--256 Colors
+IMGPBM              DGDEVICE  Portable Bitmap Format--2 colors
+IMGPPM              DGDEVICE  Portable Pixmap Format--256 colors
+IMGTIFB             DGDEVICE  Tag Image File Fmt--B/W--Uncompressed
+IMGTIFP             DGDEVICE  Tag Image File Fmt-256 clr-Uncompressed
+JAVA                DEVICES   Java enabled GIF Driver
+JAVA                UNXGDV0   Java enabled GIF Driver
+JAVA2               DGDEVICE  Java 2 Based Device Driver
+JAVAIMG             DEVICES   Java enabled Image Driver
+JAVAIMG             UNXGDV0   Java enabled Image Driver
+JAVAMETA            DEVICES   Java Metagraphics Driver
+JAVAMETA            UNXGDV0   Java Metagraphics Driver
+JAVAPUB             DGDEVICE  Java Publishing Drv (Batch)
+JPEG                DEVICES   JPEG/JFIF Format--256 Colors
+JPEG                UNXGDV0   JPEG/JFIF Format--256 Colors
+JPEG300             DEVICES   JPEG/JFIF Format--256 Colors
+JPEG300             UNXGDV0   JPEG/JFIF Format--256 Colors
+KERMIT              DGDEVICE  Kermit Tektronix 4014 Emulation
+KRMTAUTO            DGDEVICE  Kermit--Auto Terminal Graphics
+KRMTVGA             DGDEVICE  Kermit--VGA Terminal Graphics
+KXP1080I            DGDEVICE  Panasonic KXP-1080i Printer
+KXP1091I            DGDEVICE  Panasonic KXP-1091i Printer
+LCG01               DGDEVICE  DEC LCG01 inkjet printer
+LCP01               DGDEVICE  DEC LCP01 inkjet printer
+LINKABLE            DGDEVICE  Version 6 LINKABLE Driver
+LIPS2A4             DGDEVICE  Canon LASER SHOT(LIPS2) - A4 size
+LIPS2A5             DGDEVICE  Canon LASER SHOT(LIPS2) - A5 size
+LIPS2B4             DGDEVICE  Canon LASER SHOT(LIPS2) - B4 size
+LIPS2B5             DGDEVICE  Canon LASER SHOT(LIPS2) - B5 size
+LIPS2LG             DGDEVICE  Canon LASER SHOT(LIPS2) - Legal size
+LIPS2LT             DGDEVICE  Canon LASER SHOT(LIPS2) - Letter size
+LIPS2PC             DGDEVICE  Canon LASER SHOT(LIPS2) - Postcard size
+LIPS2XA3            DGDEVICE  Canon LASER SHOT(LIPS2+) - A3 size
+LIPS2XA4            DGDEVICE  Canon LASER SHOT(LIPS2+) - A4 size
+LIPS2XA5            DGDEVICE  Canon LASER SHOT(LIPS2+) - A5 size
+LIPS2XB4            DGDEVICE  Canon LASER SHOT(LIPS2+) - B4 size
+LIPS2XB5            DGDEVICE  Canon LASER SHOT(LIPS2+) - B5 size
+LIPS2XLG            DGDEVICE  Canon LASER SHOT(LIPS2+) - Legal size
+LIPS2XLT            DGDEVICE  Canon LASER SHOT(LIPS2+) - Letter size
+LIPS2XPC            DGDEVICE  Canon LASER SHOT(LIPS2+) - Postcard size
+LIPS3A3             DGDEVICE  Canon LASER SHOT(LIPS3) - A3 size
+LIPS3A4             DGDEVICE  Canon LASER SHOT(LIPS3) - A4 size
+LIPS3A5             DGDEVICE  Canon LASER SHOT(LIPS3) - A5 size
+LIPS3B4             DGDEVICE  Canon LASER SHOT(LIPS3) - B4 size
+LIPS3B5             DGDEVICE  Canon LASER SHOT(LIPS3) - B5 size
+LIPS3LG             DGDEVICE  Canon LASER SHOT(LIPS3) - Legal size
+LIPS3LT             DGDEVICE  Canon LASER SHOT(LIPS3) - Letter size
+LIPS3PC             DGDEVICE  Canon LASER SHOT(LIPS3) - Postcard size
+LIPS4A3             DGDEVICE  Canon LASER SHOT(LIPS4) - A3 size
+LIPS4A3N            DGDEVICE  Canon LASER SHOT(LIPS4) Mono - A3
+LIPS4A4             DGDEVICE  Canon LASER SHOT(LIPS4) - A4 size
+LIPS4A4N            DGDEVICE  Canon LASER SHOT(LIPS4) Mono - A4
+LIPS4A5             DGDEVICE  Canon LASER SHOT(LIPS4) - A5 size
+LIPS4A5N            DGDEVICE  Canon LASER SHOT(LIPS4) Mono - A5
+LIPS4B4             DGDEVICE  Canon LASER SHOT(LIPS4) - B4 size
+LIPS4B4N            DGDEVICE  Canon LASER SHOT(LIPS4) Mono  - B4
+LIPS4B5             DGDEVICE  Canon LASER SHOT(LIPS4) - B5 size
+LIPS4B5N            DGDEVICE  Canon LASER SHOT(LIPS4) Mono - B5
+LIPS4CA3            DGDEVICE  Canon LASER SHOT(LIPS4c) - A3 size
+LIPS4CA4            DGDEVICE  Canon LASER SHOT(LIPS4c) - A4 size
+LIPS4CA5            DGDEVICE  Canon LASER SHOT(LIPS4c) - A5 size
+LIPS4CB4            DGDEVICE  Canon LASER SHOT(LIPS4c) - B4 size
+LIPS4CB5            DGDEVICE  Canon LASER SHOT(LIPS4c) - B5 size
+LIPS4CEX            DGDEVICE  Canon LASER SHOT(LIPS4c) - Executive siz
+LIPS4CLG            DGDEVICE  Canon LASER SHOT(LIPS4c) - Legal size
+LIPS4CLS            DGDEVICE  Canon LASER SHOT(LIPS4c) - Leisure size
+LIPS4CLT            DGDEVICE  Canon LASER SHOT(LIPS4c) - Letter size
+LIPS4CPC            DGDEVICE  Canon LASER SHOT(LIPS4c) - Postcard size
+LIPS4EX             DGDEVICE  Canon LASER SHOT(LIPS4) - Executive size
+LIPS4EXN            DGDEVICE  Canon LASER SHOT(LIPS4) Mono - Executive
+LIPS4LG             DGDEVICE  Canon LASER SHOT(LIPS4) - Legal size
+LIPS4LGN            DGDEVICE  Canon LASER SHOT(LIPS4) Mono - Legal
+LIPS4LS             DGDEVICE  Canon LASER SHOT(LIPS4) - Leisure size
+LIPS4LSN            DGDEVICE  Canon LASER SHOT(LIPS4) Mono - Leisure
+LIPS4LT             DGDEVICE  Canon LASER SHOT(LIPS4) - Letter size
+LIPS4LTN            DGDEVICE  Canon LASER SHOT(LIPS4) Mono - Letter
+LIPS4PC             DGDEVICE  Canon LASER SHOT(LIPS4) - Postcard size
+LIPS4PCN            DGDEVICE  Canon LASER SHOT(LIPS4) Mono - Postcard
+LJ250               DGDEVICE  DEC LJ250 inkjet printer
+LJ3SIPS             DEVICES   HP LaserJet IIISi--Postscript
+LJ3SIPS             UNXGDV0   HP LaserJet IIISi--Postscript
+LJ3SIPSL            DEVICES   HP LaserJet IIISi--Postscript thin lines
+LJ3SIPSL            UNXGDV0   HP LaserJet IIISi--Postscript thin lines
+LJ3SIPSM            DEVICES   HP IIISi--PostScript--A4 size paper
+LJ3SIPSM            UNXGDV0   HP IIISi--PostScript--A4 size paper
+LJ4SIPS             DEVICES   HP LaserJet IV -- 600 dpi -- PostScript
+LJ4SIPS             UNXGDV0   HP LaserJet IV -- 600 dpi -- PostScript
+LJ4VA3              DGDEVICE  HP LaserJet 4V--600 dpi--A3 size paper
+LJ5PCL              DGDEVICE  LaserJet 5P -- 600 dpi -- PCL
+LJ5PCLA4            DGDEVICE  LaserJet 5P -- 600 dpi -- A4 size paper
+LJ5PS               DEVICES   LaserJet 5P -- 600 dpi -- PostScript
+LJ5PS               UNXGDV0   LaserJet 5P -- 600 dpi -- PostScript
+LJ5SI               DGDEVICE  HP LaserJet 5Si--PCL--Letter Size
+LJ5SIA4             DGDEVICE  HP LaserJet 5Si--PCL--A4 Size
+LJ5SIB              DGDEVICE  HP LaserJet 5Si--PCL--11x17 Size
+LJ5SIPS             DEVICES   HP LaserJet 5Si--PostScript--Letter Size
+LJ5SIPS             UNXGDV0   HP LaserJet 5Si--PostScript--Letter Size
+LJIV600             DGDEVICE  HP LaserJet IV -- 600 dpi
+LJIV600M            DGDEVICE  HP LaserJet IV--600 dpi--A4 size paper
+LJIVPS              DEVICES   HP LaserJet IV -- 600 dpi -- PostScript
+LJIVPS              UNXGDV0   HP LaserJet IV -- 600 dpi -- PostScript
+LN03                DGDEVICE  DEC LN03 Printer
+LN03P               DGDEVICE  DEC LN03 PLUS Printer
+LQ1000              DGDEVICE  Epson LQ-1000 printer
+LQ2500              DGDEVICE  Epson LQ2500--180 DPI, 8.0 x 10 in
+LQ2550              DGDEVICE  Epson LQ2550--180 DPI, 8.0 x 10 in
+LQ2550W             DGDEVICE  Epson LQ2550--180 DPI, 13.6 x 10 in
+LQ800               DGDEVICE  Epson LQ-800 printer
+LX4037A4            DGDEVICE  IBM LP4037 5E by LEXMARK--A4 size paper
+LXEXECJT            DGDEVICE  IBM ExecJet II 4076 Printer by LEXMARK
+LXLP4037            DGDEVICE  IBM LP4037 5E by LEXMARK
+LXPS4079            DGDEVICE  IBM ColorJetprinter PS 4079 by LEXMARK
+LXPSA3              DGDEVICE  IBM ColorJet PS 4079 by LEXMARK--A3
+LXPSA4              DGDEVICE  IBM ColorJet PS 4079 by LEXMARK--A4
+MOSAIC              UNXGDV0   Mosaic WWW Browser
+NETSCAPE            UNXGDV0   Netscape Interactive Frame Browser
+NULLC               UNXGDV0   Null driver--color-definable CRT
+NULLN               UNXGDV0   Null driver--non-color definable CRT
+NULLP               UNXGDV0   Null driver--plotter
+OLDZETA8            DGDEVICE  ZETA8 (roll feed with 5.3z firmware)
+PC340               DGDEVICE  VT340 Emulators
+PCL5                DEVICES   PCL5 Universal Printer
+PCL5                UNXGDV0   PCL5 Universal Printer
+PCL5C               DEVICES   PCL5c Universal Printer
+PCL5C               UNXGDV0   PCL5c Universal Printer
+PCL5E               DEVICES   PCL5e Universal Printer
+PCL5E               UNXGDV0   PCL5e Universal Printer
+PCR2X               DGDEVICE  Matrix PCR camera--2K x 2K
+PCR2XL              DGDEVICE  Matrix PCR 2K--linear lookup table
+PCR2XXL             DGDEVICE  Matrix PCR 2K--linear lookup, 20K obj
+PCR4X               DGDEVICE  Matrix PCR camera--4K x 4K
+PCR4XL              DGDEVICE  Matrix PCR 4--linear lookup table
+PCR4XXL             DGDEVICE  Matrix PCR 4K--linear lookup, 20K obj
+PDF                 DEVICES   PDF Version 1.3 -- color
+PDF                 UNXGDV0   PDF Version 1.3 -- color
+PDFA                DEVICES   Archive PDF - ISO-19005-1/b
+PDFA                UNXGDV0   Archive PDF - ISO-19005-1/b
+PDFC                DEVICES   PDF Version 1.3 -- color
+PDFC                UNXGDV0   PDF Version 1.3 -- color
+PHASER              DEVICES   Tektronix Color Postscript Printer
+PHASER              UNXGDV0   Tektronix Color Postscript Printer
+PHASER3M            DGDEVICE  Phaser III PXi Printer - A4 paper
+PHASERA4            DGDEVICE  Tektronix Phaser II Pxi - A4 Paper
+PHASERB             DGDEVICE  Tektronix Phaser II PXi - legal paper
+PHASERM             DGDEVICE  Tektronix Phaser II Pxi - Special A4
+PHASR340            DGDEVICE  Tektronix Phaser 340 Color Printer
+PHASR540            DGDEVICE  Tektronix Phaser 540 Color Printer
+PHASRIII            DGDEVICE  Phaser III PXi PostScript Printer
+PHSR340M            DGDEVICE  Tektronix Phaser 340 Color Printer -- A4
+PHSR540M            DGDEVICE  Tektronix Phaser 540 Color Printer -- A4
+PNG                 DEVICES   PNG Universal Printer
+PNG                 UNXGDV0   PNG Universal Printer
+PNG300              DEVICES   PNG Universal Printer
+PNG300              UNXGDV0   PNG Universal Printer
+PNGT                DEVICES   PNG Universal Printer with Transparency
+PNGT                UNXGDV0   PNG Universal Printer with Transparency
+PROPRINT            DGDEVICE  IBM PROPRINTER
+PROPRNXL            DGDEVICE  IBM PROPRINTER XL
+PS                  DGDEVICE  PostScript devices
+PS1200              DGDEVICE  PostScript devices--thin lines, 1200 DPI
+PS1200A4            DGDEVICE  PostScript devices--1200 DPI--A4
+PS1200C             DGDEVICE  Color PostScript--1200 DPI
+PS300               DGDEVICE  PostScript devices--thin lines, 300 DPI
+PS300A4             DGDEVICE  PostScript--thin lines--A4 size paper
+PS5232              DGDEVICE  Schlumberger Color Postscript Printer
+PS600               DGDEVICE  PostScript devices--thin lines, 600 DPI
+PS600C              DGDEVICE  Color PostScript--thin lines, 600 DPI
+PS720               DGDEVICE  PostScript devices--thin lines, 720 DPI
+PS720A4             DGDEVICE  PostScript devices--720 DPI--A4
+PSCAL               DGDEVICE  Calcomp Colormaster Plus Printer
+PSCLRA4             DGDEVICE  PostScript color--RGB color defs--A4
+PSCLRSEP            DGDEVICE  PostScript experimental color separator
+PSCOLOR             DEVICES   PostScript Level 1 (Color)
+PSCOLOR             UNXGDV0   PostScript Level 1 (Color)
+PSCSEPL             DGDEVICE  PostScript experimental color separation
+PSCX4700            DGDEVICE  XES to PS - Xerox 4700
+PSEPSF              DEVICES   PostScript devices--encapsulated files
+PSEPSF              UNXGDV0   PostScript devices--encapsulated files
+PSEPSFA4            DGDEVICE  PostScript--encapsulated--A4 size paper
+PSEUR               DGDEVICE  PS driver with ISO8859 Mods for Nat char
+PSEURC              DGDEVICE  PS with ISO8859 Mods for Nat chars-color
+PSFIX               DGDEVICE  PostScript devices--fixed text
+PSFIXA4             DGDEVICE  PostScript--fixed text--A4 size paper
+PSGP                DGDEVICE  General Parametrics SpectraStar
+PSL                 DEVICES   PostScript Level 1 (Gray Scale)
+PSL                 UNXGDV0   PostScript Level 1 (Gray Scale)
+PSLA4               DGDEVICE  PostScript--thin lines--A4 size paper
+PSLATIN1            DGDEVICE  PS driver with ISO Latin1 Encoding
+PSLATINC            DGDEVICE  PS driver with ISO Latin1 Encoding-color
+PSLBWA4             DGDEVICE  PostScript devices--monochrome--A4
+PSLCMY              DGDEVICE  PostScript color--4 color ribbon (CMYK)
+PSLCMYK             DEVICES   PostScript CMYK (Color)
+PSLCMYK             UNXGDV0   PostScript CMYK (Color)
+PSLEPSF             DEVICES   PostScript EPS (Gray Scale)
+PSLEPSF             UNXGDV0   PostScript EPS (Gray Scale)
+PSLEPSFC            DEVICES   PostScript EPS (Color)
+PSLEPSFC            UNXGDV0   PostScript EPS (Color)
+PSLFIX              DGDEVICE  PostScript--fixed text & thin lines
+PSLHSV              DGDEVICE  PostScript color--HSV color defs
+PSLL                DGDEVICE  PostScript devices--landscape mode
+PSLLA4              DGDEVICE  PostScript--landscape--A4 size paper
+PSLMATCH            DGDEVICE  PostScript experimental spot color
+PSLMONO             DGDEVICE  PostScript devices--monochrome
+PSNEC               DGDEVICE  NEC - Digital Colormate PS Printer
+Q1500PS             DGDEVICE  QMS PS-1500 printer (PostScript)
+Q1700PS             DGDEVICE  QMS PS-1700 printer (PostScript)
+Q2200PS             DGDEVICE  QMS PS-2200 printer (PostScript)
+Q800PLUS            DGDEVICE  QMS PS-800+ printer (PostScript)
+QAGIF               UNXGDV0   QA Internal Test Driver
+QANIM               UNXGDV0   QA Internal Test Driver
+QASIM               UNXGDV0   QA Internal Test Driver
+QCR2X               DGDEVICE  Matrix QCR camera--2K x 2K
+QCR2X35             DGDEVICE  Matrix QCR 35mm camera--2K x 2K
+QCR2XL              DGDEVICE  Matrix QCR 2K camera/linear lookup table
+QCR4X               DGDEVICE  Matrix QCR camera--4K x 4K
+QCR4X35             DGDEVICE  Matrix QCR 35mm camera--4K x 4K
+QCR4XL              DGDEVICE  Matrix QCR 4K camera/linear lookup table
+QMS0800             DGDEVICE  QMS Lasergrafix 800 printer--landscape
+QMS1200             DGDEVICE  QMS Lasergrafix 1200 printer--portrait
+QMS1200A            DGDEVICE  QMS Lasergrafix 1200 printer--portrait
+QMS1200E            DGDEVICE  QMS Lasergrafix 1200--erase vector
+QMS1510             DGDEVICE  QMS Lasergrafix 1510 printer
+QMS2200             DGDEVICE  QMS Lasergrafix 2200 printer
+QMS2400             DGDEVICE  QMS Lasergrafix 2400 printer--10 x 7.5
+QMS2400A            DGDEVICE  QMS Lasergrafix 2400 printer--10 x 7.5
+QMS2400B            DGDEVICE  QMS Lasergrafix 2400 printer--13 x 7.5
+QMS2400C            DGDEVICE  QMS Lasergrafix 2400 printer--16 x 10
+QMS2400E            DGDEVICE  QMS Lasergrafix 2400 (erase vector)
+QMS800              DGDEVICE  QMS Lasergrafix 800 printer--portrait
+QMS800A             DGDEVICE  QMS Lasergrafix 800 printer--portrait
+QMS800A4            DGDEVICE  QMS Lasergrafix 800 printer- A4 paper
+QMS800B             DGDEVICE  QMS Lasergrafix 800 printer--13 x 7.5
+QMS800E             DGDEVICE  QMS Lasergrafix 800--erase vector
+QMSCLRA4            DGDEVICE  QMS ColorScript--RGB color defs--A4
+QMSCOLOR            DGDEVICE  QMS ColorScript--RGB color defs
+QMSLN03P            DGDEVICE  QMS LN03 PLUS Emulation - 300 dpi
+QMSPS800            DGDEVICE  QMS PS-800 printer (PostScript)
+QMSPS810            DGDEVICE  QMS PS-810 printer (PostScript)
+QMSPS820            DGDEVICE  QMS PS-820 printer (PostScript)
+QVP                 DGDEVICE  Generic QVP SCODL file
+QVP2X               DGDEVICE  Generic QVP SCODL file--2K resolution
+QVP4X               DGDEVICE  Generic QVP SCODL file--4K resolution
+RCGA                DGDEVICE  SAS/RTERM with CGA monitor
+RCGAM               DGDEVICE  SAS/RTERM with monochrome CGA monitor
+REGAL               DGDEVICE  SAS/RTERM with 128K EGA and EGA monitor
+REGAM               DGDEVICE  SAS/RTERM monochrome 128K EGA w/ EGA mon
+RHER                DGDEVICE  SAS/RTERM with Hercules adapter
+RPC3270             DGDEVICE  SAS/RTERM with color IBM 3270 PC
+RPC3270M            DGDEVICE  SAS/RTERM with monochrome IBM 3270 PC
+RPC6300             DGDEVICE  SAS/RTERM with AT&T PC 6300 (high-res)
+RPC6300L            DGDEVICE  SAS/RTERM with AT&T PC 6300 (low-res)
+RPC6300M            DGDEVICE  SAS/RTERM with monochrome AT&T PC 6300
+SASEMF              DEVICES   Enhanced Metafile Format
+SASEMF              UNXGDV0   Enhanced Metafile Format
+SASMETA             DEVICES   SAS Metagraphics File Format
+SASMETA             UNXGDV0   SAS Metagraphics File Format
+SASPRTC             DEVICES   SAS Color Printer
+SASPRTC             UNXGDV0   SAS Color Printer
+SASPRTG             DEVICES   SAS Gray Scale Printer
+SASPRTG             UNXGDV0   SAS Gray Scale Printer
+SASPRTK             DEVICES   SAS CMYK Printer
+SASPRTK             UNXGDV0   SAS CMYK Printer
+SASPRTM             DEVICES   SAS Monochrome Printer
+SASPRTM             UNXGDV0   SAS Monochrome Printer
+SASWMF              DGDEVICE  Windows Metafile Format
+SER281              DGDEVICE  Servogor 281 plotter
+SVG                 DEVICES   SVG Universal Printer
+SVG                 UNXGDV0   SVG Universal Printer
+SVGANIM             DEVICES   SVG Universal Printer - Animation
+SVGANIM             UNXGDV0   SVG Universal Printer - Animation
+SVGT                DEVICES   SVG Transparency Universal Printer
+SVGT                UNXGDV0   SVG Transparency Universal Printer
+SVGVIEW             DEVICES   SVG Printer w/ Control Buttons
+SVGVIEW             UNXGDV0   SVG Printer w/ Control Buttons
+SVGZ                DEVICES   SVG Compressed Universal Printer
+SVGZ                UNXGDV0   SVG Compressed Universal Printer
+SXL100              DGDEVICE  SIXEL - LN03 - 100 dpi
+SXL150              DGDEVICE  SIXEL - LN03 - 150 dpi
+SXL300              DGDEVICE  SIXEL - LN03 - 300 dpi
+SXL75               DGDEVICE  SIXEL - LN03 - 75 dpi
+SXL90C              DGDEVICE  SIXEL - 256 colors - 90 dpi
+TAL1590T            DGDEVICE  Talaris 1590T Workstation
+TEK4006             DGDEVICE  Tektronix 4006 terminal
+TEK4010             DGDEVICE  Tektronix 4010 terminal
+TEK4014             DGDEVICE  Tektronix 4014 terminal
+TEK4015             DGDEVICE  Tektronix 4015 terminal
+TEK4105             DGDEVICE  Tektronix 4105 terminal
+TEK4105A            DGDEVICE  Tektronix 4105A terminal
+TEK4105E            DGDEVICE  Tektronix 4105 terminal--edit mode
+TEK4105T            DGDEVICE  Tektronix 4105 terminal--TEK mode
+TEK4106             DGDEVICE  Tektronix 4106 terminal
+TEK4106A            DGDEVICE  Tektronix 4106A terminal
+TEK4106E            DGDEVICE  Tektronix 4106 terminal--edit mode
+TEK4106T            DGDEVICE  Tektronix 4106 terminal--TEK mode
+TEK4107             DGDEVICE  Tektronix 4107 terminal
+TEK4107A            DGDEVICE  Tektronix 4107A terminal
+TEK4107E            DGDEVICE  Tektronix 4107 terminal--edit mode
+TEK4107T            DGDEVICE  Tektronix 4107 terminal--TEK mode
+TEK4109             DGDEVICE  Tektronix 4109 terminal
+TEK4109A            DGDEVICE  Tektronix 4109A terminal
+TEK4109E            DGDEVICE  Tektronix 4109 terminal--edit mode
+TEK4109T            DGDEVICE  Tektronix 4109 terminal--TEK mode
+TEK4111             DGDEVICE  Tektronix 4111 terminal
+TEK4112             DGDEVICE  Tektronix 4112 terminal
+TEK4113             DGDEVICE  Tektronix 4113 terminal
+TEK4113X            DGDEVICE  Tektronix 4113 terminal--4-bit planes
+TEK4115             DGDEVICE  Tektronix 4115 terminal
+TEK4115E            DGDEVICE  Tektronix 4115 terminal--edit mode
+TEK4115T            DGDEVICE  Tektronix 4115 terminal--TEK mode
+TEK4125             DGDEVICE  Tektronix 4125 terminal--8 bit-planes
+TEK4125E            DGDEVICE  Tektronix 4125--8 bit-planes/edit mode
+TEK4125T            DGDEVICE  Tektronix 4125--8 bit-planes/TEK mode
+TEK4125X            DGDEVICE  Tektronix 4125 terminal--4 bit-planes
+TEK4125Y            DGDEVICE  Tektronix 4125 terminal--6 bit-planes
+TEK4125Z            DGDEVICE  Tektronix 4125 terminal--8 bit-planes
+TEK4128E            DGDEVICE  Tektronix 4128--4 bit planes/edit mode
+TEK4128T            DGDEVICE  Tektronix 4128--4 bit planes/TEK mode
+TEK4128X            DGDEVICE  Tektronix 4128 terminal--4 bit-planes
+TEK4128Y            DGDEVICE  Tektronix 4128 termina--6 bit planes
+TEK4128Z            DGDEVICE  Tektronix 4128 terminal--8 bit-planes
+TEK4129             DGDEVICE  Tektronix 4129 terminal
+TEK4129E            DGDEVICE  Tektronix 4129 terminal--edit mode
+TEK4129T            DGDEVICE  Tektronix 4129 terminal--TEK mode
+TEK4205             DGDEVICE  Tektronix 4205 terminal
+TEK4207             DGDEVICE  Tektronix 4207 terminal
+TEK4208             DGDEVICE  Tektronix 4208 terminal
+TEK4209             DGDEVICE  Tektronix 4209 terminal
+TEK4211             DGDEVICE  Tektronix 4211 terminal
+TEK4224             DGDEVICE  Tektronix 4224 terminal
+TEK4225             DGDEVICE  Tektronix 4225 terminal
+TEK4235             DGDEVICE  Tektronix 4235 terminal
+TEK4236             DGDEVICE  Tektronix 4236 terminal
+TEK4237             DGDEVICE  Tektronix 4237 terminal
+TEK42EMU            DGDEVICE  TEK4200 Emulation
+TEK4510             DGDEVICE  Tektronix 4510 rasterizer/4692 inkjet
+TEK4510A            DGDEVICE  Tektronix 4510 rasterizer/4692 inkjet
+TEK4510S            DGDEVICE  Tektronix 4510/4692--black/white swapped
+TEK4693             DGDEVICE  Tektronix 4510A rasterizer/4693 inkjet
+TEKLN01             DGDEVICE  LN01 printer (Tektronix 4014 emulation)
+TEKQMS              DGDEVICE  QMS printer (Tektronix 4014 emulation)
+TEKTALR             DGDEVICE  Talaris 1590 printer (Tek emulation)
+TI855               DGDEVICE  Texas Instruments TI-855 printer
+TIFF                DEVICES   TIFF RGBA Universal Printer
+TIFF                UNXGDV0   TIFF RGBA Universal Printer
+TIFFA               DEVICES   TIFF RGBA Universal Printer
+TIFFA               UNXGDV0   TIFF RGBA Universal Printer
+TIFFB               DEVICES   Tag Image File Fmt--B/W--Compressed
+TIFFB               UNXGDV0   Tag Image File Fmt--B/W--Compressed
+TIFFB300            DEVICES   Tag Image File Fmt--B/W--Compressed
+TIFFB300            UNXGDV0   Tag Image File Fmt--B/W--Compressed
+TIFFBII             DGDEVICE  Tag Image File Fmt--B/W--II byte order
+TIFFBMM             DGDEVICE  Tag Image File Fmt--B/W--MM byte order
+TIFFG3              DGDEVICE  Tag Image File Fmt--B/W--CCITT Group 3
+TIFFG4              DGDEVICE  Tag Image File Fmt--B/W--CCITT Group 4
+TIFFK               DEVICES   TIFF CMYK Universal Printer
+TIFFK               UNXGDV0   TIFF CMYK Universal Printer
+TIFFP               DEVICES   Tag Image File Fmt--256 clr--Compressed
+TIFFP               UNXGDV0   Tag Image File Fmt--256 clr--Compressed
+TIFFP300            DEVICES   Tag Image File Fmt--256 clr--Compressed
+TIFFP300            UNXGDV0   Tag Image File Fmt--256 clr--Compressed
+TKLN01A4            DGDEVICE  LN01 A4 Paper (Tektronix 4014 emulation)
+TT200               DGDEVICE  Matrix TT200 with QVP/SA or MVP/SA
+TT200PC             DGDEVICE  Matrix TT200 with QVP/PC or MVP/PC
+UEMF                DGDEVICE  EMF Universal Printer
+UEPS                DGDEVICE  PostScript EPS (Gray Scale)
+UEPSC               DGDEVICE  PostScript EPS (Color)
+UGIF                DGDEVICE  GIF Universal Printer
+UI100               DGDEVICE  Lasergraphics UI100/RASCOL rasterizer
+UI100A              DGDEVICE  LL UI100/RASCOL w/ACT inkjet
+UI100P              DGDEVICE  LL UI100/RASCOL w/Printacolor
+UI100Q              DGDEVICE  LL UI100/RASCOL w/Matrix QCR 2K
+UI100Q35            DGDEVICE  LL UI100/RASCOL w/Matrix QCR 2K, 35mm
+UI100S              DGDEVICE  LL UI100/RASCOL w/Seiko DSCAN
+UI100T              DGDEVICE  LL UI100/RASCOL w/Tektronix 4691
+UI100X              DGDEVICE  LL UI100/RASCOL w/Xerox 6500 CGP
+UI200Q              DGDEVICE  LL UI100/RASCOL w/Matrix QCR 4K
+UI200Q35            DGDEVICE  LL UI100/RASCOL w/Matrix QCR 4K, 35mm
+UPCL5               DGDEVICE  PCL5 Universal Printer
+UPCL5C              DGDEVICE  PCL5c Universal Printer
+UPCL5E              DGDEVICE  PCL5e Universal Printer
+UPDF                DGDEVICE  PDF Version 1.3 -- color
+UPNG                DGDEVICE  PNG Universal Printer
+UPNGT               DGDEVICE  PNG Universal Printer with Transparency
+UPSL                DGDEVICE  PostScript Level 1 (Gray Scale)
+UPSLC               DGDEVICE  PostScript Level 1 (Color)
+VCGA                DGDEVICE  SAS/RTERM with CGA monitor
+VCGAM               DGDEVICE  SAS/RTERM with monochrome CGA monitor
+VEGAL               DGDEVICE  SAS/RTERM with 128K EGA and EGA monitor
+VEGAM               DGDEVICE  SAS/RTERM monochrome 128K EGA w/ EGA mon
+VHER                DGDEVICE  SAS/RTERM with Hercules adapter
+VPC3270             DGDEVICE  SAS/RTERM with color IBM 3270 PC
+VPC3270M            DGDEVICE  SAS/RTERM with monochrome IBM 3270 PC
+VPC6300             DGDEVICE  SAS/RTERM with AT&T PC 6300 (high-res)
+VPC6300L            DGDEVICE  SAS/RTERM with AT&T PC 6300 (low-res)
+VPC6300M            DGDEVICE  SAS/RTERM with monochrome AT&T PC 6300
+VT125               DGDEVICE  DEC VT125 terminal
+VT240               DGDEVICE  DEC VT240 terminal
+VT241               DGDEVICE  DEC VT241 terminal
+VT241A              DGDEVICE  DEC VT241A terminal
+VT284               DGDEVICE  DEC VT284 terminal
+VT286               DGDEVICE  DEC VT286 terminal
+VT330               DGDEVICE  DEC VT330 terminal
+VT340               DGDEVICE  DEC VT340 terminal
+WEBFRAME            DEVICES   Frameset HTML Generator
+WEBFRAME            UNXGDV0   Frameset HTML Generator
+WMF                 DGDEVICE  Windows Metafile Format
+X2700               DGDEVICE  Xerox 2700 printer--4 x 4, 300 DPI
+X2700A              DGDEVICE  Xerox 2700 printer--4 x 4, 300 DPI
+X2700B              DGDEVICE  Xerox 2700 printer--8 x 7.5, 150 DPI
+X2700C              DGDEVICE  Xerox 2700 printer--10 x 7.5, 75 DPI
+X3700               DGDEVICE  Xerox 3700 printer--10 x 7.5, 300 DPI
+X3700AA             DGDEVICE  Xerox 3700 printer--10 x 7.5, 300 DPI
+X3700AB             DGDEVICE  Xerox 3700--300/150 DPI (H x V)
+X3700AC             DGDEVICE  Xerox 3700--300/75 DPI (H x V)
+X3700BB             DGDEVICE  Xerox 3700 printer--10 x 7.5, 150 DPI
+X3700BC             DGDEVICE  Xerox 3700--150/75 DPI (H x V)
+X3700CC             DGDEVICE  Xerox 3700 printer--10 x 7.5, 75 DPI
+X3700L              DGDEVICE  Xerox 3700 printer--Landscape
+X4045               DGDEVICE  Xerox 4045 w/512K--5 x 7.5, 300 DPI
+X4045A4             DGDEVICE  Xerox 4045 w/512K--A4--300 DPI
+X4045AB             DGDEVICE  Xerox 4045 printer--300/150 DPI (H x V)
+X4045ABM            DGDEVICE  Xerox 4045 300/150 DPI - A4 paper
+X4045AC             DGDEVICE  Xerox 4045 printer--300/75 DPI (H x V)
+X4045ACM            DGDEVICE  Xerox 4045 300/75 DPI - A4 paper
+X4045B              DGDEVICE  Xerox 4045 printer--10 x 7.5, 150 DPI)
+X4045BA4            DGDEVICE  Xerox 4045 - A4 Paper --150 DPI
+X4045BC             DGDEVICE  Xerox 4045 printer--150/75 DPI (H x V)
+X4045BCM            DGDEVICE  Xerox 4045 150/75 DPI - A4 paper
+X4045C              DGDEVICE  Xerox 4045 printer--10 x 7.5, 75 DPI
+X4045CA4            DGDEVICE  Xerox 4045 - A4 Paper --75 DPI
+X4045L              DGDEVICE  Xerox 4045 landscape--10 x 7.5, 300DPI
+X4045LA4            DGDEVICE  Xerox 4045 A4 300 DPI-Landscape
+X4045P              DGDEVICE  Xerox 4045 portrait--10 x 7.5, 300 DPI
+X4045PA4            DGDEVICE  Xerox 4045 A4 300 DPI - Portrait
+X4235               DGDEVICE  Xerox 4235 Printer
+X4900               DGDEVICE  Xerox 4900 Color Laser Printer
+XBM                 DGDEVICE  X11 Bitmap Format--b/w
+XBW                 DEVICES   Driver for Monochrome X Window
+XBW                 UNXGDV0   Driver for Monochrome X Window
+XCOLOR              DEVICES   Driver for Color X Window
+XCOLOR              UNXGDV0   Driver for Color X Window
+XGRAY               DEVICES   Driver for Gray Scale X Window
+XGRAY               UNXGDV0   Driver for Gray Scale X Window
+XL300               DGDEVICE  HP XL300--HPGL2--Opaque White
+XL300A3             DGDEVICE  HP PaintJet XL300--A3 size paper
+XL300LGL            DGDEVICE  HP PaintJet XL300 (HPGL/2) - Legal size
+XL300PS             DGDEVICE  HP PaintJet XL300 with Postscript Option
+XL300TM             DGDEVICE  HP XL300--Transparency Mode--Manual Feed
+XLPSA3              DGDEVICE  HP PaintJet XL300-PostScript-A3 Size
+XLPSA4              DGDEVICE  HP PaintJet XL300-PostScript-A4 Size
+XLPSB               DGDEVICE  HP PaintJet XL300-PostScript-B Size
+XLPSB4              DGDEVICE  HP PaintJet XL300-PostScript-B4 Size
+XLPSLGL             DGDEVICE  HP PaintJet XL300-PostScript-Legal Size
+XPM                 DGDEVICE  X11 Pixmap Format--256 colors
+XPRINTC             DGDEVICE  Xprinter Hardcopy Driver (color)
+XPRINTG             DGDEVICE  Xprinter Hardcopy Driver (gray)
+XPRINTM             DGDEVICE  Xprinter Hardcopy Driver (b/w)
+ZBMP                DGDEVICE  BMP -- host font rendering
+ZEMF                DGDEVICE  Enhanced Metafile Driver
+ZET1453X            DGDEVICE  ZETA 1453 plotter--non-error correct
+ZETA1453            DGDEVICE  ZETA 1453 plotter
+ZETA8               DGDEVICE  ZETA8 plotter--Kromecote roll
+ZETA887             DGDEVICE  ZETA887 plotter--Kromecote roll
+ZETAVUE             DGDEVICE  ZETAVUE film recorder
+ZGIF                DEVICES   GIF -- host font rendering
+ZGIF                UNXGDV0   GIF -- host font rendering
+ZGIF733             DGDEVICE  GIF733 -- host font rendering
+ZGIFANIM            DGDEVICE  GIFANIM -- host font rendering
+ZHTML               DGDEVICE  HTML -- host font rendering
+ZIMGGIF             DGDEVICE  IMGGIF -- host font rendering
+ZIMGJPEG            DGDEVICE  IMGJPEG -- host font rendering
+ZIMGPBM             DGDEVICE  IMGPBM -- host font rendering
+ZIMGPPM             DGDEVICE  IMGPPM -- host font rendering
+ZIMGTIFB            DGDEVICE  IMGTIFB -- host font rendering
+ZIMGTIFP            DGDEVICE  IMGTIFP -- host font rendering
+ZJPEG               DGDEVICE  JPEG -- host font rendering
+ZNETSCAP            UNXGDV0   NETSCAPE -- host font rendering
+ZPCL5               DGDEVICE  HP PCL 5  -- Letter Size
+ZPCL5C              DGDEVICE  zPCL5c Universal Printer
+ZPDF                DGDEVICE  Portable Document Format for Acrobat 3.0
+ZPDFC               DGDEVICE  PDF for Acrobat 3.0 -- color
+ZPNG                DGDEVICE  PNG -- host font rendering
+ZPSCOLOR            DGDEVICE  PostScript color--RGB color defs
+ZPSEPSFC            DGDEVICE  PostScript color--encapsulated
+ZPSL                DGDEVICE  PostScript devices--thin lines
+ZPSLCMYK            DGDEVICE  PostScript color--4 color ribbon (CMYK)
+ZPSLEPSF            DGDEVICE  PostScript--encapsulated w/thin lines
+ZSASEMF             DGDEVICE  Enhanced Metafile Driver
+ZTIFFB              DGDEVICE  TIFFB -- host font rendering
+ZTIFFBII            DGDEVICE  TIFFBII -- host font rendering
+ZTIFFBMM            DGDEVICE  TIFFBMM -- host font rendering
+ZTIFFG3             DGDEVICE  TIFFG3 -- host font rendering
+ZTIFFG4             DGDEVICE  TIFFG4 -- host font rendering
+ZTIFFP              DGDEVICE  TIFFP -- host font rendering
+ZUGIF               DGDEVICE  GIF Universal Printer
+ZWEBFRAM            DGDEVICE  WEBFRAME -- host font rendering

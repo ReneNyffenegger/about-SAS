@@ -1,0 +1,9 @@
+CBT                 FSP       CBT.EDPARMS
+FSLETTER            FSP       FSLETTER.EDPARMS
+FSP                 FSP       FSP.EDPARMS
+HELP                FSP       HELP.EDPARMS
+MENU                FSP       MENU.EDPARMS
+PGM                 FSP       PGM.EDPARMS
+PROGRAM             FSP       PROGRAM.EDPARMS
+SOURCE              FSP       SOURCE.EDPARMS
+SYSTEM              FSP       SYSTEM.EDPARMS

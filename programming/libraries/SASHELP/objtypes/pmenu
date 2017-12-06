@@ -1,0 +1,405 @@
+ACCFIND             CORE      Menu description.
+ACTGH               FSP       Menu description.
+ADDGH               FSP       Menu description.
+AFEDIT2             CORE      Menu description.
+AFEDIT2             FSP       Menu description.
+AFVIEW              CORE      Menu description.
+AFVIEW2             CORE      Menu description.
+AOH                 FORCAST   PMENU: Actions OK Help
+AOKC                IMAGEWD   Menu description.
+APPT                FSP       Menu description.
+ASSTTUT             FSP       Menu description.
+ATMAIN              MB        Menu description.
+ATRMENU             FSP       Menu description.
+ATTRIB              FSP       EIS: description.
+BASEFILE            CORE      Menu description.
+BASEMENU            CORE      Menu description.
+BGSELECT            FSP       Menu description.
+BLDDIR              FSP       Menu description.
+BLDFGXL             FSP       Menu description.
+BLDPUTIL            CORE      Menu description.
+BLDSCL              FSP       Menu description.
+BROWSER             AFTOOLS   Menu description.
+BROWSER             CORE      Menu description.
+BRWSEDIT            CORE      Menu description.
+BRWSMDDB            EISTOOLS  Browse an MDDB pmenu
+BSCROLL             CORE      Menu description.
+BUILD               FSP       Menu description.
+BUILDOPT            CORE      Menu description.
+CALATTR             SCHEDUL   SC: calendar attribute pmenu
+CALCULAT            FSP       Menu description.
+CATALOG             CORE      Menu description.
+CATALOG             SASDESK   Menu description.
+CATEDIT             FSP       Menu description.
+CATFUNC             FSP       Menu description.
+CBVIEWER            AFTOOLS   Menu description.
+CEMENU              FSP       Menu description.
+CHANGE_D            CORE      Menu description.
+CHANGE_D            FSP       Menu description.
+CHG_D2              CORE      Menu description.
+CHNGDLG             CORE      Menu description.
+CJMAIN              MARKET    Conjoint analysis window
+CJMKTSHR            MARKET    Market Share Simulation window
+CLASS               FSP       Menu description.
+CLOSE               VIDEO     TUTOR: Close
+CLOSEDLG            CORE      Menu description.
+CMAPMENU            GRAPH     Menu description.
+COLRDLG             CORE      Menu description.
+COMPDEF             FSP       Menu description.
+CONSEL              AFCLASS   Menu description.
+CONTINUE            MARKET    Continue
+COPYOBJ             CORE      Menu description.
+CRSPMAIN            MARKET    Corresp analysis window
+CRSPSTAT            MARKET    Corresp Stats Results window
+DACL                EISSRV    EIS: Data Access Control Window
+DAPPLC              EISSRV    EIS: Application Access Control Window
+DBGSRC              FSP       Menu description.
+DFUNC               EISSRV    EIS: Function Access Control Window
+DISPLAY             CORE      Menu description.
+DLGMAIN             AFTOOLS   Menu description.
+DOCREC              CORE      Menu description.
+DOCUMENT            CORE      Menu description.
+DSANALY             MARKET    Dsanaly
+DSDEBUGL            CORE      Menu description.
+DSDEBUGM            CORE      Menu description.
+DV3270              CORE      Menu description.
+EDIT                CORE      Menu description.
+EDITOPT             CORE      Menu description.
+EDITOPT2            CORE      Menu description.
+EDITOR              CORE      Menu description.
+EDITOR2             CORE      Menu description.
+EDITSPEL            CORE      Menu description.
+EFI                 EFI       Menu description.
+EISNAV              CORE      Menu description.
+ENDMENU             CORE      Menu description.
+ENEDSCL             FSP       Menu description.
+ENEDSRC             FSP       Menu description.
+EOCH                EFI       Menu description.
+EOCOH               EFI       Menu description.
+ESCROLL             CORE      Menu description.
+ESMDVR              ETSSCL    Model Selector
+EUROCH              MB        M1: OK,Cancel, Help
+EXIT                MARKET    Exit
+EXITHELP            FSP       Menu description.
+EXITONLY            IMAGAPP   Menu description.
+EXPLORER            CORE      Menu description.
+FGXL                FSP       Menu description.
+FGXLDCT             FSP       Menu description.
+FGXLDEL             FSP       Menu description.
+FGXLQRY             FSP       Menu description.
+FGXLRCD             FSP       Menu description.
+FILEFLS             CORE      Menu description.
+FILEM               CORE      Menu description.
+FILESPAC            SASDESK   Menu description.
+FILETYPE            CORE      Menu description.
+FINDDLG             CORE      Menu description.
+FINLIST             INVEST    Finlist PMenu Definitions
+FINMAIN             INVEST    Menu description.
+FOLDER              SASDESK   Menu description.
+FONT                FSP       Menu description.
+FORCCGRF            FORCAST   Pmenu for Forecasting Graph
+FORCGRAF            FORCAST   Pmenu for Forecasting Graph
+FORMS               FSP       Menu description.
+FRMVIEW             CORE      Menu description.
+FRMVIEW             FSP       Menu description.
+FSCDIR              FSP       Menu description.
+FSECOMP             FSP       Menu description.
+FSEIDNT             FSP       Menu description.
+FSEMAIN             FSP       Menu description.
+FSEMOD23            FSP       Menu description.
+FSEMOD4             FSP       Menu description.
+FSEMOD5             FSP       Menu description.
+FSEVAR              FSP       Menu description.
+FSLATTR             FSP       Menu description.
+FSLDIR              FSP       Menu description.
+FSLIST              FSP       Menu description.
+FSLMAIN             FSP       Menu description.
+FSLPUTIL            CORE      Menu description.
+FSPUPRT             FSP       FSP Universal Print Menu
+FSVDEF              FSP       Menu description.
+FSVMAIN             FSP       Menu description.
+FSVNEW              FSP       Menu description.
+GBHELP              INVEST    tutorial: Menu description.
+GBKPLOT             MARKET    Results plot window
+GBKTEXT             MARKET    Results text window
+GBLD                FSP       Menu description.
+GDEVCAT             GRAPH     Menu description.
+GDEVDET             GRAPH     Menu description.
+GDEVSUB             GRAPH     Menu description.
+GEDIT               GI        Menu description.
+GEDIT2              GI        Menu description.
+GENERIC             PUBLISH   Menu description.
+GENERIC             SCHEDUL   Menu description.
+GENFOR              FORCAST   Menu description.
+GENMLIST            FORCAST   Menu description.
+GENMOD              FORCAST   Menu description.
+GNG                 GNG       Primary Menu for Graph-N-Go Application
+GNGDIALOG           GNG       Dialog Menu for Graph-N-Go Application
+GNGDIALOG2          GNG       Dialog Menu for Graph-N-Go Application
+GNGX                GNG       Primary Menu for Graph-N-Go Application
+GOBACK              FSP       Menu description.
+GOBACK              IMAGAPP   Menu description.
+GOBACK              MARKET    Goback Help
+GOBACK2             FSP       Menu description.
+GRAYEDIT            CORE      Menu description.
+GRECAT              GRAPH     Menu description.
+GREMAIN             GRAPH     Menu description.
+GREPRES             GRAPH     Menu description.
+GRFWND              GRAPH     Menu description.
+GW1                 GRAPH     Menu description.
+HELP                CORE      Menu description.
+HELP                ETSTOOL   Menu description.
+HLPCMNU             FSP       Menu description.
+ICREATE             FSP       Menu description.
+IEMENU              FSP       Menu description.
+IMGPMENU            IMAGEWD   Menu description.
+IMPEXP              CORE      Menu description.
+IMPORT              FSP       Menu description.
+IMP_VF              FSP       Menu description.
+INCLUDE             CORE      Menu description.
+INITIAL             ETSTOOL   INITIAL Menu
+INITIAL             FORCAST   INITIAL Menu
+IOCH                EFI       Menu description.
+IOCOH               EFI       Menu description.
+IREVIEW             FSP       Menu description.
+ISHSET              CORE      Menu description.
+JOURFILE            MARKET    OK Cancel Reset Help
+KEYFIELD            CORE      Menu description.
+KEYS                CORE      Menu description.
+LAYOUT              CORE      Menu description.
+LAYOUT              FSP       Menu description.
+LIBRARY             SASDESK   Menu description.
+LISTMENU            FSP       Menu description.
+LISTNAV             SCM       List Navigator Menu
+LOCALMSG            CORE      Menu description.
+LOCALMSG            FSP       Menu description.
+LOG                 CORE      Menu description.
+MAIN                FSP       Menu description.
+MAIN2               FSP       Menu description.
+MAIN3               FSP       Menu description.
+MAINEXIT            CORE      Menu description.
+MANAGE              IMAGAPP   Menu description.
+MANAGER             CORE      Menu description.
+MARKREP             FSP       Menu description.
+MARKVAR             FSP       Menu description.
+MBCOL               MB        Menu description.
+MBUOCH              EFI       Menu description.
+MDPMAIN             MARKET    MDPREF analysis window
+MDSMAIN             MARKET    MDS analysis window
+MESSAGE             FSP       Menu description.
+METABASE            MB        Menu description.
+METHEDIT            FSP       Menu description.
+MLEDITOR            FORCAST   Model List Editor PMENU
+MLOGCHK             MARKET    OK Cancel Help
+MLOGMAIN            MARKET    Main Discrete Choice Analysis window
+MLSEL               AFCLASS   Menu description.
+MLSTVIEW            FORCAST   Menu description.
+MODELSEL            FORCAST   PMENU: Model selection list
+MODLMNGR            FORCAST   Menu description.
+MODVIEWM            FORCAST   Menu description.
+MOREA               FSP       Menu description.
+MOREAC              FSP       Menu description.
+MOREAF              FSP       Menu description.
+MOREARC             FSP       Menu description.
+MOREB               FSP       Menu description.
+MOREF               FSP       Menu description.
+MOREFAB             FSP       Menu description.
+MOREFB              FSP       Menu description.
+MORER               FSP       Menu description.
+MORERB              FSP       Menu description.
+MORES               FSP       Menu description.
+OC                  ETSSCL    PMENU: OK Cancel
+OC                  ETSTOOL   PMENU: OK Cancel
+OC                  FORCAST   PMENU: OK Cancel
+OCARCH              ETSTOOL   PMENU: Ok Cancel Apply Reset Clear Help
+OCARCH              FORCAST   PMENU: Ok Cancel Apply Reset Clear Help
+OCARH               FORCAST   PMENU: Ok Cancel Apply Reset Help
+OCBVRH              FORCAST   PMENU: Ok Cancel Browse View Reset Help
+OCCAH               FORCAST   PMENU: Ok Cancel Clear All Help
+OCDRH               FORCAST   PMENU: Ok Cancel Delete Reset Help
+OCFRH               FORCAST   PMENU: Ok Cancel Reset deFaults Help
+OCH                 ETSTOOL   PMENU: OK Cancel Help
+OCH                 FORCAST   PMENU: OK Cancel Help
+OCHR                FORCAST   Ok/Cancel/Reset/Help push buttons
+OCR                 EFI       Menu description.
+OCR                 ETSTOOL   PMENU: OK Cancel Reset
+OCR                 FORCAST   PMENU: OK Cancel Reset
+OCRBRH              ETSTOOL   PMENU: Ok Cancel Reset Browse Refresh He
+OCRBRH              FORCAST   PMENU: Ok Cancel Reset Browse Refresh He
+OCRBVRH             ETSTOOL   Series selector pmenu
+OCRBVRH             FORCAST   PMENU: Ok Cancel Reset Browse View Refre
+OCRC                FORCAST   PMENU: Ok Cancel Reset Clear Help
+OCRCADE1            FORCAST   PMENU: Ok Cancel Reset Clear Add Delete
+OCRCADE2            FORCAST   PMENU: Ok Cancel Reset Clear Add Delete
+OCRCADH             FORCAST   PMENU: Ok Cancel Reset Clear Add Delete
+OCRCH               FORCAST   PMENU: Ok Cancel Reset Clear Help
+OCRH                ETSTOOL   PMENU: Ok Cancel Reset Help
+OCRH                FORCAST   PMENU: Ok Cancel Reset Help
+OCRH                INVEST    PMENU: Ok Cancel Reset Help
+OCRSPSH             FORCAST   PMENU: Ok Cancel Reset Save Print Statis
+OCRTRH              FORCAST   Series selector pmenu
+OCSRCH              FORCAST   PMENU: Ok Cancel Save Reset Clear Help
+OCVRCH              FORCAST   PMENU: Ok Cancel View Browse Reset Help
+OH                  FORCAST   PMENU: Ok Help
+OK                  IMAGEWD   Menu description.
+OKC                 IMAGEWD   Menu description.
+OKCAN               MARKET    OK Cancel Help
+OKCANC              FSP       Menu description.
+OKCANCEL            FORCAST   PMENU: OK Cancel
+OKCANRES            MARKET    OK Cancel Reset Help
+OKONLY              FORCAST   PMENU: Ok
+OKRESET             FORCAST   PMENU: OK Cancel Reset
+ONLYOK              IMAGAPP   Menu description.
+OPENFILE            CORE      Menu description.
+OPENMNU             CORE      Menu description.
+OPENMNU             FSP       Menu description.
+OPENTYPE            CORE      Menu description.
+OPTIONS             CORE      Menu description.
+OSH                 FORCAST   PMENU: Ok Statistics Help
+OSPH                FORCAST   PMENU: Ok Save Print Help
+OSPSH               FORCAST   PMENU: Ok Save Print Statistics Help
+OSPVH               FORCAST   PMENU: Ok View Help
+OSSPH               FORCAST   PMENU: Ok Save Print Help
+OUTPUT              CORE      Menu description.
+OVH                 FORCAST   PMENU: Ok View Help
+PANIC               MARKET    PANIC exit menu
+PFDMENU9            FSP       PMENUs for Print Options dialog
+PGMEDIT             CORE      Menu description.
+PLTSEL              FSP       Menu description.
+PMBMAIN             AFTOOLS   Menu description.
+POPUP               CORE      Menu description.
+PRINT               CORE      Menu description.
+PRINT2              CORE      Menu description.
+PRINT2              FSP       Menu description.
+PRINTBLD            CORE      Menu description.
+PRINTBLD            FSP       Menu description.
+PRINTBTN            FSP       Menu description.
+PRNT                CORE      Menu description.
+PRNTDLG             CORE      Menu description.
+PRNTDLG             FSP       Menu description.
+PRNTUTL             CORE      Menu description.
+PROJVIEW            FORCAST   Menu description.
+PRTUTL2             CORE      Menu description.
+REGEDIT             CORE      Menu description.
+REGH                FSP       Menu description.
+REP2GLOB            TREPORT   Menu description.
+REPMENU1            REPORT    Menu description.
+REPMENU1            TREPORT   Menu description.
+REPMENU2            REPORT    Menu description.
+REPMENU2            TREPORT   Menu description.
+REPMENU3            REPORT    Menu description.
+REPMENU3            TREPORT   Menu description.
+REPORT_F            FSP       Report frame menus
+REPORT_F            TREPORT   Menu description.
+RESIDPLT            MARKET    Residual plots window
+RESOURCE            FSP       Menu description.
+RESULTS             CORE      Menu description.
+RGH                 FSP       Menu description.
+RUNFORE             FSP       Menu description.
+RUNGRPH             FSP       Menu description.
+RUNM                CORE      Menu description.
+RUNREP              FSP       Menu description.
+RUNVAR              FSP       Menu description.
+SAVASMNU            CORE      Menu description.
+SAVASMNU            FSP       Menu description.
+SAVEFILE            CORE      Menu description.
+SAVEOBJ             CORE      Menu description.
+SAVETYPE            CORE      Menu description.
+SCAT                SCHEDUL   Menu description.
+SCCRON              SCHEDUL   Menu description.
+SCHOST              SCHEDUL   Menu description.
+SCLDATA             FSP       LISTC LISTN SHOWLIST selection pmenu
+SCLDATDL            FSP       Menu description.
+SCLIBS              SCHEDUL   Menu description.
+SCLLCMP             AFTOOLS   Menu description.
+SCLLIST             AFTOOLS   Menu description.
+SCLSA               AFTOOLS   Menu description.
+SCMAIN              SCHEDUL   Menu description.
+SCMMENU             SCM       standard SCM menu
+SCMUMENU            SCM       standard SCM menu
+SCVIEW              SCHEDUL   Menu description.
+SELCTCDS            FSP       Menu description.
+SELECTA             FSP       Menu description.
+SELECTAA            FSP       Menu description.
+SELECTAB            FSP       Menu description.
+SELECTAC            FSP       Menu description.
+SELECTAM            FSP       Menu description.
+SELECTAO            FSP       Menu description.
+SELECTAR            FSP       Menu description.
+SELECTAT            FSP       Menu description.
+SELECTB             FSP       Menu description.
+SELECTC             FSP       Menu description.
+SELECTCD            FSP       Menu description.
+SELECTCH            FSP       Menu description.
+SELECTD             FSP       Menu description.
+SELECTF             FSP       Menu description.
+SELECTFN            FSP       Menu description.
+SELECTL             FSP       Menu description.
+SELECTMA            FSP       Menu description.
+SELECTOC            FSP       Menu description.
+SELECTOH            FSP       Menu description.
+SELECTOM            FSP       Menu description.
+SELECTR             FSP       Menu description.
+SELECTRA            FSP       Menu description.
+SELECTRB            FSP       Menu description.
+SELECTRS            FSP       Menu description.
+SELECTS             FSP       Menu description.
+SELECTSC            FSP       Menu description.
+SELECTSS            FSP       Menu description.
+SELECTV             FSP       Menu description.
+SENDMAIL            CORE      Menu description.
+SERVICES            FSP       Menu description.
+SERVIEWM            ETSTOOL   Menu description.
+SERVIEWM            FORCAST   Menu description.
+SOLTION             CORE      Menu description.
+SPELL               CORE      Menu description.
+SPELLALL            BASE      Menu description.
+SPELLSUG            BASE      Menu description.
+SQLQW               QUERY     Menu description.
+SQLQW2              QUERY     Menu description.
+SQLQW3              QUERY     Menu description.
+SQLQW4              QUERY     Menu description.
+SSALT               ETSTOOL   Series selector pmenu--standalone viewer
+SSCROLL             CORE      Menu description.
+SSMAIN              ETSTOOL   PMENU: View Cancel Close Reset Browse Re
+STDALONE            ETSTOOL   Series selector pmenu--standalone viewer
+SUBVIEW             CORE      Menu description.
+TEMPLATE            CORE      Menu description.
+TEXTEDIT            CORE      Menu description.
+TMPLMENU            GRAPH     Menu description.
+TOOLS               CORE      Menu description.
+TRP4GLOB            TREPORT   Menu description.
+TRPMENU1            TREPORT   Menu description.
+TRPMENU4            TREPORT   Menu description.
+UNIVPRT             CORE      Menu description.
+UNIVPRT             IMAGEWD   Menu description.
+UPRTPRT             FSP       Menu description.
+UPRTSETUP           FSP       Menu description.
+VCCRBRH             FORCAST   PMENU: View Cancel Close Reset Browse Re
+VCRBRH              FORCAST   PMENU: View Close Reset Browse Refresh H
+VIEW                CORE      Menu description.
+VIEW1               CORE      Menu description.
+VIEW2               CORE      Menu description.
+VIEWER              CMP       Subroutine Viewer pmenu
+VIEWMENU            IMAGAPP   Menu description.
+VIEWREG             MB        Menu description.
+VIEWTABL            FSP       Menu description.
+VIEWTABLE           GNG       Menu for Viewtable Editing
+VPLAY               VIDEO     Menu description.
+VTMENU              FSP       Table Editor Menu
+VTMENUNOX           FSP       Menu description.
+WDEFDLG             CORE      Menu description.
+WINCLOSE            CORE      Menu description.
+WINDCMD             VIDEO     Menu description.
+WNDHELP             FSP       Menu description.
+XNCAT               CORE      Menu description.
+XNDIR               CORE      Menu description.
+XNLBFL              CORE      Menu description.
+XNOMGR              CORE      Menu description.
+XNVAR               CORE      Menu description.
+YESNO               MARKET    Yes No
+YESNOCAN            MARKET    Yes No Cancel
+YNRC                FORCAST   PMENU: Yes No Reset Cancel Help
+ZBLD                FSP       Menu description.
+ZLCAT               FSP       Menu description.
+ZVARL               FSP       Menu description.

@@ -1,0 +1,60 @@
+BLDCBTA             FSP       Attributes for CBT
+BLDGENA             FSP       General attribute screen
+BLDLSTA             FSP       List attribute screen
+BLDMUA              FSP       Attribute screen for menu objects
+BLDPGA              FSP       Attributes for PROGRAM & SYSTEM members
+CATFILE             FSP       File screen for CATALOG function
+CATFUNC             FSP       Catalog directory screen
+CATLIST             FSP       Display a SAS catalog window
+CATPRINT            FSP       Print screen for CATALOG function
+CHARLIST            GRAPH     list of char8 names
+COLORMAP            GRAPH     color map design screen
+DATASET1            FSP       DATA Services window (Level 1)
+DATASET2            FSP       Services contents screen
+DATASET3            FSP       Contents data set attributes
+DATASET4            FSP       Services password screen
+DATASET5            FSP       Services password screen(confirmation)
+DATSET2B            FSP       Services contents screen (Browse)
+DATSET3B            FSP       Contents data set attributes (Browse)
+DIRLIST             FSP       Display SAS objects (DATA and CATALOGS)
+EDPARMS             FSP       Edparms system screen
+FGXLCPY             FSP       FGXL subsystem COPY   window
+FGXLDCT             FSP       FGXL delete-catalog window
+FGXLRNM             FSP       FGXL subsystem RENAME window
+FILELIST            FSP       Display all filelists
+FMXL3               FSP       Catalog directory screen
+FMXL3A              GRAPH     catalog directory screen
+FONT                FSP       Font screen
+FORMS               FSP       Printer Selection Screen
+FORMS1              FSP       Text Body and Margin Information
+FORMSCC             FSP       Carriage Control Information
+FSLETT1             FSP       FSLETTER attribute screen
+FSVVLIST            FSP       FSVIEW variable selection screen
+GDEV002A            GRAPH     Add detail screen for PROC GDEVICE
+GDEV002M            GRAPH     Modify detail screen for PROC GDEVICE
+GDEV003             GRAPH     Parameters screen for PROC GDEVICE
+GDEV004             GRAPH     Gcolor screen for PROC GDEVICE
+GDEV005             GRAPH     Chartype screen for PROC GDEVICE
+GDEV006             GRAPH     Metagraphics screen for PROC GDEVICE
+GDEV007             GRAPH     Gprolog screen for PROC GDEVICE
+GDEV008             GRAPH     Gepilog screen for PROC GDEVICE
+GDEV009             GRAPH     Gstart screen for PROC GDEVICE
+GDEV010             GRAPH     Gend screen for PROC GDEVICE
+GDEV011             GRAPH     host options screen
+GDEV012             GRAPH     file options screen
+GDEVCMAP            GRAPH     Colortbl screen for PROC GDEVICE
+GDEVTYPE            FSP       List of device types
+GLISTDEV            FSP       Display a device catalog window
+GREPLAY             GRAPH     greplay main screen
+ICREATE             FSP       Index create
+IMPDEFIN            FSP       IMPORT function - define window
+IMPORT              FSP       IMPORT function - main window
+IREVIEW             FSP       Index review
+LIBLIST             FSP       Display all liblists
+PRESENT             GRAPH     presentation screen
+SELDATA             GRAPH     Display variables in selected data set
+SELDATA1            FSP       Display variables in selected data set
+SELDATA2            FSP       Display variables in selected data set
+TEMPLATE            GRAPH     template design screen
+TTABLE              FSP       Translation Table for Fonts
+VARLIST             FSP       Display variables in selected data set

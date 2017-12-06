@@ -1,0 +1,70 @@
+ADDON2              BASE      Select add-on CBT
+ASTMODE             QUERY     ASSIST: Show access modes for selection
+ATTRS               FSP       EIS: Selection list of field attrs
+COLORS              FSP       EIS: Selection list of colors
+DELVER              FSP       EIS: Verify deletion of entry
+DSINFO              FSP       DSINFO pmenu program
+ERRMSG              BASE      Display error message window
+ERRMSG              CLEATTR   EIS: Error message program
+ERRMSG              FSP       ASSIST: Display error message window
+FILASSGN            FSP       ASSIST: Assign a new fileref
+FILECHK             FSP       OLD:  : Check for OS/display filref menu
+FILECHOI            FSP       FSP: VIEWFILE calls on double specifier
+FIND                FSP       FIND dialog box program
+FONTS               FONTS     Scan FONTS
+FONTS               FSP       BUILD: List of fonts
+FORMSCP             FSP       DEVUNX.PROGRAM
+FSLDATAD            FSP       FSLETTER data set window for directory
+FSLDATAM            FSP       FSLETTER data set window for letter
+FSVDEF              FSP       FSVIEW define screen
+FSVPARMS            FSP       FSVIEW parms screen
+GDSCAN              GRAPH     GRAPH: Show devices using catlist
+GETHELP             FSP       BUILD: Get prompt help info.
+GETSEP              FSP       FSP: Return file spec seperators
+GETSERV             FSP       ASSIST: Get Remote Server /Server Lib.
+GETSERV2            FSP       ASSIST: Get Remote Server Only
+GFONT               FSP       FSP:   Fonts for graph text
+GFONT2              FSP       FSP:   Specify font not in gfont.pgm
+GRAPHDSP            FSP       FSP: Display a graph
+HCTERM              HOST      HCTERM.PROGRAM
+HOSTOPTD            FSP       ASSIST: solicit MVS libname options
+ICONSEL             FSP       EIS: Select an icon
+ICONSEL2            FSP       EIS: Select an icon
+LIBASSGN            FSP       ASSIST: Assign a new Libref
+LIBCHK              FSP       ASSIST: Check for OS/display libref menu
+MEMLIST             FSP       MEMLIST pmenu program
+NFORMAT             FSP       BASE: Select Numeric Format (reports)
+NOTAVAIL            FSP       ASSIST: Section not available yet
+OFLDICON            FSP       BUILD: Select an icon.
+OGRPFILL            FSP       fill program for graph object
+OLDCADD             FSP       BUILD: Add class def. to a res. file.
+OPTDISK             FSP       ASSIST: libname opts Disk Mgmt.V6 (VSE)
+OPTDLBL             FSP       ASSIST: libname options DLBL V6 (VSE)
+OPTSEQ              FSP       ASSIST: libname options Seq.Disk V6(VSE)
+OPTVSAM             FSP       ASSIST: libname options VSAM V6 (VSE)
+OSFILE              FSP       ASSIST: MVS-specific filename functions
+OSLIB               FSP       ASSIST: MVS-specific libname functions
+PASSWORD            FSP       ASSIST: Fetch data set password
+PRIMARY             FORCAST   Dummy Main Entry - Displays FMS_MAIN.FRA
+PRIMFILE            FSP       ASSIST: Filerefs/external files
+PRIMLIB             FSP       ASSIST: Select libname functions
+RMRENAME            MB        EIS: Copy dataset registration(internal)
+SESMGMT             FSP       ASSIST: Session Management
+SETUP               OLTUTOR   Setup program from command line
+SPLIALL             BASE      Display all unrecognized words
+SPLISUG             BASE      Display suggestions for an unrec. word
+SPRINT              FSP       SPRINT.PROGRAM
+STARTUP             OLTUTOR   Entry point from SAS menus
+UICONSEL            FSP       EIS: Select an icon
+V5OPTS              FSP       ASSIST: libname options V5 engine (VSE)
+V5V6SEQ             FSP       ASSIST: libname opts V5SEQ/V6SEQ (VSE)
+VIEWFILE            FSP       FSP: browse directory/execcmd FSLIST
+VIEWLOG             FSP       ASSIST: Go to log window if error
+VRANGE              FSP       BUILD: Get a range for field validation
+VSEDISK             FSP       ASSIST: filename opt.SF/Disk-DMS (VSE)
+VSEJCL              FSP       ASSIST: filename opt.SF/Disk SD/JCL(VSE)
+VSELIB              FSP       ASSIST: filename opts VSE Librarian(VSE)
+VSEOPT              FSP       ASSIST: libname opts BASE/acc.meth.(VSE)
+VSEPOW              FSP       ASSIST: filename opts VSE Power  (VSE)
+VSETAPE             FSP       ASSIST: filename opts Seq.Tape File(VSE)
+VSEVSAM             FSP       ASSIST: filename opts. SFDisk/VSAM (VSE)

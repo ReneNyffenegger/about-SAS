@@ -1,0 +1,485 @@
+AARAARAB            HTMLNLS   MacOS 4-arabic to ISO 8859/6-arabic
+AARAP864            HTMLNLS   MacOS 4-arabic to IBMPC OEM 864-ar
+AARAUNIC            HTMLNLS   MacOS 4-arabic to Unicode (UCS-2)
+AARAWARA            HTMLNLS   MacOS 4-arabic to Win cp1256-arabic
+ACFUNC              EISSRV    acfunc.SLIST
+ACTIONS             AFCLASS   ACTIONS.SLIST
+ACTLIST             AFCLASS   List of commands
+ACYRCYRL            HTMLNLS   MacOS 7-cyrillic to ISO 8859/5-cyrill
+ACYRP866            HTMLNLS   MacOS 7-cyrillic to IBMPC OEM 866-cyrl
+ACYRUNIC            HTMLNLS   MacOS 7-cyrillic to Unicode (UCS-2)
+ACYRWCYR            HTMLNLS   MacOS 7-cyrillic to Win cp1251-cyrill
+AEURLAT2            HTMLNLS   MacOS 29-easteuro to ISO 8859/2-latin2
+AEURP852            HTMLNLS   MacOS 29-easteuro to IBMPC OEM 852-slav
+AEURUNIC            HTMLNLS   MacOS 29-easteuro to Unicode (UCS-2)
+AEURWLT2            HTMLNLS   MacOS 29-easteuro to Win cp1250-latin2
+AGRKGREK            HTMLNLS   MacOS 6-greek to ISO 8859/7-greek
+AGRKP737            HTMLNLS   MacOS 6-greek to MSDOS OEM 737-el
+AGRKP869            HTMLNLS   MacOS 6-greek to IBMPC OEM 869-el
+AGRKUNIC            HTMLNLS   MacOS 6-greek to Unicode (UCS-2)
+AGRKWGRK            HTMLNLS   MacOS 6-greek to Win cp1253-greek
+AHEBHEBR            HTMLNLS   MacOS 5-hebrew to ISO 8859/8-hebrew
+AHEBP862            HTMLNLS   MacOS 5-hebrew to IBMPC OEM 862-iw
+AHEBUNIC            HTMLNLS   MacOS 5-hebrew to Unicode (UCS-2)
+AHEBWHEB            HTMLNLS   MacOS 5-hebrew to Win cp1255-hebrew
+ARABAARA            HTMLNLS   ISO 8859/6-arabic to MacOS 4-arabic
+ARABP864            HTMLNLS   ISO 8859/6-arabic to IBMPC OEM 864-ar
+ARABUNIC            HTMLNLS   ISO 8859/6-arabic to Unicode (UCS-2)
+ARABWARA            HTMLNLS   ISO 8859/6-arabic to Win cp1256-arabic
+ARIMA3D             FORCAST   ARIMA models  to order 3 with seasonal differencing
+ARIMA3DS            FORCAST   Seasonal ARIMA models to order 3 with seasonal differencing
+ARIMAD3             FORCAST   ARIMA models to order 3 with simple differencing
+ARIMAD3D            FORCAST   ARIMA models to order 3 with simple and seasonal differencing
+ARIMAD3DS           FORCAST   Seasonal ARIMA models to order 3 with simple  and seasonal differencing
+ARIMAD3S            FORCAST   Seasonal ARIMA models to order 3 with simple differencing
+ARMA3               FORCAST   ARMA models to order 3
+ARMA3S              FORCAST   Seasonal ARMA models to order 3
+AROMLAT1            HTMLNLS   MacOS 0-roman to ISO 8859/1-latin1
+AROMP850            HTMLNLS   MacOS 0-roman to IBMPC OEM 850-west
+AROMP863            HTMLNLS   MacOS 0-roman to MSDOS OEM 863-fc
+AROMUNIC            HTMLNLS   MacOS 0-roman to Unicode (UCS-2)
+AROMWLT1            HTMLNLS   MacOS 0-roman to Win cp1252-latin1
+ATHAUNIC            HTMLNLS   MacOS 21-thai to Unicode (UCS-2)
+ATTR                MB        attr.SLIST
+ATTRNAM             FSP       List of attribute names
+ATTRNUM             FSP       List of attribute numbers by name
+ATTRS               FSP       Copy of ATTRNUM.SLIST (compatibility)
+ATURLAT5            HTMLNLS   MacOS 35-turkish to ISO 8859/9-latin5
+ATURP857            HTMLNLS   MacOS 35-turkish to IBMPC OEM 857-tr
+ATURUNIC            HTMLNLS   MacOS 35-turkish to Unicode (UCS-2)
+ATURWTUR            HTMLNLS   MacOS 35-turkish to Win cp1254-turkish
+AUKRCYRL            HTMLNLS   MacOS 152-ukraine to ISO 8859/5-cyrill
+AUKRP866            HTMLNLS   MacOS 152-ukraine to IBMPC OEM 866-cyrl
+AUKRUNIC            HTMLNLS   MacOS 152-ukraine to Unicode (UCS-2)
+AUKRWCYR            HTMLNLS   MacOS 152-ukraine to Win cp1251-cyrill
+BEACH               FSP       BEACH.SLIST
+BEACH               GNG       Beach colorcheme
+BEGINOPTS           PUBLISH   BEGINOPTS.SLIST
+BLUEONLY            IMAGEWD   BLUEONLY.SLIST
+BLUR                IMAGEWD   BLUR.SLIST
+C                   SLIST     Formula for computed column DIFF
+C1                  SLIST     Formula for computed column SALESRAT
+C2                  SLIST     Formula for computed column SALESRAT
+C3                  SLIST     Formula for computed column DIFF
+C4                  SLIST     Formula for computed column DIFF
+C5                  SLIST     Formula for computed column SALESRAT
+C6                  SLIST     Formula for computed column DIFF
+C7                  SLIST     Formula for computed column SALESRAT
+C8                  SLIST     Formula for computed column DIFF
+C9                  SLIST     Formula for computed column SALESRAT
+CALCLIST            MDDB      CALCLIST.SLIST
+CAN_EDIT            SASDESK   Cat entry types createable interactively
+CBDATA              SCM       CBDATA.SLIST
+CBLIST              AFTOOLS   CBLIST.SLIST
+CEMENU              FSP       Pmenu for v7 Class Editor
+CFMTS               AFCLASS   Abbr. list of character formats
+CHISEL              IMAGEWD   CHISEL.SLIST
+COLORNAM            FSP       List of color names
+COLORNUM            FSP       List of color numbers by name
+COLORPRI            FSP       COLORPRI.SLIST
+COLORPRINT          GNG       COLORPRINT colorscheme
+COLORS              AFTOOLS   DMS colors list
+COLORS              FSP       Copy of COLORNUM.SLIST (compatibility)
+COLORS              GNG       Standard Colors
+COLUMN_TYPES        MDDB      column_types.SLIST
+COMAMID             HOLAPMD   Values for COMAMID option
+COMBOS              AFCLASS   COMBOS.SLIST
+COMMAND             AFCLASS   List of commands
+COMMANDS            AFCLASS   COMMANDS.SLIST
+COMMERCE            FSP       COMMERCE.SLIST
+COMMERCE            GNG       COMMERCE colorscheme
+CONTOUR             IMAGEWD   CONTOUR.SLIST
+CPALLETT            FSP       CPALLETT.SLIST
+CROSS               IMAGEWD   CROSS.SLIST
+CUSTLIST            WEBEIS    CUSTLIST.SLIST
+CYRLACYR            HTMLNLS   ISO 8859/5-cyrill to MacOS 7-cyrillic
+CYRLAUKR            HTMLNLS   ISO 8859/5-cyrill to MacOS 152-ukraine
+CYRLP866            HTMLNLS   ISO 8859/5-cyrill to IBMPC OEM 866-cyrl
+CYRLUNIC            HTMLNLS   ISO 8859/5-cyrill to Unicode (UCS-2)
+CYRLWCYR            HTMLNLS   ISO 8859/5-cyrill to Win cp1251-cyrill
+DARKEN              IMAGEWD   DARKEN.SLIST
+DATASETOPTS         PUBLISH   DATASETOPTS.SLIST
+DATETIME            GNG       DateTime Formats
+DBCSFMTS            CLASSES   DBCSFMTS.SLIST
+DCS                 FSP       Value(s) for Message Window Pushbuttons
+DD                  FSP       Value(s) for Message Window Pushbuttons
+DEFAULT             FSP       DEFAULT.SLIST
+DEFAULT             GNG       DEFAULT colorscheme
+DEFFONT             FORCAST   Default font list
+DFMTS               AFCLASS   Abbr. list of date formats
+DLGCHNG             AFTOOLS   Dialog box description
+DLGFIND             AFTOOLS   Dialog box description
+DLGMAIN             AFTOOLS   Dialog Builder Main Menu
+DRAGREPA            SASDESK   SLIST: Drag and Drop for Application
+DRAGREPC            SASDESK   SLIST: Drag and Drop for Command
+DRAGREPH            SASDESK   SLIST: Drag and Drop for Host Command
+DRMODLIST           FORCAST   Dynamic regression models
+DSPROP              HTMLGEN   Data Set Formatter Property List
+DSSEL               ETSTOOL   Data set selector toolbar definition
+E037AROM            HTMLNLS   EBCDIC cp037-usa to MacOS 0-roman
+E037LAT1            HTMLNLS   EBCDIC cp037-usa to ISO 8859/1-latin1
+E037P850            HTMLNLS   EBCDIC cp037-usa to IBMPC OEM 850-west
+E037P863            HTMLNLS   EBCDIC cp037-usa to MSDOS OEM 863-fc
+E037UNIC            HTMLNLS   EBCDIC cp037-usa to Unicode (UCS-2)
+E037WLT1            HTMLNLS   EBCDIC cp037-usa to Win cp1252-latin1
+E273AROM            HTMLNLS   EBCDIC cp273-de to MacOS 0-roman
+E273LAT1            HTMLNLS   EBCDIC cp273-de to ISO 8859/1-latin1
+E273P850            HTMLNLS   EBCDIC cp273-de to IBMPC OEM 850-west
+E273UNIC            HTMLNLS   EBCDIC cp273-de to Unicode (UCS-2)
+E273WLT1            HTMLNLS   EBCDIC cp273-de to Win cp1252-latin1
+E277AROM            HTMLNLS   EBCDIC cp277-da to MacOS 0-roman
+E277LAT1            HTMLNLS   EBCDIC cp277-da to ISO 8859/1-latin1
+E277P850            HTMLNLS   EBCDIC cp277-da to IBMPC OEM 850-west
+E277UNIC            HTMLNLS   EBCDIC cp277-da to Unicode (UCS-2)
+E277WLT1            HTMLNLS   EBCDIC cp277-da to Win cp1252-latin1
+E278AROM            HTMLNLS   EBCDIC cp278-fi to MacOS 0-roman
+E278LAT1            HTMLNLS   EBCDIC cp278-fi to ISO 8859/1-latin1
+E278P850            HTMLNLS   EBCDIC cp278-fi to IBMPC OEM 850-west
+E278UNIC            HTMLNLS   EBCDIC cp278-fi to Unicode (UCS-2)
+E278WLT1            HTMLNLS   EBCDIC cp278-fi to Win cp1252-latin1
+E280AROM            HTMLNLS   EBCDIC cp280-it to MacOS 0-roman
+E280LAT1            HTMLNLS   EBCDIC cp280-it to ISO 8859/1-latin1
+E280P850            HTMLNLS   EBCDIC cp280-it to IBMPC OEM 850-west
+E280UNIC            HTMLNLS   EBCDIC cp280-it to Unicode (UCS-2)
+E280WLT1            HTMLNLS   EBCDIC cp280-it to Win cp1252-latin1
+E284AROM            HTMLNLS   EBCDIC cp284-es to MacOS 0-roman
+E284LAT1            HTMLNLS   EBCDIC cp284-es to ISO 8859/1-latin1
+E284P850            HTMLNLS   EBCDIC cp284-es to IBMPC OEM 850-west
+E284UNIC            HTMLNLS   EBCDIC cp284-es to Unicode (UCS-2)
+E284WLT1            HTMLNLS   EBCDIC cp284-es to Win cp1252-latin1
+E285AROM            HTMLNLS   EBCDIC cp285-uk to MacOS 0-roman
+E285LAT1            HTMLNLS   EBCDIC cp285-uk to ISO 8859/1-latin1
+E285P850            HTMLNLS   EBCDIC cp285-uk to IBMPC OEM 850-west
+E285UNIC            HTMLNLS   EBCDIC cp285-uk to Unicode (UCS-2)
+E285WLT1            HTMLNLS   EBCDIC cp285-uk to Win cp1252-latin1
+E297AROM            HTMLNLS   EBCDIC cp297-fr to MacOS 0-roman
+E297LAT1            HTMLNLS   EBCDIC cp297-fr to ISO 8859/1-latin1
+E297P850            HTMLNLS   EBCDIC cp297-fr to IBMPC OEM 850-west
+E297UNIC            HTMLNLS   EBCDIC cp297-fr to Unicode (UCS-2)
+E297WLT1            HTMLNLS   EBCDIC cp297-fr to Win cp1252-latin1
+E420AARA            HTMLNLS   EBCDIC cp420-ar to MacOS 4-arabic
+E420ARAB            HTMLNLS   EBCDIC cp420-ar to ISO 8859/6-arabic
+E420P864            HTMLNLS   EBCDIC cp420-ar to IBMPC OEM 864-ar
+E420UNIC            HTMLNLS   EBCDIC cp420-ar to Unicode (UCS-2)
+E420WARA            HTMLNLS   EBCDIC cp420-ar to Win cp1256-arabic
+E424AHEB            HTMLNLS   EBCDIC cp424-iw to MacOS 5-hebrew
+E424HEBR            HTMLNLS   EBCDIC cp424-iw to ISO 8859/8-hebrew
+E424P862            HTMLNLS   EBCDIC cp424-iw to IBMPC OEM 862-iw
+E424UNIC            HTMLNLS   EBCDIC cp424-iw to Unicode (UCS-2)
+E424WHEB            HTMLNLS   EBCDIC cp424-iw to Win cp1255-hebrew
+E500AROM            HTMLNLS   EBCDIC cp500-inter to MacOS 0-roman
+E500LAT1            HTMLNLS   EBCDIC cp500-inter to ISO 8859/1-latin1
+E500P850            HTMLNLS   EBCDIC cp500-inter to IBMPC OEM 850-west
+E500UNIC            HTMLNLS   EBCDIC cp500-inter to Unicode (UCS-2)
+E500WLT1            HTMLNLS   EBCDIC cp500-inter to Win cp1252-latin1
+E870AEUR            HTMLNLS   EBCDIC cp870-lat2 to MacOS 29-easteuro
+E870LAT2            HTMLNLS   EBCDIC cp870-lat2 to ISO 8859/2-latin2
+E870P852            HTMLNLS   EBCDIC cp870-lat2 to IBMPC OEM 852-slav
+E870UNIC            HTMLNLS   EBCDIC cp870-lat2 to Unicode (UCS-2)
+E870WLT2            HTMLNLS   EBCDIC cp870-lat2 to Win cp1250-latin2
+E875AGRK            HTMLNLS   EBCDIC cp875-el to MacOS 6-greek
+E875CYRL            HTMLNLS   EBCDIC cp875-el to ISO 8859/5-cyrill
+E875GREK            HTMLNLS   EBCDIC cp875-el to ISO 8859/7-greek
+E875P737            HTMLNLS   EBCDIC cp875-el to MSDOS OEM 737-el
+E875P869            HTMLNLS   EBCDIC cp875-el to IBMPC OEM 869-el
+E875UNIC            HTMLNLS   EBCDIC cp875-el to Unicode (UCS-2)
+E875WGRK            HTMLNLS   EBCDIC cp875-el to Win cp1253-greek
+ECYRACYR            HTMLNLS   EBCDIC cp1025-cyrl to MacOS 7-cyrillic
+ECYRAUKR            HTMLNLS   EBCDIC cp1025-cyrl to MacOS 152-ukraine
+ECYRCYRL            HTMLNLS   EBCDIC cp1025-cyrl to ISO 8859/5-cyrill
+ECYRP866            HTMLNLS   EBCDIC cp1025-cyrl to IBMPC OEM 866-cyrl
+ECYRUNIC            HTMLNLS   EBCDIC cp1025-cyrl to Unicode (UCS-2)
+ECYRWCYR            HTMLNLS   EBCDIC cp1025-cyrl to Win cp1251-cyrill
+ELATAROM            HTMLNLS   EBCDIC cp1047-lat1 to MacOS 0-roman
+ELATLAT1            HTMLNLS   EBCDIC cp1047-lat1 to ISO 8859/1-latin1
+ELATP850            HTMLNLS   EBCDIC cp1047-lat1 to IBMPC OEM 850-west
+ELATUNIC            HTMLNLS   EBCDIC cp1047-lat1 to Unicode (UCS-2)
+ELATWLT1            HTMLNLS   EBCDIC cp1047-lat1 to Win cp1252-latin1
+EMBOSS              IMAGEWD   EMBOSS.SLIST
+EMBOSS2             IMAGEWD   EMBOSS2.SLIST
+ENCODING            LOCALE    ENCODING.SLIST
+ETURATUR            HTMLNLS   EBCDIC cp1026-tr to MacOS 35-turkish
+ETURLAT5            HTMLNLS   EBCDIC cp1026-tr to ISO 8859/9-latin5
+ETURP857            HTMLNLS   EBCDIC cp1026-tr to IBMPC OEM 857-tr
+ETURUNIC            HTMLNLS   EBCDIC cp1026-tr to Unicode (UCS-2)
+ETURWTUR            HTMLNLS   EBCDIC cp1026-tr to Win cp1254-turkish
+FALL                FSP       FALL.SLIST
+FALL                GNG       FALL colorscheme
+FILCNFG             AFCLASS   FILCNFG.SLIST
+FINANCE             FSP       FINANCE.SLIST
+FINANCE             GNG       FINANCE colorscheme
+FITSTATS            FORCAST   Statistics of Fit Names, Labels, and Fmts
+FOCUS               IMAGEWD   FOCUS.SLIST
+FUNCCHAR            AFTOOLS   Character functions for EXPRESS.FRAME
+FUNCDATE            AFTOOLS   Date functions for EXPRESS.FRAME
+FUNCFIN             AFTOOLS   Financial functions for EXPRESS.FRAME
+FUNCGRP             AFTOOLS   Function grouping for EXPRESS.FRAME
+FUNCMATH            AFTOOLS   Math functions for EXPRESS.FRAME
+FUNCMISC            AFTOOLS   Misc functions for EXPRESS.FRAME
+FUNCOPER            AFTOOLS   Operators for EXPRESS.FRAME
+FUNCSTAT            AFTOOLS   Statistical functions for EXPRESS.FRAME
+GRADIENT_EDGE_E     IMAGEWD   GRADIENT_EDGE_E.SLIST
+GRADIENT_EDGE_N     IMAGEWD   GRADIENT_EDGE_N.SLIST
+GRADIENT_EDGE_NE    IMAGEWD   GRADIENT_EDGE_NE.SLIST
+GRADIENT_EDGE_NW    IMAGEWD   GRADIENT_EDGE_NW.SLIST
+GRADIENT_EDGE_S     IMAGEWD   GRADIENT_EDGE_S.SLIST
+GRADIENT_EDGE_SE    IMAGEWD   GRADIENT_EDGE_SE.SLIST
+GRADIENT_EDGE_SW    IMAGEWD   GRADIENT_EDGE_SW.SLIST
+GRADIENT_EDGE_W     IMAGEWD   GRADIENT_EDGE_W.SLIST
+GRAPHOPT            ETSTOOL   Graph options
+GREENONLY           IMAGEWD   GREENONLY.SLIST
+GREKAGRK            HTMLNLS   ISO 8859/7-greek to MacOS 6-greek
+GREKP737            HTMLNLS   ISO 8859/7-greek to MSDOS OEM 737-el
+GREKP869            HTMLNLS   ISO 8859/7-greek to IBMPC OEM 869-el
+GREKUNIC            HTMLNLS   ISO 8859/7-greek to Unicode (UCS-2)
+GREKWGRK            HTMLNLS   ISO 8859/7-greek to Win cp1253-greek
+GREYSCAL            FSP       GREYSCAL.SLIST
+GREYSCALE           GNG       GREYSCALE colorscheme
+H                   SLIST     Hierarchy for table SASHELP.PRDSAL3
+H1                  SLIST     Hierarchy for table SASHELP.PRDSAL2
+H2                  SLIST     Hierarchy for table SASHELP.PRDSALE
+H3                  SLIST     Hierarchy for table SASHELP.PRDMDDB3
+H4                  SLIST     Hierarchy for MDDB SASHELP.PRDMDDB
+HEBRAHEB            HTMLNLS   ISO 8859/8-hebrew to MacOS 5-hebrew
+HEBRP862            HTMLNLS   ISO 8859/8-hebrew to IBMPC OEM 862-iw
+HEBRUNIC            HTMLNLS   ISO 8859/8-hebrew to Unicode (UCS-2)
+HEBRWHEB            HTMLNLS   ISO 8859/8-hebrew to Win cp1255-hebrew
+HIGHPASS1           IMAGEWD   HIGHPASS1.SLIST
+HIGHPASS2           IMAGEWD   HIGHPASS2.SLIST
+HIGHPASS3           IMAGEWD   HIGHPASS3.SLIST
+IDENTITY            HTMLGEN   Identity Transcoding List
+IMAGEMAP            FSP       Image Sizes
+INDUSTRY            FSP       INDUSTRY.SLIST
+INDUSTRY            GNG       INDUSTRY colorscheme
+INTERNAT            FSP       INTERNAT.SLIST
+INTERNATIONAL       GNG       INTERNATIONAL colorscheme
+INTERVAL            ETSTOOL   Interval Names and Formats
+INTVINFO            ETSTOOL   Interval info template
+ISOLOCALES          LOCALE    ISOLOCALES.SLIST
+IVVALID             FSP       List used by _VALIDATE_ATTRS_
+JIGGLE              IMAGEWD   JIGGLE.SLIST
+JOBSCH              SCHEDUL   JOBSCH.SLIST
+JSADD               SCHEDUL   JSADD.SLIST
+JSCLASS             SCHEDUL   JSCLASS.SLIST
+JSDEL               SCHEDUL   JSDEL.SLIST
+JSTYPES             SCHEDUL   JSTYPES.SLIST
+JSUPD               SCHEDUL   JSUPD.SLIST
+LAPLACE_EDGE1       IMAGEWD   LAPLACE_EDGE1.SLIST
+LAPLACE_EDGE2       IMAGEWD   LAPLACE_EDGE2.SLIST
+LAPLACE_EDGE3       IMAGEWD   LAPLACE_EDGE3.SLIST
+LAPLACE_EDGE4       IMAGEWD   LAPLACE_EDGE4.SLIST
+LAT1AROM            HTMLNLS   ISO 8859/1-latin1 to MacOS 0-roman
+LAT1LAT1            HTMLNLS   ISO 8859/1-latin1 to ISO 8859/1-latin1
+LAT1P850            HTMLNLS   ISO 8859/1-latin1 to IBMPC OEM 850-west
+LAT1P863            HTMLNLS   ISO 8859/1-latin1 to MSDOS OEM 863-fc
+LAT1UNIC            HTMLNLS   ISO 8859/1-latin1 to Unicode (UCS-2)
+LAT1WLT1            HTMLNLS   ISO 8859/1-latin1 to Win cp1252-latin1
+LAT2AEUR            HTMLNLS   ISO 8859/2-latin2 to MacOS 29-easteuro
+LAT2P852            HTMLNLS   ISO 8859/2-latin2 to IBMPC OEM 852-slav
+LAT2UNIC            HTMLNLS   ISO 8859/2-latin2 to Unicode (UCS-2)
+LAT2WLT2            HTMLNLS   ISO 8859/2-latin2 to Win cp1250-latin2
+LAT3UNIC            HTMLNLS   ISO 8859/3-latin3 to Unicode (UCS-2)
+LAT4P775            HTMLNLS   ISO 8859/4-latin4 to MSDOS OEM 775-balt
+LAT4UNIC            HTMLNLS   ISO 8859/4-latin4 to Unicode (UCS-2)
+LAT4WBAL            HTMLNLS   ISO 8859/4-latin4 to Win cp1257-baltic
+LAT5ATUR            HTMLNLS   ISO 8859/9-latin5 to MacOS 35-turkish
+LAT5P857            HTMLNLS   ISO 8859/9-latin5 to IBMPC OEM 857-tr
+LAT5P866            HTMLNLS   ISO 8859/9-latin5 to IBMPC OEM 866-cyrl
+LAT5UNIC            HTMLNLS   ISO 8859/9-latin5 to Unicode (UCS-2)
+LAT5WTUR            HTMLNLS   ISO 8859/9-latin5 to Win cp1254-turkish
+LAT6P775            HTMLNLS   ISO 8859/10-latin6 to MSDOS OEM 775-balt
+LAT6UNIC            HTMLNLS   ISO 8859/10-latin6 to Unicode (UCS-2)
+LAT6WBAL            HTMLNLS   ISO 8859/10-latin6 to Win cp1257-baltic
+LIBCNFG             AFCLASS   LIBCNFG.SLIST
+LIGHTEN             IMAGEWD   LIGHTEN.SLIST
+LISTNAV             SCM       Pmenu for List Navigator
+LNLDLST             SCM       List Navigator dialog - load list
+LOCALES_LS          LOCALE    LOCALES_LS.SLIST
+LOCALES_UI          LOCALE    LOCALES_UI.SLIST
+LOGARIMA3D          FORCAST   Log ARIMA models to order 3 with seasonal differencing
+LOGARIMA3DS         FORCAST   Log Seasonal ARIMA models to order 3 with seasonal differencing
+LOGARIMAD3          FORCAST   Log ARIMA models to order 3 with simple differencing
+LOGARIMAD3D         FORCAST   Log ARIMA models to order 3 with simple and seasonal differencing
+LOGARIMAD3DS        FORCAST   Log Seasonal ARIMA models to order 3 with simple  and seasonal differencing
+LOGARIMAD3S         FORCAST   Log Seasonal ARIMA models to order 3 with simple differencing
+LOGARMA3            FORCAST   Log ARMA models to order 3
+LOGARMA3S           FORCAST   Log Seasonal ARIMA models to order 3
+LOWPASS1            IMAGEWD   LOWPASS1.SLIST
+LOWPASS2            IMAGEWD   LOWPASS2.SLIST
+MAP                 SLIST     Map info for table SASHELP.PRDSAL2
+MAP1                SLIST     MAPINFO for table SASHELP.PRDSAL3
+MAP2                SLIST     MAPINFO for table SASHELP.PRDMDDB3
+MATCH_LOCALES       LOCALE    MATCH_LOCALES.SLIST
+MENUCMDS            SCM       MENUCMDS.SLIST
+METACOMP            METAAPI   METACOMP.SLIST
+METAGRP             METAAPI   METAGRP.SLIST
+METAGRPM            METAAPI   METAGRPM.SLIST
+METAINTR            METAAPI   METAINTR.SLIST
+METAOPTS            METAAPI   METAOPTS.SLIST
+METATYPE            METAAPI   METATYPE.SLIST
+MIMETYPES           PUBLISH   MIMETYPES.SLIST
+MLEDITOR            FORCAST   Mleditor popup menus
+MODLIST             FORCAST   System default model list
+MODVTOOL            FORCAST   Model Viewer Tool Box Items
+MOUSEPOINTER        FSP       mousepointer.SLIST
+NEWSTATS            WEBEIS    newstats.SLIST
+NFMTS               AFCLASS   Abbr. list of numeric formats
+OBJTYPES            AFCLASS   OBJTYPES.SLIST
+OC                  FSP       Value(s) for Message Window Pushbuttons
+OCH                 SASDESK   APPL: CMDBAR: Ok-Cancel-Help
+OK                  FSP       Value(s) for Message Window Pushbuttons
+OKCAN               MB        Metabase toolbar: ok, cancel, help
+OLDDESC             WEBEIS    temporary - until message is pushed.
+OUTLINE             IMAGEWD   OUTLINE.SLIST
+OUTPROP             HTMLGEN   Output Formatter Property List
+P737AGRK            HTMLNLS   MSDOS OEM 737-el to MacOS 6-greek
+P737GREK            HTMLNLS   MSDOS OEM 737-el to ISO 8859/7-greek
+P737UNIC            HTMLNLS   MSDOS OEM 737-el to Unicode (UCS-2)
+P737WGRK            HTMLNLS   MSDOS OEM 737-el to Win cp1253-greek
+P775LAT4            HTMLNLS   MSDOS OEM 775-balt to ISO 8859/4-latin4
+P775LAT6            HTMLNLS   MSDOS OEM 775-balt to ISO 8859/10-latin6
+P775UNIC            HTMLNLS   MSDOS OEM 775-balt to Unicode (UCS-2)
+P775WBAL            HTMLNLS   MSDOS OEM 775-balt to Win cp1257-baltic
+P850AROM            HTMLNLS   IBMPC OEM 850-west to MacOS 0-roman
+P850LAT1            HTMLNLS   IBMPC OEM 850-west to ISO 8859/1-latin1
+P850UNIC            HTMLNLS   IBMPC OEM 850-west to Unicode (UCS-2)
+P850WLT1            HTMLNLS   IBMPC OEM 850-west to Win cp1252-latin1
+P852AEUR            HTMLNLS   IBMPC OEM 852-slav to MacOS 29-easteuro
+P852LAT2            HTMLNLS   IBMPC OEM 852-slav to ISO 8859/2-latin2
+P852UNIC            HTMLNLS   IBMPC OEM 852-slav to Unicode (UCS-2)
+P852WLT2            HTMLNLS   IBMPC OEM 852-slav to Win cp1250-latin2
+P857ATUR            HTMLNLS   IBMPC OEM 857-tr to MacOS 35-turkish
+P857LAT5            HTMLNLS   IBMPC OEM 857-tr to ISO 8859/9-latin5
+P857UNIC            HTMLNLS   IBMPC OEM 857-tr to Unicode (UCS-2)
+P857WTUR            HTMLNLS   IBMPC OEM 857-tr to Win cp1254-turkish
+P860UNIC            HTMLNLS   IBMPC OEM 860-pt to Unicode (UCS-2)
+P862AHEB            HTMLNLS   IBMPC OEM 862-iw to MacOS 5-hebrew
+P862HEBR            HTMLNLS   IBMPC OEM 862-iw to ISO 8859/8-hebrew
+P862UNIC            HTMLNLS   IBMPC OEM 862-iw to Unicode (UCS-2)
+P862WHEB            HTMLNLS   IBMPC OEM 862-iw to Win cp1255-hebrew
+P863AROM            HTMLNLS   MSDOS OEM 863-fc to MacOS 0-roman
+P863LAT1            HTMLNLS   MSDOS OEM 863-fc to ISO 8859/1-latin1
+P863UNIC            HTMLNLS   MSDOS OEM 863-fc to Unicode (UCS-2)
+P863WLT1            HTMLNLS   MSDOS OEM 863-fc to Win cp1252-latin1
+P864AARA            HTMLNLS   IBMPC OEM 864-ar to MacOS 4-arabic
+P864ARAB            HTMLNLS   IBMPC OEM 864-ar to ISO 8859/6-arabic
+P864UNIC            HTMLNLS   IBMPC OEM 864-ar to Unicode (UCS-2)
+P864WARA            HTMLNLS   IBMPC OEM 864-ar to Win cp1256-arabic
+P865UNIC            HTMLNLS   IBMPC OEM 865-nord to Unicode (UCS-2)
+P866ACYR            HTMLNLS   IBMPC OEM 866-cyrl to MacOS 7-cyrillic
+P866AUKR            HTMLNLS   IBMPC OEM 866-cyrl to MacOS 152-ukraine
+P866CYRL            HTMLNLS   IBMPC OEM 866-cyrl to ISO 8859/5-cyrill
+P866LAT5            HTMLNLS   IBMPC OEM 866-cyrl to ISO 8859/9-latin5
+P866UNIC            HTMLNLS   IBMPC OEM 866-cyrl to Unicode (UCS-2)
+P866WCYR            HTMLNLS   IBMPC OEM 866-cyrl to Win cp1251-cyrill
+P869AGRK            HTMLNLS   IBMPC OEM 869-el to MacOS 6-greek
+P869GREK            HTMLNLS   IBMPC OEM 869-el to ISO 8859/7-greek
+P869UNIC            HTMLNLS   IBMPC OEM 869-el to Unicode (UCS-2)
+P869WGRK            HTMLNLS   IBMPC OEM 869-el to Win cp1253-greek
+P874ATHA            HTMLNLS   IBMPC OEM 874-th to MacOS 21-thai
+P874THAI            HTMLNLS   IBMPC OEM 874-th to ISO 8859/11-thai
+P874UNIC            HTMLNLS   IBMPC OEM 874-th to Unicode (UCS-2)
+PARMS               FSP       Parameter Information
+PMBEDIT             AFTOOLS   Standard EDIT menu
+PMBMAIN             AFTOOLS   Menu Builder Main Menu
+PMENUNUM            MDDB      pmenunum.SLIST
+PUBLISHOPTS         PUBLISH   PUBLISHOPTS.SLIST
+REDONLY             IMAGEWD   REDONLY.SLIST
+REMOVE_MOTION       IMAGEWD   REMOVE_MOTION.SLIST
+RIPPLE_HORIZ        IMAGEWD   RIPPLE_HORIZ.SLIST
+RIPPLE_LEFT         IMAGEWD   RIPPLE_LEFT.SLIST
+RIPPLE_RIGHT        IMAGEWD   RIPPLE_RIGHT.SLIST
+RIPPLE_VERT         IMAGEWD   RIPPLE_VERT.SLIST
+ROM8AROM            HTMLNLS   HP Roman 8 to MacOS 0-roman
+ROM8LAT1            HTMLNLS   HP Roman 8 to ISO 8859/1-latin1
+ROM8P850            HTMLNLS   HP Roman 8 to IBMPC OEM 850-west
+ROM8P863            HTMLNLS   HP Roman 8 to MSDOS OEM 863-fc
+ROM8UNIC            HTMLNLS   HP Roman 8 to Unicode (UCS-2)
+ROM8WLT1            HTMLNLS   HP Roman 8 to Win cp1252-latin1
+RSESCNFG            AFCLASS   RSESCNFG.SLIST
+SASENTRYTYPES       PUBLISH   SASENTRYTYPES.SLIST
+SAVEAS              MDDB      Saveas Format list
+SCHTYPE             SCHEDUL   SCHTYPE.SLIST
+SCOLRNAM            FSP       List of color names (+ SYSTEM)
+SCOLRNUM            FSP       List of color numbers by name (+ SYSTEM)
+SELCRIT             FORCAST   Model Selection Criteria
+SERVTOOL            ETSTOOL   Series Viewer Tool Box Items
+SHARPEN1            IMAGEWD   SHARPEN1.SLIST
+SHARPEN2            IMAGEWD   SHARPEN2.SLIST
+SHARPEN3            IMAGEWD   SHARPEN3.SLIST
+SHARPEN4            IMAGEWD   SHARPEN4.SLIST
+SLT1UNIC            HTMLNLS   SAS OEM Latin1 to Unicode (UCS-2)
+SLT2UNIC            HTMLNLS   SAS OEM Latin2 to Unicode (UCS-2)
+SMOOTH1             IMAGEWD   SMOOTH1.SLIST
+SMOOTH2             IMAGEWD   SMOOTH2.SLIST
+SOFTEN              IMAGEWD   SOFTEN.SLIST
+SOUTHWES            FSP       SOUTHWES.SLIST
+SOUTHWEST           GNG       SOUTHWEST colorscheme
+SPRING              FSP       SPRING.SLIST
+SPRING              GNG       SPRING colorscheme
+SSALT               ETSTOOL   Alternate series selector toolbar
+SSMAIN              ETSTOOL   Main series selector toolbar definition
+STATDESC            WEBEIS    temporary - until message is pushed.
+STATIC              FORCAST   Static List
+STATS               HOLAPMD   MDDB Statistics - in display order
+STATS               MDDB      MDDB Statistics - in display order
+STATS               WEBEIS    STATS.SLIST
+STATSHORT           WEBEIS    NEWSTATS.SLIST
+STDALONE            ETSTOOL   Series selector toolbar definition
+SYNTAX              OPNOLAP   MDX Syntax Productions
+TABPROP             HTMLGEN   Tabulate Formatter Property List
+TABUNITS            AFCLASS   TABUNITS.SLIST
+TAGS                HTMLGEN   HTML Formatter Tools Supported Tags
+TEXTURE             IMAGEWD   TEXTURE.SLIST
+TFMTS               AFCLASS   Abbr. list of time formats
+THAIATHA            HTMLNLS   ISO 8859/11-thai to MacOS 21-thai
+THAIP874            HTMLNLS   ISO 8859/11-thai to IBMPC OEM 874-th
+THAIUNIC            HTMLNLS   ISO 8859/11-thai to Unicode (UCS-2)
+TIMEIDPU            ETSTOOL   Time ID popup menu
+TOPLIST             SCM       TOPLIST.SLIST
+TRABASE             LOCALE    TRABASE.SLIST
+TUTORIAL            GNG       Text for Tutorial
+VARALIAS            SCM       VARALIAS.SLIST
+VARPLAY             SCM       VARPLAY.SLIST
+VARPREF             SCM       VARPREF.SLIST
+VIEWTABL            FSP       VIEWTABLE toolbar as an SLSIT
+WARAAARA            HTMLNLS   Win cp1256-arabic to MacOS 4-arabic
+WARAARAB            HTMLNLS   Win cp1256-arabic to ISO 8859/6-arabic
+WARAP864            HTMLNLS   Win cp1256-arabic to IBMPC OEM 864-ar
+WARAUNIC            HTMLNLS   Win cp1256-arabic to Unicode (UCS-2)
+WBALLAT4            HTMLNLS   Win cp1257-baltic to ISO 8859/4-latin4
+WBALLAT6            HTMLNLS   Win cp1257-baltic to ISO 8859/10-latin6
+WBALP775            HTMLNLS   Win cp1257-baltic to MSDOS OEM 775-balt
+WBALUNIC            HTMLNLS   Win cp1257-baltic to Unicode (UCS-2)
+WCYRACYR            HTMLNLS   Win cp1251-cyrill to MacOS 7-cyrillic
+WCYRAUKR            HTMLNLS   Win cp1251-cyrill to MacOS 152-ukraine
+WCYRCYRL            HTMLNLS   Win cp1251-cyrill to ISO 8859/5-cyrill
+WCYRP866            HTMLNLS   Win cp1251-cyrill to IBMPC OEM 866-cyrl
+WCYRUNIC            HTMLNLS   Win cp1251-cyrill to Unicode (UCS-2)
+WGRKAGRK            HTMLNLS   Win cp1253-greek to MacOS 6-greek
+WGRKGREK            HTMLNLS   Win cp1253-greek to ISO 8859/7-greek
+WGRKP737            HTMLNLS   Win cp1253-greek to MSDOS OEM 737-el
+WGRKP869            HTMLNLS   Win cp1253-greek to IBMPC OEM 869-el
+WGRKUNIC            HTMLNLS   Win cp1253-greek to Unicode (UCS-2)
+WHEBAHEB            HTMLNLS   Win cp1255-hebrew to MacOS 5-hebrew
+WHEBHEBR            HTMLNLS   Win cp1255-hebrew to ISO 8859/8-hebrew
+WHEBP862            HTMLNLS   Win cp1255-hebrew to IBMPC OEM 862-iw
+WHEBUNIC            HTMLNLS   Win cp1255-hebrew to Unicode (UCS-2)
+WLT1AROM            HTMLNLS   Win cp1252-latin1 to MacOS 0-roman
+WLT1LAT1            HTMLNLS   Win cp1252-latin1 to ISO 8859/1-latin1
+WLT1P850            HTMLNLS   Win cp1252-latin1 to IBMPC OEM 850-west
+WLT1P863            HTMLNLS   Win cp1252-latin1 to MSDOS OEM 863-fc
+WLT1UNIC            HTMLNLS   Win cp1252-latin1 to Unicode (UCS-2)
+WLT2AEUR            HTMLNLS   Win cp1250-latin2 to MacOS 29-easteuro
+WLT2LAT2            HTMLNLS   Win cp1250-latin2 to ISO 8859/2-latin2
+WLT2P852            HTMLNLS   Win cp1250-latin2 to IBMPC OEM 852-slav
+WLT2UNIC            HTMLNLS   Win cp1250-latin2 to Unicode (UCS-2)
+WTURATUR            HTMLNLS   Win cp1254-turkish to MacOS 35-turkish
+WTURLAT5            HTMLNLS   Win cp1254-turkish to ISO 8859/9-latin5
+WTURP857            HTMLNLS   Win cp1254-turkish to IBMPC OEM 857-tr
+WTURUNIC            HTMLNLS   Win cp1254-turkish to Unicode (UCS-2)
+WVIEUNIC            HTMLNLS   Win cp1258-vietnam to Unicode (UCS-2)
+YN                  FSP       Value(s) for Message Window Pushbuttons
+YNC                 FSP       Value(s) for Message Window Pushbuttons
+YND                 FSP       Value(s) for Message Window Pushbuttons
+_IMG_REGISTRY_      DATAMRK   _IMG_REGISTRY_.SLIST

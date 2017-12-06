@@ -1,0 +1,11 @@
+CATCOMND            GRAPH     Commands available for Catalog screens
+CATSCRM             GRAPH     Help for Catalog screens
+COLOR               GRAPH     PROC GREPLAY - Color Map Catalog Screen
+GCHART1             GRAPH     GCHART MENU
+GDEVICE             GRAPH     GDEVICE Procedure Help
+GRAPH               GRAPH     GRAPH Help System Menu
+MAIN                GRAPH     PROC GREPLAY - Main Screen
+PGRAPH              GRAPH     Applications GRAPH menu
+PRES                GRAPH     PROC GREPLAY - Presentation Screen
+TEMP                GRAPH     PROC GREPLAY - Template Catalog Screen
+TEMPLATE            GRAPH     PROC GREPLAY - Template Design Screen

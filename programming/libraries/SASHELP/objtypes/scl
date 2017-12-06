@@ -1,0 +1,2695 @@
+ACADDVAL            EISSRV    Access Control: Add Category Level Value
+ACCECONN            DBIIMEX   ACCECONN.SCL
+ACCEFB              DBIIMEX   ACCEFB.SCL
+ACCICONN            DBIIMEX   ACCICONN.SCL
+ACCIFB              DBIIMEX   ACCIFB.SCL
+ACCIOPT             DBIIMEX   SCL for ACCIOPT.FRAME
+ACCLASSES           EISSRV    Access Control: Classes
+ACCSMODL            SASDESK   ACCSMODL.SCL
+ACCSOBJ             SASDESK   ACCSOBJ.SCL
+ACFPLOT             FORCAST   Autocorrelation Plotting Methods
+ACLADMIN            MB        Security Administration
+ACLAPPL             EISSRV    Access Control: Application Access Main
+ACLAPW              EISSRV    Change Password Dialog
+ACLAPWM             AC        aclapwm.SCL
+ACLAPWM             MB        ACLAPWM.SCL
+ACLAUDIT            EISSRV    Access Control: Auditing
+ACLDATA             EISSRV    Access Control: Data Access
+ACLDISP             EISSRV    Security Display Class
+ACLFUNC             EISSRV    Access Control: Function Access
+ACLGRP1             EISSRV    Access Control: Group Management Main
+ACLGRP2             EISSRV    Access Control: Group Management Detail
+ACLINIT             AC        aclinit.SCL
+ACLLOG              AC        
+ACLMAIN             MB        Security Query
+ACLPW               EISSRV    Access Control: Enter Setup Password
+ACLSERV             MB        Security Server
+ACLSETUP            EISSRV    Access Control: Setup
+ACLSYNC             EISSRV    ACL: Synchronize
+ACLUSR1             EISSRV    Access Control: User Management Main
+ACLUSR2             EISSRV    Access Control: User Management Detail
+ACLUTIL             EISSRV    Access Control: Utility Methods
+ACOMBO              AFCLASS   Methods for ACOMBO.CLASS
+ACOMBO              AFTOOLS   Methods for ACOMBO.CLASS
+ADD                 PRDAUTH   ADD.SCL
+ADDATTR             AFTOOLS   ADDATTR.SCL
+ADDCMPCL            MB        Add a computed column to database
+ADDCOL              MB        Add a column to the database
+ADDEVENT            AFCLASS   ADDEVENT.SCL
+ADDITEM             SCM       ADDITEM.SCL
+ADDIV               SCM       set instance vars for each node
+ADDLIBWZ            SCM       source:  add library to SCM control page
+ADDOLAP             OPNMDDB   addolap.SCL
+ADMINONE            SCM       source:  scm or scmdata not allocated
+ADMINOP             SCM       source:  SCM admin utils
+ADMPAGE             SCM       source for SCM Admin wizard page parent
+ADM_WIZ             SCM       SCM Administrator Wizard class
+ADODATA             SASDESK   ADODATA class methods
+ADSINFO             AFTOOLS   ADSINFO.SCL
+ADVANCED            EISSRV    ADVANCED.SCL
+ADVANCED_DATA       PUBLISH   UNTITLED2.SCL
+AFBRIDGETEST        IOMSAMP   AFBRIDGETEST.SCL
+AFCLASS             FSP       Methods for AF class
+AFSUBMIT            RSASMOD   model class for submitting program text
+AFSUBMIT            RSCLMOD   AFSUBMIT.SCL
+AFTERTAX            INVEST    After tax cashflow  source
+AFTESTTYPES         IOMSAMP   AFTESTTYPES.SCL
+AFTESTTYPESPROXY    IOMSAMP   AFTESTTYPESPROXY.SCL
+ALIASED             SCM       SCM: Edit Alias Defs (SCL ENTRY)
+ALMETHOD            QUERY     Method for alias tables and expression/F
+ALTATTRCOMPOSITE    FSP       ALTATTRCOMPOSITE.SCL
+AMFRAME             FSP       AMFRAME.SCL
+AMODEL              ROCFSMP   AMODEL.SCL
+AMSGMGR             FSP       AMSGMGR.SCL
+ANALYSIS            MB        ANALYSIS.SCL
+ANNOBOXM            MARKET    Methods for ANNOBOX class
+ANNUAL              INVEST    Periodic Equivalent specification source
+APPEND              FORCAST   Append one data set to another
+APPL                ETSTOOL   Application startup
+APPLENT             FORCAST   Application startup
+APPLMETA            WEBEIS    Display a Metabase or Application DB
+APPLYCUT            MDDB      APPLYCUT.SCL
+APPRPT              WEBEIS    Set macro variables from appllist
+APWUTIL             EISSRV    APWUTIL.SCL
+APWUTIL             MB        Access Control: Utility Methods
+ARCHIVEOPTIONS      PUBLISH   ArchiveOptions.SCL
+ARCHIVEPATHS        PUBLISH   CHANNELS.SCL
+ARCHIVEPATHSMETHODS PUBLISH   channelsMethods.SCL
+ARCHIVEPATH_PROPERTIPUBLISH   CHANNELS.SCL
+ARCHLIM             SCM       source:  set arch lim on indiv. files
+ARIMA               FORCAST   Dialog for ARIMA specifications
+ARIMALBL            FORCAST   Subroutines to generate ARIMA Labels
+ARMA                FORCAST   Dialog for ARMA specifications
+ARRAY               ROCFSMP   ARRAY.SCL
+ARRAYTYPEEDITOR     CLASSES   CAF: SCL for Array Type Editor
+ARRAYTYPEEDITOR2    CLASSES   CAF: SCL for Array Type Editor for method signature arguments
+ARRMETH             AFTOOLS   ARRMETH.SCL
+ASALIAS             QUERY     As Alias scl
+ASSIST              SASDESK   Driver program for classic ASSIST tasks
+ASTAPPL             SASDESK   ASTAPPL.SCL
+ASTMSG              FSP       ASTMSG.SCL
+ASTMSG              WEBUTIL   Messaging class code
+ASTOPTS             AFTOOLS   ASSIST options frame
+ASTOPTS2            AFTOOLS   ASSIST options frame
+ATADDATR            MB        _ADD_ATTRIBUTE_ method (repos version)
+ATCONVRT            MB        ATCONVRT.SCL
+ATCREATE            MB        _CREATE_ method (repos version)
+ATDELATR            MB        _DELETE_ATTRIBUTE_ meth (repos version)
+ATDELETE            MB        _DELETE_ method (repos version)
+ATEDIT              MB        Edit/Add an attribute (repos version)
+ATGETATR            MB        ATGETATR.SCL
+ATGETCON            MB        _GET_CONTENTS_ method (repos version)
+ATGETDES            MB        _GET/_ATTRDESC_ _ATTRNAME_ _ATTRDSID_
+ATGETFMT            MB        _GET_DICTIONARY_FORMAT_  v6-or-v7
+ATGETLST            MB        ATGETLST.SCL
+ATGETTYP            MB        _GET_ATTRTYPE_ method (repos version)
+ATINTATR            MB        _GET_INT_ATTRIBUTE_  (INTERNAL)
+ATIO                MB        _OPEN_ & _CLOSE_ method (repos version)
+ATLIST              MB        _GET_ATLIST_ (repos version)
+ATMAIN              MB        ATMAIN.SCL
+ATMRCBOX            AFTOOLS   ATMRCBOX.SCL
+ATMRLBOX            FSP       BUILD: SCL for List Box Editor
+ATMRRBOX            FSP       BUILD: SCL for Radio Box Editor
+ATMRTBOX            FSP       SAS/IMAGE Viewer scl
+ATPCOLR             MARKET    BUILD: Customize frame for graphics-colr
+ATPOPERR            MB        _POPERRS_ method (INTERNAL)
+ATRCNTRL            FSP       ATRCNTRL.SCL
+ATREN               MB        Attribute dict rename window (repos ver)
+ATRENAME            MB        ATRENAME.SCL
+ATRFRAME            FSP       CAF: Method SCL for atrframe.class
+ATRLISTM            FSP       CAF: Source for generic list model
+ATRTAB              FSP       CAF: Table class for table viewer for v7
+ATRTREE             FSP       Methods, v7 parent tree class, atrtree
+ATSEARCH            MB        ATSEARCH.SCL
+ATSETATR            MB        ATSETATR.SCL
+ATTEDIR             SASDESK   ATTEDIR.SCL
+ATTR                FSP       CLASS.SCL
+ATTRACOM            AFCLASS   Color group combo attributes
+ATTRBLCK            FSP       BUILD: SCL for block attribute frame
+ATTRBOOK            FSP       Book Attributes
+ATTRBOTH            FSP       BUILD: SCL for block colors.
+ATTRBTN             FSP       BUILD: SCL for button attributes
+ATTRCAT             AFCLASS   CATLIST.SCL
+ATTRCAT             FSP       BUILD: SCL for catalog entry viewer
+ATTRCATE            FSP       BUILD: SCL for catalog entry data engine
+ATTRCBOX            FSP       BUILD: SCL for checkbox attributes
+ATTRCLSW            AFCLASS   Attr for colorswa.class
+ATTRCMBO            AFTOOLS   Combo box attr
+ATTRCMPV            FSP       BUILD: set composite value
+ATTRCNTL            FSP       BUILD: SCL for control object
+ATTRCNTR            FSP       BUILD: ATTRCNTR.SCL
+ATTRCOL             AFCLASS   Color group combo attributes
+ATTRCOM             AFCLASS   Combo Box attributes
+ATTRCOMP            FSP       BUILD: SCL for composite
+ATTRCSF             FSP       BUILD: SCL for CSF
+ATTRCSF2            FSP       BUILD: SCL for CSF appearence
+ATTRCTXT            FSP       BUILD: ATTRCTXT.SCL
+ATTRDFRM            FSP       Dataform: SCL for the attribute screen
+ATTRDICT            MB        _INIT_ and _TERM_ method (repos version)
+ATTRDRV             AFCLASS   Drive listbox attributes
+ATTRDSET            FSP       BUILD: SCL for cat list attr frame
+ATTRDTP             FSP       Workarea Attribute Screen
+ATTRDUO             AFCLASS   Combo Selector attributes
+ATTREINP            AFCLASS   Extended Input Field attributes
+ATTRENTL            AFCLASS   SAS Entries listbox attr
+ATTRENTL            FSP       BUILD: SCL for SAS Entries List attrs
+ATTREXTF            FSP       BUILD: SCL for external file data engine
+ATTREXTT            FSP       BUILD: SCL for extended tables frame
+ATTRFBRS            FSP       BUILD: SCL for file browser object
+ATTRFED             FSP       BUILD: SCL for form editor attr frame
+ATTRFILE            FSP       BUILD: SCL for external file viewer
+ATTRFISL            AFCLASS   File selector non-visual class attrs
+ATTRFORG            FSP       Org CHART ATTR main attributes window
+ATTRFRAM            FSP       BUILD: SCL for general attributes frame
+ATTRFSV             FSP       BUILD: SCL for DATA_M w table_e frame
+ATTRGCAP            AFCLASS   ATTRGCAP.SCL
+ATTRGCMD            AFCLASS   Command Push Button attributes
+ATTRGCOL            FSP       BUILD: Graphic text entry columns
+ATTRGCOM            AFCLASS   Generic Combo box attributes
+ATTRGLAB            FSP       BUILD: Graphic text entry attributes
+ATTRGOPT            FSP       BUILD: SCL for gattr window appearance
+ATTRGRPH            FSP       BUILD: SCL for graph object attributes
+ATTRGTXT            FSP       BUILD: SCL for graphic text object
+ATTRHCLS            FSP       BUILD: ATTRHCLS.SCL
+ATTRHELP            FSP       BUILD: SCL for general help frame
+ATTRHEXT            FSP       BUILD:  text in hex for editing.
+ATTRHOST            FSP       System object attributes
+ATTRHOT             FSP       BUILD: SCL for hotspot attributes
+ATTRIBUT            MB        all ATTRIBUTE level methods
+ATTRIBUTEDIALOGEDITOCLASSES   ATTRIBUTEDIALOGEDITOR.SCL
+ATTRIBUTESFORMEDITORCLASSES   Attributes Form Editor - SCL
+ATTRICON            FSP       BUILD: SCL for icon attribute frame
+ATTRIMAG            FSP       BUILD: IMAGE attributes
+ATTRIMGF            AFCLASS   SCL for Image Finder Attributes
+ATTRIMGI            FSP       ATTRIMGI.SCL
+ATTRINP             AFCLASS   Input field attributes
+ATTRIPAL            FSP       ATTRIPAL.SCL
+ATTRITXT            FSP       BUILD: Graphic text entry initial value
+ATTRLBL             AFCLASS   Input Field Label attributes
+ATTRLBL             FSP       Input Field Label attributes
+ATTRLBOX            FSP       BUILD: SCL for listbox attribute frame
+ATTRLIBL            AFCLASS   SAS Libnames listbox attr
+ATTRLIBL            FSP       BUILD: SCL for SAS Libnames List attrs
+ATTRLIST            FSP       BUILD: SCL for data set entry attr frame
+ATTRLSTM            FSP       LISTMAT2.SCL
+ATTRLUDS            FSP       BUILD: SCL for lookup data set(object)
+ATTRMAP             FSP       ATTRMAP.SCL
+ATTRMDTR            FSP       Multi-Dimensional Tree Viewer
+ATTRMEML            AFCLASS   SAS Members List Box attributes
+ATTRMEML            FSP       BUILD: SCL for SAS Members List attrs
+ATTRMISC            FSP       BUILD: SCL for gattr misc options
+ATTRPALT            FSP       ATTRPALT.SCL
+ATTRPCOM            AFCLASS   Program Combo Box attributes
+ATTRPFD             FSP       PFD Object attributes
+ATTRPFD2            FSP       Node Attributes
+ATTRPFD3            FSP       Subdiagram Attributes
+ATTRPFD4            FSP       Confirm
+ATTRPFD5            FSP       Print options (gsub)
+ATTRPFD6            FSP       Color Palette
+ATTRPFD7            FSP       Save as (new)
+ATTRPFD8            FSP       Diagram Options
+ATTRPFD9            FSP       Print options (host)
+ATTRPFDA            FSP       Node properties
+ATTRPLOT            FSP       ATTRPLOT.SCL
+ATTRPMKY            FSP       BUILD: SCL for general help frame
+ATTRPOP             FSP       BUILD: SCL for context menu support
+ATTRRBOX            FSP       BUILD: SCL for radios attribute frame
+ATTRREP             FSP       BUILD: SCL SUBMIT Block Replace String
+ATTRREPO            FSP       BUILD: Report Viewer Attributes SCL
+ATTRRES             AFCLASS   Object Rescaling attributes
+ATTRSBAR            FSP       BUILD: SCL for slider object
+ATTRSCLV            FSP       BUILD: SCL for SCL variable attr frame
+ATTRSENT            FSP       BUILD: SCL for SENTRY_M w table_e frame
+ATTRSESS            AFCLASS   Combo Box attributes
+ATTRSHOT            FSP       BUILD: SCL for segment hotspot attrs
+ATTRSLBX            AFCLASS   Attr scl - dual listbox selector
+ATTRSLDR            FSP       BUILD: SCL for slider object
+ATTRSPL             FSP       Interactive Spline Object attr. SCL
+ATTRSTYL            FSP       BUILD: Graphic text entry justification
+ATTRSUB             AFCLASS   Combo Box attributes
+ATTRSVAL            FSP       BUILD: set value for buttons
+ATTRTAB             FSP       Tab Layout Object Attributes SCL
+ATTRTBOX            FSP       BUILD: SCL for tool box object attribute
+ATTRTED             FSP       BUILD: SCL for table editor attr frame
+ATTRTFSV            FSP       BUILD: SCL for data table attr frame
+ATTRTLAB            FSP       BUILD: SCL for text label object
+ATTRTOPT            FSP       BUILD: SCL for addtl attr for table_e
+ATTRTVAL            FSP       TE: Text entry validation scl
+ATTRTXT             FSP       TE: Text entry object (main) scl
+ATTRVARL            AFCLASS   Catalog Selector attributes
+ATTRVID             FSP       ATTRVID.SCL
+ATTRWSIZ            FSP       BUILD: SCL for gattr window size
+AUDIT               FORCAST   Subroutines to print audit trace
+AUTOFIT             FORCAST   Automatic model selection working notice
+AUTOJNDS            QUERY     Set Automatic Join Data Set Name
+AUTONOTE            FORCAST   Automatic model selection prompt
+AUTOOPT             FORCAST   Automatic Fit Options Dialog Box
+BACKGDLG            FSP       BACKGDLG.SCL
+BADLEVS             OPNMDDB   BADLEVS.SCL
+BANNER_C            GNG       Methods for TEXT BANNER Class
+BARCOLR             MARKET    Bar chart colors
+BASETABL            MB        Metabase base table attribute
+BATCH               OPNMDDB   BATCH.SCL
+BAZ                 ROCFSMP   BAZ.SCL
+BEGRAPH             INVEST    breakeven graph
+BENCOST             INVEST    BCRATIO.SCL
+BINARYRETRIEVE      PUBLISH   BinaryRetrieve.scl
+BINDERY             IOM       BINDERY.SCL
+BIPLOT              MARKET    BIPLOT.SCL
+BLDLDAPDATASET      PUBLISH   UNTITLED13.SCL
+BLDSERVERLIST       PUBLISH   UNTITLED13.SCL
+BLDWHERE            SCM       bldwhere method
+BMODEL              ROCFSMP   BMODEL.SCL
+BNRDLG              FSP       BNRDLG.SCL
+BONDS               INVEST    Bond Specification source
+BOOKMARK            RSASMOD   BOOKMARK.SCL
+BOOKMARK            RSCLMOD   BOOKMARK.SCL
+BORDLG              FSP       BORDLG.SCL
+BOXCOX              ETSTOOL   Prompt for Box-Cox Lambda parameter
+BOXCOXX             ETSTOOL   Methods for Box-Cox transformations
+BPGRAPH             INVEST    GRAPH1.SCL
+BRAKEVEN            INVEST    Breakeven analysis source
+BRKLOCK             SCM       source:  break locks frame
+BROWSER             AFTOOLS   Class Browser main frame SCL
+BRWSMDDB            EISTOOLS  Browse an MDDB
+BRWSMDDB            MB        Browse and mddb file
+BUILDSLIST          PUBLISH   UNTITLED1.SCL
+BUILDV6             SCM       BUILDV6.SCL
+BUILDV7             SCM       recompile version-specific files/macros
+BUSINESS_GRAPH_C    CLASSES   BUSINESS_GRAPH_C.SCL
+BUSINESS_GRAPH_C    FSP       BUSINESS_GRAPH_C.SCL
+BUSPIE              AFCLASS   Pie options for business object
+BUSREF              AFCLASS   EIS: Business Charts ref lines info
+BY                  FORCAST   Forecast using data stratified by a BY variable
+BYOUT               FORCAST   Forecast Output Selector for BY.FRAME
+CACOLOR             AFTOOLS   SCL Coverage Analyzer: Color selector
+CAENT10             AFTOOLS   SCL List Utility: Select dataset
+CAENT11             AFTOOLS   SCL List Utility: Compare
+CALATTR             SCHEDUL   SCL for CALATTR.FRAME
+CALLBACK            ROCFSMP   CALLBACK.SCL
+CAMAIN              AFTOOLS   SCL Coverage Analyzer: Main frame
+CAMERGE             AFTOOLS   SCL Coverage Analyzer Merge Master
+CAN_EDIT            SASDESK   Create can_edit.slist
+CAPFD               AFTOOLS   SCL Coverage Analyzer: PFD
+CASHFLOW_C          INVEST    Cash Flow Control Class Methods
+CASHFLOW_M          INVEST    Cash Flow Model Class Methods
+CASHMISC            INVEST    generic cashflow specificatn source
+CASOURCE            AFTOOLS   SCL Coverage Analyzer: Source
+CASUM               AFTOOLS   SCL Coverage Analyzer: Summary
+CAT                 SASDESK   CAT.SCL
+CATALOG             AFCLASS   Methods for CATLIST.CLASS
+CATALOG             FSP       Methods for CATLIST.CLASS
+CATALOGA            AFCLASS   Methods for cataloga.class
+CATALOGENTRYLIST_C  CLASSES   SCL for Catalog Entry List Model
+CATALOGENTRYVIEWER_CCLASSES   Class SCL for Catalog Entry Viewer
+CATALOGNODE         RSASMOD   Catalog Server Side Tree Node Object
+CATDEL              MB        Metabase delete catalog entry for attr
+CATDLG              FSP       CATDLG.SCL
+CATENTDLG           FSP       CATENTDLG.SCL
+CATENTRY            FSP       CATENTRY.SCL
+CATFEED             SASDESK   CATFEED.SCL
+CATLVAL             AFCLASS   Catalog List values
+CATMODEL            SASDESK   CATMODEL.SCL
+CATNCHK             FSP       Check entry names for syntax
+CATOBJ              SASDESK   CATOBJ.SCL
+CBCOPY              AFTOOLS   Class Browser: SCL for copy frame
+CBFIND              AFTOOLS   Class Browser: SCL for find frame
+CBNEW               AFTOOLS   Class Browser: SCL for new frame
+CBROWSE             OBJPOOL   Cpy Mgmt. Browse SCL
+CBSEARCH            AFTOOLS   Class Browser: SCL for select frame
+CBSELECT            AFTOOLS   Class Browser: SCL for select frame
+CBSOURCE            AFTOOLS   Class Browser: SCL for method viewer
+CBSUBCL             AFTOOLS   Class Browser: SCL for subclass frame
+CBTEDITOR           FSP       CBTEDITOR.SCL
+CBVIEWER            AFTOOLS   Class Browser: SCL for print frame
+CDCREATE            MB        Columns database creation
+CDREG               MB        Columns database reg methods
+CEATTRDF            FSP       CAF: Model SCL for CE Attributes
+CEATTR_M            FSP       CAF: Source for class editor attributes
+CEEVNTDF            FSP       Model SCL for Events
+CEEVNT_M            FSP       CAF: Source for class editor attributes
+CEHDLRDF            FSP       CAF: Model SCL for CE Event Handlers
+CEHDLR_M            FSP       CAF: Source for class editor handlers
+CEIFCEDF            FSP       CAF: Model SCL for CE Interfaces
+CEIFCE_M            FSP       CAF: Source for class editor attributes
+CEMAIN              FSP       CEMAIN.SCL
+CEMETHDF            FSP       CAF: Model SCL for CE & PW Methods
+CEMETH_M            FSP       CAF: Source for class methods
+CETREE              FSP       Methods for cetree.class
+CFRREP              OBJPOOL   Cfrrep.scl for class
+CHANNELS            PUBLISH   CHANNELS.SCL
+CHANNELSMETHODS     PUBLISH   channelsMethods.SCL
+CHANNEL_PROPERTIES  PUBLISH   CHANNELS.SCL
+CHANNEL_PROPERTIESMEPUBLISH   channelsMethods.SCL
+CHARFORMAT          CLASSES   charformat.scl
+CHART               WEBEIS    Web version of the CHART object
+CHARTVALUES         CLASSES   Chart Variable Values
+CHART_C             CLASSES   CHART_C.SCL
+CHAT                ROCFSMP   CHAT.SCL
+CHECKMODEL          CMRGEN    Dump the information from the model to Datasets
+CHGPW               EISSRV    Access Control: Change Password Dialog
+CHKCHG              MARKET    Check for analysis changes
+CHKFMT              MARKET    Check if formats present
+CHKKNOTS            MARKET    CHKKNOTS.SCL
+CHKNAME             FSP       BUILD: method used in attrted
+CHNGDAD             ETSTOOL   Utility Appl to Change Parent Class Name
+CINTRO              OBJPOOL   CIntro.scl
+CJASUM              MARKET    CJ: Make analysis summary
+CJBOX               MARKET    CJ: Make CJ box/bar plots
+CJBOXM              MARKET    Methods for CJBOX class
+CJCOLR              MARKET    CJ: Change plot colors
+CJDATAM             MARKET    Data set data model scl for CJMKTSHR
+CJDATA_M            MARKET    Data set data model scl for CJMKTSHR
+CJMAIN              MARKET    CJ: Main window
+CJMKTSH1            MARKET    CJ: Market share simulation
+CJQVAL              MARKET    CJQVAL.SCL
+CJRUN               MARKET    CJ: Submit SAS proc code
+CJUTPLOT            MARKET    CJ: Utility plots
+CJVARS              MARKET    CJ: Select variables
+CKCXVAR1            JAVAGRF   Validate Constellation XML Vars/Data Set
+CKFMT               HTMLGEN   Data Set Formatter - Check fmt names
+CKGVAR              JAVAGRF   Graphing Applet - Check var names
+CKNUM               JAVAGRF   METHOD: Check Numeric Values
+CKTXVAR1            JAVAGRF   Validate TreeView XML Vars/Data Set
+CKVAR               HTMLGEN   Data Set Formatter - Check var names
+CLASS               AFTOOLS   Methods for Class Browser main frame
+CLASS               FSP       CLASS.SCL
+CLASSAD             FSP       BUILD: Class Editor additional options
+CLASSAS             FSP       BUILD: Class Editor - save as
+CLASSDLG            FSP       CLASSDLG.SCL
+CLASSDOC            AFTOOLS   CLASSDOC.SCL
+CLASSDOCCLASS       AFTOOLS   SCL Class definition for classdoc
+CLASSDOCHTML        AFTOOLS   CLASSDOCHTML.SCL
+CLASSDOCHTMLCLASS   AFTOOLS   CLASSDOCHTMLCLASS.SCL
+CLASSENTRYSELECTOREDCLASSES   UNTITLED1.SCL
+CLASSES             EISSRV    CLASSES.SCL
+CLASSLOC            AFTOOLS   Checks location of classpath in HELPLOC
+CLASSLOCCLASS       AFTOOLS   ClassDoc HELPLOC Detection Object
+CLASSREP            FSP       CLASSREP.SCL
+CLASSSETTINGS       FSP       CLASSSETTINGS.SCL
+CLASSTOIDL          IOM       CLASSTOIDL.SCL
+CLEANUP             FORCAST   Utility Method to Cleanup Global Env.
+CLISTM              OBJPOOL   CLISTM.SCL
+CLOSEHTM            JAVAGRF   METHOD: Close HTML File and Deassign
+CLR_MGR             OBJPOOL   CLR_MGR.SCL
+CLTSRV              AFCLASS   Client Server main window
+CMDBAR              SASDESK   CMDBAR methods
+CMDLIST             ETSTOOL   _CMDLIST_ methods
+CMDOV               MB        _SET_DEFAULT_ATTR_VALUES meths for conv
+CMODEL              ROCFSMP   CMODEL.SCL
+CMPCATALOGS         CMP       cmpcatalogs.SCL
+CMPCATALOGS_TEST    CMP       Test the CMPCATALOGS.CLASS
+CMPREAD             CMP       PROC CMP - *.CMPSUB reader
+CMPSUB              CMP       cmpsub.SCL
+CMRAPI              HOLAPMD   CMR: disabled I/O methods for MD.CLASS
+CMRINIT             OBJPOOL   Initialize the CMR system
+CODEGEN             FSP       Method Signature SCL
+CODEGEN             GNG       Methods for code generation
+CODEGENMETHODS      GNG       Common methods for code generation
+COLALIAS            QUERY     Column Alias and Label
+COLATTRS            FSP       VIEWTABLE: METHODS for COLATTRS.CLASS
+COLATTRS            MB        Metabase: Get columns database attrs
+COLLECTN            OBJPOOL   Data Store Collection Class
+COLMODS             QUERY     Column Formats and Informats
+COLOR               AFCLASS   Methods for ACOMBO.CLASS
+COLOR               FSP       BUILD: SCL for text entry object
+COLOR               MB        Metabase color attribute
+COLOREDITOR         CLASSES   SCL for color editor
+COLOREDITOR         GNG       SCL for color editor used in PW color attributes
+COLOREDITORMETHODS  CLASSES   COLOREDITORMETHODS.SCL
+COLORLIST_C         CLASSES   SCL for Color List Model
+COLORMETHODS        FSP       COLORMETHODS.SCL
+COLORS              AFCLASS   colors.SCL
+COLORS              AFTOOLS   COLORS.SCL
+COLORS              FSP       generates color/attr .slists
+COLORSEL            AFCLASS   Methods for COLORSEL.CLASS
+COLORSEL            FSP       COLORSEL.SCL
+COLORSET            AFCLASS   Methods for COLORSET.CLASS
+COLORSWA            AFCLASS   Attr for colorswa.class
+COLPRIM             MB        Assign PRIMARY key attribute
+COLRANGE            MB        Metabase column range attribute
+COLRICON            AFCLASS   Methods for COLRICON.CLASS
+COLSTAT             MDDB      EIS: Select Statistic scl
+COLUMNDEFINITION    CLASSES   column definition dialog for columns editor of datamodel_c subclasses
+COLUMNDEFINITIONMSCLCLASSES   COLUMNDEFINITIONMSCL.SCL
+COLUMNNODE          RSASMOD   COLUMNNODE.SCL
+COLUMNORDEREDITOR   CLASSES   editor for columnOrder attribute
+COLUMNPROPERTIES    CLASSES   COLUMNPROPERTIES.SCL
+COLUMNPROPERTIES_TYPCLASSES   SCL for COLUMNPROPERTIES_TYPE Class
+COLUMNS             EISSRV    SCL for Wizard class for MDDB Creation
+COLUMNSEDITOR       CLASSES   COLUMNSEDITOR.SCL
+COLUMNSNODE         RSASMOD   COLUMNSNODE.SCL
+COLVARS             MB        Metabase: Get columns database variables
+COMBMOD             FORCAST   Subroutine for forecast combination
+COMBO               AFCLASS   Methods for COMBO.CLASS
+COMBO               DBIIMEX   Composite control: Combo and DDL boxes
+COMM                FSP       COMM.SCL
+COMMAND             SASDESK   CLASS: SAS launcher model methods
+COMMDLG             FSP       COMMDLG.SCL
+COMMENT             SCM       source:  check in comment/change desc
+COMPANIONPROPERTIES PUBLISH   HtmlProperties.SCL
+COMPANIONRETRIEVE   PUBLISH   HtmlRetrieve.scl
+COMPAPP             AFCLASS   COMPAPP.SCL
+COMPCNVT            FSP       BUILD: Convert old composite classes
+COMPCOL             MB        COMPCOL.SCL
+COMPCOLM            MB        Computed column method
+COMPCOLS            AFCLASS   Computed Columns Methods
+COMPCOLS            MDDB      Methods for sort and compute
+COMPDEF             FSP       COMPDEF.SCL
+COMPLIST            AFTOOLS   COMPLIST.SCL
+COMPONENTTREENODE   CLASSES   COMPONENTTREENODE.SCL
+COMPROX             IOM       COMPROX.SCL
+COMPROXRESSIG       IOM       COMPROXR.SCL
+COMPSTAT            FORCAST   Statistics of Fit comparisons tables
+COMPUTE             AFCLASS   create computed columns
+COMPUTE             MDDB      create computed columns
+COMVAL              QUERY     Display comamids for selection
+CONCHECK            MB        Metabase conversion check
+CONFIRM             MARKET    CONFIRM.SCL
+CONFLICT            OPNMDDB   CONFLICT.SCL
+CONFMSG             SCM       source:  generic confirmation message
+CONFSMP             MARKET    CONFSMP.SCL
+CONNECT             QUERY     Configure a Remote Session.
+CONNLIBS            QUERY     Connect Libnames Setup
+CONSCRPT            QUERY     Connect Scripts assigned to session
+CONSTDOL            INVEST    Constant Dollar specification source
+CONTSUB             AFCLASS   CONTSUB.SCL
+CONVERT             MB        CONVERT.SCL
+CONVERT             QUERY     MIGRATE.SCL(TRANSLATORS IGNORE)
+CONVERTCUSTOMLLIST  EISSRV    CONVERTCUSTOMLLIST.SCL
+CONVMETA            MB        Convert metabases
+COPY                FSP       COPY.SCL
+COPY                MB        Metabase copy window
+COPYCDB             MB        Copy a columns database
+COPYCOL             MB        Copy a Columns database
+COPYMEM             AFCLASS   Copy catalog or data set
+COPYREG             MB        metabase copyreg.frame
+COPYREP             MB        Metabase: copy repository frame
+COPYTO              SCM       source:  copy to prompt
+COPY_TO_CLIPBOARD   EXPLORER  Explorer Action to a Copy a Table to the Clipboard as HTML
+CORRDS              FORCAST   Method to Generate Correlation Data Set
+CORRPLOT            ETSTOOL   Correlation Plot Instance Methods
+CPHLPVUE            OPNMDDB   General Help Viewer
+CPQUERY             MARKET    Get color/attrib for SAS cparm item
+CPYSTART            OBJPOOL   CPYSTART.SCL
+CREATE              MB        CREATE.SCL
+CREATE              QUERY     Create Table/Create View
+CREATE              SCM       source:  new function
+CREATEDS            MDDB      Methods for creation of datasets
+CREATEMBTOREP       MB        _createMbToRepDS
+CREPLST             OBJPOOL   Creplst.scl
+CRFILT              IMAGEWD   Create Default filters
+CROSSES             EISSRV    Crossings for an MDDB (methods)
+CROSSINGS           EISSRV    SCL for Wizard class for MDDB Creation
+CRSPASUM            MARKET    CRSP: Make analysis summary
+CRSPCOLR            MARKET    CRSP: Change plot colors
+CRSPFRQ1            MARKET    CRSP: Frequencies
+CRSPMAIN            MARKET    CRSP: Main window
+CRSPMETH            MARKET    CRSP: check max dim of table
+CRSPOPTS            MARKET    CRSP: Options
+CRSPPLOT            MARKET    Methods for CORRESP biplot class
+CRSPRUN             MARKET    CRSP: Submit SAS proc code
+CRSPSTA1            MARKET    CRSP: Statistics
+CRSPVARS            MARKET    CRSP: Select variables
+CRTCAT              SASDESK   CREATE: a new catalog
+CRTCATE             SASDESK   CREATE: a new catalog entry
+CRTDATA             SASDESK   CREATE: a new data set or view
+CRTEFIL             SASDESK   CREATE: Assign or redefine a fileref
+CRTEVIEW            MDDB      Methods for view handling
+CRTLIBR             SASDESK   CREATE: Assign or redefine a libref
+CRTLIST             MDDB      CRTLIST.SCL
+CSELLST             OBJPOOL   Csellst.scl for class
+CSF                 MB        Assign CSF attribute
+CSFDEL              MB        Delete CSF attribute
+CSFVALUES           CLASSES   CSF Variable Values
+CSUMMRY             OBJPOOL   CSUMMRY.SCL
+CSVBINARYRETRIEVE   PUBLISH   CSVBinaryRetrieve.scl
+CTEXTLABEL_C        CLASSES   CTEXTLABEL.SCL
+CTEXTLABEL_C        GNG       Methods for CTEXTLABEL_C Class
+CTOREP              OBJPOOL   Ctorep.scl for class
+CUBE                OPNMDDB   Code behind Cube.frame
+CURCONVR            INVEST    CURCONVR.SCL
+CUSTOM              QUERY     Setup customized Lookup, Autojoin, etc.
+CUSTOMPROPERTYEDITORCLASSES   UNTITLED1.SCL
+CUSTPLOT            FORCAST   Plot Customization/Generation Routines
+CWACCONN            DBIIMEX   W64 client to access connection code
+CWACIOPT            DBIIMEX   W64 client to access options code
+CWIZMAIN            OBJPOOL   CWIZMAIN.SCL
+CWXLCONN            DBIIMEX   W64 client to excel connection code
+CWXLIOPT            DBIIMEX   W64 client to excel options code
+DAFAPPL             IOMSAMP   DAFAPPL.SCL
+DAFBIND             IOMSAMP   DAFAPPL.SCL
+DAFBINDBRG          IOMSAMP   DAFBINDBRG.SCL
+DAFBINDCOM          IOMSAMP   COM binding to SAS server sample
+DATA                SASDESK   DATA.SCL
+DATAFILE            FSP       DATAFILE.SCL
+DATAFORMENTRYEDITOR CLASSES   dataform entry editor
+DATAINFO            GNG       SCL for DATAINFO.FRAME
+DATALISTEDITOR      CLASSES   Editor for dataList attribute of SCLListmodel_c class
+DATAMODEL_C         CLASSES   SCL for Datamodel_c class
+DATAOBJ             SASDESK   DATAOBJ.SCL
+DATASET             AFCLASS   DATASET.SCL
+DATASET             ETSTOOL   SAS Data Set Management Methods
+DATASET             FSP       DATASET.SCL
+DATASET             INVEST    SAS Data Set Management Methods
+DATASET             STPSAMP   Determine how to diplay the data set
+DATASETCOLUMNPROPERTCLASSES   DATASETCOLUMNPROPERTIES.SCL
+DATASETLIST_C       CLASSES   SCL for Data Set List Model
+DATASETOBJ_C        CLASSES   scl source for dataset object model
+DATASETPUBLISH      PUBLISH   Frame for publishing SAS Data Sets
+DATASETRECORD_C     CLASSES   DATASET RECORD MODEL SCL
+DATASETRETRIEVE     PUBLISH   DATASETRETRIEVE.SCL
+DATASETS            OLTUTOR   UNTITLED3.SCL
+DATASETSELECTIONEDITCLASSES   DATASETSELECTIONDIALOG.SCL
+DATASRC             SQL       DATASRC visual one table query/QUERYNEW.
+DATAVIEW            FSP       Viewtable: DATAVIEW.SCL
+DATA_M              FSP       DATA_M.SCL
+DATA_MAC            LOCALE    DATA_MAC.SCL
+DATA_MFR            LOCALE    Data for Mainframe
+DATA_OS2            LOCALE    DATA_OS2.SCL
+DATA_UXV            LOCALE    DATA_UXV.SCL
+DATA_WIN            LOCALE    DATA_WIN.SCL
+DATERROR            ETSTOOL   DATERROR.SCL
+DATES               ETSTOOL   subroutines for SAS dates and datetimes
+DATHILIT            EFI       EFI - Highlight vars in ext file data
+DBCSFMT             CLASSES   Build Class information list for Process
+DBFIOPT             DBIIMEX   SCL for DBFIOPT.FRAME
+DCHGWARN            FORCAST   Data set change warning and prompts
+DEFAULTATTRIBUTEVALUCLASSES   DEFAULTATTRIBUTEVALUES.SCL
+DEFAULTPUSHBUTTONVALCLASSES   DEFAULTPUSHBUTTONVALUES.SCL
+DEFCLASS            AFCLASS   BUILD: Base classes
+DEFCLASS            FSP       BUILD: Base classes
+DEFMETH             AFCLASS   Default Methods for base classes
+DEFMETH             FSP       Default Methods for base classes
+DELATTR             MB        Metabase: Delete attrs from columns DB
+DELCOMP             MB        Delete Computed Column attribute
+DELEGATE            FSP       DELEGATE.SCL
+DELEGATE            ROCF      DELEGATE.SCL
+DELETE              OPNMDDB   DELETE.SCL
+DELIMITERS          DBIIMEX   DELIMITERS.SCL
+DELLIST             FORCAST   Dialog to delete items from a list
+DELVER              FSP       BUILD: Delete entry
+DELVER2             FSP       BUILD: SCL for delete item verify
+DELVER3             FSP       BUILD: SCL for delete item verify
+DEPENDENTATTRIBUTESECLASSES   editor for attributes dependent upon another attribute
+DEPENDENTATTR_NUM_EDCLASSES   editor for attributes dependent upon another attribute
+DEPOLIST            INVEST    Savings list of deposits source
+DEPSCHED            INVEST    Depreciation Schedule source
+DEPTABLE            INVEST    Depreciation rate table source
+DESCSTAT            FORCAST   Descriptive Statistics Table Methods
+DESKAPPL            SASDESK   DESKAPPL.SCL
+DESKFRAM            SASDESK   DESKFRAM.SCL
+DESKOBJ             SASDESK   DESKOBJ.SCL
+DESKSUB             SASDESK   Desksub.scl
+DESKTOP             SASDESK   DESKTOP.SCL
+DESKTYP             SASDESK   DESKTYP.SCL
+DEVMSG              MARKET    DEVMSG.SCL
+DFDTMETH            FSP       Override methods for Data form/Table.
+DFRMAPLY            FSP       Dataform: SCL for applying customiztions
+DFRMASOP            FSP       Dataform: Assist options with apply
+DFRMCLAS            FSP       Dataform: SCL for classes and label rep
+DFRMCLRS            FSP       Dataform: SCL for classes and label rep
+DFRMCSEL            FSP       Dataform: Methods for font/class options
+DFRMFLT             FSP       Column window for FORM_E objects
+DFRMFLTM            FSP       Override methods for the FORM_E col wind
+DFRMFONT            FSP       Dataform: SCL for fonts,classes,behavior
+DFRMMETH            FSP       Dataform: Methods for diffing lists
+DFRMNEWC            FSP       Dataform: computed column screen code
+DFRMOPTS            FSP       Dataform: SCL for general options
+DFRMSET             FSP       Dataform: SCL for form specific setup
+DIAGNOSE            FORCAST   Diagnose time series for models to try
+DIAGSPEC            FORCAST   Series Diagnostics specifications dialog
+DIMNSION            OPNMDDB   Code behind Dimension.frame
+DIMSEL              MDDB      DIMSEL.SCL
+DIRDLG              FSP       DIRDLG.SCL
+DIRDUMP             SCM       source:  dirdump cmd
+DISPATCH            IOM       DISPATCH.SCL
+DISPFILE            SCM       source:  external file viewer
+DISPFMT             MARKET    Display formats to be loaded
+DISPMAIN            SCM       source:  launch diff
+DISPOPTS            AFCLASS   Methods for Base Options List Displayer
+DISPTEMP            SCM       source:  set temp directory for diff
+DIVISOR             MB        Metabase divisor attributes
+DLGAS               AFTOOLS   Dialog Builder Save As
+DLGATCB             AFTOOLS   Check Box attributes
+DLGATRB             AFTOOLS   Radio Box attributes
+DLGATTE             AFTOOLS   Text Entry attributes
+DLGATTL             AFTOOLS   Text Label attributes
+DLGBASE             AFTOOLS   Methods for DLGBASE.CLASS
+DLGCMD              AFTOOLS   Dialog Builder Command String
+DLGCOLR             AFTOOLS   Methods for DLGCOLR.CLASS
+DLGEND              AFTOOLS   Dialog Builder End
+DLGIO               AFTOOLS   Methods for DLGIO.CLASS
+DLGNEW              AFTOOLS   Dialog Builder New
+DLGOBJ              AFTOOLS   Methods for Dialog Builder Objects
+DLGOPEN             AFTOOLS   Dialog Builder Open
+DLGPROC             AFTOOLS   Methods for DLGPROC.CLASS
+DLGSAVE             AFTOOLS   Dialog Builder Save
+DLGTEST             AFTOOLS   Dialog Builder Test Window
+DLMEOPT             DBIIMEX   SCL for DLMEOPT.FRAME
+DLMFDBK             DBIIMEX   UNTITLED1.SCL
+DLMIOPT             DBIIMEX   SCL for DLMIOPT.FRAME
+DMCOLORS            AFTOOLS   DMCOLORS.SCL
+DMCOLSEL            AFCLASS   A.SCL
+DMDBMODL            SASDESK   DMDBMODL.SCL
+DMDBOBJ             SASDESK   DMDBOBJ.SCL
+DMMSHELL            CONNECT   DMMSHELL.SCL
+DND                 MB        DND.SCL
+DNDDATAM            SCM       DND data model
+DNDLIST             SASDESK   Run to update DRAGREP.SLIST
+DNUNIQUE            MB        Delete method for category attribute
+DOCOPTIONS          AFTOOLS   DOCOPTIONS.SCL
+DPB                 FSP       Pushbutton for dialog window
+DRAGDROPINFODF      FSP       DRAGDROPINFODF.SCL
+DRAGDROPINFOEDITOR  FSP       CAF: SCL for drag|drop Info attribute Editor
+DRAGOPERATIONSEDITORFSP       CAF: SCL for dragOperationsEditor.frame
+DRATELST            INVEST    Savings list of rates
+DRILLHIER           EISSRV    SCL for Wizard class for MDDB Creation
+DRIVEMTH            AFCLASS   DRIVEMTH.SCL
+DROPOPERATIONSEDITORFSP       CAF: SCL for dropOperationsEditor.frame
+DS2CSFB             JAVAGRF   RangeView Applet
+DS2CSV              WEBUTIL   Convert data set to CSV
+DS2GANTT            GRAPH     generate HTML for the gantt applet
+DS2GRAFB            JAVAGRF   Graphing Applet - Driver
+DS2HTM              STPSAMP   Display data in an HTML Table
+DS2HTM              WEBEIS    Display data in an HTML Table
+DS2TREE             JAVAGRF   TreeView Applet
+DSANALY             MARKET    Change data set and analysis
+DSDLG               FSP       DSDLG.SCL
+DSETSEL             FSP       BUILD: Data set selector
+DSFLDMTH            FORCAST   Data Set Field and Controller Methods
+DSINFO              GNG       Methods for DSINFO Class
+DSLIST              ROCFSMP   DSLIST.SCL
+DSLIST_M            GNG       Methods for DSLIST_M Class
+DSLOAD              INVEST    Dataset Load Dialog
+DSLVAL              AFCLASS   DSLVAL.SCL
+DSMETH              HTMLGEN   Data Set Formatter Methods
+DSMODEL             SASDESK   DSMODEL.SCL
+DSOURCE             MDDB      DSOURCE.SCL
+DSSAVE              INVEST    Dataset SAVEAS Dialog
+DSSEL               FORCAST   Data Set Selector
+DSSEL               INVEST    Dataset Selector Dialog
+DS_DATA             MDDB      DS_DATA.SCL
+DS_DBMS             MDDB      DS_DBMS.SCL
+DS_MDDB             MDDB      DS_MDDB.SCL
+DS_STAR             MDDB      DS_STAR.SCL
+DTJ                 CLASSES   DTJ.SCL
+DTMB                MB        Metabase model for the desktop
+DTMBATR             MB        Desktop EIS Metabase props
+DTMBCTL             MB        Metabase desktop controller class
+DTMBFD              MB        Metabase feeder class
+DTMBRATR            MB        Desktop EIS Metabase registration Props
+DTMBREG             MB        Metabase Registration for the Desktop
+DTPADJ              FSP       Adjust Workarea Arrangement
+DUALSELECTORHANDLERMCLASSES   DUALSELECTORHANDLERMETHODS.SCL
+DUALSELECTOR_C      CLASSES   Class SCL for SASHELP.CLASSES.DUALSELECTOR_C.CLASS
+DUOCOMBO            AFCLASS   Methods for DUOCOMBO.CLASS
+DUPEPATH            SCM       DUPEPATH.SCL
+DUPERUN             SCM       source:  duplicate SCM running
+DVFORM              FSP       METHODS for DVFORM.CLASS
+DWETE               SCHEDUL   DWETE.SCL
+DWTABBER            SCHEDUL   Tabber Subclass for DW
+EDCOLDB             MB        Edit Columns Database
+EDITBANNER          GNG       Banner Editor
+EDITBAR             GNG       Edit dialog for BAR charts
+EDITHISTOGRAM       GNG       Edit dialog for Histogram Charts
+EDITMDDB            GNG       Edit dialog for MDDB Model
+EDITMETH            MARKET    Method to edit data set with fsview
+EDITOLAP            OPNMDDB   EDITOLAP.SCL
+EDITORCOMBOBOX_C    CLASSES   EDITORCOMBOBOX_C.SCL
+EDITORCOMBOHANDLER  CLASSES   EDITORCOMBOHANDLER.SCL
+EDITORTEXTENTRY_C   CLASSES   Editortextentry_C.SCL
+EDITORTYPEEDITOR    CLASSES   A.SCL
+EDITOVERLAY         GNG       Edit dialog for Overlay Charts
+EDITOVERLAYPLOT     GNG       Edit dialog for Overlay Plots
+EDITPIE             GNG       Edit dialog for PIE charts
+EDITPLOT            GNG       Edit dialog for Plots
+EDITSDS             GNG       Edit dialog for SAS Data Set Model
+EDITTABLEM          GNG       Edit dialog for Table View
+EDITTABLES          GNG       Edit dialog for Table View
+EDITTEXT            GNG       Edit dialog for Banner Text
+EDTAGS              HTMLGEN   Edit HTML Tags - Interactive
+EDTAGSB             HTMLGEN   Edit HTML Tags - Batch
+EDTCLASS            AFTOOLS   Class Browser: Edit class SCL
+EFI                 EFI       EFI - Main
+EFIBATCH            EFI       EFI - batch driver
+EFIDRIVE            EFI       EFI - Batch/GUI test driver
+EFILOBJ             SASDESK   EFILOBJ.SCL
+EFI_ADJL            EFI       EFI - create ordinal adjustment list
+EFI_BILD            EFI       EFI - build the prevue buffer
+EFI_CMD             EFI       EFI - process command line
+EFI_DELI            EFI       EFI - Delimiter display
+EFI_EXP             EFI       EFI - Export (Get dataset and file name)
+EFI_FILE            EFI       EFI - external/sas file checking
+EFI_GUES            EFI       EFI - Guess - try to identify variables
+EFI_GUI             EFI       EFI - GUI entry point
+EFI_IGVT            EFI       EFI - Import Guess Variable Type
+EFI_IMP             EFI       EFI - Import (Get file and dataset name)
+EFI_IOPT            EFI       EFI - Get import options
+EFI_NAME            EFI       EFI - create a unique variable name
+EFI_PARS            EFI       efi - parsing routines
+EFI_PER             EFI       EFI - get vars per obs
+EFI_REPO            EFI       EFI - Repository interface
+EFI_RVAR            EFI       EFI - retrieve var names from 1st row
+EFI_SMIS            EFI       EFI - Special missing value display
+EFI_SORT            EFI       EFI - sort varlist 'ORD' || 'VAR'
+EFI_VINF            EFI       EFI - Display version info
+EFI_WHR             EFI       EFI - call QW where expression builder
+EFI_XOPT            EFI       EFI - Get export options
+EIGENPLT            MARKET    Eigenvalues plot (scree)
+EISAPPL             WEBEIS    Entrypoint for WEB Access to EIS Objects
+EISENV              RSCLMOD   EIS ENVIRONMENT CLASS METHODS
+EISLOAD             RSCLMOD   EISLOAD.SCL
+EISMETA             PRDAUTH   EIS Meta Information class
+EISPUB              EISTOOLS  Publish EIS Application - override
+EISPUBM             EISTOOLS  Publish EIS Application
+EMAILADV            PUBLISH   EMAILADV.SCL
+EMAILFRMDATASET     PUBLISH   EMAILFRMDATASET.SCL
+EMDDB_C             EISSRV    EIS Model Coordinator
+EMDDB_M1            MDDB      EMDDB_M1.SCL
+EMDDB_M2            MDDB      EMDDB_M2.SCL
+EMDDB_M3            MDDB      EMDDB_M3.SCL
+EMDDB_M4            MDDB      EMDDB_M4.SCL
+EMDDB_M5            MDDB      EMDDB_M5.SCL
+EMDDB_M6            MDDB      EIS Multi-dimensional Model(part 6)
+EMDDB_M7            MDDB      EIS Multi-dimensional Model(part 7)
+EMDDB_M8            MDDB      EIS Multi-dimensional Model(part 8)
+ENCODE              JAVAGRF   METHOD: Encode Text
+ENTCLASS            AFTOOLS   ENTCLASS.SCL
+ENTLIST             FSP       GETLIST method SCL code 4 ALLENTS.CLASS
+ENTMETH             AFCLASS   Methods for SASENT.CLASS
+ENTMETH             ETSTOOL   Methods for SASENT.CLASS
+ENTMETH             FORCAST   Sas Entries class as implemented in Forcast catalog
+ENTPTR              SASDESK   ENTPTR.SCL
+ENTRY               SASDESK   ENTRY.SCL
+ENTRYOBJ            SASDESK   ENTRYOBJ.SCL
+ERRAGENT            SCM       SCM Error agent - check him for status
+ERRJAVA             SCM       ERRJAVA.SCL
+ERRMSG              FSP       BUILD: Display error message window
+ERRMSG              IMAGAPP   Error Message window
+ERROR               ETSTOOL   Error message display
+ERROR2              ETSTOOL   Error message display
+ERRORSTATUSDIALOG   CLASSES   SCL for ErrorStatusDialog
+ESMDVR              ETSSCL    Simple Forecasting Test Driver
+ETE1VAR             MARKET    Methods for ETE1VAR subclassed widget
+EVALERR             FORCAST   Error message display for model fitting
+EVENT               FSP       Event handler code
+EVENTHANDLERSFORMEDICLASSES   Event Handlers Form Editor - SCL
+EVENTMAP            AFCLASS   Combo Box attributes
+EVENTMAP            FSP       Combo Box attributes
+EVENTS              AFCLASS   EVENTS.SCL
+EVENTSFORMEDITOR    CLASSES   Events Form Editor - SCL
+EVTHNDLR            ROCF      EVTHNDLR.SCL
+EVTQUEUE            ROCF      EVTQUEUE.SCL
+EX97ECON            DBIIMEX   Connection dialog for Excel
+EX97ICON            DBIIMEX   Connection dialog for Excel
+EX97IOPT            DBIIMEX   SCL for EXC97OPT.FRAME
+EXAMPLE             ROCFSMP   EXAMPLE.SCL
+EXAMPLES            ETSSCL    Time ID method examples
+EXC97OPT            DBIIMEX   SCL for EXC97OPT.FRAME
+EXCEL_TABLE_OPEN    EXPLORER  Explorer Action to open a SAS Table in Excel.
+EXECCMDS            FORCAST   SCL Method to Process Common Commands
+EXECCMDS            OPNOLAP   Command Dataset Processing
+EXISTS              QUERY     Table/View exists, replace, yes or no
+EXISTSFL            QUERY     Table/View exists, replace, yes or no
+EXIT                MARKET    Used by PANIC.FRAME to exit
+EXPGRAFF            EISTOOLS  SAS/EIS: Multidim Expanding Graph
+EXPGTENT            AFTOOLS   Feedback method for expression GTE
+EXPLOR              SASDESK   EXPLOR.SCL
+EXPLORE             SASDESK   FRAME: EXPLORE frame
+EXPMODS             SQL       Expression modifiers scl
+EXPORT              HOLAPMD   routines for md's _export
+EXPORT_SCL          DBIIMEX   Wrapper class for the C export engine
+EXPREL              MARKET    "Experimental release" msg
+EXPRESS             AFCLASS   Expression Evaluator SCL
+EXPRESS             AFTOOLS   Expression Evaluator SCL
+EXPRESS             MB        Expression Evaluator SCL
+EXPRLST             SQL       HAVNGLST and EXPRLST methods
+EXPRMETH            SQL       QWCLEXPR Class Methods
+EXPRMSG             SQL       query text scl
+EXPRSHN             SQL       Build a Column SCL
+EXPRSION            PUBLISH   EXPRSIO1.SCL
+EXPWIZ              DBIIMEX   SCL stub to launch the Export wizard
+EXP_GRAF            EISTOOLS  overrides for multi with graphing
+EXTDUMP             SCM       EXTDUMP.SCL
+EXTERNALFILELIST_C  CLASSES   SCL for External File List Model
+EXTERNALFILESELECTORCLASSES   External File Selector
+EXTERNALFILEVIEWER_CCLASSES   Class SCL for External File Viewer
+EXTFILE             FSP       EXTFILE.SCL
+EXTFILE             SCM       does recursive descent of filespaces
+EXTINPUT            AFCLASS   Methods for EXTINPUT.CLASS
+EXTLIST             SCM       potentially obsolete
+EXTRACT             SCM       source:  extract revision from arch
+EXTRNMTH            SQL       Format/Informat,etc. methods.
+FACTORED            ETSNASH   AR/MA Polynomial Specification Window
+FACTORED_C          ETSNASH   Factored_c methods
+FASCDEL             OBJPOOL   FASCDEL.SCL
+FASCEDIT            OBJPOOL   Add/Edit Association Relationships
+FASSCMGR            OBJPOOL   Association Manager
+FASTDATA            ROCFSMP   FASTDATA.SCL
+FASTPLOT            MARKET    Fast plot methods
+FATREDIT            OBJPOOL   Attribute Dictionary - Entry Add/Edit
+FATREDIT2           OBJPOOL   Attribute Dictionary - Entry Add/Edit
+FATRMSG             OBJPOOL   FATRMSG.SCL
+FATRPROD            OBJPOOL   FATRPROD.SCL
+FATTRDCT            OBJPOOL   Attribute Dictionary Entries
+FATTRDCT2           OBJPOOL   Attribute Dictionary Entries
+FCATLIST            FSP       BUILD: Extended catlist routine
+FCMSGS              OBJPOOL   Fcmsgs.scl program
+FDBMODL             SASDESK   MDDBMODL.SCL
+FDBOBJ              SASDESK   MDDBOBJ.SCL
+FDCTDEL             OBJPOOL   FDCTDEL.SCL
+FDCTEDIT            OBJPOOL   FDCTEDIT.SCL
+FDCTREGS            OBJPOOL   FDCTREGS.SCL
+FDCTREGS2           OBJPOOL   FDCTREGS.SCL
+FDFLTDYN            OBJPOOL   FDFLTDYN.SCL
+FDFTEDIT            OBJPOOL   FDFTEDIT.SCL
+FDFTEDIT2           OBJPOOL   FDFTEDIT.SCL
+FEEDBACK            MB        Computed Columns feedback Method
+FEEDOBJ             SASDESK   FEEDOBJ.SCL
+FEEDTYP             SASDESK   FEEDTYP.SCL
+FEXPRESS            AFTOOLS   Full-Featured Expression Evaluator SCL
+FGXLNEW             FSP       FGXLNEW.SCL
+FGXLSHW             FSP       FGXLNEW.SCL
+FILCNFG             AFCLASS   Fileref configurations
+FILE                DBIIMEX   SCL for FILE.CLASS
+FILECHOI            FSP       Choose between filename and fileref
+FILEENTRYEDITOR     CLASSES   FileENTRYEDITOR for files or filerefs
+FILEOUT             FSP       FILEOUT.SCL
+FILEREFSELECTOR     CLASSES   Fileref Selector
+FILEREFVALIDVALUES  CLASSES   FILEREFVALIDVALUES.SCL
+FILESEL             AFCLASS   File selector non-visual class
+FILESNODE           RSASMOD   filesnode.SCL
+FILESRV             WEBPROG   File Server
+FILINFO             AFCLASS   Fileref configurations
+FILLACL             EISSRV    Access Control: ACL Batch Utility
+FILLVIEW            ETSTOOL   Method to Swap-in Views & Call Fill Meth
+FILMODEL            SASDESK   FILMODEL.SCL
+FILTCOMM            ETSTOOL   Filtering Methods
+FILTER              ETSTOOL   Transformation Specs. for Series Viewer
+FILTER              FSP       Workarea Filter Editor
+FILTERCL            FSP       FILTER.SCL
+FILTFRAM            ETSTOOL   FILTER.FRAME Update Methods
+FILTMAKE            IMAGEWD   User Defined filters
+FILTNAME            IMAGEWD   User Defined filters
+FILTSEL             IMAGAPP   Select a convolution filter
+FILTSEL             IMAGEWD   Select a convolution filter
+FIND                SCM       source:  find
+FINDDUPS            IMAGAPP   Find Duplicate images
+FINDER              CMP       FINDER.SCL
+FINLIST             INVEST    FINLIST.SCL
+FINMSG              INVEST    FINMSG.SCL
+FITERR              FORCAST   Error message display for model fitting
+FITSTATS            FORCAST   Subroutine to compute statistics of fit
+FITSTTAB            FORCAST   Statistics of Fit Table Displayer Meth
+FIXCLASSES          IOM       FIXCLASSES.SCL
+FLDCTRL             SASDESK   FLDCTRL.SCL
+FLOWCAST            INVEST    FLOWCAST.SCL
+FLOWFOR             INVEST    Flow Forecast
+FLOWSPEC            INVEST    FLOWSPEC.SCL
+FLOWTIME            INVEST    flow over time methods
+FMDDBSER            MDDB      _FIND_MDDB_SERVER_ method
+FMSFRAME            ETSTOOL   Subclass of FRAME to Handle Tasking
+FMS_AUT2            FORCAST   Automatic Model Fitting Entry
+FMS_AUTO            FORCAST   Automatic Model Fitting Entry w/ Prompts
+FMS_COMM            FORCAST   FMS Main Task Class Comm. Methods
+FMS_FOR2            FORCAST   Forecast Generation Entry
+FMS_FORE            FORCAST   Forecast Generation Entry w/ Prompts
+FMS_FRAM            FORCAST   FMS_MAIN.FRAME Update Methods
+FMS_MAIN            FORCAST   Forecasting Menu System's Main Menu
+FMS_VIEW            FORCAST   Viewer Initialization Entry Frame
+FMTCOMBO            AFCLASS   FMTCOMBO.SCL
+FMTJAVA             JAVAGRF   FMTJAVA.SCL
+FMTPARTS            SQL       Return inf/fmt components (typ,wid,dec)
+FMTSCR1             JAVAGRF   METHOD: Write JS Format Code
+FNOTES              AFCLASS   Footnotes composite for graphics object
+FOLDER              SASDESK   FOLDER.SCL
+FOLDFD              SASDESK   FOLDFD.SCL
+FONT                AFCLASS   Methods for FONT CLASS
+FONT                MB        Metabase font attribute
+FONTEDITOR          FSP       FONTEDITOR.SCL
+FONTEDITOR2         CLASSES   FONTEDITOR.SCL
+FONTEDITOR3         CLASSES   FONTEDITOR.SCL
+FONTLIST            GRAPH     FONTLIST.SCL
+FONTSEL             MARKET    Select SAS/GRAPH font
+FOO                 ROCFSMP   FOO.SCL
+FORBATCH            ETSSCL    SAS/ETS BATCH FORECAST PROC DISPLAY
+FORBRWSE            FORCAST   Forecasting Data Set Browser Methods
+FORCCGRF            FORCAST   Forecast command demo app graph
+FORCCMD             FORCAST   Forecast command demo AF application
+FORCCOUT            FORCAST   Forcast command demo output selector
+FORCCSER            FORCAST   FORCCSER.SCL
+FORCEREG            OPNMDDB   FORCEREG.SCL
+FORCGRAF            FORCAST   Forecast graph using time series graphics object
+FORCMTD             FORCAST   Method file for forccmd.frame demo application
+FORCSSEL            FORCAST   Series Selector for Generate Forecasts
+FOREOPT             FORCAST   Forecast Options
+FORGRDLG            FSP       FORGRDLG.SCL
+FORMAT              AFCLASS   FMTCOMBO.SCL
+FORMAT              CLASSES   FORMATCOPY.SCL
+FORMAT              FSP       Show formats and examples for selection
+FORMAT              RSASMOD   FORMAT.SCL
+FORMAT              RSCLMOD   FORMAT.SCL
+FORMAT              SQL       Show formats and examples for selection
+FORMATINFORMATEDITORCLASSES   Format/Informat Editor used in PW
+FORMATS             FSP       BUILD: Specify format for range - scl
+FORMATS             GNG       FORMATS.SCL
+FORMATUTILITIES     CLASSES   FORMATUTILITIES.SCL
+FORMETH             ETSSCL    SAS/ETS BATCH FORECAST METHODS
+FORMTH1             FORCAST   Forecast Task Methods for Model Fitting
+FORMTH2             FORCAST   Forecast Task Methods for Forecasting
+FORMTHOLD           FORCAST   Forecast Task Methods for Model Fitting
+FORMVIEWER_C        CLASSES   FORMVIEWER_C.SCL
+FORPLOT             FORCAST   Forecast Plotting Methods
+FORTABLE            ETSSCL    FORTABLE.SCL
+FORWARDMETHODEDITOR CLASSES   SCL for Method Froward editor
+FPURGE              OBJPOOL   FPURGE.SCL
+FPURGEOK            OBJPOOL   fpurgeok.SCL
+FRAME               FSP       Frame Class set/get CAMs
+FRAMEDOC            AFTOOLS   CLASSDOC.SCL
+FRAMEDOCCLASS       AFTOOLS   SCL Class definition for classdoc
+FRAMEDOCHTML        AFTOOLS   CLASSDOCHTML.SCL
+FRAMEDOCHTMLCLASS   AFTOOLS   CLASSDOCHTMLCLASS.SCL
+FRAMEWIDGETVALUES   CLASSES   FRAMEWIDGETVALUES.SCL
+FREGADV             OBJPOOL   Register Repository - Add/Edit
+FREGDEL             OBJPOOL   FREGDEL.SCL
+FREGDEL2            OBJPOOL   FREGDEL.SCL
+FREGEDIT            OBJPOOL   Register Repository - Add/Edit
+FREGISTR            OBJPOOL   FREGISTR.SCL
+FREGISTR2           OBJPOOL   Register Repository - Frame SCL
+FREMOTE             OBJPOOL   FREMOTE.SCL
+FREPCPY             OBJPOOL   Frepcpy.scl program
+FRMCLASS            FSP       BUILD: SCL for FRAME Class Selection
+FRPOSMGR            OBJPOOL   Repository Manager Frame's SCL
+FSAVGRP             OBJPOOL   FREMOTE.SCL
+FSETUP              OBJPOOL   FSETUP.SCL
+FSETWRN1            OBJPOOL   FSETWRN1.SCL
+FSETWRN2            OBJPOOL   FSETWRN2.SCL
+FSEVNEW             FSP       FSVIEW: Column Attributes for New Table
+FUNCCHAR            AFTOOLS   Creates slist of character functions
+FUNCDATE            AFTOOLS   Creates slist of date functions
+FUNCFIN             AFTOOLS   Creates slist of financial functions
+FUNCGRP             AFTOOLS   Creates slist of function grouping
+FUNCMATH            AFTOOLS   Creates slist of math functions
+FUNCMISC            AFTOOLS   Creates slist of misc functions
+FUNCOPER            AFTOOLS   Creates slist of operators
+FUNCSTAT            AFTOOLS   Creates slist of statistical functions
+FUNDCL              CMP       fundcl.SCL
+FUNDCLFIND          CMP       fundclfind.SCL
+FUNDCLFIND_TEST     CMP       Tests for FUNDCLFIND.CLASS
+FUNDCL_TEST         CMP       Tests for FUNDCL.CLASS
+FUTILITY            OBJPOOL   Futility.SCL
+FVERBMGR            OBJPOOL   Association Verb Manager
+FVRBDEL             OBJPOOL   FVRBDEL.SCL
+FVRBEDIT            OBJPOOL   Add/Edit Association Verb
+FVRBTEMP            OBJPOOL   Add/Edit Association Verb
+FWRDEL              OBJPOOL   FWRDEL.SCL
+GAMMA               IMAGEWD   Select Gamma value
+GATE_KP2            EISSRV    Access Control: Login Dialog w/ ChgPw
+GATE_KPR            EISSRV    Access Control: Default Login Dialog
+GBUTTON             AFCLASS   Methods for GBUTTON.CLASS
+GENAMGR             CMRGEN    Generate C source files for CMR
+GENAPI              CMRGEN    GENAPI.SCL
+GENAPI_MAKE_DS      CMRGEN    Generate C source files for CMR
+GENCLSG             CMRGEN    Generate C source for Proc CTB ctbclsg.c
+GENCOMBO            AFCLASS   Methods for SUBCOMBO.CLASS
+GENCOMM             CMRGEN    GENCOMM.SCL
+GENCOMM_SCLTOXML    CMRGEN    GENCOMM.SCL
+GENCOMM_XMLTOSCL    CMRGEN    Common processing for generation tools
+GENDB2              QUERY     Generate i/o for DB2 data base tables.
+GENDB260            QUERY     Generate i/o for DB2/6000 tables.
+GENDBMGR            QUERY     Generate i/o for DB2/2 tables.
+GENDOC              AFTOOLS   GENDOC.SCL
+GENERIC             PUBLISH   KEYWORD.SCL
+GENFOR              FORCAST   Generate Forecasts main menu
+GENHDRS             CMRGEN    GENHDRS.SCL
+GENHOLSR            MDDB      GENHOLSR.SCL
+GENHRVIS            QUERY     Generate i/o for HR/VISION data.
+GENINFMX            QUERY     Generate i/o for Informix databasetables
+GENINGRE            QUERY     Generate i/o for Ingres data base tables
+GENLIB              OBJPOOL   Generate temporary libref assignment
+GENMDSRV            MDDB      generate data on MDDB server platform
+GENMISC             CMRGEN    UNTITLED1.SCL
+GENMLIST            FORCAST   Displays models fit by genmod
+GENMNOTE            FORCAST   Automatic model selection prompt
+GENMOD              FORCAST   Generate models (multiple series)
+GENODBC             QUERY     Generate i/o for ODBC data source
+GENONEPL            MDDB      GENONEPL.SCL
+GENORACL            QUERY     Generate i/o for Oracle data base tables
+GENPGM              QUERY     invocation for access mode.
+GENRDB              QUERY     Generate i/o for Rdb data base tables
+GENRPT              SCM       Generic Report
+GENSAS              QUERY     testing inlets: 'mytable'n.column
+GENSQLDS            QUERY     Generate i/o for SQLDS data base tables.
+GENSTUB             CMRGEN    Generate C source files for CMR
+GENSYBAS            QUERY     Generate i/o for Sybase data base tables
+GENUSRC             CMRGEN    Generate C sources for SCL unwrappers
+GENWCAT             CMRGEN    Pass Delivery Classes to GENWCLS.SCL
+GENWCLS             CMRGEN    Generate CLASS entries for SCL wrappers
+GENWSRC             CMRGEN    Generate CMR SCL interface C code
+GETADMIN            USRAUTH   GETADMIN.SCL
+GETCHAR             AFCLASS   GETCHAR.SCL
+GETCHILDREN         PUBLISH   UNTITLED1.SCL
+GETCMAP             IMAGAPP   Image Import - Select a colormap
+GETCMAP             IMAGEWD   Select a colormap
+GETCOLOR            MARKET    Color methods
+GETDATAL            MB        Metabase get data list
+GETDEFAULTARCHIVEPATPUBLISH   GETDEFAULTARCHIVEPATH.SCL
+GETDEV              ETSTOOL   Frame Driver to Obtain Graphics Device
+GETDN               PUBLISH   GETDN.SCL
+GETDS               MARKET    GETDS.SCL
+GETDSINF            ETSTOOL   Method for Obtaining DS Information
+GETENTRY            ETSTOOL   Frame Driver to Obtain Catalog Entry Nam
+GETENTRY            FSP       EIS: Get entry name
+GETERRTX            MDDB      GETERRTX.SCL
+GETEST              FORCAST   Subroutine for ARIMA OUTEST= data set
+GETFILEN            MARKET    Get default utility filename
+GETFONTL            MB        Metabase _get_font_list_
+GETHELP             FSP       BUILD: SCL for gethelp
+GETINFO             SCM       GETINFO.SCL
+GETIT               SCM       GETIT.SCL
+GETLISTS            FORCAST   Subroutines to extract from lists
+GETMBLIB            MB        Metabase _get_metalib_
+GETMBTOREP          MB        _getMbToRepDS
+GETMODEL            FORCAST   Method to Obtain Forecasting Model Info
+GETNLAGS            ETSTOOL   SCL to Obtain NLAGS for Corr. Plots
+GETOUTDS            FORCAST   SCL to Obtain Output Data Set Name
+GETOUTDS            INVEST    SCL to Obtain Output Data Set Name
+GETREG              FORCAST   Subroutine to get data for regressors
+GETREGDS            FORCAST   GETREGDS.SCL
+GETSTAT             FSP       BUILD: Get statistics - scl
+GETTSDS             ETSTOOL   Time Series Data Set Name Window
+GETVARL             MB        Metabase _get_varlist_
+GLOBALST            SCM       global list manager
+GNG                 GNG       *** Invoke GraphNGo from AF command ***
+GNGAPPL             GNG       Methods for GNGAPPL Class
+GNGBAR              GNG       Methods for GNGBAR Class
+GNGDATA_C           GNG       Methods for GNGDATA_C Class
+GNGEBAR             GNG       Edit dialog for GNGBAR Class
+GNGEHISTOGRAM       GNG       Edit diaglog for GNGHISTOGRAM Class
+GNGEMDDB            GNG       Edit dialog for GNGMDDB_C Class
+GNGEOVERLAY         GNG       Edit dialog for GNGOVERLAY Class
+GNGEOVERLAYPLOT     GNG       Edit dialog for GNGOVERLAYPLOT Class
+GNGEPIE             GNG       Edit dialog for GNGPIE Class
+GNGEPLOT            GNG       Edit dialog for GNGPLOT Class
+GNGESDS             GNG       Edit dialog for GNGSDS_C Class
+GNGETABLE           GNG       Edit dialog for GNGTABLE Class
+GNGETEXT            GNG       Edit dialog for GNGTEXT Class
+GNGFRAME            GNG       Instance Methods for PRIMARY.FRAME
+GNGGRAPH            GNG       Methods for GNGGRAPH class
+GNGHISTOGRAM        GNG       Methods for GNGHISTOGRAM Class
+GNGMDDB_C           GNG       Methods for GNGMDDB_C Class
+GNGOVERLAY          GNG       Methods for GNGOVERLAY Class
+GNGOVERLAYPLOT      GNG       Methods for GNGOVERLAYPLOT Class
+GNGPIE              GNG       Methods for GNGPIE class
+GNGPLOT             GNG       Methods for GNGPLOT class
+GNGPMENU            GNG       Graph-N-Go pmenu source
+GNGSDS_C            GNG       Methods for GRAPHIC_C Class
+GNGTABLE            GNG       Methods for GNGTABLE Class
+GNGTEXT             GNG       Methods for GNGTEXT Class
+GNGWORK             GNG       Methods for GNGWORK Class
+GOBJECT             GRAPH     GraphNGo
+GORP                ROCFSMP   GORP.SCL
+GOTOROW             FSP       GOTOROW.SCL
+GRAFMETH            JAVAGRF   Graphing Applet - Methods
+GRAPH               QUERY     Graph from the query(TRANSLATORS IGNORE)
+GRAPH2              INVEST    GRAPH1.SCL
+GRAPH2              QUERY     Graph from the query(TRANSLATORS IGNORE)
+GRAPHDSP            FSP       GRAPHDSP.SCL
+GRAPHICTEXT_C       CLASSES   CAMs for graphictext_c.class
+GRAPHOPT            ETSTOOL   Util Appl to Generate GRAPHOPT.SLIST
+GRAPHOUTPUT_C       CLASSES   CAMs for graphoutput_c.class
+GRAPHREF            AFCLASS   EIS: Business Charts ref lines info
+GRF1WAY             WEBEIS    SCL TO PRODUCE ONEWAY GRAPHS
+GRF2WAY             WEBEIS    SCL TO PRODUCE TWOWAY GRAPHS
+GRFVIEWR            JAVAGRF   SAS/GRAPH Viewer Applet - Driver
+GROUPADD            SCM       source:  add or create version label
+GROUPCPY            SCM       source:  copy/distribute version label
+GROUPSUM            MDDB      GROUPSUM.SCL
+GRPHVDAT            FSP       Abstract Graphical Data Engine
+GRSEGENTRYEDITOR    CLASSES   CATENTDLG.SCL
+GTITLES             AFCLASS   Titles composite for graphics object
+HANALVAR            HOLAPMD   see class
+HANDLERS            AFCLASS   GUI to specify event handlers
+HAPPLCONVERT        EISTOOLS  Convert 6.12 HOLAP Appllist and Applscr FRAMEs
+HAVEXPR             QUERY     Create an Expression for Having clause
+HBARPLOT            ETSTOOL   Horizontal Bar Plot Methods
+HBATCH              HOLAPMD   Batch Metadata Utility entry point
+HCOMM               MDDB      HOLAP Base Communication Class Methods
+HCOMMAND            SASDESK   CLASS: Host Command methods
+HCOMMON             HOLAPMD   SCL for common functions
+HCOMMON             MDDB      SCL for common functions
+HCONVERT            EISTOOLS  convert _ASSDATA to HOLAP
+HCSTANDARD          MDDB      HCSTANDARD.SCL
+HDSOURCE            HOLAPMD   see class
+HEADER              WEBEIS    HEADER.SCL
+HEADING             FORCAST   Standard comment block for application
+HELPICON            SASDESK   Methods for Help Icon
+HFILE               SASDESK   CLASS: Methods for non-SAS file model
+HGROUP              HOLAPMD   see class
+HHIERARCHIES        MDDB      HHIERARCHIES.SCL
+HIDEMETHODS         FSP       SCL: Hides methods from displaying on CE
+HIERARCH            MB        HIERARCH.SCL
+HIERARCH            OPNMDDB   Metabase data set hierarchies
+HIEROPTS            MB        Metabase hierarch attribute options
+HIERSEL             MDDB      EIS: Subset by Dimension scl
+HISTOGRAM_C         CLASSES   histogram_c.SCL
+HLPEDITOR           FSP       HLPEDITOR.SCL
+HMDDB_M             MDDB      HMDDB_M.SCL: including fix for T123508
+HMDPBATCH           HOLAPMD   see class
+HMDPCHECK           HOLAPMD   see class
+HMDPIO              HOLAPMD   HMDPIO.SCL
+HMDPMODEL           HOLAPMD   see class
+HMDPPARSER          HOLAPMD   see class
+HMSG                HOLAPMD   TB: Message Class Methods
+HOLAP_DP            MDDB      HOLAP_DP.SCL
+HOST                MB        Metabase host attribute
+HOST                SCHEDUL   SCL for HOST.CLASS
+HOSTEMAP            FSP       Host object event map
+HOSTEXP             MB        HOSTEXP.SCL
+HOSTMVS             SCHEDUL   SCL for HOSTMVS class
+HOSTOPTD            FSP       HOSTOPTD.SCL
+HOSTUNIX            SCHEDUL   SCL for HOSTUNIX class
+HOUSE               ROCFSMP   HOUSE.SCL
+HOWSYNC             SCM       source:  which "synch" function?
+HPROMPT             FSP       Warning prompt window
+HPW                 HOLAPMD   HOLAP Password Class Methods
+HREGISTR            HOLAPMD   see class
+HRENAME             EISSRV    HRENAME.SCL
+HREPSYNC            EISTOOLS  convert repository paths in HOLAP attributes of EIS registrations
+HSCRLCTL            AFCLASS   HSCRLCTL.SCL
+HSTAR               HOLAPMD   see class
+HSUBSET             HOLAPMD   see class
+HSUBTABL            HOLAPMD   see class
+HSYNC               EISTOOLS  MDP Skeleton MDDB batch update
+HTMLDOCOPTIONS      AFTOOLS   HTMLDOCOPTIONS.SCL
+HTMLDOCOPTIONSCLASS AFTOOLS   HTMLDOCOPTIONSCLASS.SCL
+HTMLGEN             GNG       SCL for HTMLGEN.FRAME
+HTMLPROPERTIES      PUBLISH   HtmlProperties.SCL
+HTMLRETRIEVE        PUBLISH   HtmlRetrieve.scl
+HVDB                QUERY     having text scl
+IACFPLOT            FORCAST   Inverse Autocorrelation Plotting Methods
+IATTR               FSP       TE: Initial attr value window scl
+ICOLOR              FSP       TE: Initial color value window scl
+ICONEDITOR          CLASSES   ICONEDITOR.SCL
+ICONSEL             FSP       ICONSEL.SCL
+IEMAIN              FSP       Methods for IE general composite
+IEMETHDF            FSP       CAF: Model SCL for IE Methods
+IEMETH_M            FSP       CAF: Source for Interface Editor Methods
+IETREE              FSP       Methods for ietree.class
+IMAGE               STPSAMP   Display an IMAGE Catalog Entry
+IMAGECATALOGSELECTORCLASSES   Image type catalog entry selector
+IMAGECLS            FSP       IMAGECLS.SCL
+IMAGEDSP            FSP       IMAGEDSP.SCL
+IMAGEMAP            FSP       Methods for Image Sizes Map
+IMAGETBL            AFTOOLS   IMAGETBL.SCL
+IMAGEVIEWER_C       CLASSES   image.SCL
+IMGAPP              FSP       IMGAPP.SCL
+IMGFIND             AFCLASS   Methods for Image finder
+IMGFLBOX            AFCLASS   Methods for Image Finder List Box
+IMGICON             FSP       BUILD: Methods for Image Icon
+IMGIITEM            SASDESK   IMGIITEM.SCL
+IMGMSG              IMAGAPP   IMGMSG.SCL
+IMGMSG              IMAGEWD   Implementation for the ImgMsg class
+IMGRGB              FSP       IMGRGB.SCL
+IMGSEL              FSP       BUILD: source for Image Selector
+IMPCOLOR            IMAGAPP   IMAGE Catalog Import scl
+IMPNAME             IMAGAPP   IMAGE Catalog Import scl
+IMPORT              IMAGAPP   IMAGE Catalog Import scl
+IMPORT_SCL          DBIIMEX   Wrapper class for the C import engine
+IMPROMPT            IMAGAPP   IMAGE Import Requester scl
+IMPVIEW             IMAGAPP   IMPVIEW.SCL
+IMPWIZ              DBIIMEX   SCL stub to launch the Import wizard
+INCLCOLS            QUERY     display the columns in available tables.
+INCLEDIT            QUERY     query text scl
+INCLSAVE            QUERY     Include/Save a query
+INCLTABS            QUERY     Select a memname for naming view,etc.
+INCLUDE             QUERY     Give choice to clear/leave existing qry
+INCLUDE             REGACT    Include file in Program Editor Window
+INCTAX              INVEST    Income Tax Specification
+INFLATN             INVEST    Inflation Rate Specification source
+INFO                SCM       source:  info frame
+INFORMAT            AFCLASS   INFORMAT.SCL
+INFORMAT            CLASSES   Show informats for selection
+INFORMAT            QUERY     Show formats and examples for selection
+INFOWDW             IMAGEWD   Show Image Info
+INITRMGR            OBJPOOL   Initialize the Repository Manager (scl)
+INITVAL             AFCLASS   Extended Input Field initial value
+INPTSPEC            FORCAST   Model specifications for Input Series
+INPUT               AFCLASS   Methods for INPUT.CLASS
+INSTVAR             FSP       BUILD: Instance Variable Editor
+INTERFACEDOC        AFTOOLS   INTERFACEDOC.SCL
+INTERFACEDOCCLASS   AFTOOLS   INTERFACEDOCCLASS.SCL
+INTERFACEDOCHTML    AFTOOLS   INTERFACEDOCHTML.SCL
+INTERFACEDOCHTMLCLASAFTOOLS   INTERFACEDOCHTMLCLASS.SCL
+INTERFACESELECTOR   CLASSES   INTERFACESELECTOR.SCL
+INTERFACESFORMEDITORCLASSES   Interfaces Form Editor - SCL
+INTERVAL            ETSTOOL   Interval specification window
+INTERVAL            FORCAST   Subroutine to get INTERVAL from dates
+INTERVAL            INVEST    method for getting the interval of ds
+INTRFACE            FSP       CLASS.SCL
+INTRPRTR            METAAPI   INTRPRTR.SCL
+INTVLIST            FORCAST   Specification of interventions for serie
+INTVSPEC            FORCAST   Intervention specifications
+IOMCLASSLOADER      IOM       IOMCLASSLOADER.SCL
+IOMUTILITIES        IOM       IOMUTILITIES.SCL
+IOMUTILS            IOM       IOMUTILS.SCL
+IRRORET             INVEST    Internal Rate of Return  source
+ISRCCAT             SCHEDUL   SCL for ISRCCAT class
+IS_OF_INPUT_OBJECTCLPUBLISH   IS_OF_INPUT_OBJECTCLASS.SCL
+ITAB                CLEATTR   ITAB.SCL
+ITEMSVALUES         CLASSES   SCL for validating Items
+ITEMSVALUES_DUAL    CLASSES   ITEMSVALUES_DUAL.SCL
+IUSERINFO_I         RPRDATH   IUSERAUTH.Intrface
+IVALUE              FSP       TE: Initial value/formats window scl
+IVIEWER             IMAGAPP   IMAGE Viewer scl
+IVWIN               AFTOOLS   METHWIN.SCL
+JLAUNCH             CMP       FCmp Function and Subroutine Viewer
+JLAUNCH             ETSMEDIT  ModelEditor Function and Subroutine Viewer
+JMP_TABLE_OPEN      EXPLORER  Explorer Action to open a SAS Table in JMP.
+JOB                 SCHEDUL   SCL for JOB.CLASS
+JOBSRCS             SCHEDUL   Job Class methods for process editor
+JOINTYPE            QUERY     Give choice for Type of Join.
+JOURFILE            MARKET    Define utility file name
+JOURSVTX            MARKET    Save text in catalog member
+JSAT                SCHEDUL   API: AT Interface Scheduling Server
+JSCRON              SCHEDUL   API: CRON Interface Scheduling Server
+JSDOM               SCHEDUL   API: Domain Scheduling Server
+JSERROR             SCHEDUL   API: Error Handler
+JSHOST              SCHEDUL   API: Host
+JSJOB               SCHEDUL   API: Job
+JSJOBINC            SCHEDUL   API: Job Input Source (Catalog Entry)
+JSJOBINE            SCHEDUL   API: Job Input Source (External file)
+JSJOBINF            SCHEDUL   API: Job Information File
+JSJOBLOG            SCHEDUL   API: Job SAS log file
+JSJOBLST            SCHEDUL   API: Job SAS list file
+JSJOBSRC            SCHEDUL   API: Job generated source file
+JSJOBSYS            SCHEDUL   API: Job SAS sysin file
+JSLIBRY             SCHEDUL   API: Library
+JSLISTS             SCHEDUL   Build Job Sched SLISTs
+JSMTDATA            SCHEDUL   API: Job Scheduler Metadata Repository
+JSPECAT             SCHEDUL   API: Prolog/Epilog Catalog Entry
+JSPEEXT             SCHEDUL   API: Prolog/Epilog External File
+JSROOT              SCHEDUL   API: Job Scheduler API Root
+JSSCRIPT            SCHEDUL   API: Rlink script file
+JSSRVLIB            SCHEDUL   API: Scheduling Server Library
+JSTFILE             SCHEDUL   API: Text/source code file
+JSTREE              RSCLMOD   JSTREE.SCL
+JSTXTCAT            SCHEDUL   API: Catalog Source Entry
+JSTXTFIL            SCHEDUL   API: External File
+KEYCOLUMNVALIDVALUESCLASSES   Valid values SCL for keyColumn attribute of Sasdataset_c
+KEYEDITOR           FSP       KEYEDITOR.SCL
+KEYWORD             PUBLISH   KEYWORD.SCL
+L                   FSP       CAF: Table class for table viewer for v7
+LABEL               AFCLASS   Methods for LABEL.CLASS
+LABEL               INVEST    Symbol description specification
+LABEL               MB        Metabase label attributes
+LABELS              AFCLASS   graph label fonts
+LANGUAGESERVICE     IOM       LANGUAGESERVICE.SCL
+LARMRATE            INVEST    Rate Adjustment specification source
+LAUNADDG            SCM       Launch Add Group dialog
+LAYOUT              WEBEIS    LAYOUT.SCL
+LBALLOON            INVEST    LBALLOON.SCL
+LDAPSERVICES        BASE      LDAPSERVICES.SCL
+LEGEND              FORCAST   Legend Class Instance Methods
+LENTRY              FSP       TE: Get .list entry scl
+LEVEL               OPNMDDB   Code behind Level.scl
+LIB                 SASDESK   LIB.SCL
+LIBCNFG             AFCLASS   Genreal client/server methods
+LIBCOMBO            AFCLASS   Libref combo box class methods
+LIBDLG              FSP       LIBDLG.SCL
+LIBFEED             SASDESK   LIBFEED.SCL
+LIBLIST             AFCLASS   LIBLIST.SCL
+LIBMETH             AFCLASS   Methods for SASLIB.CLASS
+LIBOBJ              SASDESK   LIBOBJ.SCL
+LIBOR               INVEST    LIBOR specification source
+LIBRARIESNODE       RSASMOD   librariesnode.SCL
+LIBRARY             FSP       LIBRARY.SCL
+LIBRARY             SASDESK   LIBRARY.SCL
+LIBRARY             SCHEDUL   SCL for LIBRARY.CLASS
+LIBRARYLIST_C       CLASSES   SCL for Library List Model
+LIBRARYNODE         RSASMOD   librarynode.SCL
+LIBTREE             ROCFSMP   LIBTREE.SCL
+LINEMEUP            SASDESK   Add "line me up" flag to folders
+LINEUP              SASDESK   LINEUP.SCL
+LINITOPT            INVEST    Loan Initialization Options
+LINKTO              FSP       Linkto Editor: SCL
+LINKTODF            FSP       Model SCL for Linkto table
+LINKTO_M            FSP       Linkto Editor Model
+LIST                REGACT    Write contents to log
+LISTANAL            AFTOOLS   listanal.SCL
+LISTBDU             FSP       LISTBDU.SCL
+LISTBDU1            FSP       LISTBDU1.SCL
+LISTBOXMETHODS      PUBLISH   LISTBOXMETHODS.SCL
+LISTCAT             QUERY     Select a memname for naming view,etc.
+LISTDLG             FSP       LISTDLG.SCL
+LISTDUMP            SCM       LISTDUMP.SCL
+LISTED              AFTOOLS   LISTED.SCL
+LISTEDC             AFTOOLS   LISTEDC.SCL
+LISTEDN             AFTOOLS   LISTEDN.SCL
+LISTENER            OPNOLAP   OpenOlap Wire Manager
+LISTENTRYLIST_C     CLASSES   SCL for List Entry List Model
+LISTGEN             QUERY     Select a memname for naming view,etc.
+LISTINCL            QUERY     List saved queries
+LISTLIB             QUERY     Select a memname for naming view,etc.
+LISTNAV             SCM       Navigate Lists - SCL
+LISTNAVC            SCM       Methods for list nav class
+LISTPROF            QUERY     List saved preference profiles.
+LISTQRY             QUERY     List saved queries
+LISTTODS            INVEST    list to dataset read to write
+LISTUTIL            ETSTOOL   SCL List Utility Methods
+LIST_MV             SASDESK   LIST_MV.SCL
+LKCUSTOM            SQL       Defines the automatic lookup
+LKUPDS              QUERY     Set Lookup Data Set in Profile
+LNSELENT            SCM       LNSELENT.SCL
+LOADICON            FSP       LOADICON.SCL
+LOADMDDB            MDDB      Load an MDDB with summarized data
+LOANDATE            INVEST    LOANDATE.SCL
+LOANSPEC            INVEST    Fixed rate loan specification source
+LOCALE              LOCALE    Locale.scl
+LOCATREG            MB        _LOCATE_REGISTRATION_ method
+LOGFEED             SASDESK   LOGFEED.SCL
+LOGICAL             FSP       LOGICAL.SCL
+LOGIN               EISSRV    Access Control: Login Composite
+LOGIN               SCM       ADE LOGIN
+LOGIN               WEBEIS    EIS Security userid and passwork login code
+LOGMODEL            SASDESK   LOGMODEL.SCL
+LOGOUT              WEBEIS    EIS Security logout scl
+LOGTRAP             ROCFSMP   LOGTRAP.SCL
+LOOKMAIN            SQL       Lookup enters here first
+LOOKUP              SQL       Lookup scl
+LPREPAY             INVEST    LPREPAY.SCL
+LREFCNFG            AFCLASS   Libref configurations
+LREFINFO            AFCLASS   Libref configurations
+LREFINFO            SCM       Libref configurations
+LSTACTS             AFCLASS   LSTACTS.SCL
+LSTMOVER            FSP       Override methods for List Model attr scr
+LSWBATCH            LOCALE    LSW.SCL
+LSWINFO             LOCALE    LSWINFO.SCL
+LSWINFOCLASS        LOCALE    LSWINFOCLASS.SCL
+LVALS               FSP       TE: Get list of values scl
+LVLDSGEN            MB        Metabase generate levels table
+MACRO               SCHEDUL   MACRO.SCL
+MACRO               SCM       MACRO.SCL
+MACROS              OBJPOOL   UNTITLED1.SCL
+MACROS              OPNOLAP   OpenOlap Common Macros
+MACROS              PUBLISH   MACROS.SCL
+MACRSHOW            ETSNASH   Information about macro for ODS output
+MACTEST             FORCAST   Utility Program to Test Macros
+MAIN                PUBLISH   MAIN.SCL
+MAKE                FSP       BUILD: Components Window
+MAKEDBC             SCM       make control database
+MAKEFRM             FSP       B.SCL
+MAKENAME            WEBUTIL   Unique 7-digit name starting w/ "_"
+MAKETL              HTMLGEN   Build Transcoding List - Batch
+MAKETREE            FSP       MAKETREE.SCL
+MAKE_SLIST          LOCALE    Make Locale/Encoding SLIST (NLS)
+MANAGE              IMAGAPP   IMS:  Image management (Main)
+MAPCOMBO            MB        MAPINFO table attribute: Composite
+MAPCOPY             MB        MAPINFO table attribute: Include
+MAPDEL              MB        MAPINFO table attribute: Deassign
+MAPEDIT             MB        MAPINFO table attribute: Assign
+MAPINFO             MB        MAPINFO table attribute: Specify MAPINFO
+MAPLIST_C           RPRDATH   MAPNAME.CLASS
+MAPMRK              MB        MAPINFO table attribute: Create MARKER
+MAPMSEL             MB        MAPINFO table attribute: Select table
+MAPNAME             PRDAUTH   MAPNAME.SCL
+MAPNAME             RPRDATH   MAPNAME.SCL
+MAPNAME_C           RPRDATH   MAPNAME.CLASS
+MAPOBJVAREDITOR     CLASSES   MAPOBJVAREDITOR.SCL
+MARR                INVEST    MARR Specification
+MBAPPEND            MB        MBAPPEND.SCL
+MBATRSEL            MB        MBATRSEL.SCL
+MBCMPRSS            MB        Compress a metabase
+MBCOL               MB        Metabase edit columns window
+MBCOLSEL            MB        Metabase column selection window
+MBCOPY              MB        metabase _COPY_ method
+MBCREATE            MB        Create a new metabase
+MBDELETE            MB        Metabase _delete_
+MBDSN               MB        MBDSN.SCL
+MBENGINE            MB        MBENGINE.SCL
+MBGETATR            MB        UNTITLED1.SCL
+MBGETCON            MB        Get the contents of a metabase
+MBGETDAT            MB        MBGETDAT.SCL
+MBGETDES            MB        Get metabase name and description
+MBGETDSL            MB        Get data set list
+MBGETVAR            MB        MBGETVAR.SCL
+MBGETVRL            MB        Get variable list
+MBHIER              MB        Metabase hierarchy methods
+MBINDEX             MB        Metabase index method
+MBINITRM            MB        Metabase init/term processing
+MBINUSE             MB        Metabase table selection window
+MBIO                MB        Metabase open/close processing
+MBMAIN              MB        MBMAIN.SCL
+MBMATTR             MB        MB:assign attr. to mulitple items
+MBMODE              MB        Metabase mode active/inactive
+MBNEW               MB        Metabase create/rename window
+MBPATHRW            MB        MBPATHRW.SCL
+MBREG               MB        MBREG.SCL
+MBRENAME            MB        Metabase _rename_
+MBSEL1              MB        Metabase generic single listbox window
+MBSEL2              MB        Metabase generic selvar window
+MBSLIST             MB        MBSLIST.SCL
+MBTABSEL            MB        Metabase table selection window
+MBTOREP             MB        MBTOREP.SCL
+MBUNIQUE            MB        Metabase unique name method
+MBVAR               MB        Metabase default variable attributes
+MBVARSEL            MB        Metabase variable selection window
+MBWHR               EFI       Metabase where clause support
+MCREATE             IMAGAPP   IMS:  Create a new dataset (scl)
+MD                  HOLAPMD   Metadata Class - SCL Methods
+MDADDCMR            HOLAPMD   see MDGUI class
+MDANALDE            HOLAPMD   see MDGUI class
+MDAPIUI             METAAPI   SCL for MDAPIUI.FRAME (Metadata API UI)
+MDATA               IMAGAPP   IMS:  Edit/Browse Data (scl)
+MDAXIS              RSASMOD   MDAXIS.SCL
+MDCELL              RSASMOD   MDCELL.SCL
+MDCLADEF            HOLAPMD   see MDGUI class
+MDCOMMAND           RSASMOD   MDCOMMAND.SCL
+MDCOMPUTEDVALUE     RSASMOD   MDCOMPUTEDVALUE.SCL
+MDCUBE              RSASMOD   MDCUBEOLD.SCL
+MDDB                EISTOOLS  Create an MDDB frame wizard
+MDDB                MB        Metabase MDDB attribute
+MDDB                SASDESK   MDDB.SCL
+MDDBDEL             MB        Metabase delete MDDB attribute
+MDDBERRS            FSP       SCL for _handle_errors_ method
+MDDBERRS            MB        MDDBERRS.SCL
+MDDBERRS            MDDB      SCL for _handle_errors_ method
+MDDBINFO            GNG       Methods for MDDBINFO Class
+MDDBLOAD            ROCFSMP   MDDBLOAD.SCL
+MDDBLOAD            RSCLMOD   MDDBLOAD.SCL
+MDDBLOC             EISSRV    SCL for Wizard class for MDDB Creation
+MDDBMODELSEL        GNG       MDDB Model Selector
+MDDBMODL            SASDESK   MDDBMODL.SCL
+MDDBOBJ             SASDESK   MDDBOBJ.SCL
+MDDBOPEN            REGACT    Open MDDB viewer for mddb members
+MDDBPW              FSP       SCL for password screen
+MDDBPW              MB        SCL for password screen
+MDDBPW              MDDB      SCL for password screen
+MDDBRPTS            WEBEIS    VARIABLE SELECTION AND REPORT LAUNCH SCL
+MDDB_M              GNG       Methods for MDDB_M Class
+MDDB_REG            OPNMDDB   MDDB_REG.SCL
+MDDEF               HOLAPMD   see MDGUI class
+MDDS                HOLAPMD   see MDGUI class
+MDEISSK             HOLAPMD   see MDGUI class
+MDERROR             METAAPI   MDERROR.SCL
+MDGUI               HOLAPMD   MDGUI Class: other methods
+MDHGDEF             HOLAPMD   see MDGUI class
+MDHOLAP             HOLAPMD   see MDGUI class (obsolete)
+MDINSTANCE          RSASMOD   MDINSTANCE.SCL
+MDMAIN              HOLAPMD   see MDGUI class
+MDPASUM             MARKET    MDP: Make analysis summary
+MDPCOLR             MARKET    MDP: Change plot colors
+MDPMAIN             MARKET    MDP: Main window
+MDPMSG              MARKET    MDPMSG.SCL
+MDPOPTS             MARKET    MDP: Other options
+MDPOPTS2            MARKET    MDP: Iteration options
+MDPPLOT             MARKET    Methods for MDPREF biplot class
+MDPRUN              MARKET    MDP: Submit SAS proc code
+MDPSCREE            MARKET    MDP: eigenvalues plot (scree)
+MDPVARS             MARKET    MDP: Select variables
+MDPW                HOLAPMD   see MDGUI class
+MDPWDEF             HOLAPMD   see MDGUI class
+MDRACK              HOLAPMD   MDRACK.SCL
+MDRANGE             RSASMOD   MDRANGE.SCL
+MDSASUM             MARKET    MDS: Make analysis summary
+MDSCOLR             MARKET    MDS: Change plot colors
+MDSCONF1            MARKET    MDS: Results window for configuration
+MDSITER1            MARKET    MDS: Results window for iteration hist.
+MDSMAIN             MARKET    MDS: Main window
+MDSOPTS             MARKET    MDS: Select options
+MDSOPTS2            MARKET    MDS: Iteration options
+MDSORT              RSASMOD   MDSORT.SCL
+MDSPEC              HOLAPMD   MDSPEC.SCL
+MDSPLOT             MARKET    Methods for MDS biplot class
+MDSRUN              MARKET    MDS: Submit SAS proc code
+MDSSCREE            MARKET    MDS: Eigenvalues plot (scree)
+MDSTADEF            HOLAPMD   see MDGUI class
+MDSTART             HOLAPMD   Driver of GUI class (MDDBMD command)
+MDSUBSET            RSASMOD   MDSUBSET.SCL
+MDSUBTDE            HOLAPMD   see MDGUI class
+MDSVARS             MARKET    MDSVARS.SCL
+MDSVDEF             HOLAPMD   see MDGUI class
+MDTABLE             RSASMOD   MDTABLE.SCL
+MDTABLE             RSCLMOD   Multidimensional Table (EMDDBM & HOLAP)
+MDTOTAL             RSASMOD   MDTOTAL.SCL
+MDUIMETH            METAAPI   SCL for Metadata API UI method stmts
+MDWRITE             EISTOOLS  overrides for export to excel
+MDXSTRUC            OPNMDDB   MDX Structure Parsing Methods
+MDXSTRUC            OPNOLAP   MDX Structure Parsing Methods
+MDXSTRUM            OPNMDDB   MDX Structure Evaluation Methods
+MDXSTRUM            OPNOLAP   MDX Structure Evaluation Methods
+MEASURE             MB        MEASURE.SCL
+MEASURE             OPNMDDB   MEASURE.SCL
+MEASURES            MB        MEASURES.SCL
+MEM                 ROCFSMP   MEM.SCL
+MEMMETH             AFCLASS   Methods for SASMEM.CLASS
+MENUCMDS            SCM       generate popmenu grammar slist
+MESSAGE             GNG       Methods for MESSAGE Class
+MESSAGE             WEBUTIL   Methods for File Server Messaging
+MESSAGEX            WEBUTIL   Methods for File Server Messaging
+META2HTM            JAVAGRF   SAS/GRAPH MetaViewer Applet
+METAAPI             METAAPI   Metadata API
+METALIB             FSP       METALIB.SCL
+METALIB             GNG       Methods for METALIB Class
+METDOC              GNG       Documentation header
+METHCOM             SQL       Common Query Methods
+METHEDIT            FSP       BUILD: Methods Editor
+METHODS             GNG       Methods
+METHODS             HTMLGEN   HTML Formatter Methods
+METHODS             LOCALE    UNTITLED2.SCL
+METHODSDOC          AFTOOLS   METHODSDOC.SCL
+METHODSDOCCLASS     AFTOOLS   METHODSDOCCLASS.SCL
+METHODSDOCHTML      AFTOOLS   METHODSDOCHTML.SCL
+METHODSDOCHTMLCLASS AFTOOLS   METHODSDOCHTMLCLASS.SCL
+METHODSFORMEDITOR   CLASSES   Methods Form Editor - SCL
+METHODSIGNATURE     FSP       CAF: SCL Code for Method Signature Windo
+METHODSIGNATUREDF   FSP       METHODSIGNATUREDF.SCL
+METHODSLISTEDITOR   CLASSES   CAF: SCL for Methods List Editor
+METHPARM            MB        METHPARM.SCL
+METHPCLS            MB        Method to close data sets and cleanup
+METHWIN             AFTOOLS   METHWIN.SCL
+MIGRATE             AFTOOLS   MIGRATE.SCL
+MIGRATE             FSP       MIGRATE.SCL
+MIGRATE7            FSP       MIGRATE7.SCL
+MINICOMBO           CLASSES   MINICOMBO.SCL
+MISC_METHODS        CLASSES   MISC_METHODS.SCL
+MKVARLST            MARKET    Make variables list
+MLADDENT            MB        Metabase _add_mlindex_entry_
+MLCRIDX             MB        Metabase _create_mlindex_
+MLDELENT            MB        Metabase _delete_mlindex_entry_
+MLEDITOR            FORCAST   Model Selection List Editor
+MLGETCON            MB        Metabase _get_mlindex_info_
+MLGETL              MB        Metabase _get_mlindex_list_
+MLINK               IMAGAPP   IMS:  Link images to observations (scl)
+MLOGASUM            MARKET    MLOGASUM.SCL
+MLOGBAR             MARKET    MLOG: Bar chart
+MLOGBARM            MARKET    Methods for MLOGBAR class
+MLOGCHK             MARKET    MLOGCHK.SCL
+MLOGCOLR            MARKET    MLOG: Change plot colors
+MLOGINFO            MARKET    MLOGINFO.SCL
+MLOGMAIN            MARKET    MLOGMAIN.SCL
+MLOGMETH            MARKET    MLOGMETH.SCL
+MLOGPROB            MARKET    MLOG: Choice probabilities
+MLOGRUN             MARKET    MLOGRUN.SCL
+MLOGTABL            MARKET    MLOG: Display analysis results
+MLOGVARS            MARKET    MLOG: Select variables
+MLSTCOMM            FORCAST   Model List Viewer Task Comm. Methods
+MLSTFRAM            FORCAST   MLSTVIEW.FRAME Update Methods
+MLSTVIEW            FORCAST   Model List Viewer Frame
+MNEMONICCOMPANIONVALCLASSES   Valid values used for mnemonicCompanion attribute
+MODADJ              FORCAST   Subroutines for ADJUSTMENT ONLY models
+MODARIMA            FORCAST   Methods for fitting ARIMA models
+MODAUTO             FORCAST   Method for automatic model selection
+MODCHECK            FORCAST   Check if model spec is valid for series
+MODCRIT             FORCAST   Model Selection List Box
+MODDATA             FORCAST   Subroutine to make input data set
+MODEL               CLEATTR   ITAB.SCL
+MODEL               GNG       Methods for MODEL Class
+MODEL               ROCFSMP   MODEL.SCL
+MODELLISTENTRY      ETSNASH   Modellistentry class methods
+MODELSEL            FORCAST   Model Selection List Box
+MODELVALUES         CLASSES   MODELVALUES.SCL
+MODEVAL             FORCAST   Subroutines to evaluate a model
+MODFIT              FORCAST   Subroutine to fit a model
+MODFIT2             FORCAST   Subroutine to fit multiple models
+MODFITM             FORCAST   Model fitting methods
+MODFOR              FORCAST   Subroutine to forecast a model
+MODINTV             FORCAST   method to add interventions to a model
+MODLABEL            FORCAST   Subroutines to generate Model Labels
+MODLCOMM            FORCAST   Model Manager Task Communication Methods
+MODLFRAM            FORCAST   MODLMNGR.FRAME Update Methods
+MODLMNGR            FORCAST   Develop Models Window
+MODMGR              EISSRV    EIS: Model Manager Local Functions
+MODMGRE             EISSRV    MODMGR.SCL
+MODOUT              FORCAST   Subroutine to submit code for output ds
+MODPLOT             FORCAST   Model Predictions Plotting Methods
+MODSPECA            FORCAST   Model specifications for ARIMA models
+MODSPECC            FORCAST   Model specifications for Custom models
+MODSPECE            FORCAST   Model spec. for External Forecasts
+MODSPECF            FORCAST   Model specification for factored and subset ARIMA
+MODSPECS            FORCAST   Model specification for Smoothing models
+MODSPECX            FORCAST   Forecast combination model specification
+MODVCOMM            FORCAST   Model View Manager Comm. Methods
+MODVFRAM            FORCAST   MODVIEWM.FRAME Update Methods
+MODVIEWM            FORCAST   Model View Manager Frame Driver
+MOVEALL             QUERY     Move scl
+MOVECOLS            QUERY     Move scl
+MOVHOLSR            MDDB      MOVHOLSR.SCL
+MOVMDBSR            MDDB      MOVMDBSR.SCL
+MSG                 MARKET    Display msg
+MSG                 SCM       source:  generic message
+MSGBOX              OBJPOOL   Messagebox.scl
+MSGDLG              ETSTOOL   Methods for simple message dialogs
+MSGDLG              FSP       SCL for Message Dialog window
+MSGDLG2             FSP       SCL for Message Window (Publish doc)
+MSGMETH             MARKET    Methods for msg windows
+MSGWRAP             MARKET    MSG_WRAP.SCL
+MSTACK              CLASSES   STACK.SCL
+MTHDND              SQL       drag and drop methods for querynew class
+MVSEXP              MB        Expression Evaluator SCL
+MWIZARD             EISSRV    SCL for Wizard class for MDDB Creation
+NAME                AFCLASS   Object name field
+NAMEREG             MB        _NAME_REGISTRATION_ internal method
+NAMEVER             FORCAST   Catalog/Data Set Name Verification Mth
+NAMEVER             INVEST    Catalog/Data Set Name Verification Mth
+NAVDATA_M           CLASSES   DATA.SCL
+NAVFORM             CLASSES   NAVFORM.SCL
+NAVIGATIONBAR_C     CLASSES   SECOND.SCL
+NEWALIAS            QUERY     Table has been aliased. Set all lists.
+NEWOPTS             QUERY     NEWOPTS.SCL
+NEWTASK             SASDESK   NEWTASK.SCL
+NLITS               SQL       vs 4oct00
+NOADO               FSP       SAS/ASSIST Desktop not yet available
+NOBLANK             AFTOOLS   Text entry that clears blanks
+NODE                AFTOOLS   Methods for Class Browser Nodes
+NODE2               AFTOOLS   Methods for Class Browser Nodes
+NOSTAT              EISTOOLS  override to suppress stat labels in multidim
+NSUBMIT             ROCFSMP   NSUBMIT.SCL
+NUMBER              AFCLASS   Methods for numbers
+NUMFORMAT           CLASSES   numformat.scl
+NUNIQUE             MARKET    Calculate # unique values
+NUNIQUE             MB        Add or Modify Nunique
+NUNIQUEM            MDDB      Add, Delete, Modify or Register Nuniques
+NVSTLIST            INVEST    NVSTLIST.CLASS Instance Methods
+NVSTLOAD            INVEST    Investment Porfolio Load Dialog
+NVSTMNGR            INVEST    Porfolio Manager Methods
+NVSTSAVE            INVEST    Investment Portfolio SAVEAS Dialog
+NVSTSEL             INVEST    Investment Portfolio Selector Dialog
+OBJECT              FSP       Methods for OBJECT.CLASS
+OBJECTATTRIBUTEDF   CLASSES   CEMETHDF.SCL
+OBJECTATTRIBUTEEDITOCLASSES   UNTITLED1.SCL
+OBJECTATTRIBUTEMODELCLASSES   OBJECTATTRIBUTEMODEL.SCL
+OBJECTHELPEDITOR    CLASSES   SCL for objectHelp Editor
+OBJLINK             FSP       BUILD: Link objects
+OCIMITEM            SASDESK   CLASS: OCIMITEM methods
+ODS                 PUBLISH   ODS.SCL
+OFACTORY            IOM       OFACTORY.SCL
+OFACTORY            PRDAUTH   OFACTORY.SCL
+OFFERTUTORIAL       GNG       SCL  for OFFERTUTORIAL.FRAME
+OFFLINE             ROCFSMP   OFFLINE.SCL
+OKCAN               DBIIMEX   Display an OK Cancel dialog with MSG
+OLAPADMIN           EISSRV    run selected pmenu item for olap server admin
+OLAPMETA            OPNMDDB   Code behind OLAPMETA.class
+OLAPREG             OPNMDDB   proc display entry to run to register olapmeta
+OLDCLASS            FSP       BUILD: Class Editor
+OLDEIS              OBJPOOL   oldeis.scl
+OLDMB               MB        V6 methods needed for conversion
+ONSEL               SCM       alternate node selection routines
+OPAQUE              IOM       OPAQUE.SCL
+OPENHTM             JAVAGRF   METHOD: Open HTML File
+OPENMODELLISTDIALOG ETSNASH   Open dialog for saved model lists
+OPEN_CATALOG_ENTRY  EXPLORER  Example Explorer Action for Processing a Catalog Entry.
+OPEN_FILE           EXPLORER  Example Explroer Action for processing a file.
+OPEN_HTML_ENTRY     EXPLORER  Open an HTML entry with WBROWSE.
+OPEN_SAS_FILE       EXPLORER  Open a SAS7BDAT or SAS7BCAT file.
+OPIMICON            AFCLASS   ASTLOPTS.SCL
+OPRPT               WEBEIS    Multidim report generation SCL
+OPTBAR              WEBEIS    Toolbar generation SCL
+OPTDISK             FSP       OPTDISK.SCL
+OPTDLBL             FSP       OPTDLBL.SCL
+OPTIONS             AFCLASS   Methods for OPTIONS class
+OPTIONS             GNG       SCL for OPTIONS.FRAME
+OPTIONS             WEBEIS    OPTIONS.SCL
+OPTSEQ              FSP       OPTSEQ.SCL
+OPTTBL              AFCLASS   ASTLOPTS.SCL
+OPTVSAM             FSP       OPTVSAM.SCL
+ORGCLSOP            FSP       Org CHART ATTR node type properties
+ORGFNTOP            FSP       Org CHART ATTR node type properties
+ORGHIER             SCM       ORGHIER.SCL
+ORGMAPOP            FSP       Org CHART ATTR mapping list editing
+ORGMTHOP            FSP       UNTITLED1.SCL
+ORGOPTOP            FSP       Org CHART ATTR additional options
+ORGPROXY            SCM       alternate org chart proxy
+ORGPRTOP            FSP       ORGPRTOP.SCL
+ORGSLTOP            FSP       Org CHART ATTR node type SELECT
+ORGSVEOP            FSP       Org CHART ATTR save-as window
+OUTDSCON            FORCAST   confirmation prompt to overwrite ds
+OUTDSCON            INVEST    confirmation prompt to overwrite ds
+OUTGENB             HTMLGEN   Output Formatter - Batch
+OUTGENI             HTMLGEN   Output Formatter - Interactive
+OUTJNCOL            QUERY     Set criteria for Outer Join.
+OUTPROPB            HTMLGEN   Output Formatter Properties - Batch
+OUTPROPI            HTMLGEN   Output Formatter Properties - Int.
+OUTPUTIDLTOFILE     IOM       OUTPUTIDLTOFILE.SCL
+OUTPUTIDLTOLIST     IOM       OUTPUTIDLTOLIST.SCL
+OUTPUTIDL_I         IOM       OUTPUTIDL_I.SCL
+OVERLAYSTYLE_C      GNG       Methods for OVERLAYSTYLE_C Class
+OVERLREG            MB        _OVERLAY_REGISTRATION_ method
+OVERRIDEMETHODS     PUBLISH   Override methods for treeviewer
+OVGATHAL            SCM       OVGATHAL.SCL
+OVGATHTP            SCM       OVGATHTP.SCL
+PACFPLOT            FORCAST   Partial Autocorrelation Plotting Methods
+PACKAGE0            STPUTIL   Build a result package from cat entries
+PACKAGE1            STPUTIL   Build a result package from ext files
+PADMTOP             SCM       methods:  common across adm wiz
+PADVOPT1            SCM       methods:  adv maint opt1 page
+PADVOPT2            SCM       methods:  adv maint opt2 page
+PADVOPT3            SCM       methods:  adv maint opt 3 page
+PADVOPTS            SCM       methods:  adv maint opts
+PAGEPROPERTIES      CLASSES   Page Properties SCL for Print Manager
+PALEDIT             AFCLASS   Methods for PALEDIT.CLASS
+PALETTE             AFCLASS   Color Palette with Sliders
+PALETTE             FSP       Color Palette with Sliders
+PALETTE             IMAGEWD   Set color (with sliders)
+PALOLIB             SCM       methods:  allocate new lib page
+PALTIMG             AFCLASS   PALTIMG2.SCL
+PALTLABL            AFCLASS   PALTIMG.SCL
+PANIC               MARKET    "Problem has been encountered" window
+PARMETAB            FORCAST   Parameter Estimates Table Displayer Meth
+PARMS               AFCLASS   GUI to specify event handlers
+PARMSOBJ            FSP       Parms object methods
+PARSE               FSP       Parse a string or a SAS n-level name
+PARWORK             ROCFSMP   PARWORK.SCL
+PASSWORD            MARKET    Password request window
+PATH                MB        Metabase path attribute
+PATH                SCHEDUL   SCL for PATH.CLASS
+PATHNAME            AFCLASS   Methods for FCOMBO.CLASS
+PBUTTONT            AFCLASS   Push button (tabbed look )
+PCDBLIB             SCM       methods:  choose cdb library page
+PCNODE              RSCLMOD   PCNODE.SCL
+PCOMBO              AFCLASS   Methods for PCOMBO.CLASS
+PCONFIRM            SCM       methods:  final confirmation page
+PDEFARCH            SCM       methods:  set default arch lim page
+PERF                ROCFSMP   PERF.SCL
+PERFANAL            AFTOOLS   perfanal.SCL
+PERSISTC            GNG       Methods for PERSISTC Class
+PFDMENU9            FSP       PMENUs for Print Options dialog
+PFDMETHS            FSP       SCL methods for PFD
+PGMHALT             SCM       handles program halt
+PGMSEL              IMAGEWD   User Program selection
+PICKONE             AFCLASS   Various ways to 'pick one' from a list
+PIE_C               CLASSES   PIE_C.SCL
+PKGTREEVIEW         PUBLISH   PkgTreeView.scl
+PKGTREEVIEWCLASS    PUBLISH   PkgTreeViewClass.SCL
+PLAYER              VIDEO     VPLAY: player.scl
+PLOTMETH            MARKET    Maxdisp and resize methods
+PLOTOVERLAY         GNG       Edit dialog for Plot Overlays
+PLOTVARS            MARKET    Select plot variables
+PMADEIT             SCM       methods:  cdb made, go on? page
+PMBBASE             AFTOOLS   Methods for PMBBASE.CLASS
+PMBCAT              AFTOOLS   Methods for PMBCAT.CLASS
+PMBCTRL             AFTOOLS   Methods for PMBCTRL.CLASS
+PMBETE              AFTOOLS   Methods for PMBETE.CLASS
+PMBIO               AFTOOLS   Methods for PMBIO.CLASS
+PMBLIST             AFTOOLS   Methods for PMBLIST.CLASS
+PMBMAIN             AFTOOLS   Menu Builder Main Window
+PMBMENU             AFTOOLS   Methods for PMBMENU.CLASS
+PMBOBJ              AFTOOLS   Methods for PMBOBJ.CLASS
+PMBOPEN             AFTOOLS   Menu Builder Open Window
+PMBPROC             AFTOOLS   Methods for PMBPROC.CLASS
+PMBSAVE             AFTOOLS   Menu Builder Save Window
+PMBTEST             AFTOOLS   Menu Builder Test Window
+PMBTEXT             AFTOOLS   Methods for PMBTEXT.CLASS
+PMBTOOL             AFTOOLS   Methods for PMBTOOL.CLASS
+PMEDITOR            FSP       PMEDITOR.SCL
+PMENUMTH            SQL       QUERY Methods/Expression AvailColumns.
+PMKCDB1             SCM       methods:  start making new cdb page
+POLYMETH            ETSNASH   Polynomial methods
+POLYNOMIAL_C        ETSNASH   POLYNOMIAL_C methods
+POLYSPEC            ETSNASH   Polynomial specification window
+POPULATE            EISSRV    SCL for Wizard class for MDDB Creation
+POS                 ROCFSMP   POS.SCL
+PPICKADD            SCM       methods:  choose to add lib/cat page
+PREFS               QUERY     Set Preferences in Profile
+PREFSAVE            QUERY     Save the Preference Profile to catalog.
+PREFTRAN            MARKET    CJ: Select other transformations
+PRESVAL             INVEST    Present Value specification source
+PREVIEW             GNG       SCL for PREVIEW.FRAME
+PRICEB              INVEST    Bond Price valuation source
+PRIMARY             GNG       SCL for PRIMARY.FRAME
+PRIMARY             MARKET    primary.SCL
+PRIMARY             OBJPOOL   UNTITLED1.SCL
+PRIMARY             PUBLISH   UNTITLED1.SCL
+PRIMARY             QUERY     Query Window Entry Point
+PRIMARY             SASDESK   PRIMARY.SCL
+PRIMARY             SCM       starting point of SCM
+PRIMARY2            MARKET    PRIMARY2.SCL
+PRIMARYP            QUERY     Set Query Window values into SASPARM ds
+PRIME               INVEST    Prime rate specification source
+PRIMINIT            MARKET    Primary: Some initialization
+PRIMTERM            MARKET    Primary: Some termination stuff
+PRINT               GNG       SCL for PRINT.FRAME
+PRINT               REGACT    Print contents using host printing
+PRINTM              MARKET    Methods to print graphs
+PRINTMAN            CLASSES   PRINTMAN.SCL
+PRINTPREVIEW        GNG       SCL for PRINTPREVIEW.FRAME
+PRINTTO             ETSTOOL   Methods to Route the Textual Output
+PRNTCHLD            RSCLMOD   PRNTCHLD.SCL
+PRODAUTH            PRDAUTH   PRODAUTH.SCL
+PRODAUTH_C          RPRDATH   PRODAUTH_C.SCL
+PROGMODL            SASDESK   MDDBMODL.SCL
+PROGOBJ             SASDESK   MDDBOBJ.SCL
+PROGRAMHALT         CLASSES   PROGRAMHALT.SCL
+PROGRAMHALT         MB        PROGRAMHALT.SCL
+PROJCOMM            FORCAST   Project Viewer Task Comm. Methods
+PROJECT             FORCAST   Project Management Methods
+PROJFRAM            FORCAST   PROJVIEW.FRAME Update Methods
+PROJLOAD            FORCAST   Project Load Dialog
+PROJMNGR            FORCAST   Project Manager Methods
+PROJNEW             FORCAST   Project New Dialog
+PROJSAVE            FORCAST   Project SAVEAS Dialog
+PROJSEL             FORCAST   Project Selector Dialog
+PROJVIEW            FORCAST   Project Viewer Task Main Frame Driver
+PROJWARN            FORCAST   Project Not Saved Warning Dialog
+PROLOG              MB        Metabase table prolog attribute
+PROMPT              SQL       Prompt string for PROMPT
+PROPACCE            SASDESK   PROPERTIES: Access Descriptor - Explorer
+PROPAPPL            SASDESK   PROPERTIES: Desktop Application
+PROPAPRN            SASDESK   PROPERTIES: Appearance
+PROPCAT             SASDESK   PROPERTIES: Catalog Pointer
+PROPCATE            SASDESK   PROPERTIES: Catalog - Explorer
+PROPCMD             SASDESK   PROPERTIES: SAS Command
+PROPDDBE            SASDESK   PROPERTIES: Data Mining DB - Explorer
+PROPDND             SASDESK   PROPERTIES: Drag and Drop
+PROPENT             SASDESK   PROPERTIES: Catalog Entry
+PROPENTE            SASDESK   PROPERTIES: Catalog Entry - Explorer
+PROPERTY            SCM       source:  main SCM options
+PROPERTYSHEET       FSP       CLASS.SCL
+PROPFLDR            SASDESK   PROPERTIES: Folder Pointer
+PROPHCMD            SASDESK   PROPERTIES: Host Command
+PROPHFIL            SASDESK   PROPERTIES: Host File
+PROPHFLE            SASDESK   PROPERTIES: Host File - Explorer
+PROPLIB             SASDESK   PROPERTIES: Library
+PROPLIBE            SASDESK   PROPERTIES: Library - Explorer
+PROPMAIN            SASDESK   PROPERTIES: Main Frame (Tabber)
+PROPMDDB            SASDESK   PROPERTIES: MDDB Pointer
+PROPMETH            SASDESK   PROPERTIES: General Methods
+PROPNOTE            SASDESK   PROPERTIES: Notes
+PROPSPME            SASDESK   PROPERTIES: Stored Program - Explorer
+PROPTBL             SASDESK   PROPERTIES: Table Pointer
+PROPTBLE            SASDESK   PROPERTIES: Table - Explorer
+PRPACCE             SASDESK   SCL: Select Access Descriptor - Explorer
+PRPAPPL             SASDESK   SCL: Select a Desktop Application
+PRPCAT              SASDESK   SCL: Select a Catalog Pointer
+PRPCATE             SASDESK   SCL: Select a Catalog - Explorer
+PRPCMD              SASDESK   SCL: Select a SAS Command
+PRPDDBE             SASDESK   SCL: Select Data Mining DB - Explorer
+PRPENT              SASDESK   SCL: Select a Catalog Entry
+PRPENTE             SASDESK   SCL: Select a Catalog Entry - Explorer
+PRPFDBE             SASDESK   SCL: Select FDB - Explorer
+PRPFLDR             SASDESK   SCL: Select a Folder Pointer
+PRPHCMD             SASDESK   SCL: Select a Host Command
+PRPHFIL             SASDESK   SCL: Select a Host File
+PRPHFLE             SASDESK   SCL: Select a Host File - Explorer
+PRPLIB              SASDESK   SCL: Select a Library
+PRPLIBE             SASDESK   SCL: Select a Library - Explorer
+PRPMDBE             SASDESK   SCL: Select MDDB - Explorer
+PRPMDDB             SASDESK   SCL: Select a MDDB Pointer
+PRPSPME             SASDESK   SCL: Select a Stored Program - Explorer
+PRPTBL              SASDESK   SCL: Select a Table Pointer
+PRPTBLE             SASDESK   SCL: Select a Table - Explorer
+PRQTRAN             MARKET    MDP: Select other transformations
+PRTBIPLT            MARKET    Printing: Print biplot
+PRTDEFIN            MARKET    PRT: Define new printer/rename existing
+PRTGRAPH            MARKET    PRT: PRTGRAPH.SCL
+PRTMAIN             MARKET    PRT: Maintain printer list
+PRTMETH             MARKET    PRT: Methods for printing
+PRTSETUP            ETSTOOL   Print setup window
+PRTXTCHK            MARKET    Printing: Make sure set up to print
+PSATTRDF            FSP       CAF: Model SCL for PW attributes
+PSATTR_M            FSP       CAF: Source for class editor attributes
+PSNOFRAMESCOMPOSITE FSP       PSNOFRAMESCOMPOSITE.SCL
+PSTREE              FSP       Methods for pstree.class
+PSTREECOMBO         FSP       PSTREECOMBO.SCL
+PS_FDBE             SASDESK   PROPERTIES: FDB - Explorer
+PS_MDBE             SASDESK   PROPERTIES: MDDB - Explorer
+PUBIMSG             PUBLISH   PUBIMSG.SCL
+PUBLISH             PUBLISH   UNTITLED1.SCL
+PUBLISHADVANCED     PUBLISH   PUBLISHADVANCED.SCL
+PUBLISHCOMPANION    PUBLISH   PUBLISHCOMPANION.SCL
+PUSRDATA            SCM       methods:  specify user pref filenames pg
+PUSRINFO            SCM       methods:  describe user dsets page
+PW                  GNG       Password Prompt
+P_ADDLIB            SCM       methods:  add lib/cat page
+P_EFI               DBIIMEX   SCL for P_EFI.CLASS
+P_EFIEXP            DBIIMEX   SCL for P_EFIEXP.CLASS
+P_ESTMTS            DBIIMEX   SCL for P_ESTMTS.CLASS
+P_EXPTYP            DBIIMEX   SCL for P_EXPTYP.CLASS
+P_FILEXP            DBIIMEX   SCL for P_FILEXP.CLASS
+P_FILSEL            DBIIMEX   SCL for P_FILSEL.CLASS
+P_IMPTYP            DBIIMEX   SCL for P_IMPTYP.CLASS
+P_LIBARC            SCM       methods:  get archive path page
+P_LIBMEM            DBIIMEX   SCL for P_LIBMEM.CLASS
+P_LMEXP             DBIIMEX   SCL for P_LMEXP.CLASS
+P_STMTS             DBIIMEX   SCL for P_STMTS.CLASS
+P_TABEXP            DBIIMEX   SCL for P_EXPSCL.CLASS
+P_TABSEL            DBIIMEX   SCL for P_IMPTYP.CLASS
+QRYCHKS             QUERY     Extraneous checks such as no groupby
+QRYCOLS             QUERY     Query COLUMNS window
+QRYDB               QUERY     query text scl
+QRYDB2              QUERY     query text scl
+QRYDB3              QUERY     query text scl
+QRYDRVR             QUERY     query driver scl
+QRYLSTDS            SQL       New UI, display list for selection.
+QRYMAIN             QUERY     Main driver module for Query Window
+QRYMNMTH            SQL       Methods for common Menu functions.
+QRYNOLNK            QUERY     query text scl
+QRYNWMTH            SQL       Methods for QUERYNEW Class/612+ NEW.
+QRYORDGP            QUERY     Order/Group by column selection.
+QRYPMENU            SQL       Query Pmenu actions/NEW 6.12Beta
+QRYRESET            SQL       NEW UI RESET OK/CANCEL WINDOW.
+QRYRNMTH            SQL       Common Query Methods/Pre New Interface.
+QRYRPT              QUERY     query text scl
+QRYTABS             QUERY     Create dynamic tables from list.
+QRYWHDB             SQL       query text scl
+QUANTIZE            IMAGEWD   Select Quantization value
+QUERY               QUERY     Show Query syntax & run/inclsave/creates
+QUERYMTH            SQL       QUERY Class Methods
+QUERYRFS            SQL       Query methods for TAB/RESULTS (FSREPORT)
+QUERYTAB            SQL       New Query Main Window TABS/PFD.
+QUEUEOPTIONS        PUBLISH   QueueOptions.SCL
+RANGE               FSP       BUILD: Range methods(refresh)
+RANGEENTRYEDITOR    CLASSES   RANGEENTRYEDITOR.SCL
+RANGESCL            FSP       BUILD: Scl for range.frame
+RANGEST             FSP       BUILD: SPecify dataset - scl
+RANGE_C             CLASSES   SCL for Range Model
+RCAL                RSASMOD   RCAL.SCL
+RDATAM              RSASMOD   DATA_M interface for Java
+RDATAM              RSCLMOD   DATA_M interface for Java
+RDSCATS             RSASMOD   List of library members
+RDSCATS             RSCLMOD   List of library members
+REACH               MDDB      Show Detail SCL
+READDS              PUBLISH   Write Metadata Dataset from SLIST
+READDS              SCM       read datasets
+READER              CMP       READER.SCL
+RECLIST             FSP       RECLIST.SCL
+RECOMEND            ETSTOOL   Recommendation display
+REFIT               FORCAST   Refit or reevaluate models
+REFITNEV            FORCAST   "Working..." notice, refit/reevaluate
+REFRETRIEVE         PUBLISH   RefRetrieve.scl
+REG4SCME            SCM       Register SCM in v7 registry for entries
+REGCMPCL            MB        REGCMPCL.SCL
+REGDATA             MB        MB: _register_data_ method override (DM)
+REGERR              FORCAST   Regressor Warning - Missing For. Models
+REGERR2             FORCAST   Regressor Warning - Model Range Changes
+REGINFO             LOCALE    REGINFO.SCL
+REGINT              SCM       SCM v7 registry utilities
+REGISTER            EISSRV    SCL for Wizard class for MDDB Creation
+REGISTR             MB        all REGISTRATION level methods
+REGISTRY_METHODS    FSP       Methods for use with SAS Registry
+REGMETAL            MB        _REGISTRATION_META_LIST_ method
+REGNUNIQUE          MB        REGNUNIQUE.SCL
+REGOLAP             OPNMDDB   Code behind OLAPMETA.class
+REGSPEC0            FORCAST   Model specifications for Regressors
+REMCHECK            MDDB      REMCHECK.SCL
+REMGHOST            MDDB      REMGHOST.SCL
+REMLOAD             MDDB      REMLOAD.SCL
+REMMDDB1            MDDB      REMMDDB1.SCL
+REMMDDB2            MDDB      REMMDDB2.SCL
+REMMDDB3            MDDB      REMMDDB3.SCL
+REMMDDB4            MDDB      REMMDDB4.SCL
+REMOTECATALOGENTRY_CRSCLMOD   Remote Catalog Entry model
+REMOTECATALOGTEXTENTRSCLMOD   Remote Catalog Text Entry model
+REMOTESCLENTRY_C    RSCLMOD   Remote SCL Entry model
+REMOTEUTILITIES     RSASMOD   REMOTEUTILITIES.SCL
+REMSOCUT            MDDB      REMSOCUT.SCL
+REMSPRT             RSCLMOD   REMSPRT.SCL
+RENTRIES            RSASMOD   List of catalog entries
+RENTRIES            RSCLMOD   List of catalog entries
+REPCOPY             MB        Repository copy window
+REPEXIST            MB        _repositoryExist
+REPNEW              MB        Metabase create/rename window
+REPORT              QUERY     List permanent Report Definitions
+REPORTER            QUERY     reporter object/report and graph.
+REPORTS             SCM       source:  scm reports main window
+REPORT_F            FSP       Report frame SCL
+REPORT_V            FSP       Report Viewer SCL
+RESCALE             AFCLASS   RESCALE.SCL
+RESEDIT             AFTOOLS   Top level control for resource merging
+RESENTRY            AFCLASS   Resentry class implementation
+RESENTRY            GNG       Resource Entry Class Methods
+RESENTRY            SCM       Methods for RESENTRY.CLASS
+RESENV              MB        RESENV.SCL
+RESENV              RSCLMOD   RESENV.SCL
+RESENV              WEBEIS    RESENV.SCL
+RESIDPLT            MARKET    Residual scatter plot
+RESIZE              VIDEO     Resize method
+RESMGR              FSP       RESMGR.SCL
+RESNAME             FSP       RESNAME.SCL
+RESOLD              FSP       BUILD: Resource Editor (old)
+RESOLVE             OPNMDDB   Code behind resolve.frame
+RESOURCE            FSP       Build: Resource editor scl code
+RESOURCEENTRYEDITOR CLASSES   RESOURCEENTRYEDITOR.SCL
+RESOURCEMETHODS     FSP       RESOURCEMETHODS.SCL
+RESPLOT             FORCAST   Prediction Errors Plotting Methods
+RESVER              FSP       Verify specified classes in a resource
+RETRIEVEMAIN        PUBLISH   RetrieveMain.SCL
+RGBCOLOR            CLASSES   RGBCOLOR.SCL
+RGBCOLOR            GNG       Methods for RGB Color class
+RGBSLIDE            AFCLASS   RGBSLIDE.SCL
+RLIBS               RSASMOD   List of libraries
+RLIBS               RSCLMOD   List of libraries
+RMCOLOR             FSP       RM: SCL for Color attributes
+RMETA               RSASMOD   List of metabase entries
+RMETA               RSCLMOD   List of metabase entries
+RMOUTLIN            FSP       RM: SCL for Outline attributes
+RMTITLE             FSP       RM: SCL for Title attributes
+RNGLIST             CLEATTR   RNGLIST.SCL
+ROBJECT             CONNECT   ROBJECT.SCL
+ROUNDOFF            INVEST    Round off decimal specification
+RPOSERR             OBJPOOL   Error Message Processing
+RPTSEL              WEBEIS    HTML Report Selection Generator SCL
+RPTSELD             WEBEIS    Dynamic HTML Report Selection SCL
+RSESCNFG            AFCLASS   C/S configurations
+RSESINFO            AFCLASS   C/S configurations
+RSIMPDS             RSASMOD   RSIMPDS.SCL
+RSIMPDS             RSCLMOD   RSIMPDS.SCL
+RSIMPDSV2           RSASMOD   RSIMPDS.SCL
+RSLVPRMP            SQL       resolve character prompt
+RSLVPRNM            SQL       resolve numeric prompt
+RTOPTS              EISSRV    Build-/Run-Time Options for multidimensional applications
+RTOPTS              MB        Build-/Run-Time Options for multidimensional applications
+RTPW                MDDB      RTPW.SCL
+RUNEPILG            MB        Metabase run table epilog program
+RUNMETH             OBJPOOL   runmeth.scl
+RUNOLAP             OPNMDDB   MDDB_REG.SCL
+RUNPROLG            MB        Metabase run table prolog program
+RUNSCL              STPUTIL   RUNSCL.SCL
+RUNUSER             QUERY     Frontend for Saving Queries
+RUPLOAD             LOCALE    RUPLOAD.SCL
+SADDLOGI            SCM       SCM: add logicals to config
+SAMECONT            SCHEDUL   SCL for SAMECONT.CLASS
+SAMPLES             MARKET    Create sample data sets
+SAMPMENU            IMAGAPP   Main Menu for IMAGE samples
+SASCOLOR            BASE      SASCOLOR.SCL
+SASDATASET_C        CLASSES   SCL for the SASDataset_c class
+SASFILE             DBIIMEX   SCL for SASFILE.CLASS no feedbk
+SASFILELIST_C       CLASSES   SCL for SAS File List Model
+SASNODE             RSASMOD   Hierarchical Tree/Subtree
+SASRETRIEVE         PUBLISH   SASRetrieve.SCL
+SASTMEM             ETSTOOL   SAS Time Series Members Listbox Methods
+SAVASODS            ETSNASH   Save As window with ODS options
+SAVEADV             FORCAST   SAVEADV.SCL
+SAVEAS              MARKET    "Save as" file name definition
+SAVEINCL            QUERY     SAVEINCL.SCL
+SAVELIST            HTMLGEN   Property List SaveAs Dialog
+SAVEQRY             QUERY     Frontend for Saving Queries
+SAVERPT             QUERY     Save for Proc Report Definitions.
+SAVETEXT            MARKET    Save as External file
+SAVE_AS_HTML        EXPLORER  Explorer Action to save a SAS Table as HTML.
+SAVINGS             INVEST    Savings specification source
+SAVOUTDS            MARKET    Save SAS output data sets window
+SBOXMTH             ETSTOOL   Selection Box Highliting/Scrolling Mths
+SBOXMTH             INVEST    Selection Box Highliting/Scrolling Mths
+SCALE               IMAGEWD   Set scale size
+SCANHIER            FSP       BUILD: Methods for scanning hierarchy
+SCAT                SCHEDUL   SCL for SCAT.FRAME
+SCATTER_C           CLASSES   SCATTER_C.SCL
+SCATTR              SCHEDUL   Common scheduler frame methods
+SCCAL               PUBLISH   SCL for SCCAL.FRAME
+SCCAL               SCHEDUL   SCL for SCCAL.FRAME
+SCCNVT              SCHEDUL   schedule md conversion routine
+SCCRON              SCHEDUL   SCL for SCCRON.FRAME
+SCDOM               SCHEDUL   Reserved
+SCHAT               SCHEDUL   SCL for SCHAT.CLASS
+SCHCRON             SCHEDUL   SCL for SCHCRON.CLASS
+SCHDOM              SCHEDUL   SCL for SCHDOM.CLASS
+SCHEDINT            SCHEDUL   API: Job Scheduler Interpreter
+SCHEDULR            SCHEDUL   SCL for SCHEDULR.CLASS
+SCHOST              SCHEDUL   SCL for SCHOST.FRAME
+SCHROOT             SCHEDUL   SCL for SCHROOT.CLASS
+SCHWORK             SCHEDUL   Workunit interface
+SCIMSG              SCHEDUL   SCIMSG.SCL
+SCINFO              SCHEDUL   SCL for SCINFO.FRAME
+SCL                 AFTOOLS   SCL List Utility: Source
+SCL2HTM             STPSAMP   Display an SCL Entry
+SCL2HTML            AFTOOLS   Frame SCL for GenDoc Dialog Box
+SCL2HTMLOPTIONS     AFTOOLS   SCL2HTMLOPTIONS.SCL
+SCLDATA             FSP       SCLDATA.SCL
+SCLDATA7            FSP       SCLDATA7.SCL
+SCLDATDL            FSP       SCLDATDL.SCL
+SCLDATDLX           FSP       for scldatdl.scl (datalistc datalistn showlist on dev and window)
+SCLDOC              AFTOOLS   Methods for Scldoc.Class
+SCLDOCCLASS         AFTOOLS   Class definition for Scldoc.Class
+SCLDOCHTML          AFTOOLS   Methods for ScldocHTML.Class
+SCLDOCHTMLCLASS     AFTOOLS   Class definition for ScldocHTML.Class
+SCLDTFND            FSP       SCLDTFND.SCL
+SCLDTFNDS           FSP       SCLDTFND.SCL
+SCLENTRYEDITOR      FSP       CBTEDITOR.SCL
+SCLEXCEPTION        CLASSES   SCLEXCEPTION.SCL
+SCLFUNCS            ROCFSMP   SCLFUNCS.SCL
+SCLFUNCS            RSASMOD   Model Class for SCL Functions
+SCLFUNCS            RSCLMOD   SCLFUNCS.SCL
+SCLFUNCSV3          RSASMOD   UNTITLED1.SCL
+SCLIBS              SCHEDUL   SCL for SCLIBS.FRAME
+SCLLIST             CLASSES   SCLLIST.SCL
+SCLLISTINT          CLASSES   scllistint.SCL
+SCLLISTMODEL_C      CLASSES   SCL for SCLListModel_c class
+SCLLISTUTILS        RSASMOD   SCLLISTUTILS.SCL
+SCLLV               CLASSES   SCLLV.SCL
+SCLLV               FSP       SCLLV.SCL
+SCLMSG              FSP       AF SCL Message display method
+SCLPA               AFTOOLS   SCL Performance Analyzer main screen
+SCLPACS             AFTOOLS   SCL P.A. calling sequence
+SCLPACSC            AFTOOLS   SCL P.A. calling sequence compare
+SCLPADT             AFTOOLS   SCL P.A. data table
+SCLPADTC            AFTOOLS   SCL P.A. data table compare
+SCLPALB             AFTOOLS   SCL P.A. caller and traceback list box
+SCLPALD             AFTOOLS   SCL P.A. Select dataset
+SCLPAM              AFTOOLS   SCL P.A. methods
+SCLPAM2             AFTOOLS   SCL old version of P.A. methods
+SCLPAMSG            AFTOOLS   SCL P.A. message window
+SCLPASEL            AFTOOLS   SCL P.A. Data set list box
+SCLPASV             AFTOOLS   SCL P.A. source viewer
+SCLPASW             AFTOOLS   SCL P.A. search window
+SCLPATC             AFTOOLS   SCL P.A. timing criteria
+SCLPROF             AFTOOLS   SCLPROF Main frame
+SCLQ                RSASMOD   SCLQ.SCL
+SCLSA               AFTOOLS   SCL Static Analyzer main screen
+SCLSACS             AFTOOLS   SCL S.A. calling sequence window
+SCLSADT             AFTOOLS   SCL S.A. data table
+SCLSAEM             AFTOOLS   SCL S.A. Expand Macro Window
+SCLSALW             AFTOOLS   SCL S.A. Libname selector window
+SCLSAPF             AFTOOLS   SCL S.A. program flow chart
+SCLSASV             AFTOOLS   SCL S.A. source viewer
+SCLSASW             AFTOOLS   SCL S.A. Calling sequence search window
+SCLSATD             AFTOOLS   SCLSATD.SCL
+SCLSAVS             AFTOOLS   SCL S.A. Data table search window
+SCLTHROWABLE        CLASSES   SCLTHROWABLE.SCL
+SCLTOOLS            RSCLMOD   SCL tools class
+SCLVMDI             RSASMOD   SCLVMDI.SCL
+SCMADMIN            SCM       SCMADMIN.SCL
+SCMAIN              SCHEDUL   SCL for SCMAIN.FRAME
+SCMAPI              SCM       Skinny srcmgr wrapper used by registry
+SCMBROWE            SCM       stub to launch browse
+SCMCAT              SCM       Catalog level functions
+SCMCMD              SCM       SCMCMD.SCL
+SCMDATA             SCM       SCMDATA.SCL
+SCMDDBDS            MDDB      SCMDDBDS.SCL
+SCMDSIO             SCM       SCM Dataset IO
+SCMDUTIL            SCM       dialog utilities
+SCMENTRY            SCM       SCM Catalog entry wrapper
+SCMETE              SCM       methods:  our ete subclass/grey & DND
+SCMEVENT            SCM       methods:  scm evevent dispatch
+SCMEXTF             SCM       SCMEXTF.SCL
+SCMFILE             SCM       SCM File wrapper
+SCMHOST             SCM       SCM Host-functions wrapper
+SCMJAVA             SCM       SCMJAVA.SCL
+SCMLIB              SCM       SCM Library wrapper
+SCMLOGI             SCM       SCMLOGI.SCL
+SCMMAIN             SCM       source:  main SCM window
+SCMMAIN7            SCM       source:  alternate tree viewer window
+SCMMETA             SCM       SCMSRMG Class get and set methods for IV
+SCMMETH2            SCM       common routines/utilities
+SCMMETH3            SCM       non-recursive addiv
+SCMMETHS            SCM       methods common to all SCM (main etc)
+SCMNODE2            SCM       methods:  orgim subclass for orgchart
+SCMOPNDS            SCM       SCM : Open and Close datasets
+SCMORG              SCM       methods for SCM org chart subclass
+SCMORGIM            SCM       methods for SCM nodes (virtual or inst)
+SCMPRF01            SCM       SCM: Pref sheet 1 - Globals
+SCMPRF02            SCM       SCM: Personal Preference sheet
+SCMREG              SCM       source: register default CDB name
+SCMSRCMG            SCM       methods:  source manager class
+SCMTEST             SCM       stub to set environment, begin test
+SCMUEXIT            SCM       SCM User exits - default implementations
+SCMVLAB             SCM       Version Label source
+SCMWNMGR            SCM       methods:  scm window manager
+SCPROG              SCHEDUL   SCL for SCPROG.SCL
+SCRAMBLE            OBJPOOL   Scrambles text string
+SCRCOMBO            AFCLASS   Combo box for script locations
+SCTYPE              SCHEDUL   SCL to create SCTYPE.SLIST
+SCVIEW              SCHEDUL   SCL for SCVIEW.FRAME
+SDSMODELSEL         GNG       SAS Dataset Model Selector
+SDS_M               GNG       Methods for SDS_M Class
+SEARCH              FSP       Search Path Editor
+SELAUTH             QUERY     Select a directory for naming view,etc.
+SELCAT              QUERY     Display catalog name list for selection.
+SELCOLOR            MARKET    Methods for xxxcolr.frame
+SELDBNM             QUERY     Display list of DB2 authorization IDs.
+SELDIR              QUERY     Select a directory for naming view,etc.
+SELECTATTRIBUTEEDITOCLASSES   Attribute Editor: for selecting a single attribute
+SELECTATTRIBUTESEDITCLASSES   Attribute Editor: for selecting one or more attributes
+SELLBCAT            SQL       Generic window for create table/view
+SELLBMEM            SQL       Generic window for library/catalog selec
+SELLIST             EISSRV    SELLIST.SCL
+SELMDL              FSP       Non-visual components parent class methods
+SELOBJ              QUERY     Display list of catalog objects.
+SELOBJECT           PUBLISH   SELOBJECT.SCL
+SELOBJECT_COPY      PUBLISH   SELOBJECT.SCL
+SELTAB              MB        Metabase _select_table_
+SELTAB              QUERY     Display list of members in SAS library.
+SELTBLMT            SQL       Generic library/mem/object methods
+SELTBLNM            QUERY     Select a data base table name.
+SELVAR              AFCLASS   Dual listbox selector methods
+SELVAR              MB        Dual listbox selector methods
+SELVAR1             AFCLASS   SELVAR1.SCL
+SEL_INDEXESEDITOR   CLASSES   Selected Indexes Editor Frame - SCL
+SENDMETH            FSP       Code to drive SCL (and pass parms)
+SERIES              FORCAST   Time Series Object Instance Methods
+SERSEL              ETSTOOL   Series Selector Dialog
+SERSFRAM            ETSTOOL   SERSEL.FRAME Methods
+SERTOOL             ETSTOOL   Time Series Object Instance Methods
+SERVCOMM            ETSTOOL   Series View Manager Comm. Methods
+SERVER              IOM       SERVER.SCL
+SERVER              OPNOLAP   OpenOlap SAS Server
+SERVFRAM            ETSTOOL   SERVIEWM.FRAME Update Methods
+SERVIEW             ETSTOOL   SCL to Drive Series Selector + Viewer
+SERVIEWM            ETSTOOL   Series view manager frame driver
+SESSID              AFCLASS   Methods for session id class
+SETAC               EISSRV    Access Control: Set Parms Utility
+SETAJOTH            QUERY     Select a memname for naming view,etc.
+SETAPW              EISSRV    Access Control: Set Key Utility
+SETARCHP            SCM       Set archive path
+SETASSJF            MARKET    SETASSJF.SCL
+SETATTR             FSP       SETATTR.SCL
+SETAUDIT            EISSRV    Access Control: Set Audit Parms Utility
+SETAUTOJ            QUERY     Select a memname for naming view,etc.
+SETCURDS            ETSTOOL   Method to Set Current DsInfo
+SETDB2              QUERY     settings for username and password.
+SETDB22             QUERY     settings for username and password.
+SETDB260            QUERY     settings for username and password.
+SETDBMGR            QUERY     settings for username and password.
+SETDBNM             QUERY     Allow user to set Data base authids.
+SETDEFAU            SCM       source:  set default archive limit
+SETGRDEV            MARKET    Select graphics device
+SETINFMX            QUERY     allow setting for Informix dbname.
+SETINGRE            QUERY     allow setting for INGRES databasename.
+SETJNCOL            QUERY     Select a memname for naming view,etc.
+SETMBTOREP          MB        _setMbToRepository
+SETODBC             QUERY     Set ODBC system tables to mirror image.
+SETODBCU            QUERY     Set ODBC options for HPUX.
+SETOPTS             MARKET    SETOPTS.SCL
+SETOPTS             QUERY     Set SQL options/ Access Specific Options
+SETOPTS2            QUERY     Set SQL options/On the Fly (New 6.12+)
+SETORACL            QUERY     Allow user to set Data base authids.
+SETPREF             QUERY     Set /or/ Show Preference List
+SETPREFN            QUERY     Set /or/ Show Preference List
+SETPSWD             QUERY     Password setting for profile updates.
+SETRDB              QUERY     allow setting for RDB database name.
+SETREGR             ETSNASH   Dialog for changing regressor names in model list
+SETREP              EISSRV    set repositories programmatically
+SETREP              EISTOOLS  set repositories programmatically
+SETREPRT            QUERY     Allow user to set Data base authids.
+SETREST2            QUERY     Display tables for preference setting.
+SETRESTR            QUERY     Display tables for preference setting.
+SETSQLDS            QUERY     settings for username and password.
+SETSSID             QUERY     Allow setting for DB2 or SQLDS SSID.
+SETSYBA2            QUERY     Set Sybase access mode specific options.
+SETSYBAS            QUERY     Set Sybase access (TRANSLATORS IGNORE).
+SETSYBDS            QUERY     Set SYBASE systemtabs to mirror image.
+SETSYBTC            QUERY     Set SYBASE sys tabs/cols mirror image.
+SETUP               QUERY     Query Window Setup at invocation & reset
+SETUSER             SCM       source:  set current userid
+SETVALUE            AFTOOLS   Sets column values
+SETWHRST            QUERY     Manage Where Restrictions
+SET_MESSAGE_OPTIONS EISSRV    Set/Update the OLAP Message options on the parms list
+SET_META_OPTIONS    EISSRV    Set/Update the OLAP Metabase options on the parms list
+SET_OLAP_CLASSES    EISSRV    Set/Update the OLAP class names on the parms list
+SGDESIGN            BASE      start up the ODS Desgin Editor
+SGDESIGN            GRAPH     start up the ODS Desgin Editor
+SGEDITOR            BASE      SGEDITOR.SCL
+SHEWHART            ROCFSMP   SHEWHART.SCL
+SHORTLBL            MB        Metabase short label attribute
+SHOWDB2             QUERY     Connect Libnames Setup
+SHOWLIST            MARKET    Listbox version of showlist()
+SHOWPROP            HTMLGEN   Print Property List Settings - Batch
+SHOWRPT             WEBEIS    FRAMESET Generation SCL
+SHOWSUB             MDDB      SHOWSUB.SCL
+SHOWTL              HTMLGEN   Display Transcoding List - Batch
+SIMARIMA            FORCAST   Generate simulated data for ARIMA models
+SIMDATA             FORCAST   Generate simulated data
+SIMDATA2            FORCAST   Generate simulated data
+SIMPLE              ROCFSMP   SIMPLE.SCL
+SIMPLELISTEDITOR    CLASSES   Simple List Editor Frame - SCL
+SIMPLETEST          IOMSAMP   SIMPLETEST.SCL
+SIMPLETESTPROXY     IOMSAMP   SIMPLETESTPROXY.SCL
+SIMPVIEW            ROCFSMP   SIMPVIEW.SCL
+SINGLETON           IMAGEWD   Implementaion for the Singleton class
+SLENT1              AFTOOLS   SCL List Utility: Main
+SLENT10             AFTOOLS   SCL List Utility: Select Dataset
+SLENT11             AFTOOLS   SCL List Utility: Compare
+SLENT12             AFTOOLS   SCL List Utility: Data set list box
+SLENT2              AFTOOLS   SCL List trace: Secondary (old)
+SLENT3              AFTOOLS   SLENT3.SCL
+SLENT4              AFTOOLS   SCL List Utility: Summary
+SLENT5              AFTOOLS   SCL List Utility: Source
+SLENT6              AFTOOLS   SCL List Utility: Message
+SLENT7              AFTOOLS   SCL List Utility: List output
+SLENT8              AFTOOLS   SCL List Utility: Delete before create
+SLENT9              AFTOOLS   SCL List Utility: Options
+SLENTMTH            AFTOOLS   SCL List Utility: Methods
+SLISTDLG            FSP       SLISTDLG.SCL
+SLISTENTRYLIST_C    CLASSES   SCL for SLIST Entry List Model
+SMCOMBO             SCM       SMCOMBO.SCL
+SNUGFIT             FSP       SNUGFIT.SCL
+SNUGFIT2            FSP       SNUGFIT2.SCL
+SOCK                ROCFSMP   SOCK.SCL
+SOCK                RSASMOD   SOCK.SCL
+SORT                MB        Metabase sort attributes
+SORTHALT            MDDB      SORTHALT.SCL
+SORTLIST            INVEST    SORTLIST.SCL
+SOURCECOMPONENTVALUECLASSES   Valid values generation for composite sourceComponent
+SOURCEDOC           AFTOOLS   Methods for Source Document Class
+SOURCEDOCCLASS      AFTOOLS   Class Definition for Source Document Class
+SPLIT               ROCFSMP   SPLIT.SCL
+SPRDSHT             STPSAMP   Download a SAS Data Set to a Spreadsheet
+SPRDSHT             WEBEIS    Download a SAS Data Set to a Spreadsheet
+SQUINCH             SCM       compress/squinch a catalog (function)
+SQUINFRM            SCM       source: compress archive catalogs
+SRCHBOX             SASDESK   CLASS: Methods for SRCHBOX.CLASS
+SRCHPATH            MB        Set search paths
+SRVINFO             RSASMOD   SRVINFO.SCL
+SRVINFOCLASS        RSASMOD   Server information class
+SSHTOPT             DBIIMEX   SCL for SSHTOPT.FRAME
+SSHTOPTX            DBIIMEX   SCL for SSHTOPTX.FRAME
+START               VIDEO     VPLAY: Startup entry
+STARTAC             EISSRV    Access Contorl: Start Setup Dialogs
+STARTAM             FSP       Startup AM task for AF
+STARTMB             MB        Metabase start from block menu
+STARTMD             EISSRV    Stub to launch the MDDB wizard
+STARTMETA           MB        STARTMETA.SCL
+STARTUSR            PRDAUTH   Start an user session
+STARTUSR            RPRDATH   Start an user session
+STATFIX             WEBEIS    Fix stat list
+STATFMT             EISTOOLS  override for statistic formatting
+STATIC              FORCAST   Utility program to build static lists
+STATIC2             FORCAST   Builds static lists
+STATLABELS          EISSRV    Custom Statistic Labels
+STATLIST            FORCAST   Fit Statistic Selection Editor
+STATLIST            WEBEIS    STATLIST.SCL
+STATMETH            WEBEIS    EIS: Generate list of available stats
+STATS               MDDB      MDDB Statistics
+STATSORT            EISSRV    SCL for Wizard class for MDDB Creation
+STRING              AFCLASS   Methods for strings
+STRINGLISTEDITOR    CLASSES   String List Editor Frame - SCL
+STRTTASK            FSP       STRTTASK.SCL
+STRTVIEW            ETSTOOL   Viewer Tasks Start-up Methods
+SUBBLOCK            QUERY     window to hide submit block window
+SUBCOMBO            AFCLASS   Methods for SUBCOMBO.CLASS
+SUBCONN             QUERY     SUBCONN.SCL
+SUBMETH             MARKET    SUBMETH.SCL
+SUBMIT              QUERY     Submit a query
+SUBMIT              REGACT    Submit a stored program
+SUBMIT              ROCFSMP   SUBMIT.SCL
+SUBQUERY            QUERY     Setup for subqueries
+SUBSCRIBERGROUP_PROPPUBLISH   CHANNELS.SCL
+SUBSCRIBER_PROPERTIEPUBLISH   CHANNELS.SCL
+SUMMARY             MB        M1: GENERAL : Summary mb attribute
+SUMMARY             RSASMOD   SUMMARY.SCL
+SUMMARY             RSCLMOD   SUMMARY.SCL
+SWICH2DS            MDDB      SWICH2DS.SCL
+SYNCCOLS            MB        MB: Synchronize column registrations
+SYNCHSRC            SCM       source: routine to detect debris/orphans
+SYNCHVER            MB        Metabase verify sync MDDB hierarchy
+SYNCH_META          OPNMDDB   SYNCH_META.SCL
+SYNCRES             FSP       SYNCRES.SCL
+SYNTAX              OPNOLAP   MDX Syntax Progressions
+SYSTEMNODE          RSASMOD   systemnode.SCL
+TAB2HTMB            HTMLGEN   Tabulate Formatter, Batch
+TABATTRS            FSP       VIEWTABLE: METHODS for TABATTRS.CLASS
+TABEVNT             SCM       Methods for a tab frame
+TABGENB             HTMLGEN   Data Set Formatter - Batch
+TABGENI             HTMLGEN   Data Set Formatter - Interactive
+TABLELOC            EISSRV    SCL for Wizard class for MDDB Creation
+TABLENM             QUERY     Select table/view name for create
+TABLENODE           RSASMOD   TABLENODE.SCL
+TABLEVIEWER_C       CLASSES   TABLEVIEWER_C.SCL
+TABLE_ED            ETSTOOL   Table Editor w/o Titles Class Methods
+TABLE_T             ETSTOOL   Table Editor with Titles Class Methods
+TABLOVER            FORCAST   UNTITLED1.SCL
+TABMODL             AFCLASS   Methods for TABMODL.CLASS
+TABORDER            FSP       TABORDER.SCL
+TABPROPB            HTMLGEN   Data Set Formatter Properties - Batch
+TABPROPI            HTMLGEN   Data Set Formatter Properties - Int.
+TABTABL             AFCLASS   Methods for TABTABL.CLASS
+TABTABLE            FSP       Methods for TABTABLE.CLASS
+TABTAGS             HTMLGEN   Data Set Formatter HTML Tags - Int.
+TABULARLISTEDITOR_C CLASSES   TABULARLISTEDITOR_C.SCL
+TABULARLISTHANDLERMECLASSES   TABULARLISTEDITOR_C.SCL
+TABUNIT             AFCLASS   Methods for TABUNIT.CLASS
+TABVIEWR            FSP       CAF: Source for class editor attributes
+TAB_LIST            OBJPOOL   Tab_List.scl
+TASK                ETSTOOL   Task Class Instance Methods
+TASKCOMM            ETSTOOL   Task Communication Methods
+TASKMNGR            ETSTOOL   Task Manager Methods
+TASKWIND            MARKET    VIEWER: task window SCL
+TBILL               INVEST    T-Bill rates specification source
+TBL                 AFCLASS   list of tables
+TBLBRDR             FSP       TBLBRDR.SCL
+TBLDEFLT            FSP       TBLDEFLT.SCL
+TBLGRID             FSP       TBLGRID.SCL
+TBLJUST             FSP       TBLJUST.SCL
+TBLMARGN            FSP       TBLMARGN.SCL
+TBUGENI             HTMLGEN   Tabulate Formatter - Interactive
+TBUPROPB            HTMLGEN   Tabulate Formatter Properties - Batch
+TBUPROPI            HTMLGEN   Tabulate Formatter Properties - Int.
+TBUTAGS             HTMLGEN   Tabulate Formatter HTML Tags - Int.
+TEDCLRS             FSP       Table editor: Select color preferences
+TEMPDIR1            STPUTIL   Create a temp dir for rslt pkg files
+TEMPDIR2            STPUTIL   Create a temp dir for rslt pkg files
+TEMPLREG            MB        _TEMPLATE_REGISTRATION_ method
+TENSOR              OPNOLAP   OpenOlap Common Methods (CONSL_M)
+TEPRINT             FSP       TEPRINT.SCL
+TEST                PUBLISH   UNTITLED2.SCL
+TEST                ROCFSMP   TEST.SCL
+TESTAPPLICATION     IOMSAMP   TESTAPPLICATION.SCL
+TESTAPPLICATIONIFNAMIOMSAMP   create testApplicationIFName class
+TESTAPPLICATIONPROXYIOMSAMP   TESTAPPLICATION_C.SCL
+TESTCATS            SCM       source:  set test environment frame
+TESTCLASSTOIDL      IOMSAMP   test classToIDL
+TESTFRAME           PUBLISH   TESTFRAME.SCL
+TESTFRM             FSP       TESTFRM.SCL
+TESTPKG             IOMSAMP   test package
+TESTPROD            PRDAUTH   TESTPROD.SCL
+TESTPROD            RPRDATH   TESTPROD.SCL
+TESTPRODAUTH        RPRDATH   UNTITLED1.SCL
+TESTRPRDAUTH        RPRDATH   TESTRPRDAUTH.SCL
+TESTSRC2            SCM       source:  another testing utility
+TESTTAB             SQL       TESTTAB.SCL
+TESTV3CLASSES       ROCFSMP   TESTV3CLASSES.SCL
+TEST_AFTESTTYPES    IOMSAMP   TEST_AFTESTTYPES.SCL
+TEST_AFTESTTYPESPROXIOMSAMP   AFBRIDGETEST.SCL
+TEST_IOMUTILS       IOMSAMP   TEST_IOMUTILS.SCL
+TEST_SCLLISTTEST    IOMSAMP   TEST_SCLLISTTEST.SCL
+TEST_SIMPLETESTPROXYIOMSAMP   TEST_SIMPLETESTPROXY.SCL
+TEXTCAT             SCHEDUL   SCL for TEXTCAT.CLASS
+TEXTENTRYEDITOR     CLASSES   editor for text-based catalog entries
+TEXTEXT             SCHEDUL   SCL for TEXTEXT.CLASS
+TEXTFILE            SCHEDUL   SCL for TEXTFILE.CLASS
+TEXTPAD             GNG       Methods for TEXTPAD Class
+TEXTPADEDITOR       CLASSES   CAF: SCL for Text Pad Editor
+TEXTRETRIEVE        PUBLISH   TextRetrieve.scl
+TEXTSET             SCHEDUL   SCL for TEXTSET.CLASS
+TFSPEC              FORCAST   Transfer function model specification
+THIERARC            MB        Metabase data set hierarchies (test=yes)
+TIDBATCH            ETSSCL    SAS/ETS BATCH TIMEID PROC DISPLAY
+TIDMETH             ETSSCL    SAS/ETS BATCH TIMEID METHODS
+TIDMTH              ETSTOOL   Time Id and Interval field methods
+TIDSEL              ETSTOOL   Time ID Selector Dialog
+TIMEDEF             FORCAST   Time Ranges defaults
+TIMEID0             ETSTOOL   Time ID variable specification menu 0
+TIMEID1             ETSTOOL   Time ID Creation from Stdate & Interval
+TIMEID2             ETSTOOL   Time ID Creation from Observation Nums
+TIMEID4             ETSTOOL   Time ID creation from several variables
+TIMEID5             ETSTOOL   Time Id creation from variable/informat
+TIMEIDC             ETSTOOL   Time ID variable creation - output ds
+TIMEPER             MB        Override for sashelp.afclass.informat
+TIMEPLOT            ETSTOOL   Time Series Plot Instance Methods
+TIMER               ROCFSMP   TIMER.SCL
+TIMESPEC            FORCAST   Time ranges specifications menu
+TITLEM              MARKET    Methods for TITLE class
+TITLES              MARKET    TITLES2.SCL
+TMDDB_M             OPNMDDB   Tensor Enabled MDDB Methods
+TOOLBAR             IMAGEWD   TOOLBAR.SCL
+TOOLCMDS            ETSTOOL   Tool pallete methods for view managers
+TOOLLINK            INVEST    Toolbar-link appropriate Frame Methods
+TRACK               EISTOOLS  Track subtable usage
+TRACKER             EISTOOLS  override to activate tracker
+TRACKER             SCM       cursor tracking experiment
+TRANLIST            JAVAGRF   METHOD: Transcode Text
+TRANSLATE           MDDB      UNTITLED1.SCL
+TRANSPARENCYCOLOREDICLASSES   SCL for the Transparency Color Editor
+TRANSPEC            FORCAST   Subroutine for Transformation spec.
+TREE                RSASMOD   TREE.SCL
+TREE                RSCLMOD   Tree.SCL
+TREEITERATOR        CLASSES   TREEITERATOR.SCL
+TREENODE            CLASSES   Methods for Tree Node
+TREEV2              RSASMOD   TREEV2.SCL
+TREEV3              RSASMOD   TREEV2.SCL
+TREGTRAN            MARKET    CJ: Select other transformations
+TRNDCURV            FORCAST   Subroutines for Trend Curve inputs
+TSBRWSE             ETSTOOL   Series Data Browser Methods
+TSPLOT              ETSTOOL   Series Plotting Methods
+TSUBMIT             ROCFSMP   TSUBMIT.SCL
+TUTORIAL            GNG       SCL for TUTORIAL.FRAME
+TUTORIALTEXT        GNG       SCL for defining tutorial text
+TWOCOLR             MARKET    Change plot colors
+TYPES               ROCFSMP   TYPES.SCL
+UICALEN             PUBLISH   SCL for UICALEN.CLASS
+UICALEN             SCHEDUL   SCL for UICALEN.CLASS
+UIDTTAB             SCHEDUL   SCL for UIDTTAB.CLASS
+UIJBTAB             SCHEDUL   SCL for UIJBTAB.CLASS
+UIJITAB             SCHEDUL   SCL for UIJITAB.CLASS
+UIMDTAB             SCHEDUL   SCL for UIMDTAB.CLASS
+UIPETAB             SCHEDUL   SCL for UIPETAB.CLASS
+UISCTAB             SCHEDUL   SCL for UISCTAB.CLASS
+UITRTAB             SCHEDUL   SCL for UITRTAB.CLASS
+UMLAUT              ROCFSMP   UMLAUT.SCL
+UNIQHAND            MB        generate a unique handle for this item
+UNIQNAME            ETSTOOL   Unique Data Set/Cat Entry/File Name Generator
+UNIQNAME            INVEST    Unique Data Set/Cat Entry Name Generator
+UNIQUE              EISSRV    UNIQUE.SCL
+UNIQUEDATALISTVALUESCLASSES   UNIQUEDATALISTVALUES.SCL
+UNIQUEDATASETVALUES CLASSES   UNIQUEDATASETVALUES.SCL
+UNIQUEDS            MB        UNIQUEDS.SCL
+UNREG               OPNMDDB   UNREG.SCL
+UPDATE_PARMS        EISSRV    Call methods for querying/setting OLAP options on the parms list
+UPDTCDB             SCM       source:  update control database
+UPDTPREF            QUERY     choose preference profile to update
+USERAUTH            PRDAUTH   USERAUTH.SCL
+USERAUTH_C          RPRDATH   USERAUTH.CLASS
+USERHALT            STPUTIL   UNTITLED1.SCL
+USERHELP            IMAGEWD   USERHELP.SCL
+USERINFO            PRDAUTH   USERINFO.SCL
+USERINFO_C          RPRDATH   userinformation Object
+UTIL                AFTOOLS   Methods for Class Browser
+UTILITIES           RSASMOD   webAF utility methods
+UTILITY             ROCFSMP   UTILITY.SCL
+UTILMETH            EISSRV    Override methods
+V5OPTS              FSP       V5OPTS.SCL
+V5V6SEQ             FSP       V5V6SEQ.SCL
+V7INFCLS            ROCFSMP   V7INFCLS.SCL
+V7NODE              SCM       alternate tree viewer node class
+VALIDATE            MDDB      VALIDATE.SCL
+VALIDVALUES         FSP       Valid Values Frame - SCL
+VALIDVALUESEDITOR   CLASSES   VALIDVALUESEDITOR.SCL
+VALIDVALUESENTRY    CLASSES   SCL for Valid Values Entry Editor
+VALIDVALUESSELECTOR CLASSES   SCL for Valid Values Selector
+VALIDVARIABLES      GNG       Methods for validating variable names
+VALID_NEW_NAME      FSP       Provide valid name for a new table
+VALUESLIST          CLASSES   Valid Values Frame - SCL
+VALUESLISTSELECTOR  CLASSES   VALUESLISTSELECTOR.SCL
+VARDFLT             MB        VARDFLT.SCL
+VARFMT              MB        Metabase variable format attribute
+VARFND              FSP       varFND.SCL
+VARIABLE            AFCLASS   Methods for VARIABLE.CLASS
+VARIABLE            FSP       VARIABLE.SCL
+VARIABLELIST_C      CLASSES   SCL for Variable List Model
+VARIABLESELECTOR    CLASSES   VARIABLESELECTOR.SCL
+VARIABLEVALIDVALUES CLASSES   Variable Valid Values
+VARIABLEVALUESLIST_CCLASSES   SCL for Variable Values List Model
+VARINFMT            MB        Metabase variable informat attribute
+VARLIST             STPSAMP   Select variables for a data set
+VARLIST             WEBEIS    Select variables for a data set
+VARLVAL             AFCLASS   Variable Selector values
+VCATVIEW            MARKET    VIEWER: task window SCL
+VERBLIST            FSP       VERBLIST.SCL
+VERIFY              AFCLASS   Various ways to verify a value
+VERIFY              MB        VERIFY.SCL
+VERIFYMD            MB        VERIFYMD.SCL
+VERIFYMD            WEBEIS    EIS: Method to check metabase registrat.
+VGEXPORT            MARKET    VIEWER: VGEXPORT.FRAME scl
+VGPRINT             MARKET    VIEWER: VGPRINT.FRAME scl
+VIDINFO             VIDEO     VPLAY: vidinfo.scl
+VIEWENTR            SCM       source:  obsolete catalog entry viewer
+VIEWER              CMP       VIEWER.SCL
+VIEWER              MB        Metabase viewer attribute
+VIEWERRETRIEVE      PUBLISH   ViewerRetrieve.SCL
+VIEWMDDB            FSP       View an mddb file
+VIEWMNGR            ETSTOOL   View Manager Object Instance Methods
+VIEWREG             MB        Metabase browse registration on DT
+VIEWTABL            FSP       VIEWTABLE: Start
+VLABEDIT            SCM       source:  compare version labels
+VLABUT              SCM       source:  version label utilities
+VOCHART             SASDESK   CLASS: Org chart desktop viewer
+VRANGE              FSP       VRANGE.SCL
+VSCRLCTL            AFCLASS   HSCRLCTL.SCL
+VSEDISK             FSP       VSEDISK.SCL
+VSEJCL              FSP       VSEJCL.SCL
+VSELIB              FSP       VSELIB.SCL
+VSEOPT              FSP       ASSIST: VSE opions category/Acc.Method
+VSEOPTL             FSP       ASSIST: VSE Libname options access meths
+VSEPOW              FSP       VSEPOW.SCL
+VSETAPE             FSP       VSETAPE.SCL
+VSEVSAM             FSP       VSEVSAM.SCL
+VTABBER             SASDESK   VTABBER.SCL
+VTADVANCEDOPEN      FSP       ADVANCEDOPEN.SCL
+VTBL                ROCF      VTBL.SCL
+VTCOLATR            FSP       VIEWTABLE: SCL for VTCOLATR.FRAME
+VTDFSCL             FSP       VIEWTABLE: SCL FOR VTDFSCL.FRAME
+VTFIND              FSP       VIEWTABLE: VTFIND.SCL
+VTFRAME             FSP       Viewtable: SCL for Vtframe class
+VTHIDE              FSP       VIEWTABLE: SCL for VTHIDE.FRAME
+VTHOLD              FSP       VIEWTABLE: SCL for VTHOLD.FRAME
+VTINPUT             FSP       METHODS: for VTINPUT and VTLABEL Classes
+VTMLAY              FSP       VTEWTABLE: MDDB Layout Window
+VTMMETH             FSP       Override SASMEM.CLASS method for VIEWTAB
+VTMSG               FSP       VIEWTABLE: Methods for VTMSG.CLASS
+VTMSUBS             FSP       VIEWTABLE: Subset Classes in MDDB
+VTOPEN              FSP       VIEWTABLE: SCL for VTOPEN.FRAME
+VTSAVEAS            FSP       VIEWTABLE: SCL for VTSAVEAS.FRAME
+VTSORT              FSP       VIEWTABLE: SCL for VTSORT.FRAME
+VTTABATR            FSP       VIEWTABLE: SCL for VTTABATR.FRAME
+VT_DATA_M           FSP       Viewtable: scl for vt_data_m subclass
+VT_MDDB_M           FSP       The SCL for Vt_mddb_m class of Viewtable
+VT_PRINTOPTIONS     FSP       VT_PRINTOPTIONS.SCL
+VT_SENTRY_M         FSP       VT_SENTRY_M.SCL
+VWRKAREA            SASDESK   VWRKAREA.SCL
+WARNING3            ETSTOOL   Warning Prompt with Three Push Buttons
+WARNING3            INVEST    Warning Prompt with Three Push Buttons
+WEBDAVOPTIONS       PUBLISH   ArchiveOptions.SCL
+WEBDAVPUBLISH       PUBLISH   WEBDAVPUBLISH.SCL
+WEBEIS              WEBEIS    WEBEIS.SCL
+WEBEIS2             WEBEIS    More methods for webeis class
+WEBEIS3             WEBEIS    More methods for webeis class
+WEBEIS4             WEBEIS    WEBEIS4.SCL
+WEBMSG              RSCLMOD   web enabled message class
+WEBSHELL            CONNECT   DMMSHELL.SCL
+WFKPLOT             MARKET    WFKPLOT.SCL
+WGTBNDS             FORCAST   Winters Method optimization restrictions
+WGTBNDS1            FORCAST   Simple ES optimization restrictions
+WGTBNDS2            FORCAST   Linear ES optimization restrictions
+WGTBNDS3            FORCAST   Damp Trend ES optimization restrictions
+WGTBNDSD            FORCAST   Double ES optimization restrictions
+WGTBNDSS            FORCAST   Seasonal ES optimization restrictions
+WGTS                FORCAST   Subroutine for Smoothing Weights
+WGTSPEC1            FORCAST   Dialog for Simple/Double ES weight spec
+WGTSPEC2            FORCAST   Dialog for Linear ES weights spec
+WGTSPEC3            FORCAST   Dialog for Damped_trend ES weights spec
+WGTSPECS            FORCAST   Dialog for Seasonal ES weights spec
+WGTSPECW            FORCAST   Dialog for Winters Method weights spec
+WGTWARN             FORCAST   Smoothing weights diagnostics
+WHCLMETH            SQL       Where Clean Up Method
+WHERE               SQL       Where Expression scl
+WHEREDB             SQL       where character constants scl
+WHEREEDITOR         CLASSES   DISPLAYEDCOLUMNSEDITOR.SCL
+WHEREINC            SQL       where character constants scl
+WHERELST            SQL       Methods for Manipulating WHERELST
+WHEREMTH            AFCLASS   Where: Where object methods
+WHEREMTH            GNG       Methods for processing where clauses
+WHEREMTH            SQL       QWWHERE Class Methods
+WHNUMDB             SQL       Where Numeric constant
+WHRLST              SQL       Methods for where builder
+WHSETMTH            SQL       Methods for Setting popups/scl in where
+WIDGET              FSP       CAMS for WIDGET.CLASS
+WIZARD              WIZARD    Code for virtual base Wizard class
+WIZEXP              DBIIMEX   SCL for WIZEXP.CLASS
+WIZIMP              DBIIMEX   SCL for WIZIMP.CLASS
+WIZMAIN             WIZARD    Code for WIZMAIN.FRAME
+WIZPAGE             WIZARD    Code for WIZPAGE.CLASS
+WNPLOT              ETSTOOL   White Noise Plot Instance Methods
+WORDWRAP            MARKET    Wrap words in SCL list
+WORKSPACE           IOM       IOM Workspace proxy
+WRITEDS             PUBLISH   Write Metadata Dataset from SLIST
+WRITEOBS            PUBLISH   Write Out Obs Per SLIST Entry
+WRITEREG            MB        _WRITE_REGISTRATION_ method
+WRTAPPLT            JAVAGRF   METHOD: Write HTML <APPLET> Tag
+WRTBDYT             JAVAGRF   METHOD: Write HTML <BODY> Tag
+WRTFOOT             JAVAGRF   METHOD: Write FOOTNOTE lines
+WRTGHTM             JAVAGRF   METHOD: Write Generic HTML or Text
+WRTHEAD             JAVAGRF   METHOD: Write HTML <HEAD>
+WRTJ2OBJ            JAVAGRF   METHOD: Write Java 2 <OBJECT> Tag
+WRTSEP              JAVAGRF   METHOD: Write Separator
+WRTSP               JAVAGRF   METHOD: Write SASPOWERED Logo
+WRTTITL             JAVAGRF   METHOD: Write TITLE lines
+WRTTRUNC            JAVAGRF   METHOD: Write Truncated Records Message
+WZX                 LOCALE    Operating system
+XRANGE              CLEATTR   XRANGE.SCL
+XRNGEDIT            CLEATTR   XRNGEDIT.SCL
+XTBL                AFCLASS   Subclass of x-table for business charts
+YESNO               AFCLASS   YESNO.SCL
+ZOOMPLOT            ETSTOOL   Zoomable Plot Intstance Methods
+ZOOMPLT2            ETSTOOL   Zoomable Plot Intstance Methods
+_RSRC               SCM       TB: Resource Entry Class Methods

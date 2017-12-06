@@ -1,0 +1,7 @@
+CBIVS               AFTOOLS   DATAFORM for Class Browser IVs view
+CBMETH              AFTOOLS   DATAFORM for Class Browser Methods view
+LCKFILE             SCM       LCKFILE.DATAFORM
+PLAY                SCM       PLAY.DATAFORM
+SYMB                SCM       SYMB.DATAFORM
+VDIFF               SCM       VDIFF.DATAFORM
+VLABDEF             SCM       VLABDEF.DATAFORM

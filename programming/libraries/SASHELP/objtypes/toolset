@@ -1,0 +1,15 @@
+ATRMENU             FSP       ATRMENU.TOOLBOX
+BLDSCL              FSP       BLDSCL.TOOLBOX
+CEMENU              FSP       CEMENU.TOOLBOX
+DMS                 CORE      DMS.TOOLBOX
+DOCUMENT            CORE      DOCUMENT.TOOLBOX
+EXPLORER            CORE      EXPLORER.TOOLBOX
+GEDIT               GI        GEDIT.TOOLBOX
+GW1                 GRAPH     GW1.TOOLBOX
+IEMENU              FSP       IEMENU.TOOLBOX
+IMGPMENU            IMAGEWD   IMGPMENU.TOOLBOX
+REGEDIT             CORE      REGEDIT.TOOLBOX
+RESULTS             CORE      RESULTS.TOOLBOX
+TEMPLATE            CORE      TEMPLATE.TOOLBOX
+TEXTEDIT            CORE      TEXTEDIT.TOOLBOX
+ZBLD                FSP       ZBLD.TOOLBOX

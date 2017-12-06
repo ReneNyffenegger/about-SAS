@@ -1,0 +1,36 @@
+AFCOMPONENTS        FSP       Components
+BASE                FSP       BASE.RESOURCE
+BUILD               DBIIMEX   BUILD.RESOURCE for DBIIMEX
+BUILD               ETSNASH   Build resource
+BUILD               ETSSCL    BUILD.RESOURCE
+BUILD               ETSTOOL   BUILD.RESOURCE
+BUILD               FORCAST   BUILD.RESOURCE
+BUILD               FSP       Version 6 objects
+BUILD               GNG       Resource for GraphNGo Application
+BUILD               INVEST    Build resource
+BUILD               MARKET    BUILD.RESOURCE
+BUILD               SCM       BUILD.RESOURCE
+BUILD               WIZARD    BUILD.RESOURCE
+CE_PS               FSP       v7 CE,PW & IE resource (incl. dialogs)
+DLGMAIN             AFTOOLS   DLGMAIN.RESOURCE
+EXPERIMENTALAFCOMPONFSP       Experimental AF Components
+LAYATTR             AFCLASS   LAYATTR.RESOURCE
+MB                  MB        MB.RESOURCE
+MODELS              GNG       Resource for Model Classes
+OBJCLASS            SCM       all classes not in build.resource
+PMBMAIN             AFTOOLS   PMBMAIN.RESOURCE
+RES                 FSP       Resource for Resource Editor Frame
+RESBASE             MB        Default resource for resmgr applications
+RMATTR              FSP       RM Attr Window Resource
+SASDESK             SASDESK   SASDESK.RESOURCE
+SCHED               PUBLISH   SCHED.RESOURCE
+SCHED               SCHEDUL   SCHED.RESOURCE
+SECONDARY           GNG       Resource for Preview Dialogs
+SLENT               AFTOOLS   SCL List Utility Resource
+SYSCLASS            FSP       SYSCLASS.RESOURCE
+SYSWNDW             FSP       BUILD.RESOURCE
+SYSWNDW             SASDESK   BUILD.RESOURCE
+SYSWNDW             SQL       BUILD.RESOURCE
+VIEWERS             GNG       Resource for Viewer Classes
+VIEWTABLE           FSP       VIEWTABLE: dedicated resource entry
+VWRKAREA            SASDESK   VWRKAREA.RESOURCE

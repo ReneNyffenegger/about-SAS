@@ -1,0 +1,13 @@
+BLHOTYP             FSP       Valid Help object types
+BLPTYP              FSP       Valid Help object types
+BLTYPES             FSP       Valid types for fields
+CIOLIST             GRAPH     CIOLIST.LIST
+CLIST               BASE      CLIST.LIST
+ENGINES             FSP       Data Engines for File Browser Object
+ENTRYTYP            BASE      ENTRYTYP.LIST
+ENTRYTYP            FSP       Valid entry types
+FLDTYPES            FSP       Valid text entry field types for frames
+MEANSTAT            BASE      MEANSTAT.LIST
+MEMTYPE             AFCLASS   SAS Library member types
+RLIST               BASE      Valid remote options
+ROPTIONS            BASE      ROPTIONS.LIST

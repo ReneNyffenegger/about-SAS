@@ -1,0 +1,12 @@
+CNTR2CON            MAPFMTS    
+CONTFMT             MAPFMTS    
+GLCNA               MAPFMTS    
+GLCNISO             MAPFMTS    
+GLCNLU              MAPFMTS    
+GLCNSM              MAPFMTS    
+GLCNSU              MAPFMTS    
+ISON2A              MAPFMTS    
+ISON3A              MAPFMTS    
+ISONLU              MAPFMTS    
+ISONSU              MAPFMTS    
+MONFMT              SCHEDUL   FORMAT:MAXLEN=16,16,9

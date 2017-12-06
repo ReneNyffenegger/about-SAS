@@ -1,0 +1,32 @@
+ACTIVEMQ            CORE      ActiveMQ Access Method
+BASE                CORE      Base A. M. for external files
+CACHE               CORE      IOM Cache Service
+CATALOG             CORE      Base A. M. for Catalogs
+CLIPBRD             CORE      Clipboard Access Method
+DATAURL             CORE      Base A.M. for URL
+DISK                CORE      Base A. M. for Disk files
+DUMMY               CORE      Base A. M. for Dummy files
+EMAIL               CORE      Email Interface
+FTP                 CORE      Base A.M. for FTP
+G3270               CORE      Base A.M. for 3270 Graphics terminals
+GTERM               CORE      Base A. M. for Graphic terminals
+HADOOP              CORE      Hadoop access method
+HTTP                CORE      Base A.M. for URL
+JMS                 CORE      Java Messaging Service Access Method
+LIBRARY             CORE      Base A. M. for Catalogs
+MESSAGE             CORE      Base A. M. for Message files
+PIPE                CORE      Base A.M. for Pipes
+PLOTTER             CORE      Base A. M. for Plotters
+PRINTER             CORE      Base A. M. for Printers
+REAL                CORE      Base A.M. for Real Time
+SFTP                CORE      SFTP access method
+SOCKET              CORE      Base A.M. for TCP/IP Sockets
+STREAM              CORE      IOM Cache Service
+TAPE                CORE      Base A. M. for Tape files
+TCPIP               CORE      Base A.M. for TCP/IP Sockets
+TEMP                CORE      Base A. M. for temp files
+TERMINAL            CORE      Base A. M. for Terminals
+UPRINTER            CORE      Base A.M. for Universal Printing
+URL                 CORE      http/URL TIME A. M.
+WEBDAV              CORE      WebDAV Access Method
+ZIP                 CORE      Zip Access Method

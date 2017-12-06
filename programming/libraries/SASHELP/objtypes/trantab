@@ -1,0 +1,2609 @@
+AARAARAB            LOCALE    MacOS 4-arabic to ISO 8859/6-arabic
+AARAE420            LOCALE    MacOS 4-arabic to EBCDIC cp420-ar
+AARAE425            LOCALE    MacOS 4-arabic to EBCDIC cp425-ar
+AARAEOA2            LOCALE    MacOS 4-arabic to OpenEd EBCDIC cp425-ar
+AARAEOAR            LOCALE    MacOS 4-arabic to OpenEd EBCDIC cp420
+AARAP720            LOCALE    MacOS 4-arabic to MSDOS OEM 720-ar
+AARAP864            LOCALE    MacOS 4-arabic to IBMPC OEM 864-ar
+AARAUNIC            LOCALE    MacOS 4-arabic to Unicode mapping
+AARAWARA            LOCALE    MacOS 4-arabic to Win cp1256-arabic
+AARA_CCL            LOCALE    MacOS 4-arabic Char Classification CCL Table
+AARA_LCS            LOCALE    MacOS 4-arabic Lowcase
+AARA_UCS            LOCALE    MacOS 4-arabic Upcase
+ACRO_CCL            LOCALE    MacOS 36 Croatian CCL Table
+ACRO_LCS            LOCALE    MacOS 36 Croatian LCS Table
+ACRO_UCS            LOCALE    MacOS 36 Croatian UCS Table
+ACYRCYRL            LOCALE    MacOS 7-cyrillic to ISO 8859/5-cyrill
+ACYRE880            LOCALE    MacOS 7-cyrillic to EBCDIC cp880-ru
+ACYRECYR            LOCALE    MacOS 7-cyrillic to EBCDIC cp1026-cyrl
+ACYREOCY            LOCALE    MacOS 7-cyrillic to OpenEd EBCDIC cp1026-cyrl
+ACYRP855            LOCALE    MacOS 7-cyrillic to IBMPC OEM 855-cyrl
+ACYRP866            LOCALE    MacOS 7-cyrillic to IBMPC OEM 866-cyrl
+ACYRUNIC            LOCALE    MacOS 7-cyrillic to Unicode mapping
+ACYRWCYR            LOCALE    MacOS 7-cyrillic to Win Cp1251-cyrill
+ACYR_CCL            LOCALE    MacOS 7 Cyrillic CCL Table
+ACYR_LCS            LOCALE    MacOS 7 Cyrillic LCS Table
+ACYR_UCS            LOCALE    MacOS 7 Cyrillic UCS Table
+AEURE870            LOCALE    MacOS 29-easteuro to EBCDIC cp870-lat2
+AEUREBAL            LOCALE    MacOS 29-easteuro to EBCDIC cp1112-balt
+AEUREEST            LOCALE    MacOS 29-easteuro to EBCDIC cp1122-et
+AEUREOBL            LOCALE    MacOS 29-easteuro to OpenEd EBCDIC cp1112-balt
+AEUREOET            LOCALE    MacOS 29-easteuro to OpenEd EBCDIC cp1122-et
+AEUREOL2            LOCALE    Mac cp10029-latin2 to OpenEd EBCDIC cp870-lat2
+AEURLAT2            LOCALE    MacOS 29-easteuro to ISO 8859/2-latin2
+AEURLAT6            LOCALE    MacOS 29-easteuro to ISO 8859/10-latin6
+AEURP775            LOCALE    MacOS 29-easteuro to MSDOS OEM 775-balt
+AEURP852            LOCALE    MacOS 29-easteuro to IBMPC OEM 852-slav
+AEURP921            LOCALE    MacOS 29-easteuro to IBMPC OEM 921-balt
+AEURP922            LOCALE    MacOS 29-easteuro to IBMPC OEM 922-e
+AEURUNIC            LOCALE    MacOS 29-easteuro to Unicode mapping
+AEURWBAL            LOCALE    MacOS 29-easteuro to Win Cp1257-baltic
+AEURWLT2            LOCALE    MacOS 29-easteuro to Win Cp1250-latin2
+AEUR_CCL            LOCALE    MacOS 29-easteuro Char Classification CCL Table
+AEUR_LCS            LOCALE    MacOS 29-easteuro Lowcase
+AEUR_UCS            LOCALE    MacOS 29-easteuro Upcase
+AGRKE875            LOCALE    MacOS 6-greek to EBCDIC cp875-el
+AGRKEOEL            LOCALE    MacOS 6-greek to OpenEd EBCDIC cp875-el
+AGRKGREK            LOCALE    MacOS 6-greek to ISO 8859/7-greek
+AGRKP737            LOCALE    MacOS 6-greek to MSDOS OEM 737-el
+AGRKP869            LOCALE    MacOS 6-greek to IBMPC OEM 869-el
+AGRKUNIC            LOCALE    MacOS 6-greek to Unicode mapping
+AGRKWGRK            LOCALE    MacOS 6-greek to Win Cp1253-greek
+AGRK_CCL            LOCALE    MacOS 6-greek Char Classification CCL Table
+AGRK_LCS            LOCALE    MacOS 6-greek Lowcase
+AGRK_UCS            LOCALE    MacOS 6-greek Upcase
+AHEBE424            LOCALE    MacOS 5-hebrew to EBCDIC cp424-iw
+AHEBEOIW            LOCALE    MacOS 5-hebrew to OpenEd EBCDIC cp424-iw
+AHEBHEBR            LOCALE    MacOS 5-hebrew to ISO 8859/8-hebrew
+AHEBP862            LOCALE    MacOS 5-hebrew to IBMPC OEM 862-iw
+AHEBUNIC            LOCALE    MacOS 5-hebrew to Unicode mapping
+AHEBWHEB            LOCALE    MacOS 5-hebrew to Win Cp1255-hebrew
+AHEB_CCL            LOCALE    MacOS 5-hebrew Char Classification CCL Table
+AHEB_LCS            LOCALE    MacOS 5-hebrew Lowcase
+AHEB_UCS            LOCALE    MacOS 5-hebrew Upcase
+AICEELAT            LOCALE    MacOS 37-icelandic to EBCDIC cp1047-lat1
+AICELAT1            LOCALE    MacOS 37-icelandic to ISO 8859/1-latin1
+AICEP437            LOCALE    MacOS 37-icelandic to IBMPC OEM 437-us
+AICEP850            LOCALE    MacOS 37-icelandic to IBMPC OEM 850-west
+AICEP861            LOCALE    MacOS 37-icelandic to IBMPC OEM 861-is
+AICEUNIC            LOCALE    MacOS 37-icelandic to Unicode mapping
+AICEWLT1            LOCALE    MacOS 37-icelandic to Win Cp1252-latin1
+AICE_CCL            LOCALE    MacOS 37-icelandic Char Classification CCL Table
+AICE_LCS            LOCALE    MacOS 37-icelandic Lowcase
+AICE_UCS            LOCALE    MacOS 37-icelandic Upcase
+ANSIE037            LOCALE    7-bit ASCII to EBCDIC cp037
+ANSIE924            LOCALE    7-bit ASCII to EBCDIC cp924
+ANSIEBCD            HOST       
+ANSIELAT            LOCALE    7-bit ASCII to EBCDIC cp1047
+ANSIEOL1            LOCALE    7-bit ASCII to OpenEd EBCDIC cp1047
+ANSIEOLT            LOCALE    7-bit ASCII to OpenEd EBCDIC cp924
+ANSIEOUS            LOCALE    7-bit ASCII to OpenEd EBCDIC cp037
+ANSIK833            LOCALE    7-bit ASCII to IBM cp833
+ANSIKPCS            LOCALE    7-bit ASCII to IBM cp1088
+ANSIKROM            LOCALE    7-bit ASCII to KS C 5636 - Roman
+ANSIKWSB            LOCALE    7-bit ASCII to Win cp1126
+ANSIUNIC            LOCALE    7-bit ASCII to Unicode mapping
+ANSIWLT1            LOCALE    7-bit ASCII to Win Cp1252-latin1
+ANSIYPCS            LOCALE    7-bit ASCII to IBM cp1114
+ANSIZ836            LOCALE    7-bit ASCII to IBM cp836
+ANSIZPCS            LOCALE    7-bit ASCII to IBM cp1115
+ANSI_CCL            LOCALE    7-bit ASCII Char Classification CCL Table
+ANSI_LCS            LOCALE    7-bit ASCII Lowcase
+ANSI_UCS            LOCALE    7-bit ASCII Upcase
+AR20_E2A            LOCALE    EBCDIC cp425-ar to MSDOS OEM 720-ar Remote Scanner Table
+AR64_E2A            LOCALE    EBCDIC cp425-ar to IBMPC OEM 864-ar Remote Scanner Table
+ARAA_E2A            LOCALE    EBCDIC cp425-ar to MacOS 4-arabic Remote Scanner Table
+ARABAARA            LOCALE    ISO 8859/6-arabic to MacOS 4-arabic
+ARABE420            LOCALE    ISO 8859/6-arabic to EBCDIC cp420-ar
+ARABE425            LOCALE    ISO 8859/6-arabic to EBCDIC cp803-ar
+ARABEOA2            LOCALE    ISO 8859/6-arabic to OpenEd EBCDIC cp803-ar
+ARABEOAR            LOCALE    ISO 8859/6-arabic to OpenEd EBCDIC cp420-ar
+ARABP720            LOCALE    ISO 8859/6-arabic to P720
+ARABP864            LOCALE    ISO 8859/6-arabic to IBMPC OEM 864-ar
+ARABUNIC            LOCALE    ISO 8859/6-arabic to Unicode mapping
+ARABWARA            LOCALE    ISO 8859/6-arabic to Win Cp1256-arabic
+ARAB_CCL            LOCALE    ISO 8859/6-arabic Char Classification CCL Table
+ARAB_LCS            LOCALE    ISO 8859/6-arabic Lowcase
+ARAB_UCS            LOCALE    ISO 8859/6-arabic Upcase
+ARAR_E2A            LOCALE    EBCDIC cp425-ar to ISO 8859/6-arabic Remote Scanner Table
+ARMA_CCL            LOCALE    MacOS 38 Romania CCL Table
+ARMA_LCS            LOCALE    MacOS 38 Romania LCS Table
+ARMA_UCS            LOCALE    MacOS 38 Romania UCS Table
+ARMNP852            LOCALE    MacOS 38-romanian to IBMPC OEM 852-slav
+AROME037            LOCALE    MacOS 0-roman to EBCDIC cp037-usa
+AROME140            LOCALE    MacOS 0-roman to EBCDIC cp1140-usa
+AROME141            LOCALE    MacOS 0-roman to EBCDIC cp1141-de
+AROME142            LOCALE    MacOS 0-roman to EBCDIC cp1142-da
+AROME143            LOCALE    MacOS 0-roman to EBCDIC cp1143-fi
+AROME144            LOCALE    MacOS 0-roman to EBCDIC cp1144-it
+AROME145            LOCALE    MacOS 0-roman to EBCDIC cp1145-es
+AROME146            LOCALE    MacOS 0-roman to EBCDIC cp1146-uk
+AROME147            LOCALE    MacOS 0-roman to EBCDIC cp1147-fr
+AROME148            LOCALE    MacOS 0-roman to EBCDIC cp1148-inter
+AROME273            LOCALE    MacOS 0-roman to EBCDIC cp273-de
+AROME275            LOCALE    MacOS 0-roman to EBCDIC cp275-br
+AROME277            LOCALE    MacOS 0-roman to EBCDIC cp277-da
+AROME278            LOCALE    MacOS 0-roman to EBCDIC cp278-fi
+AROME280            LOCALE    MacOS 0-roman to EBCDIC cp280-it
+AROME284            LOCALE    MacOS 0-roman to EBCDIC cp284-es
+AROME285            LOCALE    MacOS 0-roman to EBCDIC cp285-uk
+AROME297            LOCALE    MacOS 0-roman to EBCDIC cp297-fr
+AROME500            LOCALE    MacOS 0-roman to EBCDIC cp500-inter
+AROME924            LOCALE    MacOS 0-roman to EBCDIC cp924-lat
+AROMELAT            LOCALE    MacOS 0-roman to EBCDIC cp1047-lat1
+AROMEO40            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp1140-usa
+AROMEO41            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp1141-de
+AROMEO42            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp1142-da
+AROMEO43            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp1143-fi
+AROMEO44            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp1144-it
+AROMEO45            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp1145-es
+AROMEO46            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp1146-uk
+AROMEO47            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp1147-fr
+AROMEO48            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp1148-inter
+AROMEOBR            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp275-br
+AROMEODA            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp277-da
+AROMEODE            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp273-de
+AROMEOES            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp284-es
+AROMEOFI            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp278-fi
+AROMEOFR            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp297-fr
+AROMEOIT            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp280-it
+AROMEOL1            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp1047-lat1
+AROMEOLT            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp924-lat
+AROMEOSW            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp500-inter
+AROMEOUK            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp285-uk
+AROMEOUS            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp037-usa
+AROMEOVI            LOCALE    MacOS 0-roman to OpenEd EBCDIC cp1130-vi
+AROMEVIE            LOCALE    MacOS 0-roman to EBCDIC cp1130-vi
+AROMLAT1            LOCALE    MacOS 0-roman to ISO 8859/1-latin1
+AROMLAT9            LOCALE    MacOS 0-roman to ISO 8859/15-latin9
+AROMP437            LOCALE    MacOS 0-roman to IBMPC OEM 437-usa
+AROMP850            LOCALE    MacOS 0-roman to IBMPC OEM 850-west
+AROMP858            LOCALE    MacOS 0-roman to IBMPC OEM 858-euro
+AROMP860            LOCALE    MacOS 0-roman to IBMPC OEM 860-pt
+AROMP863            LOCALE    MacOS 0-roman to IBMPC OEM 893-fc
+AROMP865            LOCALE    MacOS 0-roman to IBMPC OEM 865-nord
+AROMPVIE            LOCALE    MacOS 0-roman to IBMPC OEM 1129-vi
+AROMROM8            LOCALE    MacOS 0-roman to HP Roman 8klog
+AROMUNIC            LOCALE    MacOS 0-roman to Unicode mapping
+AROMWLT1            LOCALE    MacOS 0-roman to Win Cp1252-latin1
+AROMWVIE            LOCALE    MacOS 0-roman to Win Cp1258-vietam
+AROM_CCL            LOCALE    MacOS 0-roman Char Classification CCL Table
+AROM_LCS            LOCALE    MacOS 0-roman Lowcase
+AROM_UCS            LOCALE    MacOS 0-roman Upcase
+ARWA_E2A            LOCALE    EBCDIC cp425-ar to Win cp1256-arabic Remote Scanner Table
+ASCII               HOST       
+ATHAE838            LOCALE    MacOS 21-thai to EBCDIC cp838-th
+ATHAEOTH            LOCALE    MacOS 21-thai to OpenEd EBCDIC cp838-th
+ATHAP874            LOCALE    MacOS 21-thai to IBMPC OEM 874-th
+ATHATHAI            LOCALE    MacOS 21-thai to ISO 8859/11-thai
+ATHAUNIC            LOCALE    MacOS 21-thai to Unicode mapping
+ATHA_CCL            LOCALE    MacOS 21-thai Char Classification CCL Table
+ATHA_LCS            LOCALE    MacOS 21-thai Lowcase
+ATHA_UCS            LOCALE    MacOS 21-thai Upcase
+ATUREOTR            LOCALE    MacOS 35-turish to OpenEd EBCDIC cp1026-tr
+ATURETUR            LOCALE    MacOS 35-turish to EBCDIC cp1026-tr
+ATURLAT5            LOCALE    MacOS 35-turish to ISO 8859/9-latin5
+ATURP852            LOCALE    MacOS 35-turish to IBMPC OEM 852-slav
+ATURP857            LOCALE    MacOS 35-turish to IBMPC OEM 857-tr
+ATURUNIC            LOCALE    MacOS 35-turish to Unicode mapping
+ATURWTUR            LOCALE    MacOS 35-turish to Win Cp1254-turkish
+ATUR_CCL            LOCALE    MacOS 35-turish Char Classification CCL Table
+ATUR_LCS            LOCALE    MacOS 35-turish Lowcase
+ATUR_UCS            LOCALE    MacOS 35-turish Upcase
+AUKRCYRL            LOCALE    MacOS 152-ukraine to ISO 8859/5-cyrill
+AUKRE880            LOCALE    MacOS 152-ukraine to EBCDIC cp880-ru
+AUKRECYR            LOCALE    MacOS 152-ukraine to EBCDIC cp1026-cyrl
+AUKREOCY            LOCALE    MacOS 152-ukraine to OpenEd EBCDIC cp1026-cyrl
+AUKRP855            LOCALE    MacOS 152-ukraine to IBMPC OEM 855-cyrl
+AUKRP866            LOCALE    MacOS 152-ukraine to IBMPC OEM 866-cyrl
+AUKRUNIC            LOCALE    MacOS 152-ukraine to Unicode mapping
+AUKRWCYR            LOCALE    MacOS 152-ukraine to Win Cp1251-cyrill
+AUKR_CCL            LOCALE    MacOS 152-ukraine Char Classification CCL Table
+AUKR_LCS            LOCALE    MacOS 152-ukraine Lowcase
+AUKR_UCS            LOCALE    MacOS 152-ukraine Upcase
+BA21_E2A            LOCALE    EBCDIC cp1112-balt to IBMPC OEM 921-balt Remote Scanner Table
+BA75_E2A            LOCALE    EBCDIC cp1112-balt to MS-DOS OEM 775-balt Remote Scanner Table
+BAL6_E2A            LOCALE    EBCDIC cp1112-balt to ISO 8859/10-latin6 Remote Scanner Table
+BAWB_E2A            LOCALE    EBCDIC cp1112-balt to Win cp1257-baltic Remote Scanner Table
+BIG5_CCL            LOCALE    Win cp950 - Trad. Chinese CCL table
+BIG5_LCS            LOCALE    Win cp950 - Trad. Chinese LCS table
+BIG5_UCS            LOCALE    Win cp950 - Trad. Chinese UCS table
+BR37_E2A            LOCALE    EBCDIC cp275-br to IBMPC OEM 437-usa Remote Scanner Table
+BR50_E2A            LOCALE    EBCDIC cp275-br to IBMPC OEM 850-west Remote Scanner Table
+BR60_E2A            LOCALE    EBCDIC cp275-br to IBMPC OEM 860-pt Remote Scanner Table
+BRAR_E2A            LOCALE    EBCDIC cp275-br to MacOS 0-roman Remote Scanner Table
+BRL1_E2A            LOCALE    EBCDIC cp275-br to ISO 8859/1-latin1 Remote Scanner Table
+BRW1_E2A            LOCALE    EBCDIC cp275-br to Win cp1252-latin1 Remote Scanner Table
+CRSOWLT2            LOCALE    Croatian sort for Win cp1250-latin2
+CY66_E2A            LOCALE    EBCDIC cp1025-cyrl to IBMPC OEM 866-cyrl Remote Scanner Table
+CYAC_E2A            LOCALE    EBCDIC cp1025-cyrl to MacOS 7-cyrillic Remote Scanner Table
+CYAU_E2A            LOCALE    EBCDIC cp1025-cyrl to MacOS 152-ukraine Remote Scanner Table
+CYCY_E2A            LOCALE    EBCDIC cp1025-cyrl to ISO 8859/5-cyrillic Remote Scanner Table
+CYRLACYR            LOCALE    ISO 8859/5-cyrill to MacOS 7-cyrillic
+CYRLAUKR            LOCALE    ISO 8859/5-cyrill to MacOS 152-ukraine
+CYRLE880            LOCALE    ISO 8859/5-cyrill to EBCDIC cp880-ru
+CYRLECYR            LOCALE    ISO 8859/5-cyrill to EBCDIC cp1026-cyrl
+CYRLEOCY            LOCALE    ISO 8859/5-cyrill to OpenEd EBCDIC cp1026-cyrl
+CYRLKZ48            LOCALE    ISO 8859/5-cyrillic to Kazakh 1048 - IBM1174
+CYRLP855            LOCALE    ISO 8859/5-cyrill to IBMPC OEM 855-cyrl
+CYRLP866            LOCALE    ISO 8859/5-cyrill to IBMPC OEM 866-cyrl
+CYRLUNIC            LOCALE    ISO 8859/5-cyrill to Unicode mapping
+CYRLWCYR            LOCALE    ISO 8859/5-cyrill to Win Cp1251-cyrill
+CYRL_CCL            LOCALE    ISO 8859/5-cyrill Char Classification CCL Table
+CYRL_LCS            LOCALE    ISO 8859/5-cyrill Lowcase
+CYRL_UCS            LOCALE    ISO 8859/5-cyrill Upcase
+CYWC_E2A            LOCALE    EBCDIC cp1025-cyrl to Win cp1251-cyrillic Remote Scanner Table
+DA37_E2A            LOCALE    EBCDIC cp1142-da to IBMPC OEM 437-usa Remote Scanner Table
+DA50_E2A            LOCALE    EBCDIC cp277-da to IBMPC OEM 850-west Remote Scanner Table
+DA58_E2A            LOCALE    EBCDIC cp1142-da to IBMPC OEM 858-euro Remote Scanner Table
+DA65_E2A            LOCALE    EBCDIC cp277-da to IBMPC OEM 865-nord Remote Scanner Table
+DAAR_E2A            LOCALE    EBCDIC cp1142-da to MacOS 0-roman Remote Scanner Table
+DAL1_E2A            LOCALE    EBCDIC cp1142-da to ISO 8859/1-latin1 Remote Scanner Table
+DAL9_E2A            LOCALE    EBCDIC cp1142-da to ISO 8859/15-latin9 Remote Scanner Table
+DALAT1              HOST       
+DANISH              HOST       
+DAW1_E2A            LOCALE    EBCDIC cp1142-da to Win cp1252-latin1 Remote Scanner Table
+DE37_E2A            LOCALE    EBCDIC cp1141-de to IBMPC OEM 437-usa Remote Scanner Table
+DE50_E2A            LOCALE    EBCDIC cp273-de to IBMPC OEM 850-west Remote Scanner Table
+DE58_E2A            LOCALE    EBCDIC cp1141-de to IBMPC OEM 858-euro Remote Scanner Table
+DEAR_E2A            LOCALE    EBCDIC cp1141-de to MacOS 0-roman Remote Scanner Table
+DEL1_E2A            LOCALE    EBCDIC cp1141-de to ISO 8859/1-latin1 Remote Scanner Table
+DEL9_E2A            LOCALE    EBCDIC cp1141-de to ISO 8859/15-latin9 Remote Scanner Table
+DESOE273            LOCALE    German sort for EBCDIC cp273-de
+DESOLAT1            LOCALE    German sort for ISO 8859/1-latin1
+DESOWLT1            LOCALE    German sort for Win cp1252-latin1
+DEW1_E2A            LOCALE    EBCDIC cp1141-de to Win cp1252-latin1 Remote Scanner Table
+DVDV_E2A            LOCALE    EBCDIC cp1137-Devanagari to PC ISCII91 806 Remote Scanner Table
+E037ANSI            LOCALE    EBCDIC cp037-usa to 7-bit ASCII
+E037AROM            LOCALE    EBCDIC cp037-usa to MacOS 0-roman
+E037E273            LOCALE    EBCDIC cp037-usa to cp273-de
+E037E275            LOCALE    EBCDIC cp037-usa to EBCDIC cp275-br
+E037E277            LOCALE    EBCDIC cp037-usa to EBCDIC cp277-da
+E037E278            LOCALE    EBCDIC cp037-usa to EBCDIC cp278-fi
+E037E280            LOCALE    EBCDIC cp037-usa to EBCDIC cp280-it
+E037E284            LOCALE    EBCDIC cp037-usa to EBCDIC cp284-es
+E037E285            LOCALE    EBCDIC cp037-usa to EBCDIC cp285-uk
+E037E297            LOCALE    EBCDIC cp037-usa to EBCDIC cp297-fr
+E037E500            LOCALE    EBCDIC cp037-usa to EBCDIC cp500-inter
+E037ELAT            LOCALE    EBCDIC cp037-usa to EBCDIC cp1047-lat1
+E037EOL1            LOCALE    Scanner translate table for EBCDIC cp037
+E037LAT1            LOCALE    EBCDIC cp037-usa to ISO 8859/1-latin1
+E037LAT9            LOCALE    EBCDIC cp037-usa to ISO 8859/15-latin9
+E037P437            LOCALE    EBCDIC cp037-usa to IBMPC OEM 437-us
+E037P850            LOCALE    EBCDIC cp037-usa to IBMPC OEM 850-west
+E037P858            LOCALE    EBCDIC cp037-usa to IBMPC OEM 858-euro
+E037P860            LOCALE    EBCDIC cp037-usa to IBMPC OEM 860-pt
+E037P863            LOCALE    EBCDIC cp037-usa to IBMPC OEM 863-fc
+E037UNIC            LOCALE    EBCDIC cp037-usa to Unicode mapping
+E037WLT1            LOCALE    EBCDIC cp037-usa to Win Cp1252-latin1
+E037YPCS            LOCALE    EBCDIC cp037-usa to IBM cp1114
+E037_CCL            LOCALE    EBCDIC cp037-usa Char Classification CCL Table
+E037_LCS            LOCALE    EBCDIC cp037-usa Lowcase
+E037_SCC            LOCALE    EBCDIC cp037-USA Scanner CCL Table
+E037_SCN            LOCALE    EBCDIC cp037-usa Compiler to Encoding Scanner Table
+E037_SNP            LOCALE    EBCDIC cp037-usa - Compiler variant to session scanner table
+E037_SSN            LOCALE    EBCDIC cp037-usa Encoding to Compiler Scanner Table
+E037_UCS            LOCALE    EBCDIC cp037-usa Upcase
+E097P098            LOCALE    EBCDIC cp1097-Farsi to PC Farsi Cp1098
+E097UNIC            LOCALE    EBCDIC cp1097 - Farsi to Unicode mapping
+E097WARA            LOCALE    EBCDIC cp1097-Farsi to Win Cp1256-Arabic
+E097_CCL            LOCALE    EBCDIC cp1097 Char Classification CCL Table
+E097_LCS            LOCALE    EBCDIC cp1097 LCS Table
+E097_SCC            LOCALE    EBCDIC cp1097 Scanner SCC Table
+E097_SCN            LOCALE    EBCDIC cp1097 Compiler to Encoding Scanner Table
+E097_SNP            LOCALE    EBCDIC cp1097 - Compiler variant to session scanner table
+E097_SSN            LOCALE    EBCDIC cp1097 Encoding to Compiler Scanner Table
+E097_UCS            LOCALE    EBCDIC cp1097 UCS Table
+E137P806            LOCALE    EBCDIC cp1137 - Devanagari to PC806 Indian ISCII-91
+E137UNIC            LOCALE    EBCDIC cp1137 - Devanagari to Unicode mapping
+E137WLT1            LOCALE    EBCDIC cp1137 - Devanagari to Win Cp1252-latin1
+E137_CCL            LOCALE    EBCDIC cp1137 - Devanagari Char Classification CCL Table
+E137_LCS            LOCALE    EBCDIC cp1137 - Devanagari LCS Table
+E137_SCC            LOCALE    EBCDIC cp1137 Scanner SCC Table
+E137_SCN            LOCALE    EBCDIC cp1137 Compiler to Encoding Scanner Table
+E137_SSN            LOCALE    EBCDIC cp1137 Encoding to Compiler Scanner Table
+E137_UCS            LOCALE    EBCDIC cp1137 - Devanagari UCS Table
+E140ANSI            LOCALE    EBCDIC cp1140-usa to 7-bit ASCII
+E140AROM            LOCALE    EBCDIC cp1140-usa to MacOS 0-roman
+E140EOL1            LOCALE    EBCDIC cp1140-usa to OpenEd cp1047-lat
+E140LAT1            LOCALE    EBCDIC cp1140-usa to ISO 8859/1-latin1
+E140P850            LOCALE    EBCDIC cp1140-usa to IBMPC OEM 850-wes
+E140UNIC            LOCALE    EBCDIC cp1140-usa to Unicode mapping
+E140WLT1            LOCALE    EBCDIC cp1140-usa to Win Cp1252-latin1
+E140YPCS            LOCALE    EBCDIC cp1140-usa to IBM cp1114-zt
+E140_CCL            LOCALE    EBCDIC cp1140-usa Char Classification CCL Table
+E140_LCS            LOCALE    EBCDIC cp1140-usa Lowcase
+E140_SCC            LOCALE    EBCDIC cp1140-USA Scanner CCL Table
+E140_SCN            LOCALE    EBCDIC cp1140-usa Compiler to Encoding Scanner Table
+E140_SNP            LOCALE    EBCDIC cp1140-usa - Compiler variant to session scanner table
+E140_SSN            LOCALE    EBCDIC cp1140-usa Encoding to Compiler Scanner Table
+E140_UCS            LOCALE    EBCDIC cp1140-usa Upcase
+E141AROM            LOCALE    EBCDIC cp1141-de to MacOS 0-roman
+E141EOL1            LOCALE    EBCDIC cp1141-de to OpenEd cp1047-lat1
+E141LAT1            LOCALE    EBCDIC cp1141-de to ISO 8859/1-latin1
+E141LAT9            LOCALE    EBCDIC cp1141-de to ISO 8859/15-latin9
+E141P850            LOCALE    EBCDIC cp1141-de to IBMPC OEM 850-west
+E141P858            LOCALE    EBCDIC cp1141-de to IBMPC OEM 858-euro
+E141UNIC            LOCALE    EBCDIC cp1141-de to Unicode mapping
+E141WLT1            LOCALE    EBCDIC cp1141-de to Win Cp1252-latin1
+E141_CCL            LOCALE    EBCDIC cp1141-de Char Classification CCL Table
+E141_LCS            LOCALE    EBCDIC cp1141-de Lowcase
+E141_SCC            LOCALE    EBCDIC cp1141-de Scanner CCL Table
+E141_SCN            LOCALE    EBCDIC cp1141-de Compiler to Encoding Scanner Table
+E141_SNP            LOCALE    EBCDIC cp1141-de - Compiler variant to session scanner table
+E141_SSN            LOCALE    EBCDIC cp1141-de Encoding to Compiler Scanner Table
+E141_UCS            LOCALE    EBCDIC cp1141-de Upcase
+E142AROM            LOCALE    EBCDIC cp1142-da to MacOS 0-roman
+E142EOL1            LOCALE    EBCDIC cp1142-da to OpenEd cp1047-lat1
+E142LAT1            LOCALE    EBCDIC cp1142-da to ISO 8859/1-latin1
+E142LAT9            LOCALE    EBCDIC cp1142-da to ISO 8859/15-latin9
+E142P850            LOCALE    EBCDIC cp1142-da to IBMPC OEM 850-west
+E142P858            LOCALE    EBCDIC cp1142-da to IBMPC OEM 858-euro
+E142UNIC            LOCALE    EBCDIC cp1142-da to Unicode mapping
+E142WLT1            LOCALE    EBCDIC cp1142-da to Win Cp1252-latin1
+E142_CCL            LOCALE    EBCDIC cp1142-da Char Classification CCL Table
+E142_LCS            LOCALE    EBCDIC cp1142-da Lowcase
+E142_SCC            LOCALE    EBCDIC cp1142-da Scanner CCL Table
+E142_SCN            LOCALE    EBCDIC cp1142-da Compiler to Encoding Scanner Table
+E142_SNP            LOCALE    EBCDIC cp1142-da - Compiler variant to session scanner table
+E142_SSN            LOCALE    EBCDIC cp1142-da Encoding to Compiler Scanner Table
+E142_UCS            LOCALE    EBCDIC cp1142-da Upcase
+E143AROM            LOCALE    EBCDIC cp1143-fi to MacOS 0-roman
+E143EOL1            LOCALE    EBCDIC cp1143-fi to OpenEd cp1047-lat1
+E143LAT1            LOCALE    EBCDIC cp1143-fi to ISO 8859/1-latin1
+E143LAT9            LOCALE    EBCDIC cp1143-fi to ISO 8859/15-latin9
+E143P850            LOCALE    EBCDIC cp1143-fi to IBMPC OEM 850-west
+E143P858            LOCALE    EBCDIC cp1143-fi to IBMPC OEM 858-euro
+E143UNIC            LOCALE    EBCDIC cp1143-fi to Unicode mapping
+E143WLT1            LOCALE    EBCDIC cp1143-fi to Win Cp1252-latin1
+E143_CCL            LOCALE    EBCDIC cp1143-fi Char Classification CCL Table
+E143_LCS            LOCALE    EBCDIC cp1143-fi Lowcase
+E143_SCC            LOCALE    EBCDIC cp1143-fi Scanner CCL Table
+E143_SCN            LOCALE    EBCDIC cp1143-fi Compiler to Encoding Scanner Table
+E143_SNP            LOCALE    EBCDIC cp1143-fi - Compiler variant to session scanner table
+E143_SSN            LOCALE    EBCDIC cp1143-fi Encoding to Compiler Scanner Table
+E143_UCS            LOCALE    EBCDIC cp1143-fi Upcase
+E144AROM            LOCALE    EBCDIC cp1144-it to MacOS 0-roman
+E144EOL1            LOCALE    EBCDIC cp1144-it to OpenEd cp1047-lat1
+E144LAT1            LOCALE    EBCDIC cp1144-it to ISO 8859/1-latin1
+E144LAT9            LOCALE    EBCDIC cp1144-it to ISO 8859/15-latin9
+E144P850            LOCALE    EBCDIC cp1144-it to IBMPC OEM 850-west
+E144P858            LOCALE    EBCDIC cp1144-it to IBMPC OEM 858-euro
+E144UNIC            LOCALE    EBCDIC cp1144-it to Unicode mapping
+E144WLT1            LOCALE    EBCDIC cp1144-it to Win Cp1252-latin1
+E144_CCL            LOCALE    EBCDIC cp1144-it Char Classification CCL Table
+E144_LCS            LOCALE    EBCDIC cp1144-it Lowcase
+E144_SCC            LOCALE    EBCDIC cp1144-it Scanner CCL Table
+E144_SCN            LOCALE    EBCDIC cp1144-it Compiler to Encoding Scanner Table
+E144_SNP            LOCALE    EBCDIC cp1144-it - Compiler variant to session scanner table
+E144_SSN            LOCALE    EBCDIC cp1144-it Encoding to Compiler Scanner Table
+E144_UCS            LOCALE    EBCDIC cp1144-it Upcase
+E145AROM            LOCALE    EBCDIC cp1145-es to MacOS 0-roman
+E145EOL1            LOCALE    EBCDIC cp1145-es to OpenEd cp1047-lat1
+E145LAT1            LOCALE    EBCDIC cp1145-es to ISO 8859/1-latin1
+E145LAT9            LOCALE    EBCDIC cp1145-es to ISO 8859/15-latin9
+E145P850            LOCALE    EBCDIC cp1145-es to IBMPC OEM 850-west
+E145P858            LOCALE    EBCDIC cp1145-es to IBMPC OEM 858-euro
+E145UNIC            LOCALE    EBCDIC cp1145-es to Unicode mapping
+E145WLT1            LOCALE    EBCDIC cp1145-es to Win Cp1252-latin1
+E145_CCL            LOCALE    EBCDIC cp1145-es Char Classification CCL Table
+E145_LCS            LOCALE    EBCDIC cp1145-es Lowcase
+E145_SCC            LOCALE    EBCDIC cp1145-es Scanner CCL Table
+E145_SCN            LOCALE     
+E145_SNP            LOCALE    EBCDIC cp1145-es - Compiler variant to session scanner table
+E145_SSN            LOCALE    EBCDIC cp1145-es Encoding to Compiler Scanner Table
+E145_UCS            LOCALE    EBCDIC cp1145-es Upcase
+E146AROM            LOCALE    EBCDIC cp1146-uk to MacOS 0-roman
+E146EOL1            LOCALE    EBCDIC cp1146-uk to OpenEd cp1047-lat1
+E146LAT1            LOCALE    EBCDIC cp1146-uk to ISO 8859/1-latin1
+E146LAT9            LOCALE    EBCDIC cp1146-uk to ISO 8859/15-latin9
+E146P850            LOCALE    EBCDIC cp1146-ukto IBMPC OEM 850-west
+E146P858            LOCALE    EBCDIC cp1146-ukto IBMPC OEM 858-euro
+E146UNIC            LOCALE    EBCDIC cp1146-uk to Unicode mapping
+E146WLT1            LOCALE    EBCDIC cp1146-ukto Win Cp1252-latin1
+E146_CCL            LOCALE    EBCDIC cp1146-uk Char Classification CCL Table
+E146_LCS            LOCALE    EBCDIC cp1146-uk Lowcase
+E146_SCC            LOCALE    EBCDIC cp1146-uk Scanner CCL Table
+E146_SCN            LOCALE    EBCDIC cp1146-uk Compiler to Encoding Scanner Table
+E146_SNP            LOCALE    EBCDIC cp1146-uk - Compiler variant to session scanner table
+E146_SSN            LOCALE    EBCDIC cp1146-uk Encoding to Compiler Scanner Table
+E146_UCS            LOCALE    EBCDIC cp1146-uk Upcase
+E147AROM            LOCALE    EBCDIC cp1147-fr to MacOS 0-roman
+E147EOL1            LOCALE    EBCDIC cp1147-fr to OpenEd cp1047-lat1
+E147LAT1            LOCALE    EBCDIC cp1147-fr to ISO 8859/1-latin1
+E147LAT9            LOCALE    EBCDIC cp1147-fr to ISO 8859/15-latin9
+E147P850            LOCALE    EBCDIC cp1147-fr to IBMPC OEM 850-west
+E147P858            LOCALE    EBCDIC cp1147-fr to IBMPC OEM 858-euro
+E147UNIC            LOCALE    EBCDIC cp1147-fr to Unicode mapping
+E147WLT1            LOCALE    EBCDIC cp1147-fr to Win Cp1252-latin1
+E147_CCL            LOCALE    EBCDIC cp1147-fr Char Classification CCL Table
+E147_LCS            LOCALE    EBCDIC cp1147-fr Lowcase
+E147_SCC            LOCALE    EBCDIC cp1147-fr Scanner CCL Table
+E147_SCN            LOCALE    EBCDIC cp1147-fr Compiler to Encoding Scanner Table
+E147_SNP            LOCALE    EBCDIC cp1147-fr - Compiler variant to session scanner table
+E147_SSN            LOCALE    EBCDIC cp1147-fr Encoding to Compiler Scanner Table
+E147_UCS            LOCALE    EBCDIC cp1147-fr Upcase
+E148AROM            LOCALE    EBCDIC cp1148-int to MacOS 0-roman
+E148EOL1            LOCALE    EBCDIC cp1148-int to OpenEd cp1047-lat
+E148LAT1            LOCALE    EBCDIC cp1148-int to ISO 8859/1-latin1
+E148LAT9            LOCALE    EBCDIC cp1148-int to ISO 8859/15-latin
+E148P850            LOCALE    EBCDIC cp1148-int to IBMPC OEM 850-wes
+E148P858            LOCALE    EBCDIC cp1148-int to IBMPC OEM 858-eur
+E148UNIC            LOCALE    EBCDIC cp1148-inter to Unicode mapping
+E148WLT1            LOCALE    EBCDIC cp1148-int to Win Cp1252-latin1
+E148_CCL            LOCALE    EBCDIC cp1148-inter Char Classification CCL Table
+E148_LCS            LOCALE    EBCDIC cp1148-inter Lowcase
+E148_SCC            LOCALE    EBCDIC cp1148-inter Scanner CCL Table
+E148_SCN            LOCALE    EBCDIC cp1148-inter Compiler to Encoding Scanner Table
+E148_SNP            LOCALE    EBCDIC cp1148 - Compiler variant to session scanner table
+E148_SSN            LOCALE    EBCDIC cp1148-inter Encoding to Compiler Scanner Table
+E148_UCS            LOCALE    EBCDIC cp1148-inter Upcase
+E149UNIC            LOCALE    EBCDIC cp1149 - iceland to Unicode mapping
+E149WLT1            LOCALE    EBCDIC cp1149-is to Win Cp1252-latin1
+E149_CCL            LOCALE    EBCDIC cp1149 Char Classification CCL Table
+E149_LCS            LOCALE    EBCDIC cp1149 LCS Table
+E149_SCC            LOCALE    EBCDIC cp1149 Scanner SCC Table
+E149_SCN            LOCALE    EBCDIC cp1149 Compiler to Encoding Scanner Table
+E149_SNP            LOCALE    EBCDIC cp1149 - Compiler variant to session scanner table
+E149_SSN            LOCALE    EBCDIC cp1149 Encoding to Compiler Scanner Table
+E149_UCS            LOCALE    EBCDIC cp1149 UCS Table
+E153UNIC            LOCALE    EBCDIC cp1153 - Latin2 - Euro to Unicode mapping
+E153WLT2            LOCALE    EBCDIC cp1153-latin2 to Win Cp1250-latin2
+E153_CCL            LOCALE    EBCDIC cp1153 Char Classification CCL Table
+E153_LCS            LOCALE    EBCDIC cp1153 LCS Table
+E153_SCC            LOCALE    EBCDIC cp1153 Scanner SCC Table
+E153_SCN            LOCALE    EBCDIC cp1153 Compiler to Encoding Scanner Table
+E153_SNP            LOCALE    EBCDIC cp1153 - Compiler variant to session scanner table
+E153_SSN            LOCALE    EBCDIC cp1153 Encoding to Compiler Scanner Table
+E153_UCS            LOCALE    EBCDIC cp1153 UCS Table
+E154UNIC            LOCALE    EBCDIC cp1154 - Cyrillic euro to Unicode mapping
+E154WCYR            LOCALE    EBCDIC cp1154-Cyrillic to Win Cp1251-Cyrillic
+E154_CCL            LOCALE    EBCDIC cp1154 Char Classification CCL Table
+E154_LCS            LOCALE    EBCDIC cp1154 LCS Table
+E154_SCC            LOCALE    EBCDIC cp1154 Scanner SCC Table
+E154_SCN            LOCALE    EBCDIC cp1154 Compiler to Encoding Scanner Table
+E154_SNP            LOCALE    EBCDIC cp1154 - Compiler variant to session scanner table
+E154_SSN            LOCALE    EBCDIC cp1154 Encoding to Compiler Scanner Table
+E154_UCS            LOCALE    EBCDIC cp1154 UCS Table
+E155UNIC            LOCALE    EBCDIC cp1155 - Turkey euro to Unicode mapping
+E155WTUR            LOCALE    EBCDIC cp1155-Tr to Win Cp1254-tr
+E155_CCL            LOCALE    EBCDIC cp1155 Char Classification CCL Table
+E155_LCS            LOCALE    EBCDIC cp1155 LCS Table
+E155_SCC            LOCALE    EBCDIC cp1155 Scanner SCC Table
+E155_SCN            LOCALE    EBCDIC cp1155 Compiler to Encoding Scanner Table
+E155_SNP            LOCALE    EBCDIC cp1155 - Compiler variant to session scanner table
+E155_SSN            LOCALE    EBCDIC cp1155 Encoding to Compiler Scanner Table
+E155_UCS            LOCALE    EBCDIC cp1155 UCS Table
+E156UNIC            LOCALE    EBCDIC cp1156 - Baltic euro to Unicode mapping
+E156WBAL            LOCALE    EBCDIC cp1156-baltic to Win Cp1257-baltic
+E156_CCL            LOCALE    EBCDIC cp1156 Char Classification CCL Table
+E156_LCS            LOCALE    EBCDIC cp1156 LCS Table
+E156_SCC            LOCALE    EBCDIC cp1156 Scanner SCC Table
+E156_SCN            LOCALE    EBCDIC cp1156 Compiler to Encoding Scanner Table
+E156_SNP            LOCALE    EBCDIC cp1156 - Compiler variant to session scanner table
+E156_SSN            LOCALE    EBCDIC cp1156 Encoding to Compiler Scanner Table
+E156_UCS            LOCALE    EBCDIC cp1156 UCS Table
+E157UNIC            LOCALE    EBCDIC cp1157 - Estonia euro to Unicode mapping
+E157WBAL            LOCALE    EBCDIC cp1157-et to Win Cp1257-baltic
+E157_CCL            LOCALE    EBCDIC cp1157 Char Classification CCL Table
+E157_LCS            LOCALE    EBCDIC cp1157 LCS Table
+E157_SCC            LOCALE    EBCDIC cp1157 Scanner SCC Table
+E157_SCN            LOCALE    EBCDIC cp1157 Compiler to Encoding Scanner Table
+E157_SNP            LOCALE    EBCDIC cp1157 - Compiler variant to session scanner table
+E157_SSN            LOCALE    EBCDIC cp1157 Encoding to Compiler Scanner Table
+E157_UCS            LOCALE    EBCDIC cp1157 UCS Table
+E158UNIC            LOCALE    EBCDIC cp1158 - Cyr. uk_UA euro to Unicode mapping
+E158WCYR            LOCALE    EBCDIC cp1158-ru_UA to Win Cp1251-Cyrillic
+E158_CCL            LOCALE    EBCDIC cp1158 Char Classification CCL Table
+E158_LCS            LOCALE    EBCDIC cp1158 LCS Table
+E158_SCC            LOCALE    EBCDIC cp1158 Scanner SCC Table
+E158_SCN            LOCALE    EBCDIC cp1158 Compiler to Encoding Scanner Table
+E158_SNP            LOCALE    EBCDIC cp1158 - Compiler variant to session scanner table
+E158_SSN            LOCALE    EBCDIC cp1158 Encoding to Compiler Scanner Table
+E158_UCS            LOCALE    EBCDIC cp1158 UCS Table
+E160P874            LOCALE    EBCDIC cp1160-th to IBMPC P874-th
+E160UNIC            LOCALE    EBCDIC cp1160-th to Unicode mapping
+E160_CCL            LOCALE    EBCDIC cp1160-th CCL Table
+E160_LCS            LOCALE    EBCDIC cp1160-th LCS Table
+E160_SCC            LOCALE    EBCDIC cp1160 Scanner SCC Table
+E160_SCN            LOCALE    EBCDIC cp1160-th Compiler to Encoding Scanner Table
+E160_SNP            LOCALE    EBCDIC cp1160 - Compiler variant to session scanner table
+E160_SSN            LOCALE    EBCDIC cp1160-th Encoding to Compiler Scanner Table
+E160_UCS            LOCALE    EBCDIC cp1160-th UCS Table
+E164UNIC            LOCALE    EBCDIC cp1164 - Vietnamese to Unicode mapping
+E164WVIE            LOCALE    EBCDIC cp1164 - Vietnamese to Win Cp1258
+E164_CCL            LOCALE    EBCDIC cp1164 - Vietnamese CCL Table
+E164_LCS            LOCALE    EBCDIC cp1164 - Vietnamese LCS Table
+E164_SCC            LOCALE    EBCDIC cp1164 Scanner SCC Table
+E164_SCN            LOCALE    EBCDIC cp1164 - Vietnamese Compiler to Encoding Scanner Table
+E164_SNP            LOCALE    EBCDIC cp1164 - Compiler variant to session scanner table
+E164_SSN            LOCALE    EBCDIC cp1164 - Vietnamese Encoding to Compiler Scanner Table
+E164_UCS            LOCALE    EBCDIC cp1164 - Vietnamese UCS Table
+E273AROM            LOCALE    EBCDIC cp273-de to MacOS 0-roman
+E273E037            LOCALE    EBCDIC cp273-de to EBCDIC cp037-usa
+E273E277            LOCALE    EBCDIC cp273-de to EBCDIC cp277-da
+E273E278            LOCALE    EBCDIC cp273-de to EBCDIC cp278-fi
+E273E280            LOCALE    EBCDIC cp273-de to EBCDIC cp280-it
+E273E284            LOCALE    EBCDIC cp273-de to EBCDIC cp284-es
+E273E285            LOCALE    EBCDIC cp273-de to EBCDIC cp285-uk
+E273E297            LOCALE    EBCDIC cp273-de to EBCDIC cp297-fr
+E273E500            LOCALE    EBCDIC cp273-de to EBCDIC cp500-inter
+E273ELAT            LOCALE    EBCDIC cp273-de to EBCDIC cp1047-lat1
+E273EOL1            LOCALE    Scanner translate table for EBCDIC cp273
+E273LAT1            LOCALE    EBCDIC cp273-de to ISO 8859/1-latin1
+E273LAT9            LOCALE    EBCDIC cp273-de to ISO 8859/15-latin9
+E273P850            LOCALE    EBCDIC cp273-de to IBMPC OEM 850-west
+E273P858            LOCALE    EBCDIC cp273-de to IBMPC OEM 858-euro
+E273UNIC            LOCALE    EBCDIC cp273-de to Unicode mapping
+E273WLT1            LOCALE    EBCDIC cp273-de to Win Cp1252-latin1
+E273_CCL            LOCALE    EBCDIC cp273-de Char Classification CCL Table
+E273_LCS            LOCALE    EBCDIC cp273-de Lowcase
+E273_SCC            LOCALE    EBCDIC cp273-de Scanner CCL Table
+E273_SCN            LOCALE    EBCDIC cp273-de Compiler to Encoding Scanner Table
+E273_SNP            LOCALE    EBCDIC cp273-de - Compiler variant to session scanner table
+E273_SSN            LOCALE    EBCDIC cp273-de Encoding to Compiler Scanner Table
+E273_UCS            LOCALE    EBCDIC cp273-de Upcase
+E275AROM            LOCALE    EBCDIC cp275-br to MacOS 0-roman
+E275ELAT            LOCALE    EBCDIC cp275-br to EBCDIC cp1047-lat1
+E275EOL1            LOCALE    Scanner translate table for EBCDIC cp275
+E275LAT1            LOCALE    EBCDIC cp275-br to ISO 8859/1-latin1
+E275LAT9            LOCALE    EBCDIC cp275-br to ISO 8859/15-latin9
+E275P850            LOCALE    EBCDIC cp275-br to IBMPC OEM 850-west
+E275P858            LOCALE    EBCDIC cp275-br to IBMPC OEM 858-euro
+E275P860            LOCALE    EBCDIC cp275-br to IBMPC OEM 860-pt
+E275UNIC            LOCALE    EBCDIC cp275-br to Unicode mapping
+E275WLT1            LOCALE    EBCDIC cp275-br to Win Cp1252-latin1
+E275_CCL            LOCALE    EBCDIC cp275-br Char Classification CCL Table
+E275_LCS            LOCALE    EBCDIC cp275-br Lowcase
+E275_SCC            LOCALE    EBCDIC cp275-br Scanner CCL Table
+E275_SCN            LOCALE    EBCDIC cp275-br Compiler to Encoding Scanner Table
+E275_SNP            LOCALE    EBCDIC cp275-br - Compiler variant to session scanner table
+E275_SSN            LOCALE    EBCDIC cp275-br Encoding to Compiler Scanner Table
+E275_UCS            LOCALE    EBCDIC cp275-br Upcase
+E277AROM            LOCALE    EBCDIC cp277-da to MacOS 0-roman
+E277E037            LOCALE    EBCDIC cp277-da to EBCDIC cp037-usa
+E277E273            LOCALE    EBCDIC cp277-da to EBCDIC cp273-de
+E277E278            LOCALE    EBCDIC cp277-da to EBCDIC cp278-fi
+E277E280            LOCALE    EBCDIC cp277-da to EBCDIC cp280-it
+E277E284            LOCALE    EBCDIC cp277-da to EBCDIC cp284-es
+E277E285            LOCALE    EBCDIC cp277-da to EBCDIC cp285-uk
+E277E297            LOCALE    EBCDIC cp277-da to EBCDIC cp297-fr
+E277E500            LOCALE    EBCDIC cp277-da to EBCDIC cp500-inter
+E277ELAT            LOCALE    EBCDIC cp277-da to EBCDIC cp1047-lat1
+E277EOL1            LOCALE    Scanner translate table for EBCDIC cp277
+E277LAT1            LOCALE    EBCDIC cp277-da to ISO 8859/1-latin1
+E277LAT9            LOCALE    EBCDIC cp277-da to ISO 8859/15-latin9
+E277P850            LOCALE    EBCDIC cp277-da to IBMPC OEM 850-west
+E277P858            LOCALE    EBCDIC cp277-da to IBMPC OEM 858-euro
+E277UNIC            LOCALE    EBCDIC cp277-da to Unicode mapping
+E277WLT1            LOCALE    EBCDIC cp277-da to Win Cp1252-latin1
+E277_CCL            LOCALE    EBCDIC cp277-da Char Classification CCL Table
+E277_LCS            LOCALE    EBCDIC cp277-da Lowcase
+E277_SCC            LOCALE    EBCDIC cp277-da Scanner CCL Table
+E277_SCN            LOCALE    EBCDIC cp277-da Compiler to Encoding Scanner Table
+E277_SNP            LOCALE    EBCDIC cp277-da - Compiler variant to session scanner table
+E277_SSN            LOCALE    EBCDIC cp277-da Encoding to Compiler Scanner Table
+E277_UCS            LOCALE    EBCDIC cp277-da Upcase
+E278AROM            LOCALE    EBCDIC cp278-fi to MacOS 0-roman
+E278E037            LOCALE    EBCDIC cp278-fi to EBCDIC cp037-usa
+E278E273            LOCALE    EBCDIC cp278-fi to EBCDIC cp273-de
+E278E277            LOCALE    EBCDIC cp278-fi to EBCDIC cp277-da
+E278E280            LOCALE    EBCDIC cp278-fi to EBCDIC cp280-it
+E278E284            LOCALE    EBCDIC cp278-fi to EBCDIC cp284-es
+E278E285            LOCALE    EBCDIC cp278-fi to EBCDIC cp285-uk
+E278E297            LOCALE    EBCDIC cp278-fi to EBCDIC cp297-fr
+E278E500            LOCALE    EBCDIC cp278-fi to EBCDIC cp500-inter
+E278ELAT            LOCALE    EBCDIC cp278-fi to EBCDIC cp1047-lat1
+E278EOL1            LOCALE    Scanner translate table for EBCDIC cp278
+E278LAT1            LOCALE    EBCDIC cp278-fi to ISO 8859/1-latin1
+E278LAT9            LOCALE    EBCDIC cp278-fi to ISO 8859/15-latin9
+E278P850            LOCALE    EBCDIC cp278-fi to IBMPC OEM 850-west
+E278P858            LOCALE    EBCDIC cp278-fi to IBMPC OEM 858-euro
+E278UNIC            LOCALE    EBCDIC cp278-fi to Unicode mapping
+E278WLT1            LOCALE    EBCDIC cp278-fi to Win Cp1252-latin1
+E278_CCL            LOCALE    EBCDIC cp278-fi Char Classification CCL Table
+E278_LCS            LOCALE    EBCDIC cp278-fi Lowcase
+E278_SCC            LOCALE    EBCDIC cp278-fi Scanner CCL Table
+E278_SCN            LOCALE    EBCDIC cp278-fi Compiler to Encoding Scanner Table
+E278_SNP            LOCALE    EBCDIC cp278-fi - Compiler variant to session scanner table
+E278_SSN            LOCALE    EBCDIC cp278-fi Encoding to Compiler Scanner Table
+E278_UCS            LOCALE    EBCDIC cp278-fi Upcase
+E280AROM            LOCALE    EBCDIC cp280-it to MacOS 0-roman
+E280E037            LOCALE    EBCDIC cp280-it to EBCDIC cp037-usa
+E280E273            LOCALE    EBCDIC cp280-it to EBCDIC cp273-de
+E280E277            LOCALE    EBCDIC cp280-it to EBCDIC cp277-da
+E280E278            LOCALE    EBCDIC cp280-it to EBCDIC cp278-fi
+E280E284            LOCALE    EBCDIC cp280-it to EBCDIC cp284-es
+E280E285            LOCALE    EBCDIC cp280-it to EBCDIC cp285-uk
+E280E297            LOCALE    EBCDIC cp280-it to EBCDIC cp297-fr
+E280E500            LOCALE    EBCDIC cp280-it to EBCDIC cp500-inter
+E280ELAT            LOCALE    EBCDIC cp280-it to EBCDIC cp1047-lat1
+E280EOL1            LOCALE    Scanner translate table for EBCDIC cp280
+E280LAT1            LOCALE    EBCDIC cp280-it to ISO 8859/1-latin1
+E280LAT9            LOCALE    EBCDIC cp280-it to ISO 8859/15-latin9
+E280P850            LOCALE    EBCDIC cp280-it to IBMPC OEM 850-west
+E280P858            LOCALE    EBCDIC cp280-it to IBMPC OEM 858-euro
+E280UNIC            LOCALE    EBCDIC cp280-it to Unicode mapping
+E280WLT1            LOCALE    EBCDIC cp280-it to Win Cp1252-latin1
+E280_CCL            LOCALE    EBCDIC cp280-it Char Classification CCL Table
+E280_LCS            LOCALE    EBCDIC cp280-it Lowcase
+E280_SCC            LOCALE    EBCDIC cp280-it Scanner CCL Table
+E280_SCN            LOCALE    EBCDIC cp280-it Compiler to Encoding Scanner Table
+E280_SNP            LOCALE    EBCDIC cp280-it - Compiler variant to session scanner table
+E280_SSN            LOCALE    EBCDIC cp280-it Encoding to Compiler Scanner Table
+E280_UCS            LOCALE    EBCDIC cp280-it Upcase
+E284AROM            LOCALE    EBCDIC cp284-es to MacOS 0-roman
+E284E037            LOCALE    EBCDIC cp284-es to EBCDIC cp037-usa
+E284E273            LOCALE    EBCDIC cp284-es to EBCDIC cp273-de
+E284E277            LOCALE    EBCDIC cp284-es to EBCDIC cp277-da
+E284E278            LOCALE    EBCDIC cp284-es to EBCDIC cp278-fi
+E284E280            LOCALE    EBCDIC cp274-es to EBCDIC cp280-it
+E284E285            LOCALE    EBCDIC cp284-es to EBCDIC cp285-uk
+E284E297            LOCALE    EBCDIC cp284-es to EBCDIC cp297-fr
+E284E500            LOCALE    EBCDIC cp284-es to EBCDIC cp500-inter
+E284ELAT            LOCALE    EBCDIC cp284-es to EBCDIC cp1047-lat1
+E284EOL1            LOCALE    Scanner translate table for EBCDIC cp284
+E284LAT1            LOCALE    EBCDIC cp284-es to ISO 8859/1-latin1
+E284LAT9            LOCALE    EBCDIC cp284-es to ISO 8859/15-latin9
+E284P850            LOCALE    EBCDIC cp284-es to IBMPC OEM 850-west
+E284P858            LOCALE    EBCDIC cp284-es to IBMPC OEM 858-euro
+E284UNIC            LOCALE    EBCDIC cp284-es to Unicode mapping
+E284WLT1            LOCALE    EBCDIC cp284-es to Win Cp1252-latin1
+E284_CCL            LOCALE    EBCDIC cp284-es Char Classification CCL Table
+E284_LCS            LOCALE    EBCDIC cp284-es Lowcase
+E284_SCC            LOCALE    EBCDIC cp284-es Scanner CCL Table
+E284_SCN            LOCALE     
+E284_SNP            LOCALE    EBCDIC cp284-es - Compiler variant to session scanner table
+E284_SSN            LOCALE    EBCDIC cp284-es Encoding to Compiler Scanner Table
+E284_UCS            LOCALE    EBCDIC cp284-es Upcase
+E285AROM            LOCALE    EBCDIC cp285-uk to MacOS 0-roman
+E285ELAT            LOCALE    EBCDIC cp285-uk to EBCDIC cp1047-lat1
+E285EOL1            LOCALE    Scanner translate table for EBCDIC cp285
+E285LAT1            LOCALE    EBCDIC cp285-uk to ISO 8859/1-latin1
+E285P850            LOCALE    EBCDIC cp285-uk to IBMPC OEM 850-west
+E285UNIC            LOCALE    EBCDIC cp285-uk to Unicode mapping
+E285WLT1            LOCALE    EBCDIC cp285-uk to Win Cp1252-latin1
+E285_CCL            LOCALE    EBCDIC cp285-uk Char Classification CCL Table
+E285_LCS            LOCALE    EBCDIC cp285-uk Lowcase
+E285_SCC            LOCALE    EBCDIC cp285-uk Scanner CCL Table
+E285_SCN            LOCALE    EBCDIC cp285-uk Compiler to Encoding Scanner Table
+E285_SNP            LOCALE    EBCDIC cp285-uk - Compiler variant to session scanner table
+E285_SSN            LOCALE    EBCDIC cp285-uk Encoding to Compiler Scanner Table
+E285_UCS            LOCALE    EBCDIC cp285-uk Upcase
+E297AROM            LOCALE    EBCDIC cp297-fr to MacOS 0-roman
+E297E037            LOCALE    EBCDIC cp297-fr to EBCDIC cp037-usa
+E297E273            LOCALE    EBCDIC cp297-fr to EBCDIC cp273-de
+E297E277            LOCALE    EBCDIC cp297-fr to EBCDIC cp277-da
+E297E278            LOCALE    EBCDIC cp297-fr to EBCDIC cp278-fi
+E297E280            LOCALE    EBCDIC cp297-fr to EBCDIC cp280-it
+E297E284            LOCALE    EBCDIC cp297-fr to EBCDIC cp284-es
+E297E500            LOCALE    EBCDIC cp297-fr to EBCDIC cp500-inter
+E297ELAT            LOCALE    EBCDIC cp297-fr to EBCDIC cp1047-lat1
+E297EOL1            LOCALE    Scanner translate table for EBCDIC cp297
+E297LAT1            LOCALE    EBCDIC cp297-fr to ISO 8859/1-latin1
+E297LAT9            LOCALE    EBCDIC cp297-fr to ISO 8859/15-latin9
+E297P850            LOCALE    EBCDIC cp297-fr to IBMPC OEM 850-west
+E297P858            LOCALE    EBCDIC cp297-fr to IBMPC OEM 858-euro
+E297UNIC            LOCALE    EBCDIC cp297-fr to Unicode mapping
+E297WLT1            LOCALE    EBCDIC cp297-fr to Win Cp1252-latin1
+E297_CCL            LOCALE    EBCDIC cp297-fr Char Classification CCL Table
+E297_LCS            LOCALE    EBCDIC cp297-fr Lowcase
+E297_SCC            LOCALE    EBCDIC cp297-fr Scanner CCL Table
+E297_SCN            LOCALE    EBCDIC cp297-fr Compiler to Encoding Scanner Table
+E297_SNP            LOCALE    EBCDIC cp297-fr - Compiler variant to session scanner table
+E297_SSN            LOCALE    EBCDIC cp297-fr Encoding to Compiler Scanner Table
+E297_UCS            LOCALE    EBCDIC cp297-fr Upcase
+E420AARA            LOCALE    EBCDIC cp420-ar to MacOS 4-arabic
+E420ARAB            LOCALE    EBCDIC cp420-ar to ISO 8859/6-arabic
+E420ELAT            LOCALE    EBCDIC cp420-ar to EBCDIC cp1047-lat1
+E420EOL1            LOCALE    Scanner translate table for EBCDIC cp420
+E420P864            LOCALE    EBCDIC cp420-ar to IBMPC OEM 864-ar
+E420UNIC            LOCALE    EBCDIC cp420-ar to Unicode mapping
+E420WARA            LOCALE    EBCDIC cp420-ar to Win Cp1256-arabic
+E420_CCL            LOCALE    EBCDIC cp420-ar Char Classification CCL Table
+E420_LCS            LOCALE    EBCDIC cp420-ar Lowcase
+E420_SCC            LOCALE    EBCDIC cp420-ar Scanner CCL Table
+E420_SCN            LOCALE    EBCDIC cp420-ar Compiler to Encoding Scanner Table
+E420_SSN            LOCALE    EBCDIC cp420-ar Encoding to Compiler Scanner Table
+E420_UCS            LOCALE    EBCDIC cp420-ar Upcase
+E424AHEB            LOCALE    EBCDIC cp424-iw to MacOS 5-hebrew
+E424ELAT            LOCALE    EBCDIC cp424-iw to EBCDIC cp1047-lat1
+E424EOL1            LOCALE    Scanner translate table for EBCDIC cp424
+E424HEBR            LOCALE    EBCDIC cp424-iw to ISO 8859/8-hebre
+E424P862            LOCALE    EBCDIC cp424-iw to IBMPC OEM 862-iw
+E424UNIC            LOCALE    EBCDIC cp424-iw to Unicode mapping
+E424WHEB            LOCALE    EBCDIC cp424-iw to Win Cp1255-hebrew
+E424_CCL            LOCALE    EBCDIC cp424-iw Char Classification CCL Table
+E424_LCS            LOCALE    EBCDIC cp424-iw Lowcase
+E424_SCC            LOCALE    EBCDIC cp424-iw Scanner CCL Table
+E424_SCN            LOCALE    EBCDIC cp424-iw Compiler to Encoding Scanner Table
+E424_SNP            LOCALE    EBCDIC cp424-iw - Compiler variant to session scanner table
+E424_SSN            LOCALE    EBCDIC cp424-iw Encoding to Compiler Scanner Table
+E424_UCS            LOCALE    EBCDIC cp424-iw Upcase
+E425AARA            LOCALE    EBCDIC cp425-ar to MacOS 4-arabic
+E425ARAB            LOCALE    EBCDIC cp425-ar to ISO 8859/6-arabic
+E425ELAT            LOCALE    EBCDIC cp425-ar to EBCDIC cp1047-lat1
+E425EOL1            LOCALE    EBCDIC cp425-ar to OpenEd cp1047-lat1
+E425P864            LOCALE    EBCDIC cp425-ar to IBMPC OEM 864-ar
+E425UNIC            LOCALE    EBCDIC cp803-ar to Unicode mapping
+E425WARA            LOCALE    EBCDIC cp425-ar to Win Cp1256-arabic
+E425_CCL            LOCALE    EBCDIC cp425-ar Char Classification CCL Table
+E425_LCS            LOCALE    EBCDIC cp425-ar Lowcase
+E425_SCC            LOCALE    EBCDIC cp425-ar Scanner CCL Table
+E425_SCN            LOCALE    EBCDIC cp425-ar Compiler to Encoding Scanner Table
+E425_SSN            LOCALE    EBCDIC cp425-ar Encoding to Compiler Scanner Table
+E425_UCS            LOCALE    EBCDIC cp425-ar Upcase
+E500AROM            LOCALE    EBCDIC cp500-inter to MacOS 0-roman
+E500E037            LOCALE    EBCDIC cp500-inter to EBCDIC cp037-usa
+E500E273            LOCALE    EBCDIC cp500-inter to EBCDIC cp273-de
+E500E277            LOCALE    EBCDIC cp500-inter to EBCDIC cp277-da
+E500E278            LOCALE    EBCDIC cp500-inter to EBCDIC cp278-fi
+E500E280            LOCALE    EBCDIC cp500-inter to EBCDIC cp280-it
+E500E284            LOCALE    EBCDIC cp500-inter to EBCDIC cp284-es
+E500E297            LOCALE    EBCDIC cp500-inter to EBCDIC cp297-fr
+E500ELAT            LOCALE    EBCDIC cp500-intr to EBCDIC cp1047-lat
+E500EOL1            LOCALE    Scanner translate table for EBCDIC cp500
+E500LAT1            LOCALE    EBCDIC cp500-inter to ISO 8859/1-latin1
+E500LAT9            LOCALE    EBCDIC cp500-inter to ISO 8859/15-latin9
+E500P850            LOCALE    EBCDIC cp500-inter to IBMPC OEM 850-west
+E500P858            LOCALE    EBCDIC cp500-inter to IBMPC OEM 858-euro
+E500UNIC            LOCALE    EBCDIC cp500-inter to Unicode mapping
+E500WLT1            LOCALE    EBCDIC cp500-inter to Win Cp1252-latin1
+E500_CCL            LOCALE    EBCDIC cp500-inter Char Classification CCL Table
+E500_LCS            LOCALE    EBCDIC cp500-inter Lowcase
+E500_SCC            LOCALE    EBCDIC cp500-inter Scanner CCL Table
+E500_SCN            LOCALE    EBCDIC cp500-inter Compiler to Encoding Scanner Table
+E500_SNP            LOCALE    EBCDIC cp500 - Compiler variant to session scanner table
+E500_SSN            LOCALE    EBCDIC cp500-inter Encoding to Compiler Scanner Table
+E500_UCS            LOCALE    EBCDIC cp500-inter Upcase
+E722_E2A            LOCALE    EBCDIC cp1157-et to IBMPC OEM 922-et Remote Scanner Table
+E7L6_E2A            LOCALE    EBCDIC cp1157-et to ISO 8859/10-latin6 Remote Scanner Table
+E7WB_E2A            LOCALE    EBCDIC cp1157-et to Win cp1257-baltic Remote Scanner Table
+E838ATHA            LOCALE    EBCDIC cp838-th to MacOS 21-thai
+E838EOL1            LOCALE    Scanner translate table for EBCDIC cp838
+E838P874            LOCALE    EBCDIC cp838-th to IBMPC OEM 874-th
+E838THAI            LOCALE    EBCDIC cp838-th to ISO 8859/11-thai
+E838UNIC            LOCALE    EBCDIC cp838-th to Unicode mapping
+E838_CCL            LOCALE    EBCDIC cp838-th Char Classification CCL Table
+E838_LCS            LOCALE    EBCDIC cp838-th Lowcase
+E838_SCC            LOCALE    EBCDIC cp838-th Scanner CCL Table
+E838_SCN            LOCALE    EBCDIC cp838-th Compiler to Encoding Scanner Table
+E838_SNP            LOCALE    EBCDIC cp838-th - Compiler variant to session scanner table
+E838_SSN            LOCALE    EBCDIC cp838-th Encoding to Compiler Scanner Table
+E838_UCS            LOCALE    EBCDIC cp838-th Upcase
+E870AEUR            LOCALE    EBCDIC cp870-lat2 to MacOS 29-easteuro
+E870ELAT            LOCALE    EBCDIC cp870-lat2 to EBCDIC cp1047-lat
+E870EOL1            LOCALE    Scanner translate table for EBCDIC cp870
+E870LAT2            LOCALE    EBCDIC cp870-lat2 to ISO 8859/2-latin2
+E870P852            LOCALE    EBCDIC cp870-lat2 to IBMPC OEM 852-slav
+E870UNIC            LOCALE    EBCDIC cp870-lat2 to Unicode mapping
+E870WLT2            LOCALE    EBCDIC cp870-lat2 to Win Cp1250-latin2
+E870_CCL            LOCALE    EBCDIC cp870-lat2 Char Classification CCL Table
+E870_LCS            LOCALE    EBCDIC cp870-lat2 Lowcase
+E870_SCC            LOCALE    EBCDIC cp870-lat2 Scanner CCL Table
+E870_SCN            LOCALE    EBCDIC cp870-lat2 Compiler to Encoding Scanner Table
+E870_SNP            LOCALE    EBCDIC cp870-lat2 - Compiler variant to session scanner table
+E870_SSN            LOCALE    EBCDIC cp870-lat2 Encoding to Compiler Scanner Table
+E870_UCS            LOCALE    EBCDIC cp870-lat2 Upcase
+E875AGRK            LOCALE    EBCDIC cp875-el to MacOS 6-greek
+E875CYRL            LOCALE    EBCDIC cp875-el to ISO 8859/5-cyr
+E875ELAT            LOCALE    EBCDIC cp875-el to EBCDIC cp1047-lat1
+E875EOL1            LOCALE    Scanner translate table for EBCDIC cp875
+E875GREK            LOCALE    EBCDIC cp875-el to ISO 8859/7-greek
+E875P737            LOCALE    EBCDIC cp875-el to MSDOS OEM 737-el
+E875P869            LOCALE    EBCDIC cp875-el to IBMPC OEM 869-el
+E875UNIC            LOCALE    EBCDIC cp875-el to Unicode mapping
+E875WGRK            LOCALE    EBCDIC cp875-el to Win Cp1253-greek
+E875_CCL            LOCALE    EBCDIC cp875-el Char Classification CCL Table
+E875_LCS            LOCALE    EBCDIC cp875-el Lowcase
+E875_SCC            LOCALE    EBCDIC cp875-el  Scanner CCL Table
+E875_SCN            LOCALE    EBCDIC cp875-el Compiler to Encoding Scanner Table
+E875_SNP            LOCALE    EBCDIC cp875-el - Compiler variant to session scanner table
+E875_SSN            LOCALE    EBCDIC cp875-el Encoding to Compiler Scanner Table
+E875_UCS            LOCALE    EBCDIC cp875-el Upcase
+E880ACYR            LOCALE    EBCDIC cp880-ru to MacOS 7-cyrillic
+E880AUKR            LOCALE    EBCDIC cp880-ru to MacOS 152-ukraine
+E880CYRL            LOCALE    EBCDIC cp880-ru to ISO 8859/5-cyrill
+E880P855            LOCALE    EBCDIC cp880-ru to IBMPC OEM 855-cyrl
+E880P866            LOCALE    EBCDIC cp880-ru to IBMPC OEM 866-cyrl
+E880UNIC            LOCALE    EBCDIC cp880-ru to Unicode mapping
+E880WCYR            LOCALE    EBCDIC cp880-ru to Win Cp1251-cyrill
+E880_CCL            LOCALE    EBCDIC cp880-ru Char Classification CCL Table
+E880_LCS            LOCALE    EBCDIC cp880-ru Lowcase
+E880_SCC            LOCALE    EBCDIC cp880-ru Scanner CCL Table
+E880_UCS            LOCALE    EBCDIC cp880-ru Upcase
+E905LAT3            LOCALE    EBCDIC cp905 - Latin3 to ISO 8859/3-latin3
+E905UNIC            LOCALE    EBCDIC cp905 - Latin3 to Unicode mapping
+E905WLT1            LOCALE    EBCDIC cp905-latin3 to Win Cp1252-latin1
+E905_CCL            LOCALE    EBCDIC cp905 Char Classification CCL Table
+E905_LCS            LOCALE    EBCDIC cp905 LCS Table
+E905_SCC            LOCALE    EBCDIC cp905 Scanner SCC Table
+E905_SCN            LOCALE    EBCDIC cp905 Compiler to Encoding Scanner Table
+E905_SNP            LOCALE    EBCDIC cp905 - Compiler variant to session scanner table
+E905_SSN            LOCALE    EBCDIC cp905 Encoding to Compiler Scanner Table
+E905_UCS            LOCALE    EBCDIC cp905 UCS Table
+E924AROM            LOCALE    EBCDIC cp924-lat1 to MacOS 0-roman
+E924ELAT            LOCALE    EBCDIC cp924-lat9 to EBCDIC cp1047-lat
+E924EOL1            LOCALE    Scanner translate table for EBCDIC cp924
+E924LAT1            LOCALE    EBCDIC cp924-lat1 to ISO 8859/1-latin1
+E924LAT9            LOCALE    EBCDIC cp924-lat1 to ISO 8859/15-latin9
+E924P437            LOCALE    EBCDIC cp924-lat1 to IBMPC OEM 437-usa
+E924P850            LOCALE    EBCDIC cp924-lat1 to IBMPC OEM 850-west
+E924P858            LOCALE    EBCDIC cp924-lat1 to IBMPC OEM 858-euro
+E924P860            LOCALE    EBCDIC cp924-lat1 to IBMPC OEM 860-pt
+E924UNIC            LOCALE    EBCDIC cp924-lat1 to Unicode mapping
+E924WLT1            LOCALE    EBCDIC cp924-lat1 to Win Cp1252-latin1
+E924_CCL            LOCALE    EBCDIC cp924-lat1 Char Classification CCL Table
+E924_LCS            LOCALE    EBCDIC cp924-lat1 Lowcase
+E924_SCC            LOCALE    EBCDIC cp924-lat1 Scanner CCL Table
+E924_SCN            LOCALE    EBCDIC cp924-lat1 Compiler to Encoding Scanner Table
+E924_SSN            LOCALE    EBCDIC cp924-lat1 Encoding to Compiler Scanner Table
+E924_UCS            LOCALE    EBCDIC cp924-lat1 Upcase
+EB2AS               LOCALE    Old ebcdic to ascii transcoding table
+EBALAEUR            LOCALE    EBCDIC cp1112-balt to MacOS 29-easteuro
+EBALELAT            LOCALE    EBCDIC cp1112-balt to EBCDIC cp1047-la
+EBALEOL1            LOCALE    EBCDIC cp1112-balt to OpenEd cp1047-la
+EBALLAT6            LOCALE    EBCDIC cp1112-balt to ISO 8859/10-latin6
+EBALP921            LOCALE    EBCDIC cp1112-balt to IBMPC OEM 921-balt
+EBALUNIC            LOCALE    EBCDIC cp1112-balt to Unicode mapping
+EBALWBAL            LOCALE    EBCDIC cp1112-balt to  Win Cp1257-baltic
+EBAL_CCL            LOCALE    EBCDIC cp1112-balt Char Classification CCL Table
+EBAL_LCS            LOCALE    EBCDIC cp1112-balt Lowcase
+EBAL_SCC            LOCALE    EBCDIC cp1112-balt Scanner CCL Table
+EBAL_SCN            LOCALE    EBCDIC cp1112-balt Compiler to Encoding Scanner Table
+EBAL_SNP            LOCALE    EBCDIC cp1112 - Compiler variant to session scanner table
+EBAL_SSN            LOCALE    EBCDIC cp1112-balt Encoding to Compiler Scanner Table
+EBAL_UCS            LOCALE    EBCDIC cp1112-balt Upcase
+EBCDIC              HOST       
+ECYRACYR            LOCALE    EBCDIC cp1025-cyrl to MacOS 7-cyrillic
+ECYRAUKR            LOCALE    EBCDIC cp1025-cyrl to MacOS 152-ukraine
+ECYRCYRL            LOCALE    EBCDIC cp1025-cyrl to ISO 8859/5-cyrill
+ECYRELAT            LOCALE    EBCDIC cp1025-cyr to EBCDIC cp1047-lat
+ECYREOL1            LOCALE    EBCDIC cp1025-cyr to OpenEd cp1047-lat
+ECYRP855            LOCALE    EBCDIC cp1025-cyrl to IBMPC OEM 855-cyrl
+ECYRP866            LOCALE    EBCDIC cp1025-cyrl to IBMPC OEM 866-cyrl
+ECYRUNIC            LOCALE    EBCDIC cp1026-cyrl to Unicode mapping
+ECYRWCYR            LOCALE    EBCDIC cp1025-cyrl to Win Cp1251-cyrill
+ECYR_CCL            LOCALE    EBCDIC cp1026-cyrl Char Classification CCL Table
+ECYR_LCS            LOCALE    EBCDIC cp1026-cyrl Lowcase
+ECYR_SCC            LOCALE    EBCDIC cp1025-cyrilic Scanner CCL Table
+ECYR_SCN            LOCALE    EBCDIC cp1025-cyrl Compiler to Encoding Scanner Table
+ECYR_SNP            LOCALE    EBCDIC cp1025 - Compiler variant to session scanner table
+ECYR_SSN            LOCALE    EBCDIC cp1025-cyrl Encoding to Compiler Scanner Table
+ECYR_UCS            LOCALE    EBCDIC cp1026-cyrl Upcase
+EESTAEUR            LOCALE    EBCDIC cp1122-et to MacOS 29-easteuro
+EESTELAT            LOCALE    EBCDIC cp1122-et to EBCDIC cp1047-lat1
+EESTEOL1            LOCALE    EBCDIC cp1122-et to OpenEd cp1047-lat1
+EESTLAT6            LOCALE    EBCDIC cp1122-et to ISO 8859/10-latin6
+EESTP922            LOCALE    EBCDIC cp1122-et to IBMPC OEM 922-et
+EESTUNIC            LOCALE    EBCDIC cp1122-et to Unicode mapping
+EESTWBAL            LOCALE    EBCDIC cp1122-et to Win Cp1257-baltic
+EEST_CCL            LOCALE    EBCDIC cp1122-et Char Classification CCL Table
+EEST_LCS            LOCALE    EBCDIC cp1122-et Lowcase
+EEST_SCC            LOCALE    EBCDIC cp1122-et Scanner CCL Table
+EEST_SCN            LOCALE    EBCDIC cp1122-et Compiler to Encoding Scanner Table
+EEST_SNP            LOCALE    EBCDIC cp1122-et - Compiler variant to session scanner table
+EEST_SSN            LOCALE    EBCDIC cp1122-et Encoding to Compiler Scanner Table
+EEST_UCS            LOCALE    EBCDIC cp1122-et Upcase
+EL37_E2A            LOCALE    EBCDIC cp875-el to MSDOS OEM 737-el Remote Scanner Table
+EL69_E2A            LOCALE    EBCDIC cp875-el to IBMPC OEM 869-el Remote Scanner Table
+ELAG_E2A            LOCALE    EBCDIC cp875-el to MacOS 6-greek Remote Scanner Table
+ELATAROM            LOCALE    EBCDIC cp1047-lat1 to MacOS 0-roman
+ELATE273            LOCALE    EBCDIC cp1047-lat1 to EBCDIC cp273-de
+ELATE277            LOCALE    EBCDIC cp1047-lat1 to EBCDIC cp277-da
+ELATE278            LOCALE    EBCDIC cp1047-lat1 to EBCDIC cp278-fi
+ELATEOL1            LOCALE    EBCDIC cp1047-lat1 to OpenEd cp1047-la
+ELATLAT1            LOCALE    EBCDIC cp1047-lat1 to ISO 8859/1-latin1
+ELATLAT9            LOCALE    EBCDIC cp1047-lat1 to ISO 8859/15-latin9
+ELATP437            LOCALE    EBCDIC cp1047-lat1 to IBMPC OEM 437-usa
+ELATP850            LOCALE    EBCDIC cp1047-lat1 to IBMPC OEM 850-west
+ELATP858            LOCALE    EBCDIC cp1047-lat1 to IBMPC OEM 858-euro
+ELATUNIC            LOCALE    EBCDIC cp1047-lat1 to Unicode mapping
+ELATWLT1            HOST       
+ELATWLT1            LOCALE    EBCDIC cp1047-lat1 to Win Cp1252-latin
+ELAT_CCL            LOCALE    EBCDIC cp1047-lat1 Char Classification CCL Table
+ELAT_LCS            LOCALE    EBCDIC cp1047-lat1 Lowcase
+ELAT_SCC            LOCALE    EBCDIC cp1047-lat1 Scanner CCL Table
+ELAT_SCN            LOCALE    EBCDIC cp1047-lat1 Compiler to Encoding Scanner Table
+ELAT_UCS            LOCALE    EBCDIC cp1047-lat1 Upcase
+ELGR_E2A            LOCALE    EBCDIC cp875-el to ISO 8859/7-greek Remote Scanner Table
+ELWG_E2A            LOCALE    EBCDIC cp875-el to Win cp1253-greek Remote Scanner Table
+EO30_SCN            LOCALE    EBCDIC cp930 - Scanner table
+EO33_SCN            LOCALE    EBCDIC cp933 - Scanner table
+EO35_SCN            LOCALE    EBCDIC cp935 - Scanner table
+EO37_SCN            LOCALE    EBCDIC cp937 - Scanner table
+EO39_SCN            LOCALE    EBCDIC cp939 - Scanner table
+EO40ANSI            LOCALE    OpenEd cp1140-usa to 7-bit ASCII
+EO40AROM            LOCALE    OpenEd cp1140-usa to MacOS 0-roman
+EO40EOL1            LOCALE    OpenEd cp1140-usa to OpenEd cp1047-lat
+EO40LAT1            LOCALE    OpenEd cp1140-usa to ISO 8859/1-latin1
+EO40LAT9            LOCALE    OpenEd cp1140-usa to ISO 8859/15-latin
+EO40P437            LOCALE    OpenEd EBCDIC cp1140-usa to IBMPC OEM 437-us
+EO40P850            LOCALE    OpenEd cp1140-usa to IBMPC OEM 850-wes
+EO40P858            LOCALE    OpenEd cp1140-usa to IBMPC OEM 858-eur
+EO40UNIC            LOCALE    OpenEd EBCDIC cp1140-usa to Unicode mapping
+EO40WLT1            LOCALE    OpenEd cp1140-usa to Win Cp1252-latin1
+EO40YPCS            LOCALE    OpenEd cp1140-usa to IBM cp1114-zt
+EO40_CCL            LOCALE    Open Edition 1140-us Char Classification CCL Table
+EO40_LCS            LOCALE    Open Edition 1140-us Lowcase
+EO40_SCC            LOCALE    OpenEdition cp1140-usa Scanner CCL Table
+EO40_SCN            LOCALE    OpenEd EBCDIC 1140-usa Compiler to Encoding Scanner Table
+EO40_SES            LOCALE    OpenEd EBCDIC cp1140-us ses scanner table
+EO40_SNP            LOCALE    OE EBCDIC 1140 - Compiler variant to session scanner table
+EO40_SSN            LOCALE    OpenEd EBCDIC 1140-usa Encoding to Compiler Scanner Table
+EO40_UCS            LOCALE    Open Edition 1140-us Upcase
+EO41AROM            LOCALE    OpenEd cp1141-de to MacOS 0-roman
+EO41EOL1            LOCALE    OpenEd cp1141-de to OpenEd cp1047-lat1
+EO41LAT1            LOCALE    OpenEd cp1141-de to ISO 8859/1-latin1
+EO41LAT9            LOCALE    OpenEd cp1141-de to ISO 8859/15-latin9
+EO41P850            LOCALE    OpenEd cp1141-de to IBMPC OEM 850-west
+EO41P858            LOCALE    OpenEd cp1141-de to IBMPC OEM 858-euro
+EO41UNIC            LOCALE    OpenEd EBCDIC cp1141-de to Unicode mapping
+EO41WLT1            LOCALE    OpenEd cp1141-de to Win Cp1252-latin1
+EO41_CCL            LOCALE    Open Edition 1141-German Char Classification CCL Table
+EO41_LCS            LOCALE    Open Edition 1141-German Lowcase
+EO41_SCC            LOCALE    OpenEdition cp1141-de Scanner CCL Table
+EO41_SCN            LOCALE    OpenEd EBCDIC 1141-de Compiler to Encoding Scanner Table
+EO41_SES            LOCALE    OpenEd EBCDIC cp1141-de ses scanner table
+EO41_SNP            LOCALE    OE EBCDIC 1141-de - Compiler variant to session scanner table
+EO41_SSN            LOCALE    OpenEd EBCDIC 1141-de Encoding to Compiler Scanner Table
+EO41_UCS            LOCALE    Open Edition 1141-German Upcase
+EO42AROM            LOCALE    OpenEd cp1142-da to MacOS 0-roman
+EO42EOL1            LOCALE    OpenEd cp1142-da to OpenEd cp1047-lat1
+EO42LAT1            LOCALE    OpenEd cp1142-da to ISO 8859/1-latin1
+EO42LAT9            LOCALE    OpenEd cp1142-da to ISO 8859/15-latin9
+EO42P850            LOCALE    OpenEd cp1142-da to IBMPC OEM 850-west
+EO42P858            LOCALE    OpenEd cp1142-da to IBMPC OEM 858-euro
+EO42UNIC            LOCALE    OpenEd EBCDIC cp1142-da to Unicode mapping
+EO42WLT1            LOCALE    OpenEd cp1142-da to Win Cp1252-latin1
+EO42_CCL            LOCALE    Open Edition 1142-Danish Char Classification CCL Table
+EO42_LCS            LOCALE    Open Edition 1142-Danish Lowcase
+EO42_SCC            LOCALE    OpenEdition cp1142-da Scanner CCL Table
+EO42_SCN            LOCALE    OpenEd EBCDIC 1142-da Compiler to Encoding Scanner Table
+EO42_SES            LOCALE    OpenEd EBCDIC cp1142-da ses scanner table
+EO42_SNP            LOCALE    OE EBCDIC 1142-da - Compiler variant to session scanner table
+EO42_SSN            LOCALE    OpenEd EBCDIC 1142-da Encoding to Compiler Scanner Table
+EO42_UCS            LOCALE    Open Edition 1142-Danish Upcase
+EO43AROM            LOCALE    OpenEd cp1143-fi to MacOS 0-roman
+EO43EOL1            LOCALE    OpenEd cp1143-fi to OpenEd cp1047-lat1
+EO43LAT1            LOCALE    OpenEd cp1143-fi to ISO 8859/1-latin1
+EO43LAT9            LOCALE    OpenEd cp1143-fi to ISO 8859/15-latin9
+EO43P850            LOCALE    OpenEd cp1143-fi to IBMPC OEM 850-west
+EO43P858            LOCALE    OpenEd cp1143-fi to IBMPC OEM 858-euro
+EO43UNIC            LOCALE    OpenEd EBCDIC cp1143-fi to Unicode mapping
+EO43WLT1            LOCALE    OpenEd cp1143-fi to Win Cp1252-latin1
+EO43_CCL            LOCALE    Open Edition 1143-Finnish Char Classification CCL Table
+EO43_LCS            LOCALE    Open Edition 1143-Finnish Lowcase
+EO43_SCC            LOCALE    OpenEdition cp1143-fi Scanner CCL Table
+EO43_SCN            LOCALE    OpenEd EBCDIC 1143-fi Compiler to Encoding Scanner Table
+EO43_SES            LOCALE    OpenEd EBCDIC cp1143-fi ses scanner table
+EO43_SNP            LOCALE    OE EBCDIC 1143-fi - Compiler variant to session scanner table
+EO43_SSN            LOCALE    OpenEd EBCDIC 1143-fi Encoding to Compiler Scanner Table
+EO43_UCS            LOCALE    Open Edition 1143-Finnish Upcase
+EO44AROM            LOCALE    OpenEd cp1144-it to MacOS 0-roman
+EO44EOL1            LOCALE    OpenEd cp1144-it to OpenEd cp1047-lat1
+EO44LAT1            LOCALE    OpenEd cp1144-it to ISO 8859/1-latin1
+EO44LAT9            LOCALE    OpenEd cp1144-it to ISO 8859/15-latin9
+EO44P850            LOCALE    OpenEd cp1144-it to IBMPC OEM 850-west
+EO44P858            LOCALE    OpenEd cp1144-it to IBMPC OEM 858-euro
+EO44UNIC            LOCALE    OpenEd EBCDIC cp1144-it to Unicode mapping
+EO44WLT1            LOCALE    OpenEd cp1144-it to Win Cp1252-latin1
+EO44_CCL            LOCALE    Open Edition 1144-Italian Char Classification CCL Table
+EO44_LCS            LOCALE    Open Edition 1144-Italian Lowcase
+EO44_SCC            LOCALE    OpenEdition cp1144-it Scanner CCL Table
+EO44_SCN            LOCALE    OpenEd EBCDIC 1144-it Compiler to Encoding Scanner Table
+EO44_SES            LOCALE    OpenEd EBCDIC cp1144-it ses scanner table
+EO44_SNP            LOCALE    OE EBCDIC 1144-it - Compiler variant to session scanner table
+EO44_SSN            LOCALE    OpenEd EBCDIC 1144-it Encoding to Compiler Scanner Table
+EO44_UCS            LOCALE    Open Edition 1144-Italian Upcase
+EO45AROM            LOCALE    OpenEd cp1145-es to MacOS 0-roman
+EO45EOL1            LOCALE    OpenEd cp1145-es to OpenEd cp1047-lat1
+EO45LAT1            LOCALE    OpenEd cp1145-es to ISO 8859/1-latin1
+EO45LAT9            LOCALE    OpenEd cp1145-es to ISO 8859/15-latin9
+EO45P850            LOCALE    OpenEd cp1145-es to IBMPC OEM 850-west
+EO45P858            LOCALE    OpenEd cp1145-es to IBMPC OEM 858-euro
+EO45UNIC            LOCALE    OpenEd EBCDIC cp1145-es to Unicode mapping
+EO45WLT1            LOCALE    OpenEd cp1145-es to Win Cp1252-latin1
+EO45_CCL            LOCALE    Open Edition 1145-Spanish Char Classification CCL Table
+EO45_LCS            LOCALE    Open Edition 1145-Spanish Lowcase
+EO45_SCC            LOCALE    OpenEdition cp1145-es Scanner CCL Table
+EO45_SCN            LOCALE     
+EO45_SES            LOCALE    OpenEd EBCDIC cp1145-es ses scanner table
+EO45_SNP            LOCALE    OE EBCDIC 1145-es - Compiler variant to session scanner table
+EO45_SSN            LOCALE    OpenEd EBCDIC 1145-es Encoding to Compiler Scanner Table
+EO45_UCS            LOCALE    Open Edition 1145-Spanish Upcase
+EO46AROM            LOCALE    OpenEd cp1146-uk to MacOS 0-roman
+EO46EOL1            LOCALE    OpenEd cp1146-uk to OpenEd cp1047-lat1
+EO46LAT1            LOCALE    OpenEd cp1146-uk to ISO 8859/1-latin1
+EO46LAT9            LOCALE    OpenEd cp1146-uk to ISO 8859/15-latin9
+EO46P850            LOCALE    OpenEd cp1146-uk to IBMPC OEM 850-west
+EO46P858            LOCALE    OpenEd cp1146-uk to IBMPC OEM 858-euro
+EO46UNIC            LOCALE    OpenEd EBCDIC cp1146-uk to Unicode mapping
+EO46WLT1            LOCALE    OpenEd cp1146-uk to Win Cp1252-latin1
+EO46_CCL            LOCALE    Open Edition 1146-UK Char Classification CCL Table
+EO46_LCS            LOCALE    Open Edition 1146-UK Lowcase
+EO46_SCC            LOCALE    OpenEdition cp1146-uk Scanner CCL Table
+EO46_SCN            LOCALE    OpenEd EBCDIC 1146-uk Compiler to Encoding Scanner Table
+EO46_SES            LOCALE    OpenEd EBCDIC cpii46-gb ses scanner table
+EO46_SNP            LOCALE    OE EBCDIC 1146-uk - Compiler variant to session scanner table
+EO46_SSN            LOCALE    OpenEd EBCDIC 1146-uk Encoding to Compiler Scanner Table
+EO46_UCS            LOCALE    Open Edition 1146-UK Upcase
+EO47AROM            LOCALE    OpenEd cp1147-fr to MacOS 0-roman
+EO47EOL1            LOCALE    OpenEd cp1147-fr to OpenEd cp1047-lat1
+EO47LAT1            LOCALE    OpenEd cp1147-fr to ISO 8859/1-latin1
+EO47LAT9            LOCALE    OpenEd cp1147-fr to ISO 8859/15-latin9
+EO47P850            LOCALE    OpenEd cp1147-fr to IBMPC OEM 850-west
+EO47P858            LOCALE    OpenEd cp1147-fr to IBMPC OEM 858-euro
+EO47UNIC            LOCALE    OpenEd EBCDIC cp1147-fr to Unicode mapping
+EO47WLT1            LOCALE    OpenEd cp1147-fr to Win Cp1252-latin1
+EO47_CCL            LOCALE    Open Edition 1147-French Char Classification CCL Table
+EO47_LCS            LOCALE    Open Edition 1147-French Lowcase
+EO47_SCC            LOCALE    OpenEdition cp1147-fr Scanner CCL Table
+EO47_SCN            LOCALE    OpenEd EBCDIC 1147-fr Compiler to Encoding Scanner Table
+EO47_SES            LOCALE    OpenEd EBCDIC cp1147-fr ses scanner table
+EO47_SNP            LOCALE    OE EBCDIC 1147-fr - Compiler variant to session scanner table
+EO47_SSN            LOCALE    OpenEd EBCDIC 1147-fr Encoding to Compiler Scanner Table
+EO47_UCS            LOCALE    Open Edition 1147-French Upcase
+EO48AROM            LOCALE    OpenEd cp1148-int to MacOS 0-roman
+EO48EOL1            LOCALE    OpenEd cp1148-int to OpenEd cp1047-lat
+EO48LAT1            LOCALE    OpenEd cp1148-int to ISO 8859/1-latin1
+EO48LAT9            LOCALE    OpenEd cp1148-int to ISO 8859/15-latin
+EO48P850            LOCALE    OpenEd cp1148-int to IBMPC OEM 850-wes
+EO48P858            LOCALE    OpenEd cp1148-int to IBMPC OEM 858-eur
+EO48UNIC            LOCALE    OpenEd EBCDIC cp1148-sw to Unicode mapping
+EO48WLT1            LOCALE    OpenEd cp1148-int to Win Cp1252-latin1
+EO48_CCL            LOCALE    Open Edition 1148-Inter. Char Classification CCL Table
+EO48_LCS            LOCALE    Open Edition 1148-Inter. Lowcase
+EO48_SCC            LOCALE    OpenEdition cp1148-inter Scanner CCL Table
+EO48_SCN            LOCALE    OpenEd EBCDIC 1148-inter Compiler to Encoding Scanner Table
+EO48_SES            LOCALE    OpenEd EBCDIC cp1148 ses scanner table
+EO48_SNP            LOCALE    OE EBCDIC 1148 - Compiler variant to session scanner table
+EO48_SSN            LOCALE    OpenEd EBCDIC 1148-inter Encoding to Compiler Scanner Table
+EO48_UCS            LOCALE    Open Edition 1148-Inter. Upcase
+EO49_SES            LOCALE    OpenEd EBCDIC cp1148-is ses scanner table
+EO53UNIC            LOCALE    OpenEd EBCDIC cp1153-Lat2 euro to Unicode mapping
+EO53WLT2            LOCALE    OpenEdition EBCDIC cp1153-latin2 to Win Cp1250-latin2
+EO53_CCL            LOCALE    OpenEd EBCDIC cp1153 Char Classification CCL Table
+EO53_LCS            LOCALE    OpenEd EBCDIC cp1153 LCS Table
+EO53_SCC            LOCALE    EBCDIC OE1153 Scanner SCC Table
+EO53_SCN            LOCALE    OpenEd cp1153 Compiler to Encoding Scanner Table
+EO53_SNP            LOCALE    OE EBCDIC cp1153 - Compiler variant to session scanner table
+EO53_SSN            LOCALE    OpenEd cp1153 Encoding to Compiler Scanner Table
+EO53_UCS            LOCALE    OpenEd EBCDIC cp1153 UCS Table
+EO54UNIC            LOCALE    OpenEd EBCDIC cp1154 - Cyr euro to Unicode mapping
+EO54WCYR            LOCALE    OpenEdition EBCDIC cp1154-Cyrillic to Win Cp1251-Cyrillic
+EO54_CCL            LOCALE    OpenEd EBCDIC cp1154 Char Classification CCL Table
+EO54_LCS            LOCALE    OpenEd EBCDIC cp1154 LCS Table
+EO54_SCC            LOCALE    EBCDIC OE1154 Scanner SCC Table
+EO54_SCN            LOCALE    OpenEd cp1154 Compiler to Encoding Scanner Table
+EO54_SNP            LOCALE    OE EBCDIC cp1154 - Compiler variant to session scanner table
+EO54_SSN            LOCALE    OpenEd cp1154 Encoding to Compiler Scanner Table
+EO54_UCS            LOCALE    OpenEd EBCDIC cp1154 UCS Table
+EO55UNIC            LOCALE    OpenEd EBCDIC cp1157 - et euro to Unicode mapping
+EO55WTUR            LOCALE    OpenEdition EBCDIC cp1155-Tr to Win Cp1254-tr
+EO55_CCL            LOCALE    OpenEd EBCDIC cp1155 Char Classification CCL Table
+EO55_LCS            LOCALE    OpenEd EBCDIC cp1155 LCS Table
+EO55_SCC            LOCALE    EBCDIC OE1155 Scanner SCC Table
+EO55_SCN            LOCALE    OpenEd cp1157 Compiler to Encoding Scanner Table
+EO55_SES            LOCALE    OpenEd EBCDIC cp1155 ses scanner table
+EO55_SNP            LOCALE    OE EBCDIC cp1155 - Compiler variant to session scanner table
+EO55_SSN            LOCALE    OpenEd cp1157 Encoding to Compiler Scanner Table
+EO55_UCS            LOCALE    OpenEd EBCDIC cp1155 UCS Table
+EO56UNIC            LOCALE    OpenEd EBCDIC cp1156-Baltic euro to Unicode mapping
+EO56WBAL            LOCALE    OpenEdition EBCDIC cp1156-baltic to Win Cp1257-baltic
+EO56_CCL            LOCALE    OpenEd EBCDIC cp1156 Char Classification CCL Table
+EO56_LCS            LOCALE    OpenEd EBCDIC cp1156 LCS Table
+EO56_SCC            LOCALE    EBCDIC OE1156 Scanner SCC Table
+EO56_SCN            LOCALE    OpenEd cp1156 Compiler to Encoding Scanner Table
+EO56_SNP            LOCALE    OE EBCDIC cp1156 - Compiler variant to session scanner table
+EO56_SSN            LOCALE    OpenEd cp1156 Encoding to Compiler Scanner Table
+EO56_UCS            LOCALE    OpenEd EBCDIC cp1156 UCS Table
+EO57WBAL            LOCALE    OpenEdition EBCDIC cp1157-et to Win Cp1257-baltic
+EO57_CCL            LOCALE    OpenEd EBCDIC cp1157 Char Classification CCL Table
+EO57_LCS            LOCALE    OpenEd EBCDIC cp1157 LCS Table
+EO57_SCC            LOCALE    EBCDIC OE1157 Scanner SCC Table
+EO57_SCN            LOCALE    OpenEd cp1157 Compiler to Encoding Scanner Table
+EO57_SNP            LOCALE    OE EBCDIC cp1157 - Compiler variant to session scanner table
+EO57_SSN            LOCALE    OpenEd cp1157 Encoding to Compiler Scanner Table
+EO57_UCS            LOCALE    OpenEd EBCDIC cp1157 UCS Table
+EO58UNIC            LOCALE    OpenEd EBCDIC cp1158 - uk_UA euro to Unicode mapping
+EO58WCYR            LOCALE    OpenEdition EBCDIC cp1158-ru_UA to Win Cp1251-Cyrillic
+EO58_CCL            LOCALE    OpenEd EBCDIC cp1158 Char Classification CCL Table
+EO58_LCS            LOCALE    OpenEd EBCDIC cp1158 LCS Table
+EO58_SCC            LOCALE    EBCDIC OE1158 Scanner SCC Table
+EO58_SCN            LOCALE    OpenEd cp1158 Compiler to Encoding Scanner Table
+EO58_SNP            LOCALE    OE EBCDIC cp1158 - Compiler variant to session scanner table
+EO58_SSN            LOCALE    OpenEd cp1158 Encoding to Compiler Scanner Table
+EO58_UCS            LOCALE    OpenEd EBCDIC cp1158 UCS Table
+EO60P874            LOCALE    OpenEd EBCDIC cp1160-th to IBMPC P874-th
+EO60UNIC            LOCALE    OpenEd EBCDIC cp1160-th to Unicode mapping
+EO60_CCL            LOCALE    OpenEd EBCDIC cp1160-th CCL Table
+EO60_LCS            LOCALE    OpenEd EBCDIC cp1160-th LCS Table
+EO60_SCC            LOCALE    EBCDIC OE1160 Scanner SCC Table
+EO60_SCN            LOCALE    OpenEd EBCDIC cp1160-th Compiler to Encoding Scanner Table
+EO60_SNP            LOCALE    OE EBCDIC cp1160 - Compiler variant to session scanner table
+EO60_SSN            LOCALE    OpenEd EBCDIC cp1160-th Encoding to Compiler Scanner Table
+EO60_UCS            LOCALE    OpenEd EBCDIC cp1160-th UCS Table
+EO64UNIC            LOCALE    OpenEd EBCDIC cp1164-Vi to Unicode mapping
+EO64WVIE            LOCALE    OpenEd EBCDIC cp1164-Vi to Win Cp1258
+EO64_CCL            LOCALE    OpenEd EBCDIC cp1164-Vi CCL Table
+EO64_LCS            LOCALE    OpenEd EBCDIC cp1164-Vi LCS Table
+EO64_SCC            LOCALE    EBCDIC OE1164 Scanner SCC Table
+EO64_SCN            LOCALE    OpenEd EBCDIC cp1164-Vi Compiler to Encoding Scanner Table
+EO64_SNP            LOCALE    OE EBCDIC cp1164 - Compiler variant to session scanner table
+EO64_SSN            LOCALE    OpenEd EBCDIC cp1164-Vi Encoding to Compiler Scanner Table
+EO64_UCS            LOCALE    OpenEd EBCDIC cp1164-Vi UCS Table
+EO66KZ48            LOCALE    EBCDIC cp1166-kk to KZ1048 PC Kazakh
+EO66_CCL            LOCALE    EBCDIC cp1166-kk CCL Table
+EO66_LCS            LOCALE    EBCDIC cp1166-kk LCS Table
+EO66_SCC            LOCALE    EBCDIC cp1166-kk Scanner SCC Table
+EO66_SCN            LOCALE    EBCDIC cp1166-kk Compiler to Encoding Scanner Table
+EO66_SSN            LOCALE    EBCDIC cp1166-kk Encoding to Compiler Scanner Table
+EO66_UCS            LOCALE    EBCDIC cp1166-kk UCS Table
+EOA2AARA            LOCALE    OpenEd EBCDIC cp425-ar to MacOS 4-arabic
+EOA2ARAB            LOCALE    OpenEd cp425-ar to ISO 8859/6-arabic
+EOA2EOL1            LOCALE    OpenEd cp425-ar to OpenEd cp1047-lat1
+EOA2P720            LOCALE    OpenEd EBCDIC cp803-ar to P720
+EOA2P864            LOCALE    OpenEd cp425-ar to IBMPC OEM 864-ar
+EOA2UNIC            LOCALE    OpenEd EBCDIC cp803-ar to Unicode mapping
+EOA2WARA            LOCALE    OpenEd cp425-ar to Win Cp1256-arabic
+EOA2_CCL            LOCALE    Open Edition 425-ar Char Classification CCL Table
+EOA2_LCS            LOCALE    Open Edition 425-ar Lowcase
+EOA2_SCC            LOCALE    OpenEdition cp425-ar Scanner CCL Table
+EOA2_SCN            LOCALE    OpenEd EBCDIC 425-ar Compiler to Encoding Scanner Table
+EOA2_SSN            LOCALE    OpenEd EBCDIC 425-ar Encoding to Compiler Scanner Table
+EOA2_UCS            LOCALE    Open Edition 425-ar Upcase
+EOARAARA            LOCALE    OpenEd EBCDIC cp420 to MacOS 4-arabic
+EOARARAB            LOCALE    OPEN EBCDIC cp420-ar to ISO 8859/6-arabic
+EOAREOL1            LOCALE    OpenEd cp420-ar to OpenEd cp1047-lat1
+EOARP864            LOCALE    OPEN EBCDIC cp420-ar to IBMPC OEM 864-ar
+EOARUNIC            LOCALE    OpenEd cp420-ar to Unicode mapping
+EOARWARA            LOCALE    OPEN EBCDIC cp420-ar to Win cp1256-arabic
+EOAR_CCL            LOCALE    OpenEd cp420-ar Char. Classification CCL Table
+EOAR_LCS            LOCALE    OpenEd cp420-ar to Lowcase
+EOAR_SCC            LOCALE    OpenEdition cp420-ar Scanner CCL Table
+EOAR_SCN            LOCALE    OpenEd EBCDIC 420-ar Compiler to Encoding Scanner Table
+EOAR_SSN            LOCALE    OpenEd EBCDIC 420-ar Encoding to Compiler Scanner Table
+EOAR_UCS            LOCALE    OpenEd cp420-ar to Uppercase
+EOBLAEUR            LOCALE    OPEN EBCDIC cp1112-balt to Mac cp10029-latin2
+EOBLELAT            LOCALE    EBCDIC cp to EBCDIC cp1047-lat1
+EOBLEOL1            LOCALE    OpenEd cp1112-balt to OpenEd cp1047-la
+EOBLLAT6            LOCALE    OPEN EBCDIC cp1112-balt to ISO 8859/6-latin6
+EOBLP775            LOCALE    OpenEd EBCDIC cp1112-balt to MSDOS OEM 775-balt
+EOBLP921            LOCALE    OPEN EBCDIC cp1112-balt to IBMPC OEM 921-balt
+EOBLUNIC            LOCALE    OpenEd EBCDIC cp1112-balt to Unicode mapping
+EOBLWBAL            LOCALE    OPEN EBCDIC cp1112-balt to Win cp1257-baltic
+EOBL_CCL            LOCALE    OpenEd cp1112-balt Char. Classification CCL Table
+EOBL_LCS            LOCALE    OpenEd cp1112-balt to Lowcase
+EOBL_SCC            LOCALE    OpenEdition cp1112-balt Scanner CCL Table
+EOBL_SCN            LOCALE    OpenEd EBCDIC 1112-blt Compiler to Encoding Scanner Table
+EOBL_SNP            LOCALE    OE EBCDIC cp1112 - Compiler variant to session scanner table
+EOBL_SSN            LOCALE    OpenEd EBCDIC 1112-blt Encoding to Compiler Scanner Table
+EOBL_UCS            LOCALE    OpenEd cp1112-balt to Uppercase
+EOBRAROM            LOCALE    OpenEd cp275-br to MacOS 0-roman
+EOBREOL1            LOCALE    OpenEd cp275-br to OpenEd cp1047-lat1
+EOBRLAT1            LOCALE    OpenEd cp275-br to ISO 8859/1-latin1
+EOBRP850            LOCALE    OpenEd cp275-br to IBMPC OEM 850-west
+EOBRUNIC            LOCALE    OpenEd EBCDIC cp275-br to Unicode mapping
+EOBRWLT1            LOCALE    OpenEd cp275-br to Win Cp1252-latin1
+EOBR_CCL            LOCALE    Open Edition 275-br Char Classification CCL Table
+EOBR_LCS            LOCALE    Open Edition 275-br Lowcase
+EOBR_SCC            LOCALE    OpenEdition cp275-br Scanner CCL Table
+EOBR_SCN            LOCALE    OpenEd EBCDIC 275-br Compiler to Encoding Scanner Table
+EOBR_SES            LOCALE    OpenEd EBCDIC cp275-br ses scanner table
+EOBR_SNP            LOCALE    OE EBCDIC 275-br - Compiler variant to session scanner table
+EOBR_SSN            LOCALE    OpenEd EBCDIC 275-br Encoding to Compiler Scanner Table
+EOBR_UCS            LOCALE    Open Edition 275-br Upcase
+EOCYACYR            LOCALE    OPEN EBCDIC cp1025-cyr to Mac cp10007-cyrill
+EOCYAUKR            LOCALE    OPEN EBCDIC cp1025-cyr to Mac cp10152-ukraine
+EOCYCYRL            LOCALE    OPEN EBCDIC cp1025-cyr to ISO 8859/5-cyrill
+EOCYEOL1            LOCALE    OpenEd cp1025-cyr to OpenEd cp1047-lat
+EOCYP855            LOCALE    OPEN EBCDIC cp1025-cyr IBMPC OEM 855-cyrl
+EOCYP866            LOCALE    OPEN EBCDIC cp1025-cyr to IBMPC OEM 866-cyrl
+EOCYUNIC            LOCALE    OpenEd EBCDIC cp1026-cyrl to Unicode mapping
+EOCYWCYR            LOCALE    OPEN EBCDIC cp1025-cyr to Win cp1251-cyrill
+EOCY_CCL            LOCALE    OpenEd cp1025-cyr Char. Classification CCL Table
+EOCY_LCS            LOCALE    OpenEd cp1025-cyr to Lowcase
+EOCY_SCC            LOCALE    OpenEdition cp1025-cyrillic Scanner CCL Table
+EOCY_SCN            LOCALE    OpenEd EBCDIC 1025-cyr Compiler to Encoding Scanner Table
+EOCY_SNP            LOCALE    OE EBCDIC cp1025 - Compiler variant to session scanner table
+EOCY_SSN            LOCALE    OpenEd EBCDIC 1025-cyr Encoding to Compiler Scanner Table
+EOCY_UCS            LOCALE    OpenEd cp1025-cyr to Uppercase
+EODAAROM            LOCALE    OpenEd cp277-da to MacOS 0-roman
+EODAEOL1            LOCALE    OpenEd cp277-da to OpenEd cp1047-lat1
+EODALAT1            LOCALE    OpenEd cp277-da to ISO 8859/1-latin1
+EODAP850            LOCALE    OpenEd cp277-da to IBMPC OEM 850-west
+EODAUNIC            LOCALE    OpenEd EBCDIC cp277-da to Unicode mapping
+EODAWLT1            LOCALE    OpenEd cp277-da to Win Cp1252-latin1
+EODA_SCN            LOCALE    OpenEd EBCDIC 277-da Compiler to Encoding Scanner Table
+EODA_SNP            LOCALE    OE EBCDIC 277-da - Compiler variant to session scanner table
+EODA_SSN            LOCALE    OpenEd EBCDIC 277-da Encoding to Compiler Scanner Table
+EODEAROM            LOCALE    OpenEd cp273-de to MacOS 0-roman
+EODEEOL1            LOCALE    OpenEd cp273-de to OpenEd cp1047-lat1
+EODELAT1            LOCALE    OpenEd cp273-de to ISO 8859/1-latin1
+EODEP850            LOCALE    OpenEd cp273-de to IBMPC OEM 850-west
+EODEUNIC            LOCALE    OpenEd EBCDIC cp273-de to Unicode mapping
+EODEWLT1            LOCALE    OpenEd cp273-de to Win Cp1252-latin1
+EODE_SCN            LOCALE    OpenEd EBCDIC 273-de Compiler to Encoding Scanner Table
+EODE_SNP            LOCALE    OE EBCDIC 273-de - Compiler variant to session scanner table
+EODE_SSN            LOCALE    OpenEd EBCDIC 273-de Encoding to Compiler Scanner Table
+EOELAGRK            LOCALE    OPEN EBCDIC cp875-el to Mac cp10006-greek
+EOELCYRL            LOCALE    OPEN EBCDIC cp875-el to ISO 8859/5-cyrill
+EOELEOL1            LOCALE    OpenEd cp875-el to OpenEd cp1047-lat1
+EOELGREK            LOCALE    OPEN EBCDIC cp875-el to ISO 8859/7-greek
+EOELP737            LOCALE    OPEN EBCDIC cp875-el IBMPC OEM 737-el
+EOELP869            LOCALE    OPEN EBCDIC cp875-el to IBMPC OEM 869-el
+EOELUNIC            LOCALE    OpenEd cp875-el to Unicode mapping
+EOELWGRK            LOCALE    OPEN EBCDIC cp875-el to Win cp1253-greek
+EOEL_CCL            LOCALE    OpenEd cp875-el Char. Classification CCL Table
+EOEL_LCS            LOCALE    OpenEd cp875-el to Lowcase
+EOEL_SCC            LOCALE    OpenEdition cp875-el Scanner CCL Table
+EOEL_SCN            LOCALE    OpenEd EBCDIC 875-el Compiler to Encoding Scanner Table
+EOEL_SNP            LOCALE    OE EBCDIC 875-el - Compiler variant to session scanner table
+EOEL_SSN            LOCALE    OpenEd EBCDIC 875-el Encoding to Compiler Scanner Table
+EOEL_UCS            LOCALE    OpenEd cp875-el to Uppercase
+EOESAROM            LOCALE    OpenEd cp284-es to MacOS 0-roman
+EOESEOL1            LOCALE    OpenEd cp284-es to to OpenEd cp1047-la
+EOESLAT1            LOCALE    OpenEd cp284-es to ISO 8859/1-latin1
+EOESP850            LOCALE    OpenEd cp284-es to IBMPC OEM 850-west
+EOESUNIC            LOCALE    OpenEd EBCDIC cp284-es to Unicode mapping
+EOESWLT1            LOCALE    OpenEd cp284-es to Win Cp1252-latin1
+EOES_SCN            LOCALE     
+EOES_SNP            LOCALE    OE EBCDIC 284-es - Compiler variant to session scanner table
+EOES_SSN            LOCALE    OpenEd EBCDIC 284-es Encoding to Compiler Scanner Table
+EOETAEUR            LOCALE    OPEN EBCDIC cp1122-et to Mac cp10029-latin2
+EOETEOL1            LOCALE    OpenEd cp1112-et to OpenEd cp1047-lat1
+EOETLAT6            LOCALE    OPEN EBCDIC cp1122-et to ISO 8859/6-latin6
+EOETP775            LOCALE    OpenEd EBCDIC cp1122-et to MSDOS OEM 775-balt
+EOETP922            LOCALE    OPEN EBCDIC cp1122-et to IBMPC OEM 922-et
+EOETUNIC            LOCALE    OpenEd EBCDIC cp1122-et to Unicode mapping
+EOETWBAL            LOCALE    OPEN EBCDIC cp1122-et to Win cp1257-baltic
+EOET_CCL            LOCALE    OpenEd cp1122-et Char. Classification CCL Table
+EOET_LCS            LOCALE    OpenEd cp1122-et to Lowcase
+EOET_SCC            LOCALE    OpenEdition cp1122-et Scanner CCL Table
+EOET_SCN            LOCALE    OpenEd EBCDIC 1122-et Compiler to Encoding Scanner Table
+EOET_SNP            LOCALE    OE EBCDIC 1122-et - Compiler variant to session scanner table
+EOET_SSN            LOCALE    OpenEd EBCDIC 1122-et Encoding to Compiler Scanner Table
+EOET_UCS            LOCALE    OpenEd cp1122-et to Uppercase
+EOFAP098            LOCALE    OpenEdition EBCDIC cp1097-Farsi to PC Farsi Cp1098
+EOFAUNIC            LOCALE    OpenEd EBCDIC cp1097 - fa to Unicode mapping
+EOFAWARA            LOCALE    OpenEdition EBCDIC cp1097-Farsi to Win Cp1256-Arabic
+EOFA_CCL            LOCALE    OpenEd EBCDIC cp1097 Char Classification CCL Table
+EOFA_LCS            LOCALE    OpenEd EBCDIC cp1097 LCS Table
+EOFA_SCC            LOCALE    EBCDIC OE1097 Scanner SCC Table
+EOFA_SCN            LOCALE    OpenEd cp1097 Compiler to Encoding Scanner Table
+EOFA_SNP            LOCALE    OE EBCDIC cp1097 - Compiler variant to session scanner table
+EOFA_SSN            LOCALE    OpenEd cp1097 Encoding to Compiler Scanner Table
+EOFA_UCS            LOCALE    OpenEd EBCDIC cp1097 UCS Table
+EOFIAROM            LOCALE    OpenEd cp278-fi to MacOS 0-roman
+EOFIEOL1            LOCALE    OpenEd cp278-fi to OpenEd cp1047-lat1
+EOFILAT1            LOCALE    OpenEd cp278-fi to ISO 8859/1-latin1
+EOFIP850            LOCALE    OpenEd cp278-fi to IBMPC OEM 850-west
+EOFIUNIC            LOCALE    OpenEd EBCDIC cp278-fi to Unicode mapping
+EOFIWLT1            LOCALE    OpenEd cp278-fi to Win Cp1252-latin1
+EOFI_SCN            LOCALE    OpenEd EBCDIC 278-fi Compiler to Encoding Scanner Table
+EOFI_SNP            LOCALE    OE EBCDIC 278-fi - Compiler variant to session scanner table
+EOFI_SSN            LOCALE    OpenEd EBCDIC 278-fi Encoding to Compiler Scanner Table
+EOFRAROM            LOCALE    OpenEd cp297-fr to MacOS 0-roman
+EOFREOL1            LOCALE    OpenEd cp297-fr to OpenEd cp1047-lat1
+EOFRLAT1            LOCALE    OpenEd cp297-fr to ISO 8859/1-latin1
+EOFRP850            LOCALE    OpenEd cp297-fr to IBMPC OEM 850-west
+EOFRUNIC            LOCALE    OpenEd EBCDIC cp297-fr to Unicode mapping
+EOFRWLT1            LOCALE    OpenEd cp297-fr to Win Cp1252-latin1
+EOFR_SCN            LOCALE    OpenEd EBCDIC 297-fr Compiler to Encoding Scanner Table
+EOFR_SNP            LOCALE    OE EBCDIC 297-fr - Compiler variant to session scanner table
+EOFR_SSN            LOCALE    OpenEd EBCDIC 297-fr Encoding to Compiler Scanner Table
+EOINP806            LOCALE    OpenEd EBCDIC cp1137-Devanagari to PC806 Indian ISCII-91
+EOINUNIC            LOCALE    OpenEd EBCDIC cp1137-Devanagari to Unicode mapping
+EOINWLT1            LOCALE    OpenEd EBCDIC cp1137-Devanagari to Win Cp1252-latin1
+EOIN_CCL            LOCALE    OpenEd EBCDIC cp1137-Devanagari Char Classification CCL Table
+EOIN_LCS            LOCALE    OpenEd EBCDIC cp1137-Devanagari LCS Table
+EOIN_SCC            LOCALE    EBCDIC OE1137 Scanner SCC Table
+EOIN_SCN            LOCALE    OpenEd cp1137 Compiler to Encoding Scanner Table
+EOIN_SSN            LOCALE    OpenEd cp1137 Encoding to Compiler Scanner Table
+EOIN_UCS            LOCALE    OpenEd EBCDIC cp1137-Devanagari UCS Table
+EOISUNIC            LOCALE    OpenEd EBCDIC cp1149-is euro to Unicode mapping
+EOISWLT1            LOCALE    OpenEdition EBCDIC cp1149-is to Win Cp1252-latin1
+EOIS_CCL            LOCALE    OpenEd EBCDIC cp1149 Char Classification CCL Table
+EOIS_LCS            LOCALE    OpenEd EBCDIC cp1149 LCS Table
+EOIS_SCC            LOCALE    EBCDIC OE1149 Scanner SCC Table
+EOIS_SCN            LOCALE    OpenEd cp1149 Compiler to Encoding Scanner Table
+EOIS_SNP            LOCALE    OE EBCDIC cp1149 - Compiler variant to session scanner table
+EOIS_SSN            LOCALE    OpenEd cp1149 Encoding to Compiler Scanner Table
+EOIS_UCS            LOCALE    OpenEd EBCDIC cp1149 UCS Table
+EOITAROM            LOCALE    OpenEd cp280-it to MacOS 0-roman
+EOITEOL1            LOCALE    OpenEd cp280-it to OpenEd cp1047-lat1
+EOITLAT1            LOCALE    OpenEd cp280-it to ISO 8859/1-latin1
+EOITP850            LOCALE    OpenEd cp280-it to IBMPC OEM 850-west
+EOITUNIC            LOCALE    OpenEd EBCDIC cp280-it to Unicode mapping
+EOITWLT1            LOCALE    OpenEd cp280-it to Win Cp1252-latin1
+EOIT_SCN            LOCALE    OpenEd EBCDIC 280-it Compiler to Encoding Scanner Table
+EOIT_SNP            LOCALE    OE EBCDIC 280-it - Compiler variant to session scanner table
+EOIT_SSN            LOCALE    OpenEd EBCDIC 280-it Encoding to Compiler Scanner Table
+EOIWAHEB            LOCALE    OPEN EBCDIC cp424-iw to Mac cp10005-hebrew
+EOIWEOL1            LOCALE    OpenEd cp424-iw to OpenEd cp1047-lat1
+EOIWHEBR            LOCALE    OPEN EBCDIC cp424-iw to ISO 8859/8-hebrew
+EOIWP862            LOCALE    OPEN EBCDIC cp424-iw to IBMPC OEM 862-iw
+EOIWUNIC            LOCALE    OpenEd cp424-iw to Unicode Mapping
+EOIWWHEB            LOCALE    OPEN EBCDIC cp424-iw to Win cp1255-hebrew
+EOIW_CCL            LOCALE    OpenEd cp424-iw Char. Classification CCL Table
+EOIW_LCS            LOCALE    OpenEd cp424-iw to Lowcase
+EOIW_SCC            LOCALE    OpenEdition cp424-iw Scanner CCL Table
+EOIW_SCN            LOCALE    OpenEd EBCDIC 424-iw Compiler to Encoding Scanner Table
+EOIW_SNP            LOCALE    OE EBCDIC 424-iw - Compiler variant to session scanner table
+EOIW_SSN            LOCALE    OpenEd EBCDIC 424-iw Encoding to Compiler Scanner Table
+EOIW_UCS            LOCALE    OpenEd cp424-iw to Uppercase
+EOL1AROM            LOCALE    OPEN EBCDIC cp1047-lat to Mac cp10000-roman
+EOL1E037            LOCALE    Compatibility scanner translate table for EBCDIC cp037
+EOL1E140            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp1140-us
+EOL1E141            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp1141-de
+EOL1E142            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp1142-da
+EOL1E143            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp1143-fi
+EOL1E144            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp1144-it
+EOL1E145            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp1145-es
+EOL1E146            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp1146-uk
+EOL1E147            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp1147-fr
+EOL1E148            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp1148-in
+EOL1E273            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp273-de
+EOL1E275            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp275-br
+EOL1E277            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp277-da
+EOL1E278            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp278-fi
+EOL1E280            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp280-it
+EOL1E284            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp284-es
+EOL1E285            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp285-uk
+EOL1E297            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp297-fr
+EOL1E420            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp420-ar
+EOL1E424            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp424-iw
+EOL1E425            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp425-ar
+EOL1E500            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp500-int
+EOL1E838            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp838-th
+EOL1E870            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp870-lat
+EOL1E875            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp875-el
+EOL1E924            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp924-lat
+EOL1EBAL            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp1112-ba
+EOL1ECYR            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp1025-cy
+EOL1EEST            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp1122-et
+EOL1ELAT            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp1047-la
+EOL1EO40            LOCALE    OpenEd cp1047-lat1 to OpenEd cp1140-us
+EOL1EO41            LOCALE    OpenEd cp1047-lat1 to OpenEd cp1141-de
+EOL1EO42            LOCALE    OpenEd cp1047-lat1 to OpenEd cp1142-da
+EOL1EO43            LOCALE    OpenEd cp1047-lat1 to OpenEd cp1143-fi
+EOL1EO44            LOCALE    OpenEd cp1047-lat1 to OpenEd cp1144-it
+EOL1EO45            LOCALE    OpenEd cp1047-lat1 to OpenEd cp1145-es
+EOL1EO46            LOCALE    OpenEd cp1047-lat1 to OpenEd cp1146-uk
+EOL1EO47            LOCALE    OpenEd cp1047-lat1 to OpenEd cp1147-fr
+EOL1EO48            LOCALE    OpenEd cp1047-lat1 to OpenEd cp1148-in
+EOL1EOAR            LOCALE    OpenEd cp1047-lat1 to OpenEd cp420-ar
+EOL1EOBL            LOCALE    OpenEd cp1047-lat1 to OpenEd cp1112-ba
+EOL1EOBR            LOCALE    OpenEd cp1047-lat1 to OpenEd cp275-br
+EOL1EOCY            LOCALE    OpenEd cp1047-lat1 to OpenEd cp1025-cy
+EOL1EODA            LOCALE    OpenEd cp1047-lat1 to OpenEd cp277-da
+EOL1EODE            LOCALE    OpenEd cp1047-lat1 to OpenEd cp273-de
+EOL1EOEL            LOCALE    OpenEd cp1047-lat1 to OpenEd cp875-el
+EOL1EOES            LOCALE    OpenEd cp1047-lat1 to OpenEd cp284-es
+EOL1EOET            LOCALE    OpenEd cp1047-lat1 to OpenEd cp1112-et
+EOL1EOFI            LOCALE    OpenEd cp1047-lat1 to OpenEd cp278-fi
+EOL1EOFR            LOCALE    OpenEd cp1047-lat1 to OpenEd cp297-fr
+EOL1EOIT            LOCALE    OpenEd cp1047-lat1 to OpenEd cp280-it
+EOL1EOIW            LOCALE    OpenEd cp1047-lat1 to OpenEd cp424-iw
+EOL1EOL2            LOCALE    OpenEd cp1047-lat1 to OpenEd EBCDIC cp870-lat2
+EOL1EOSW            LOCALE    OpenEd cp1047-lat1 to OpenEd cp500-int
+EOL1EOTH            LOCALE    OpenEd cp1047-lat1 to OpenEd cp838-th
+EOL1EOTR            LOCALE    OpenEd cp1047-lat1 to OpenEd cp1026-tr
+EOL1EOUK            LOCALE    OpenEd cp1047-lat1 to OpenEd cp285-uk
+EOL1EOUS            LOCALE    OpenEd cp1047-lat1 to OpenEd cp037-usa
+EOL1EOVI            LOCALE    OpenEd cp1047-lat1 to OpenEd cp1130-vi
+EOL1ETUR            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp1026-tr
+EOL1EVIE            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp1130-vi
+EOL1KIBM            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp833
+EOL1LAT1            LOCALE    OPEN EBCDIC cp1047-lat to ISO 8859/1-latin1
+EOL1P437            LOCALE    OPEN EBCDIC cp1047-lat to IBMPC OEM 437-usa
+EOL1P850            LOCALE    OPEN EBCDIC cp1047-lat to IBMPC OEM 850-west
+EOL1P858            LOCALE    OpenEd cp1047-lat1 to IBMPC OEM 858-eu
+EOL1P865            LOCALE    OpenEd EBCDIC cp1047-lat1 to IBMPC OEM 865-nord
+EOL1UNIC            LOCALE    OpenEd EBCDIC cp1047-lat1 to Unicode mapping
+EOL1WLT1            HOST       
+EOL1WLT1            LOCALE    OpenEd cp1047-lat1 to Win Cp1252-latin
+EOL1YIBM            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp835
+EOL1ZIBM            LOCALE    OpenEd cp1047-lat1 to EBCDIC cp836
+EOL1_CCL            LOCALE    OpenEd cp1047-lat1 Char. Classification CCL Table
+EOL1_LCS            LOCALE    OpenEd cp1047-lat1 to Lowcase
+EOL1_SCC            LOCALE    OpenEdition cp1047-lat1 Scanner CCL Table
+EOL1_SCN            LOCALE    OpenEd EBCDIC 1047-lt1 Compiler to Encoding Scanner Table
+EOL1_SSN            LOCALE    OpenEd EBCDIC 1047-lt1 Encoding to Compiler Scanner Table
+EOL1_UCS            LOCALE    OpenEd cp1047-lat1 to Uppercase
+EOL2AEUR            LOCALE    OpenEd EBCDIC cp870-lat2 to Mac cp10029-latin2
+EOL2EOL1            LOCALE    OpenEd EBCDIC cp870-lat2 to OpenEd cp1047-lat1
+EOL2LAT2            LOCALE    OPEN EBCDIC cp870-lat2 to ISO 8859/2-latin2
+EOL2P852            LOCALE    OpenEd EBCDIC cp870-lat2 to IBMPC OEM 852-slav
+EOL2UNIC            LOCALE    OpenEd EBCDIC cp870-lat2 to Unicode mapping
+EOL2WLT2            LOCALE    OPEN EBCDIC cp870-lat2 to Win cp1250-latin2
+EOL2_CCL            LOCALE    OpenEd cp870-lat2 Char. Classification CCL Table
+EOL2_LCS            LOCALE    OpenEd EBCDIC cp870-lat2 LCS Table
+EOL2_SCC            LOCALE    OpenEdition cp870-lat2 Scanner CCL Table
+EOL2_SCN            LOCALE    OpenEd EBCDIC 870-lt2 Compiler to Encoding Scanner Table
+EOL2_SES            LOCALE    OpenEd EBCDIC cp870-l2 ses scanner table
+EOL2_SNP            LOCALE    OE EBCDIC 870-lt2 - Compiler variant to session scanner table
+EOL2_SSN            LOCALE    OpenEd EBCDIC 870-lt2 Encoding to Compiler Scanner Table
+EOL2_UCS            LOCALE    OpenEd EBCDIC cp870-lat2 UCS Table
+EOL3LAT3            LOCALE    OpenEd EBCDIC cp905 - latin3 to ISO 8859/3-latin3
+EOL3UNIC            LOCALE    OpenEd EBCDIC cp905 - latin3 to Unicode mapping
+EOL3WLT1            LOCALE    OpenEdition EBCDIC cp905-latin3 to Win Cp1252-latin1
+EOL3_CCL            LOCALE    OpenEd EBCDIC cp905 Char Classification CCL Table
+EOL3_LCS            LOCALE    OpenEd EBCDIC cp905 LCS Table
+EOL3_SCC            LOCALE    EBCDIC OE905 Scanner SCC Table
+EOL3_SCN            LOCALE    OpenEd cp905 Compiler to Encoding Scanner Table
+EOL3_SES            LOCALE    OpenEd EBCDIC cp905-l3 ses scanner table
+EOL3_SNP            LOCALE    OE EBCDIC cp905 - Compiler variant to session scanner table
+EOL3_SSN            LOCALE    OpenEd cp905 Encoding to Compiler Scanner Table
+EOL3_UCS            LOCALE    OpenEd EBCDIC cp905 UCS Table
+EOLTAROM            LOCALE    OpenEd cp924-lat9 to MacOS 0-roman
+EOLTLAT1            LOCALE    OpenEd cp924-lat9 to ISO 8859/1-latin1
+EOLTLAT9            LOCALE    OpenEd cp924-lat9 to ISO 8859/15-latin
+EOLTP437            LOCALE    OpenEd cp924-lat9 to IBMPC OEM 437-usa
+EOLTP850            LOCALE    OpenEd cp924-lat9 to IBMPC OEM 850-wes
+EOLTP858            LOCALE    OpenEd cp924-lat9 to IBMPC OEM 858-eur
+EOLTP863            LOCALE    OpenEd EBCDIC cp924-lat1 to IBMPC OEM 863-fc
+EOLTP865            LOCALE    OpenEd EBCDIC cp924-lat1 to IBMPC OEM 865-nord
+EOLTUNIC            LOCALE    OpenEd EBCDIC cp924-lat1 to Unicode mapping
+EOLTWLT1            LOCALE    OpenEd cp924-lat9 to Win Cp1252-latin1
+EOLT_CCL            LOCALE    OpenEd cp924-lat9 Char. Classification CCL Table
+EOLT_LCS            LOCALE    OpenEd cp924-lat9 to Lowcase
+EOLT_SCC            LOCALE    OpenEdition cp924-lat1 Scanner CCL Table
+EOLT_SCN            LOCALE    OpenEd EBCDIC 924-lat1 Compiler to Encoding Scanner Table
+EOLT_SSN            LOCALE    OpenEd EBCDIC 924-lat1 Encoding to Compiler Scanner Table
+EOLT_UCS            LOCALE    OpenEd cp924-lat9 to Uppercase
+EOSWAROM            LOCALE    OpenEd cp500-int to MacOS 0-roman
+EOSWEOL1            LOCALE    OpenEd cp500-int to OpenEd cp1047-lat1
+EOSWLAT1            LOCALE    OpenEd cp500-int to ISO 8859/1-latin1
+EOSWP850            LOCALE    OpenEd cp500-int to IBMPC OEM 850-west
+EOSWUNIC            LOCALE    OpenEd EBCDIC cp500-sw to Unicode mapping
+EOSWWLT1            LOCALE    OpenEd cp500-int to Win Cp1252-latin1
+EOSW_SCN            LOCALE    OpenEd EBCDIC 500-inter Compiler to Encoding Scanner Table
+EOSW_SNP            LOCALE    OE EBCDIC 500 - Compiler variant to session scanner table
+EOSW_SSN            LOCALE    OpenEd EBCDIC 500-inter Encoding to Compiler Scanner Table
+EOTHEOL1            LOCALE    OpenEd cp838-th to OpenEd cp1047-lat1
+EOTHP874            LOCALE    OPEN EBCDIC cp838-th to IBMPC OEM 874-th
+EOTHTHAI            LOCALE    OPEN EBCDIC cp838-th to ISO 8859/11-thai
+EOTHUNIC            LOCALE    OpenEd EBCDIC cp838-th to Unicode mapping
+EOTH_CCL            LOCALE    OpenEd cp838-th Char. Classification CCL Table
+EOTH_LCS            LOCALE    OpenEd cp838-th to Lowcase
+EOTH_SCC            LOCALE    OpenEdition cp838-th Scanner CCL Table
+EOTH_SCN            LOCALE    OpenEd EBCDIC 838-th Compiler to Encoding Scanner Table
+EOTH_SES            LOCALE    OpenEd EBCDIC cp838-th ses scanner table
+EOTH_SNP            LOCALE    OE EBCDIC 838-th - Compiler variant to session scanner table
+EOTH_SSN            LOCALE    OpenEd EBCDIC 838-th Encoding to Compiler Scanner Table
+EOTH_UCS            LOCALE    OpenEd cp838-th to Uppercase
+EOTRATUR            LOCALE    OPEN EBCDIC cp1026-tr to Mac cp10035-turk
+EOTREOL1            LOCALE    OpenEd cp1026-tr to OpenEd cp1047-lat1
+EOTRLAT5            LOCALE    OPEN EBCDIC cp1026-tr to ISO 8859/9-latin5
+EOTRP852            LOCALE    OpenEd EBCDIC cp1026-tr to IBMPC OEM 852-slav
+EOTRP857            LOCALE    OPEN EBCDIC cp1026-tr to IBMPC OEM 857-tr
+EOTRUNIC            LOCALE    OpenEd cp1026-tr to Unicode mapping
+EOTRWTUR            LOCALE    OPEN EBCDIC cp1026-tr to Win cp1254-turkish
+EOTR_CCL            LOCALE    OpenEd cp1026-tr Char. Classification CCL Table
+EOTR_LCS            LOCALE    OpenEd cp1026-tr to Lowcase
+EOTR_SCC            LOCALE    OpenEdition cp1026-tr Scanner CCL Table
+EOTR_SCN            LOCALE    OpenEd EBCDIC 1026-tr Compiler to Encoding Scanner Table
+EOTR_SNP            LOCALE    OE EBCDIC 1026-tr - Compiler variant to session scanner table
+EOTR_SSN            LOCALE    OpenEd EBCDIC 1026-tr Encoding to Compiler Scanner Table
+EOTR_UCS            LOCALE    OpenEd cp1026-tr to Uppercase
+EOUKAROM            LOCALE    OpenEd cp285-uk to MacOS 0-roman
+EOUKEOL1            LOCALE    OpenEd cp285-uk to OpenEd cp1047-lat1
+EOUKLAT1            LOCALE    OpenEd cp285-uk to ISO 8859/1-latin1
+EOUKP850            LOCALE    OpenEd cp285-uk to IBMPC OEM 850-west
+EOUKUNIC            LOCALE    OpenEd EBCDIC cp285-uk to Unicode mapping
+EOUKWLT1            LOCALE    OpenEd cp285-uk to Win Cp1252-latin1
+EOUK_SCN            LOCALE    OpenEd EBCDIC 285-uk Compiler to Encoding Scanner Table
+EOUK_SNP            LOCALE    OE EBCDIC 285-uk - Compiler variant to session scanner table
+EOUK_SSN            LOCALE    OpenEd EBCDIC 285-uk Encoding to Compiler Scanner Table
+EOUSANSI            LOCALE    OPEN EBCDIC cpe037 to ANSI cp367
+EOUSAROM            LOCALE    OpenEd cp037-usa to MacOS 0-roman
+EOUSEOL1            LOCALE    OpenEd cp037-usa to OpenEd cp1047-lat1
+EOUSLAT1            LOCALE    OpenEd cp037-usa to ISO 8859/1-latin1
+EOUSP437            LOCALE    OpenEd EBCDIC cp037-usa to IBMPC OEM 437-us
+EOUSP850            LOCALE    OpenEd cp037-usa to IBMPC OEM 850-west
+EOUSP863            LOCALE    OpenEd EBCDIC cp037-usa to IBMPC OEM 863-fc
+EOUSUNIC            LOCALE    OpenEd EBCDIC cp037-usa to Unicode mapping
+EOUSWLT1            LOCALE    OpenEd cp037-usa to Win Cp1252-latin1
+EOUSYPCS            LOCALE    OPEN EBCDIC cpe037 to Trad. Chinese cp1114
+EOUS_CCL            LOCALE    Open Edition 037-us Char Classification CCL Table
+EOUS_LCS            LOCALE    Open Edition 037-us Lowcase
+EOUS_SCC            LOCALE    OpenEdition cp037-usa Scanner CCL Table
+EOUS_SCN            LOCALE    OpenEd EBCDIC 037-usa Compiler to Encoding Scanner Table
+EOUS_SNP            LOCALE    OE EBCDIC 037-usa - Compiler variant to session scanner table
+EOUS_SSN            LOCALE    OpenEd EBCDIC 037-usa Encoding to Compiler Scanner Table
+EOUS_UCS            LOCALE    Open Edition 037-us Upcase
+EOVIAROM            LOCALE    OPEN EBCDIC cp1130-vi to Mac cp10000-roman
+EOVIEOL1            LOCALE    OpenEd cp1130-vi to OpenEd cp1047-lat1
+EOVILAT1            LOCALE    OPEN EBCDIC cp1130-vi to ISO 8859/1-lat
+EOVIP437            LOCALE    OpenEd EBCDIC cp1130-vi to IBMPC OEM 437-us
+EOVIP850            LOCALE    OpenEd EBCDIC cp1130-vi to IBMPC OEM 850-west
+EOVIPVIE            LOCALE    OPEN EBCDIC cp1130-vi to IBMPC OEM 1129-vi
+EOVIUNIC            LOCALE    OpenEd EBCDIC cp1130-vi to Unicode mapping
+EOVIWVIE            LOCALE    OPEN EBCDIC cp1130-vi to Win cp1258-vietnamese
+EOVI_CCL            LOCALE    OpenEd cp1130-vi Char. Classification CCL Table
+EOVI_LCS            LOCALE    OpenEd cp1130-vi to Lowcase
+EOVI_SCC            LOCALE    OpenEdition cp1130-vi Scanner CCL Table
+EOVI_SCN            LOCALE    OpenEd EBCDIC 1130-vi Compiler to Encoding Scanner Table
+EOVI_SNP            LOCALE    OE EBCDIC 1130-vi - Compiler variant to session scanner table
+EOVI_SSN            LOCALE    OpenEd EBCDIC 1130-vi Encoding to Compiler Scanner Table
+EOVI_UCS            LOCALE    OpenEd cp1130-vi to Uppercase
+ES37_E2A            LOCALE    EBCDIC cp1145-es to IBMPC OEM 437-usa Remote Scanner Table
+ES50_E2A            LOCALE    EBCDIC cp1145-es to IBMPC OEM 850-west Remote Scanner Table
+ES58_E2A            LOCALE    EBCDIC cp1145-es to IBMPC OEM 858-euro Remote Scanner Table
+ES85_E2A            LOCALE    EBCDIC cp284-es to IBMPC OEM 850-west Remote Scanner Table
+ESAR_E2A            LOCALE    EBCDIC cp1145-es to MacOS 0-roman Remote Scanner Table
+ESL1_E2A            LOCALE    EBCDIC cp1145-es to ISO 8859/1-latin1 Remote Scanner Table
+ESL9_E2A            LOCALE    EBCDIC cp1145-es to ISO 8859/15-latin9 Remote Scanner Table
+ESLAT1              HOST       
+ESW1_E2A            LOCALE    EBCDIC cp1145-es to Win cp1252-la in1 Remote Scanner Table
+ET22_E2A            LOCALE    EBCDIC cp1122-et to IBMPC OEM 922-et Remote Scanner Table
+ET75_E2A            LOCALE    EBCDIC cp1122-et to MS-DOS OEM 775-balt Remote Scanner Table
+ETL6_E2A            LOCALE    EBCDIC cp1122-et to ISO 8859/10-latin6 Remote Scanner Table
+ETURATUR            LOCALE    EBCDIC cp1026-tr to MacOS 35-turish
+ETURELAT            LOCALE    EBCDIC cp1026-tr to EBCDIC cp1047-lat1
+ETUREOL1            LOCALE    EBCDIC cp1026-tr to OpenEd cp1047-lat1
+ETURLAT5            LOCALE    EBCDIC cp1026-tr to ISO 8859/9-latin5
+ETURP857            LOCALE    EBCDIC cp1026-tr to IBMPC OEM 857-tr
+ETURUNIC            LOCALE    EBCDIC cp1026-tr to Unicode mapping
+ETURWTUR            LOCALE    EBCDIC cp1026-tr to Win Cp1254-turkish
+ETUR_CCL            LOCALE    EBCDIC cp1026-tr Char Classification CCL Table
+ETUR_LCS            LOCALE    EBCDIC cp1026-tr Lowcase
+ETUR_SCC            LOCALE    EBCDIC cp1026-tr Scanner CCL Table
+ETUR_SCN            LOCALE    EBCDIC cp1026-tr Compiler to Encoding Scanner Table
+ETUR_SNP            LOCALE    EBCDIC cp1026-tr - Compiler variant to session scanner table
+ETUR_SSN            LOCALE    EBCDIC cp1026-tr Encoding to Compiler Scanner Table
+ETUR_UCS            LOCALE    EBCDIC cp1026-tr Upcase
+ETWB_E2A            LOCALE    EBCDIC cp1122-et to Win cp1257-baltic Remote Scanner Table
+EV50_E2A            LOCALE    EBCDIC cp1130-vi to IBMPC OEM 850-west Remote Scanner Table
+EVAR_E2A            LOCALE    EBCDIC cp1130-vi to MacOS 0-roman Remote Scanner Table
+EVIEAROM            LOCALE    EBCDIC cp1130-vi to MacOS 0-roman
+EVIEEOL1            LOCALE    EBCDIC cp1130-vi to OpenEd cp1047-lat1
+EVIELAT1            LOCALE    EBCDIC cp1130-vi to ISO 8859/1-latin1
+EVIEPVIE            LOCALE    EBCDIC cp1130-vi to IBMPC OEM 1129-vi
+EVIEUNIC            LOCALE    EBCDIC cp1130-vi to Unicode mapping
+EVIEWVIE            LOCALE    EBCDIC cp1130-vi to Win Cp1258-vietam
+EVIE_CCL            LOCALE    EBCDIC cp1130-vi Char Classification CCL Table
+EVIE_LCS            LOCALE    EBCDIC cp1130-vi Lowcase
+EVIE_SCC            LOCALE    EBCDIC cp1130-vi Scanner CCL Table
+EVIE_SCN            LOCALE    EBCDIC cp1130-vi Compiler to Encoding Scanner Table
+EVIE_SNP            LOCALE    EBCDIC cp1130-vi - Compiler variant to session scanner table
+EVIE_SSN            LOCALE    EBCDIC cp1130-vi Encoding to Compiler Scanner Table
+EVIE_UCS            LOCALE    EBCDIC cp1130-vi Upcase
+EVL1_E2A            LOCALE    EBCDIC cp1130-vi to ISO 8859/1-latin1 Remote Scanner Table
+EVPV_E2A            LOCALE    EBCDIC cp1130-vi to IBMPC OEM 1129-vi Remote Scanner Table
+EVWV_E2A            LOCALE    EBCDIC cp1130-vi to Win cp1258-vietamese Remote Scanner Table
+FA64_E2A            LOCALE    EBCDIC cp1097-fa to IBMPC OEM 864 Remote Scanner Table
+FAAR_E2A            LOCALE    EBCDIC cp1097-fa to Win cp1256 Remote Scanner Table
+FAFA_E2A            LOCALE    EBCDIC cp1097-fa to PC Farsi 1098 Remote Scanner Table
+FI50_E2A            LOCALE    EBCDIC cp1143-fi to IBMPC OEM 850-west Remote Scanner Table
+FI58_E2A            LOCALE    EBCDIC cp1143-fi to IBMPC OEM 858-euro Remote Scanner Table
+FI65_E2A            LOCALE    EBCDIC cp1143-fi to IBMPC OEM 865-nord Remote Scanner Table
+FI85_E2A            LOCALE    EBCDIC cp278-fi to IBMPC OEM 850-west Remote Scanner Table
+FIAR_E2A            LOCALE    EBCDIC cp1143-fi to MacOS 0-roman Remote Scanner Table
+FIL1_E2A            LOCALE    EBCDIC cp1143-fi to ISO 8859/1-latin1 Remote Scanner Table
+FIL9_E2A            LOCALE    EBCDIC cp1143-fi to ISO 8859/15-latin9 Remote Scanner Table
+FILAT1              HOST       
+FINNISH             HOST       
+FIW1_E2A            LOCALE    EBCDIC cp1143-fi to Win cp1252-latin1 Remote Scanner Table
+FR37_E2A            LOCALE    EBCDIC cp1147-fr to IBMPC OEM 437-usa Remote Scanner Table
+FR50_E2A            LOCALE    EBCDIC cp297-fr to IBMPC OEM 850-west Remote Scanner Table
+FR58_E2A            LOCALE    EBCDIC cp1147-fr to IBMPC OEM 858-euro Remote Scanner Table
+FRAR_E2A            LOCALE    EBCDIC cp1147-fr to MacOS 0-roman Remote Scanner Table
+FRL1_E2A            LOCALE    EBCDIC cp1147-fr to ISO 8859/1-latin1 Remote Scanner Table
+FRL9_E2A            LOCALE    EBCDIC cp1147-fr to ISO 8859/15-latin9 Remote Scanner Table
+FRSOLAT1            LOCALE    French sort for ISO 8859/1 - Latin1
+FRW1_E2A            LOCALE    EBCDIC cp1147-fr to Win cp1252-latin1 Remote Scanner Table
+GREKAGRK            LOCALE    ISO 8859/7-greek to MacOS 6-greek
+GREKE875            LOCALE    ISO 8859/7-greek to EBCDIC cp875-el
+GREKEOEL            LOCALE    ISO 8859/7-greek to OpenEd cp875-el
+GREKP737            LOCALE    ISO 8859/7-greek to MSDOS OEM 737-el
+GREKP869            LOCALE    ISO 8859/7-greek to IBMPC OEM 869-el
+GREKUNIC            LOCALE    ISO 8859/7-greek to Unicode mapping
+GREKWGRK            LOCALE    ISO 8859/7-greek to Win Cp1253-greek
+GREK_CCL            LOCALE    ISO 8859/7-greek Char Classification CCL Table
+GREK_LCS            LOCALE    ISO 8859/7-greek Lowcase
+GREK_UCS            LOCALE    ISO 8859/7-greek Upcase
+HEBRAHEB            LOCALE    ISO 8859/8-hebrew to MacOS 5-hebrew
+HEBRE424            LOCALE    ISO 8859/8-hebrew to EBCDIC cp424-iw
+HEBREOIW            LOCALE    ISO 8859/8-hebrew to OpenEd EBCDIC cp424-iw
+HEBRP862            LOCALE    ISO 8859/8-hebrew to IBMPC OEM 862-iw
+HEBRUNIC            LOCALE    ISO 8859/8-hebrew to Unicode mapping
+HEBRWHEB            LOCALE    ISO 8859/8-hebrew to Win Cp1255-hebrew
+HEBR_CCL            LOCALE    ISO 8859/8-hebrew Char Classification CCL Table
+HEBR_LCS            LOCALE    ISO 8859/8-hebrew Lowcase
+HEBR_UCS            LOCALE    ISO 8859/8-hebrew Upcase
+HUSOE870            LOCALE    Hungarian sort for EBCDIC cp870-lat2
+HUSOLAT2            LOCALE    Hungarian sort for ISO 8859/2-latin2
+HUSOP852            LOCALE    Hungarian sort for IBMPC OEM 852-slav
+HUSOWLT1            LOCALE    Hungarian sort for Win cp1252-latin1
+I252_E2A            LOCALE    EBCDIC cp1153-lat2 to IBMPC OEM 852-slav Remote Scanner Table
+I2L2_E2A            LOCALE    EBCDIC cp1153-lat2 to ISO 8859/2-latin2 Remote Scanner Table
+I2W2_E2A            LOCALE    EBCDIC cp1153-lat2 to Win cp1250-latin2 Remote Scanner Table
+I566_E2A            LOCALE    EBCDIC cp1154-cyrl to IBMPC OEM 866-cyrl Remote Scanner Table
+I5CY_E2A            LOCALE    EBCDIC cp1154-cyrl to ISO 8859/5-cyrillic Remote Scanner Table
+I5WC_E2A            LOCALE    EBCDIC cp1154-cyrl to Win cp1251-cyrillic Remote Scanner Table
+I957_E2A            LOCALE    EBCDIC cp1155-tr to IBMPC OEM 857-tr Remote Scanner Table
+I9L5_E2A            LOCALE    EBCDIC cp1155-tr to ISO 8859/9-latin5 Remote Scanner Table
+I9WT_E2A            LOCALE    EBCDIC cp1155-tr to Win cp1254-turkish Remote Scanner Table
+IDENTITY            LOCALE    Identity
+IN37_E2A            LOCALE    EBCDIC cp500-inter to IBMPC OEM 437-usa Remote Scanner Table
+IN50_E2A            LOCALE    EBCDIC cp500-inter to IBMPC OEM 850-west Remote Scanner Table
+IN58_E2A            LOCALE    EBCDIC cp1148-inter to IBMPC OEM 858-euro Remote Scanner Table
+INAR_E2A            LOCALE    EBCDIC cp1148-inter to MacOS 0-roman Remote Scanner Table
+INL1_E2A            LOCALE    EBCDIC cp1148-inter to ISO 8859/1-latin1 Remote Scanner Table
+INL9_E2A            LOCALE    EBCDIC cp1148-inter to ISO 8859/15-latin9 Remote Scanner Table
+INW1_E2A            LOCALE    EBCDIC cp1148-inter to Win cp1252-latin1 Remote Scanner Table
+IS50_E2A            LOCALE    EBCDIC cp1149-is to IBMPC OEM 850 Remote Scanner Table
+ISL1_E2A            LOCALE    EBCDIC cp1149-is to ISO 8859/1-latin1 Remote Scanner Table
+ISL9_E2A            LOCALE    EBCDIC cp1149-is to ISO 8859/15-latin9 Remote Scanner Table
+ISW1_E2A            LOCALE    EBCDIC cp1149-is to Win cp1252-latin1 Remote Scanner Table
+IT37_E2A            LOCALE    EBCDIC cp1144-it to IBMPC OEM 437-usa Remote Scanner Table
+IT50_E2A            LOCALE    EBCDIC cp280-it to IBMPC OEM 850-west Remote Scanner Table
+IT58_E2A            LOCALE    EBCDIC cp1144-it to IBMPC OEM 858-euro Remote Scanner Table
+ITALIAN             HOST       
+ITAR_E2A            LOCALE    EBCDIC cp1144-it to MacOS 0-roman Remote Scanner Table
+ITL1_E2A            LOCALE    EBCDIC cp1144-it to ISO 8859/1-latin1 Remote Scanner Table
+ITL9_E2A            LOCALE    EBCDIC cp1144-it to ISO 8859/15-latin9 Remote Scanner Table
+ITLAT1              HOST       
+ITW1_E2A            LOCALE    EBCDIC cp1144-it to Win cp1252-latin1 Remote Scanner Table
+IW62_E2A            LOCALE    EBCDIC cp424-iw to IBMPC OEM 862-iw Remote Scanner Table
+IWWH_E2A            LOCALE    EBCDIC cp424-iw to Win cp1255-hebrew Remote Scanner Table
+J290J895            LOCALE    Katakana SBCS to JIS X 0201-1976
+J290JOPC            LOCALE    Katakana SBCS to OpenEBCDIC cp1041-Ja
+J290JPC             LOCALE    Katakana SBCS to PC Data cp1041-Ja
+J290_CCL            LOCALE    Katakana Host Extended SBCS Char Classification CCL Table
+J290_LCS            LOCALE    Katakana Host Extended SBCS LCS Table
+J290_UCS            LOCALE    Katakana Host Extended SBCS UCS Table
+J895J290            LOCALE    JIS X 0201-1976 to Katakana SBCS
+J895JLAT            LOCALE    JIS X Roman to Latin Host Extended cp1027-Ja
+J895JOKT            LOCALE    JIS X 0201-1976 to JOKT
+J895JOLT            LOCALE    JIS X Roman to OPEN EBCDIC cp1027-Ja
+J895JPC             LOCALE    JIS X Roman to PC data extended cp1041-Ja
+J895_CCL            LOCALE    JIS X 0201-1976 Roman Char Classification CCL Table
+J895_LCS            LOCALE    JIS X 0201-1976 Roman LCS Table
+J895_UCS            LOCALE    JIS X 0201-1976 Roman UCS Table
+J896_CCL            LOCALE    Japan 7 bit Katakana Char Classification CCL Table
+J896_LCS            LOCALE    Japan 7 bit Katakana LCS Table
+J896_UCS            LOCALE    Japan 7 bit Katakana UCS Table
+JLATELAT            LOCALE    Old Scanner translate table for EBCDIC cp1027
+JLATJ895            LOCALE    Latin Host Extended cp1027-Ja to JIS X Roman
+JLATJOPC            LOCALE    Latin Host Extended cp1027-Ja to OPEN EBCDIC cp1041-Ja
+JLATJPC             LOCALE    Latin Host Extended cp1027-Ja to Pc Data extended cp1041-Ja
+JLAT_CCL            LOCALE    Latin Host Extended cp1027-Ja Char Classification CCL Table
+JLAT_LCS            LOCALE    Latin Host Extended cp1027-Ja LCS Table
+JLAT_UCS            LOCALE    Latin Host Extended cp1027-Ja UCS Table
+JOKTJ895            LOCALE    JOKT to JIS X 0201-1976
+JOKTJOPC            LOCALE    JOKT to OpenEBCDIC cp1041-Ja
+JOKTJPC             LOCALE    JOKT to PC Data cp1041-Ja
+JOLTJ895            LOCALE    OPEN EBCDIC cp1027-Ja to JIS X Roman
+JOLTJOPC            LOCALE    OPEN EBCDIC cp1027-Ja to OPEN EBCDIC cp1041-Ja
+JOLTJPC             LOCALE    OPEN EBCDIC cp1027-Ja to PC Data Extended cp1041-Ja
+JOPCJ290            LOCALE    OpenEBCDIC cp1041-Ja to Katakana SBCS
+JOPCJLAT            LOCALE    OPEN EBCDIC cp1041-Ja to Latin Host Extended cp1027-Ja
+JOPCJOKT            LOCALE    OpenEBCDIC cp1041-Ja to JOKT
+JOPCJOLT            LOCALE    OPEN EBCDIC cp1041-Ja to OPEN EBCDIC cp1027-Ja
+JOPCJPC             LOCALE    OPEN EBCDIC cp1041-Ja to PC Data Extended cp1041-Ja
+JPCJ290             LOCALE    PC Data cp1041-Ja to Katakana SBCS
+JPCJ895             LOCALE    PC Data Extended cp1041-Ja to JIS X Roman
+JPCJLAT             LOCALE    PC Data Extended cp1041-Ja to Latin Host Extended cp1027-Ja
+JPCJOKT             LOCALE    PC Data cp1041-Ja to JOKT
+JPCJOLT             LOCALE    PC Data Extended cp1041-Ja to OPEN EBCDIC cp1027-Ja
+JPCJOPC             LOCALE    PC Data Extended cp1041-Ja to OPEN EBCDIC cp1041-Ja
+JPCJPC              LOCALE    PC Data cp1041-Ja to PC Data cp1041-Ja
+JPC_CCL             LOCALE    PC Data Extended cp1041-Ja CCL Table
+JPC_LCS             LOCALE    PC Data Extended cp1041-Ja LCS Table
+JPC_UCS             LOCALE    PC Data Extended cp1041-Ja UCS Table
+JWIN_CCL            LOCALE    SJIS - Japanese CCL table
+JWIN_LCS            LOCALE    SJIS - Japanese LCS table
+JWIN_UCS            LOCALE    SJIS - Japanese UCS table
+K833ANSI            LOCALE    EBCDIC cp833-Ko to ANSI cp367
+K833ELAT            LOCALE    Old Scanner translate table for EBCDIC cp833
+K833KPCS            LOCALE    EBCDIC cp833-Ko to IBMPC cp1088-Ko
+K833KWSB            LOCALE    EBCDIC cp833-Ko to Win cp1126-Ko
+K833_CCL            LOCALE    EBCDIC cp833-Ko Char Classification CCL Table
+K833_LCS            LOCALE    EBCDIC cp833-Ko LCS Table
+K833_UCS            LOCALE    EBCDIC cp833-Ko UCS Table
+KIBMEOL1            LOCALE    Scanner translate table for EBCDIC cp833
+KK66_E2A            LOCALE    EBCDIC cp1166-kk to KZ1048 PC Kazakh Remote Scanner Table
+KORNANSI            LOCALE    cp-ko to 7-bit ASCII
+KORNKPCS            LOCALE    cp-ko to IBMPC cp1088-Ko
+KORNKWSB            LOCALE    cp-ko to Win cp1126-Ko
+KPCSANSI            LOCALE    IBMPC cp1088-Ko to ANSI cp367
+KPCSK833            LOCALE    IBMPC cp1088-Ko to EBCDIC cp833-Ko
+KPCSKORN            LOCALE    IBMPC cp1088-Ko to cp-ko
+KPCSKROM            LOCALE    IBMPC cp1088-Ko to KS C 5636- Roman
+KPCSKWSB            LOCALE    IBMPC cp1088-Ko to Win cp1126-Ko
+KPCS_CCL            LOCALE    IBMPC cp1088-Ko Char Classification CCL Table
+KPCS_LCS            LOCALE    IBMPC cp1088-Ko LCS Table
+KPCS_UCS            LOCALE    IBMPC cp1088-Ko UCS Table
+KROMANSI            LOCALE    KS C 5636- Roman to 7-bit ASCII
+KROMKPCS            LOCALE    KS C 5636- Roman to IBMPC cp1088-Ko
+KROMKWSB            LOCALE    KS C 5636- Roman to Win cp1126-Ko
+KROM_CCL            LOCALE    KS C 5636- Roman Char Classification CCL Table
+KROM_LCS            LOCALE    KS C 5636- Roman LCS Table
+KROM_UCS            LOCALE    KS C 5636- Roman UCS Table
+KWIN_CCL            LOCALE    Win cp949 - Korean CCL table
+KWIN_LCS            LOCALE    Win cp949 - Korean LCS table
+KWIN_UCS            LOCALE    Win cp949 - Korean UCS table
+KWSBANSI            LOCALE    Win cp1126-Ko to ANSI cp367
+KWSBK833            LOCALE    Win cp1126-Ko to EBCDIC cp833-Ko
+KWSBKORN            LOCALE    Win cp1126-Ko to cp-ko
+KWSBKPCS            LOCALE    Win cp1126-Ko to IBMPC cp1088-Ko
+KWSBKROM            LOCALE    Win cp1126-Ko to KS C 5636- Roman
+KWSBKWSB            LOCALE    Win cp1126-Ko to Win cp1126-Ko
+KWSB_CCL            LOCALE    Win cp1126-Ko Char Classification CCL Table
+KWSB_LCS            LOCALE    Win cp1126-Ko LCS Table
+KWSB_UCS            LOCALE    Win cp1126-Ko UCS Table
+KZ48CYRL            LOCALE    Kazakh 1048 - IBM1174 to ISO 8859/5-cyrillic
+KZ48EO66            LOCALE    KZ1048 PC Kazakh to EBCDIC cp1166-kk
+KZ48WLT1            LOCALE    Kazakh 1048 - IBM1174 to Win Cp1252-latin1
+KZ48_CCL            LOCALE    Kazakh 1048 - IBM1174 CCL Table
+KZ48_LCS            LOCALE    Kazakh 1048 - IBM1174 LCS Table
+KZ48_UCS            LOCALE    Kazakh 1048 - IBM1174 UCS Table
+L252_E2A            LOCALE    EBCDIC cp870-lat2 to IBMPC OEM 852-slav Remote Scanner Table
+L2L2_E2A            LOCALE    EBCDIC cp870-lat2 to ISO 8859/2-latin2 Remote Scanner Table
+L2W2_E2A            LOCALE    EBCDIC cp870-lat2 to Win cp1250-latin2 Remote Scanner Table
+LA10WLT2            LOCALE    ISO 8859/16-Latin10 to Win Cp1250
+LA10_CCL            LOCALE    ISO 8859/16-Latin10 CCL Table
+LA10_LCS            LOCALE    ISO 8859/16-Latin10 LCS Table
+LA10_UCS            LOCALE    ISO 8859/16-Latin10 UCS Table
+LAT1ANSI            LOCALE    ISO 8859/1-latin1 to 7-bit ASCII
+LAT1ARAB            LOCALE    ISO 8859/1-latin1 to ISO 8859/6-arabic
+LAT1AROM            LOCALE    ISO 8859/1-latin1 to MacOS 0-roman
+LAT1CYRL            LOCALE    ISO 8859/1-latin1 to ISO 8859/5-cyrill
+LAT1E037            LOCALE    ISO 8859/1-latin1 to EBCDIC cp037-usa
+LAT1E140            LOCALE    ISO 8859/1-latin1 to EBCDIC cp1140-usa
+LAT1E141            LOCALE    ISO 8859/1-latin1 to EBCDIC cp1141-de
+LAT1E142            LOCALE    ISO 8859/1-latin1 to EBCDIC cp1142-da
+LAT1E143            LOCALE    ISO 8859/1-latin1 to EBCDIC cp1143-fi
+LAT1E144            LOCALE    ISO 8859/1-latin1 to EBCDIC cp1144-it
+LAT1E145            LOCALE    ISO 8859/1-latin1 to EBCDIC cp1145-es
+LAT1E146            LOCALE    ISO 8859/1-latin1 to EBCDIC cp1146-uk
+LAT1E147            LOCALE    ISO 8859/1-latin1 to EBCDIC cp1147-fr
+LAT1E148            LOCALE    ISO 8859/1-latin1 to EBCDIC cp1148-inter
+LAT1E273            LOCALE    ISO 8859/1-latin1 to EBCDIC cp273-de
+LAT1E275            LOCALE    ISO 8859/1-latin1 to EBCDIC cp275-br
+LAT1E277            LOCALE    ISO 8859/1-latin1 to EBCDIC cp277-da
+LAT1E278            LOCALE    ISO 8859/1-latin1 to EBCDIC cp278-fi
+LAT1E280            LOCALE    ISO 8859/1-latin1 to EBCDIC cp280-it
+LAT1E284            LOCALE    ISO 8859/1-latin1 to EBCDIC cp284-es
+LAT1E285            LOCALE    ISO 8859/1-latin1 to EBCDIC cp285-uk
+LAT1E297            LOCALE    ISO 8859/1-latin1 to EBCDIC cp297-fr
+LAT1E500            LOCALE    ISO 8859/1-latin1 to EBCDIC cp500-inter
+LAT1E924            LOCALE    ISO 8859/1-latin1 to EBCDIC cp924-lat1
+LAT1ELAT            LOCALE    ISO 8859/1-latin1 to EBCDIC cp1047-lat1
+LAT1EO40            LOCALE    ISO 8859/1-latin1 to OpenEd EBCDIC cp1140-usa
+LAT1EO41            LOCALE    ISO 8859/1-latin1 to OpenEd EBCDIC cp1141-de
+LAT1EO42            LOCALE    ISO 8859/1-latin1 to OpenEd EBCDIC cp1142-da
+LAT1EO43            LOCALE    ISO 8859/1-latin1 to OpenEd EBCDIC cp1143-fi
+LAT1EO44            LOCALE    ISO 8859/1-latin1 to OpenEd EBCDIC cp1144-it
+LAT1EO45            LOCALE    ISO 8859/1-latin1 to OpenEd EBCDIC cp1145-es
+LAT1EO46            LOCALE    ISO 8859/1-latin1 to OpenEd EBCDIC cp1146-uk
+LAT1EO47            LOCALE    ISO 8859/1-latin1 to OpenEd EBCDIC cp1147-fr
+LAT1EO48            LOCALE    ISO 8859/1-latin1 to OpenEd EBCDIC cp1148-inter
+LAT1EOBR            LOCALE    ISO 8859/1-latin1 to OpenEd cp275-br
+LAT1EODA            LOCALE    ISO 8859/1-latin1 to OpenEd cp277-da
+LAT1EODE            LOCALE    ISO 8859/1-latin1 to OpenEd cp273-de
+LAT1EOES            LOCALE    ISO 8859/1-latin1 to OpenEd cp284-es
+LAT1EOFI            LOCALE    ISO 8859/1-latin1 to OpenEd EBCDIC cp278-fi
+LAT1EOFR            LOCALE    ISO 8859/1-latin1 to OpenEd cp297-fr
+LAT1EOIT            LOCALE    ISO 8859/1-latin1 to OpenEd cp280-it
+LAT1EOL1            LOCALE    ISO 8859/1-latin1 to OpenEd EBCDIC cp1047-lat1
+LAT1EOLT            LOCALE    ISO 8859/1-latin1 to OpenEd cp924-lat9
+LAT1EOSW            LOCALE    ISO 8859/1-latin1 to OpenEd cp500-int
+LAT1EOUK            LOCALE    ISO 8859/1-latin1 to OpenEd cp285-uk
+LAT1EOUS            LOCALE    ISO 8859/1-latin1 to OpenEd cp037-usa
+LAT1EOVI            LOCALE    ISO 8859/1-latin1 to OpenEd cp1130-vi
+LAT1EVIE            LOCALE    ISO 8859/1-latin1 to EBCDIC cp1130-vi
+LAT1GREK            LOCALE    ISO 8859/1-latin1 to ISO 8859/7-greek
+LAT1HEBR            LOCALE     
+LAT1J895            LOCALE    ISO 8859/1-latin1 to JIS X 0201-1976 Roman
+LAT1J896            LOCALE    ISO 8859/1-latin1 to Japan 7 bit Katakana SBCS
+LAT1JPC             LOCALE    ISO 8859/1-latin1 to IBM cp1041
+LAT1JWIN            LOCALE    ISO 8859/1-latin1 to Shift JIS SBCS
+LAT1KWIN            LOCALE    ISO 8859/1-latin1 to Win cp949 SBCS
+LAT1LAT1            LOCALE    Identity
+LAT1LAT2            LOCALE    ISO 8859/1-latin1 to ISO 8859/2-latin2
+LAT1LAT5            LOCALE    ISO 8859/1-latin1 to ISO 8859/4-latin4
+LAT1LAT6            LOCALE    ISO 8859/1-latin1 to ISO 8859/9-latin5
+LAT1LAT9            LOCALE    ISO 8859/1-latin1 to ISO 8859/10-latin6
+LAT1P437            LOCALE    ISO 8859/1-latin1 to IBMPC OEM 437-usa
+LAT1P850            LOCALE    ISO 8859/1-latin1 to IBMPC OEM 850-west
+LAT1P858            LOCALE    ISO 8859/1-latin1 to IBMPC OEM 858-euro
+LAT1P860            LOCALE    ISO 8859/1-latin1 to IBMPC OEM 860-pt
+LAT1P863            LOCALE    ISO 8859/1-latin1 to IBMPC OEM 893-fc
+LAT1P865            LOCALE    ISO 8859/1-latin1 to IBMPC OEM 865-nord
+LAT1PVIE            LOCALE    ISO 8859/1-latin1 to IBMPC OEM 1129-vi
+LAT1THAI            LOCALE    ISO 8859/1-latin1 to ISO 8859/11-thai
+LAT1UNIC            LOCALE    ISO 8859/1-latin1 to Unicode mapping
+LAT1WLT1            LOCALE    ISO 8859/1-latin1 to Win Cp1252-latin1
+LAT1WVIE            LOCALE    ISO 8859/1-latin1 to Win Cp1258-vietam
+LAT1YPCS            LOCALE    ISO 8859/1-latin1 to IBM cp1114
+LAT1ZPCS            LOCALE    ISO 8859/1-latin1 to IBM cp1115
+LAT1ZWIN            LOCALE    ISO 8859/1-latin1 to MS cp936 SBCS
+LAT1_CCL            LOCALE    ISO 8859/1-latin1 Char Classification CCL Table
+LAT1_LCS            LOCALE    ISO 8859/1-latin1 Lowcase
+LAT1_UCS            LOCALE    ISO 8859/1-latin1 Upcase
+LAT2AEUR            LOCALE    ISO 8859/2-latin2 to MacOS 29-easteuro
+LAT2E870            LOCALE    ISO 8859/2-latin2 to EBCDIC cp870-lat2
+LAT2EOL2            LOCALE    ISO 8859/2-latin2 to OpenEd EBCDIC cp870-lat2
+LAT2P852            LOCALE    ISO 8859/2-latin2 to IBMPC OEM 852-slav
+LAT2UNIC            LOCALE    ISO 8859/2-latin2 to Unicode mapping
+LAT2WLT2            LOCALE    ISO 8859/2-latin2 to Win Cp1250-latin2
+LAT2_CCL            LOCALE    ISO 8859/2-latin2 Char Classification CCL Table
+LAT2_LCS            LOCALE    ISO 8859/2-latin2 Lowcase
+LAT2_UCS            LOCALE    ISO 8859/2-latin2 Upcase
+LAT3E905            LOCALE    ISO 8859/3-latin3 to EBCDIC cp905 - Latin3
+LAT3EOL3            LOCALE    ISO 8859/3-latin3 to OpenEd EBCDIC cp905 - latin3
+LAT3UNIC            LOCALE    ISO 8859/3-latin3 to Unicode mapping
+LAT3_CCL            LOCALE    ISO 8859/3-latin3 Char Classification CCL Table
+LAT3_LCS            LOCALE    ISO 8859/3-latin3 Lowcase
+LAT3_UCS            LOCALE    ISO 8859/3-latin3 Upcase
+LAT4P775            LOCALE    ISO 8859/4-latin4 to MSDOS OEM 775-balt
+LAT4UNIC            LOCALE    ISO 8859/4-latin4 to Unicode mapping
+LAT4WBAL            LOCALE    ISO 8859/4-latin4 to Win Cp1257-baltic
+LAT4_CCL            LOCALE    ISO 8859/4-latin4 Char Classification CCL Table
+LAT4_LCS            LOCALE    ISO 8859/4-latin4 Lowcase
+LAT4_UCS            LOCALE    ISO 8859/4-latin4 Upcase
+LAT5ATUR            LOCALE    ISO 8859/9-latin5 to MacOS 35-turish
+LAT5EOTR            LOCALE    ISO 8859/9-latin5 to OpenEd EBCDIC cp1026-tr
+LAT5ETUR            LOCALE    ISO 8859/9-latin5 to EBCDIC cp1026-tr
+LAT5P852            LOCALE    ISO 8859/9-latin5 to IBMPC OEM 852-slav
+LAT5P857            LOCALE    ISO 8859/9-latin5 to IBMPC OEM 857-tr
+LAT5P866            LOCALE    ISO 8859/9-latin5 to IBMPC OEM 866-cyrl
+LAT5UNIC            LOCALE    ISO 8859/9-latin5 to Unicode mapping
+LAT5WTUR            LOCALE    ISO 8859/9-latin5 to Win Cp1254-turkish
+LAT5_CCL            LOCALE    ISO 8859/9-latin5 Char Classification CCL Table
+LAT5_LCS            LOCALE    ISO 8859/9-latin5 Lowcase
+LAT5_UCS            LOCALE    ISO 8859/9-latin5 Upcase
+LAT6AEUR            LOCALE    ISO 8859/10-latin6 to MacOS 29-easteuro
+LAT6EBAL            LOCALE    ISO 8859/10-latin6 to EBCDIC cp1112-balt
+LAT6EEST            LOCALE    ISO 8859/10-latin6 to EBCDIC cp1122-et
+LAT6EOBL            LOCALE    ISO 8859/10-latin6 to OpenEd EBCDIC cp1112-balt
+LAT6EOET            LOCALE    ISO 8859/10-latin6 to OpenEd EBCDIC cp1122-et
+LAT6P775            LOCALE    ISO 8859/10-latin6 to EBCDIC cp275-br
+LAT6P921            LOCALE    ISO 8859/10-latin6 to IBMPC OEM 921-balt
+LAT6P922            LOCALE    ISO 8859/10-latin6 to IBMPC OEM 922-et
+LAT6UNIC            LOCALE    ISO 8859/10-latin6 to Unicode mapping
+LAT6WBAL            LOCALE    ISO 8859/10-latin6 to Win Cp1257-baltic
+LAT6_CCL            LOCALE    ISO 8859/10-latin6 Char Classification CCL Table
+LAT6_LCS            LOCALE    ISO 8859/10-latin6 Lowcase
+LAT6_UCS            LOCALE    ISO 8859/10-latin6 Upcase
+LAT7WBAL            LOCALE    ISO 8859/13-Latin7 to Win Cp1257
+LAT7_CCL            LOCALE    ISO 8859/13-Latin7 CCL Table
+LAT7_LCS            LOCALE    ISO 8859/13-Latin7 LCS Table
+LAT7_UCS            LOCALE    ISO 8859/13-Latin7 UCS Table
+LAT8UNIC            LOCALE    ISO 8859/14-latin8 to Unicode mapping
+LAT8WLT1            LOCALE    Celtic ISO 8859/14-latin8 to Win Cp1252-latin1
+LAT8_CCL            LOCALE    latin8 Char Classification CCL Table
+LAT8_LCS            LOCALE    latin8 LCS Table
+LAT8_UCS            LOCALE    latin8 UCS Table
+LAT9AROM            LOCALE    ISO 8859/15-latin9 to MacOS 0-roman
+LAT9E037            LOCALE    ISO 8859/15-latin9 to EBCDIC cp037-usa
+LAT9E140            LOCALE    ISO 8859/15-latin9 to EBCDIC cp1140-usa
+LAT9E141            LOCALE    ISO 8859/15-latin9 to EBCDIC cp1141-de
+LAT9E142            LOCALE    ISO 8859/15-latin9 to EBCDIC cp1142-da
+LAT9E143            LOCALE    ISO 8859/15-latin9 to EBCDIC cp1143-fi
+LAT9E144            LOCALE    ISO 8859/15-latin9 to EBCDIC cp1144-it
+LAT9E145            LOCALE    ISO 8859/15-latin9 to EBCDIC cp1145-es
+LAT9E146            LOCALE    ISO 8859/15-latin9 to EBCDIC cp1146-uk
+LAT9E147            LOCALE    ISO 8859/15-latin9 to EBCDIC cp1147-fr
+LAT9E148            LOCALE    ISO 8859/15-latin9 to EBCDIC cp1148-inter
+LAT9E273            LOCALE    ISO 8859/15-latin9 to EBCDIC cp273-de
+LAT9E275            LOCALE    ISO 8859/15-latin9 to EBCDIC cp275-br
+LAT9E277            LOCALE    ISO 8859/15-latin9 to EBCDIC cp277-da
+LAT9E278            LOCALE    ISO 8859/15-latin9 to EBCDIC cp278-fi
+LAT9E280            LOCALE    ISO 8859/15-latin9 to EBCDIC cp280-it
+LAT9E284            LOCALE    ISO 8859/15-latin9 to EBCDIC cp284-es
+LAT9E285            LOCALE    ISO 8859/15-latin9 to EBCDIC cp285-uk
+LAT9E297            LOCALE    ISO 8859/15-latin9 to EBCDIC cp297-fr
+LAT9E500            LOCALE    ISO 8859/15-latin9 to EBCDIC cp500-inter
+LAT9E924            LOCALE    ISO 8859/15-latin9 to EBCDIC cp924-lat1
+LAT9ELAT            LOCALE    ISO 8859/15-latin9 to EBCDIC cp1047-lat1
+LAT9EO40            LOCALE    ISO 8859/15-latin9 to OpenEd EBCDIC cp1140-usa
+LAT9EO41            LOCALE    ISO 8859/15-latin9 to OpenEd EBCDIC cp1141-de
+LAT9EO42            LOCALE    ISO 8859/15-latin9 to OpenEd EBCDIC cp1142-da
+LAT9EO43            LOCALE    ISO 8859/15-latin9 to OpenEd EBCDIC cp1143-fi
+LAT9EO44            LOCALE    ISO 8859/15-latin9 to OpenEd EBCDIC cp1144-it
+LAT9EO45            LOCALE    ISO 8859/15-latin9 to OpenEd EBCDIC cp1145-es
+LAT9EO46            LOCALE    ISO 8859/15-latin9 to OpenEd EBCDIC cp1146-uk
+LAT9EO47            LOCALE    ISO 8859/15-latin9 to OpenEd EBCDIC cp1147-fr
+LAT9EO48            LOCALE    ISO 8859/15-latin9 to OpenEd EBCDIC cp1148-inter
+LAT9EOBR            LOCALE    ISO 8859/15-latin9 to OpenEd cp275-br
+LAT9EODA            LOCALE    ISO 8859/15-latin9 to OpenEd cp277-da
+LAT9EODE            LOCALE    ISO 8859/15-latin9 to OpenEd cp273-de
+LAT9EOES            LOCALE    ISO 8859/15-latin9 to OpenEd cp284-es
+LAT9EOFI            LOCALE    ISO 8859/15-latin9 to OpenEd cp278-fi
+LAT9EOFR            LOCALE    ISO 8859/15-latin9 to OpenEd cp297-fr
+LAT9EOIT            LOCALE    ISO 8859/15-latin9 to OpenEd cp280-it
+LAT9EOL1            LOCALE    ISO 8859/15-latin9 to OpenEd cp1047-la
+LAT9EOLT            LOCALE    ISO 8859/15-latin9 to OpenEd cp924-lat
+LAT9EOSW            LOCALE    ISO 8859/15-latin9 to OpenEd cp500-int
+LAT9EOUK            LOCALE    ISO 8859/15-latin9 to OpenEd cp285-uk
+LAT9EOUS            LOCALE    ISO 8859/15-latin9 to OpenEd cp037-usa
+LAT9EOVI            LOCALE    ISO 8859/15-latin9 to OpenEd cp1130-vi
+LAT9EVIE            LOCALE    ISO 8859/15-latin9 to EBCDIC cp1130-vi
+LAT9LAT1            LOCALE    ISO 8859/15-latin9 to ISO 8859/1-latin1
+LAT9P437            LOCALE    ISO 8859/15-latin9 to IBMPC OEM 437-usa
+LAT9P850            LOCALE    ISO 8859/15-latin9 to IBMPC OEM 850-west
+LAT9P858            LOCALE    ISO 8859/15-latin9 to IBMPC OEM 858-euro
+LAT9P860            LOCALE    ISO 8859/15-latin9 to IBMPC OEM 860-pt
+LAT9P863            LOCALE    ISO 8859/15-latin9 to IBMPC OEM 863-fc
+LAT9P865            LOCALE    ISO 8859/15-latin9 to IBMPC OEM 865-nord
+LAT9PVIE            LOCALE    ISO 8859/15-latin9 to IBMPC OEM 1129-v
+LAT9UNIC            LOCALE    ISO 8859/15-latin9 to Unicode mapping
+LAT9WLT1            LOCALE    ISO 8859/15-latin9 to Win Cp1252-latin1
+LAT9_CCL            LOCALE    ISO 8859/15-latin9 Char Classification CCL Table
+LAT9_LCS            LOCALE    ISO 8859/15-latin9 Lowcase
+LAT9_UCS            LOCALE    ISO 8859/15-latin9 Upcase
+LFNL2LF             LOCALE    Linefeed/Newline to Linefeed (General EBCDIC to ASCII)
+MKSOWLT2            LOCALE    Macedonian sort for Win cp1250-latin2
+MTL3_E2A            LOCALE    EBCDIC cp905-latin3 to ISO 8859/3-latin3 Remote Scanner Table
+NATIONAL            HOST       
+NOLAT1              HOST       
+NORWEGIA            HOST       
+OEMEBCD             HOST       
+P098E097            LOCALE    PC Farsi Cp1098 to EBCDIC cp1097-Farsi
+P098EOFA            LOCALE    PC Farsi Cp1098 to OpenEdition EBCDIC cp1097-Farsi
+P098UNIC            LOCALE    Farsi 1098- Personal Computer to Unicode mapping
+P098_CCL            LOCALE    Farsi 1098 Char Classification CCL Table
+P098_LCS            LOCALE    Farsi 1098 LCS Table
+P098_UCS            LOCALE    Farsi 1098 UCS Table
+P437AICE            LOCALE    IBMPC OEM 437-usa to MacOS 37-icelandic
+P437AROM            LOCALE    IBMPC OEM 437-usa to Mac cp 10000 roman
+P437BIG5            LOCALE    IBMPC OEM 437-usa to Win cp950-Big5-zt
+P437E037            LOCALE    IBMPC OEM 437-usa to EBCDIC cp037-usa
+P437E140            LOCALE    IBMPC OEM 437-usa to EBCDIC cp1140-usa
+P437E924            LOCALE    IBMPC OEM 437-usa to EBCDIC cp924-lat9
+P437ELAT            LOCALE    IBMPC OEM 437-usa to EBCDIC cp1047-lat1
+P437EO40            LOCALE    IBMPC OEM 437-usa to OpenEd cp1140-usa
+P437EOL1            LOCALE    IBMPC OEM 437-usa to OPEN EBCDIC 1047-lt1
+P437EOLT            LOCALE    IBMPC OEM 437-usa to OpenEd cp924-lat9
+P437EOUS            LOCALE    IBMPC OEM 437-usa to OpenEd cp037-usa
+P437EOVI            LOCALE    IBMPC OEM 437-usa to OpenEd EBCDIC cp1130-vi
+P437J942            LOCALE    IBMPC OEM 437-usa to J942-cp942-ja
+P437LAT1            LOCALE    IBMPC OEM 437-usa to ISO 8859/1-latin1
+P437LAT9            LOCALE    IBMPC OEM 437-usa to ISO 8859/15-latin
+P437P720            LOCALE    IBMPC OEM 437-usa to MSDOS OEM 720-ar
+P437P737            LOCALE    IBMPC OEM 437-usa to IBMPC OEM 737-el
+P437P850            LOCALE    IBMPC OEM 437-usa to IBMPC OEM 850-wes
+P437P852            LOCALE    IBMPC OEM 437-usa to IBMPC OEM 852-sla
+P437P857            LOCALE    IBMPC OEM 437-usa to IBMPC OEM 857-tr
+P437P858            LOCALE    IBMPC OEM 437-usa to IBMPC OEM 858-eur
+P437P860            LOCALE    IBMPC OEM 437-usa to IBMPC OEM 860-pt
+P437P862            LOCALE    IBMPC OEM 437-usa to IBMPC OEM 862-iw
+P437P864            LOCALE    IBMPC OEM 437-usa to IBMPC OEM 864-ar
+P437P865            LOCALE    IBMPC OEM 437-usa to IBMPC OEM 865-nord
+P437P866            LOCALE    IBMPC OEM 437-usa to IBMPC OEM 866-cyr
+P437P869            LOCALE    IBMPC OEM 437-usa to IBMPC OEM 869-el
+P437P874            LOCALE    IBMPC OEM 437-usa to IBMPC OEM 874-th
+P437P921            LOCALE    IBMPC OEM 437-usa to IBMPC OEM 921-bal
+P437P922            LOCALE    IBMPC OEM 437-usa to IBMPC OEM 922-et
+P437PVIE            LOCALE    IBMPC OEM 437-usa to IBMPC OEM 1129-vi
+P437SJIS            LOCALE    IBMPC OEM 437-usa to Shift-JIS
+P437UNIC            LOCALE    IBMPC OEM 437-usa to Unicode mapping
+P437WLT1            LOCALE    IBMPC OEM 437-usa to Win cp1252-latin1
+P437_CCL            LOCALE    IBMPC OEM 437-usa Char Classification CCL Table
+P437_LCS            LOCALE    IBMPC OEM 437-usa Lowcase
+P437_SCC            LOCALE     
+P437_UCS            LOCALE    IBMPC OEM 437-usa Upcase
+P720AARA            LOCALE    MSDOS OEM 720-ar to MacOS 4-arabic
+P720ARAB            LOCALE    MSDOS OEM 720-ar to ISO 8859/6-arabic
+P720EOA2            LOCALE    MSDOS OEM 720-ar to OpenEd EBCDIC cp803-ar
+P720P864            LOCALE    MSDOS OEM 720-ar to IBMPC OEM 864-ar
+P720WARA            LOCALE    p720 to Win Cp1256-arabic
+P720_CCL            LOCALE    MSDOS OEM 720-ar Char Classification CCL Table
+P720_LCS            LOCALE    MSDOS OEM 720-ar Lowcase
+P720_SCC            LOCALE     
+P720_UCS            LOCALE    MSDOS OEM 720-ar Upcase
+P737AGRK            LOCALE    IBMPC OEM 737-el to Mac cp10006-greek
+P737E875            LOCALE    IBMPC OEM 737-el to EBCDIC cp875-el
+P737EOEL            LOCALE    IBMPC OEM 737-el to OPEN EBCDIC cp875-el
+P737GREK            LOCALE    IBMPC OEM 737-el to ISO 8859/7-greek
+P737UNIC            LOCALE    MSDOS OEM 737-el to Unicode mapping
+P737WGRK            LOCALE    IBMPC OEM 737-el to Win cp1253-greek
+P737_CCL            LOCALE    MSDOS OEM 737-el Char Classification CCL Table
+P737_LCS            LOCALE    MSDOS OEM 737-el Lowcase
+P737_SCC            LOCALE     
+P737_UCS            LOCALE    MSDOS OEM 737-el Upcase
+P775AEUR            LOCALE    MSDOS OEM 775-balt to MacOS 29-easteuro
+P775EOBL            LOCALE    MSDOS OEM 775-balt to OpenEd EBCDIC cp1112-balt
+P775EOET            LOCALE    MSDOS OEM 775-balt to OpenEd EBCDIC cp1122-et
+P775LAT4            LOCALE    MSDOS OEM 775-balt to ISO 8859/4-latin
+P775LAT6            LOCALE    IBMPC OEM 775-balt ISO 8859/10-latin6
+P775P922            LOCALE    MSDOS OEM 775-balt to IBMPC OEM 922-et
+P775UNIC            LOCALE    MSDOS OEM 775-balt to Unicode mapping
+P775WBAL            LOCALE    IBMPC OEM 775-balt to Win cp1257-baltic
+P775_CCL            LOCALE    MSDOS OEM 775-balt Char Classification CCL Table
+P775_LCS            LOCALE    MSDOS OEM 775-balt Lowcase
+P775_SCC            LOCALE     
+P775_UCS            LOCALE    MSDOS OEM 775-balt Upcase
+P806E137            LOCALE    PC806 Indian ISCII-91 to EBCDIC cp1137 - Devanagari
+P806EOIN            LOCALE    PC806 Indian ISCII-91 to OpenEd EBCDIC cp1137-Devanagari
+P806UNIC            LOCALE    PC806 Indian ISCII-91 to Unicode mapping
+P806_CCL            LOCALE    PC806 Char Classification CCL Table
+P806_LCS            LOCALE    PC806 LCS Table
+P806_UCS            LOCALE    PC806 UCS Table
+P850AROM            LOCALE    IBMPC OEM 850-west to Mac cp10000-roman
+P850E037            LOCALE    IBMPC OEM 850-west to EBCDIC cp037-us
+P850E140            LOCALE    IBMPC OEM 850-west to EBCDIC cp1140-us
+P850E141            LOCALE    IBMPC OEM 850-west to EBCDIC cp1141-de
+P850E142            LOCALE    IBMPC OEM 850-west to EBCDIC cp1142-da
+P850E143            LOCALE    IBMPC OEM 850-west to EBCDIC cp1143-fi
+P850E144            LOCALE    IBMPC OEM 850-west to EBCDIC cp1144-it
+P850E145            LOCALE    IBMPC OEM 850-west to EBCDIC cp1145-es
+P850E146            LOCALE    IBMPC OEM 850-west to EBCDIC cp1146-uk
+P850E147            LOCALE    IBMPC OEM 850-west to EBCDIC cp1147-fr
+P850E148            LOCALE    IBMPC OEM 850-west to EBCDIC cp1148-inter
+P850E273            LOCALE    IBMPC OEM 850-west to EBCDIC cp273-de
+P850E275            LOCALE    IBMPC OEM 850-west to EBCDIC cp275-br
+P850E277            LOCALE    IBMPC OEM 850-west to EBCDIC cp277-da
+P850E278            LOCALE    IBMPC OEM 850-west to EBCDIC cp278-fi
+P850E280            LOCALE    IBMPC OEM 850-west to EBCDIC cp280-it
+P850E284            LOCALE    IBMPC OEM 850-west to EBCDIC cp284-es
+P850E285            LOCALE    IBMPC OEM 850-west to EBCDIC cp285-uk
+P850E297            LOCALE    IBMPC OEM 850-west to EBCDIC cp297-fr
+P850E500            LOCALE    IBMPC OEM 850-west to EBCDIC cp500-inter
+P850E924            LOCALE    IBMPC OEM 850-west to EBCDIC cp924-lat
+P850ELAT            LOCALE    IBMPC OEM 850-west to EBCDIC cp1047-lat1
+P850EO40            LOCALE    IBMPC OEM 850-west to OpenEd EBCDIC cp1140-us
+P850EO41            LOCALE    IBMPC OEM 850-west to OpenEd EBCDIC cp1141-de
+P850EO42            LOCALE    IBMPC OEM 850-west to OpenEd EBCDIC cp1142-da
+P850EO43            LOCALE    IBMPC OEM 850-west to OpenEd EBCDIC cp1143-fi
+P850EO44            LOCALE    IBMPC OEM 850-west to OpenEd EBCDIC cp1144-it
+P850EO45            LOCALE    IBMPC OEM 850-west to OpenEd EBCDIC cp1145-es
+P850EO46            LOCALE    IBMPC OEM 850-west to OpenEd EBCDIC cp1146-uk
+P850EO47            LOCALE    IBMPC OEM 850-west to OpenEd EBCDIC cp1147-fr
+P850EO48            LOCALE    IBMPC OEM 850-west to OpenEd EBCDIC cp1148-inter
+P850EOBR            LOCALE    IBMPC OEM 850-west to OpenEd cp275-br
+P850EODA            LOCALE    IBMPC OEM 850-west to OpenEd cp277-da
+P850EODE            LOCALE    IBMPC OEM 850-west to OpenEd cp273-de
+P850EOES            LOCALE    IBMPC OEM 850-west to OpenEd cp284-es
+P850EOFI            LOCALE    IBMPC OEM 850-west to OpenEd cp278-fi
+P850EOFR            LOCALE    IBMPC OEM 850-west to OpenEd cp297-fr
+P850EOIT            LOCALE    IBMPC OEM 850-west to OpenEd cp280-it
+P850EOL1            LOCALE    IBMPC OEM 850-west to OPEN EBCDIC cp1047-lat
+P850EOLT            LOCALE    IBMPC OEM 850-west to OpenEd cp924-lat
+P850EOSW            LOCALE    IBMPC OEM 850-west to OpenEd cp500-int
+P850EOUK            LOCALE    IBMPC OEM 850-west to OpenEd cp285-uk
+P850EOUS            LOCALE    IBMPC OEM 850-west to OpenEd cp037-usa
+P850EOVI            LOCALE    IBMPC OEM 850-west to OpenEd EBCDIC cp1130-vi
+P850LAT1            LOCALE    IBMPC OEM 850-west to ISO 8859/1-latin1
+P850LAT9            LOCALE    IBMPC OEM 850-west to ISO 8859/15-lati
+P850P437            LOCALE    IBMPC OEM 850-west to IBMPC OEM 437-us
+P850P860            LOCALE    IBMPC OEM 850-west to IBMPC OEM 860-pt
+P850P863            LOCALE    IBMPC OEM 850-west to IBMPC OEM 863-fc
+P850P865            LOCALE    IBMPC OEM 850-west to IBMPC OEM 865-nord
+P850UNIC            LOCALE    IBMPC OEM 850-west to Unicode mapping
+P850WLT1            LOCALE    IBMPC OEM 850-west to Win cp1252-latin1
+P850_CCL            LOCALE    IBMPC OEM 850-west Char Classification CCL Table
+P850_LCS            LOCALE    IBMPC OEM 850-west Lowcase
+P850_SCC            LOCALE     
+P850_UCS            LOCALE    IBMPC OEM 850-west Upcase
+P852AEUR            LOCALE    IBMPC OEM 852-slav to Mac cp10029-latin2
+P852ARMN            LOCALE    IBMPC OEM 852-slav to MacOS 38-romanian
+P852ATUR            LOCALE    IBMPC OEM 852-slav to MacOS 35-turkish
+P852E870            LOCALE    IBMPC OEM 852-slav to EBCDIC cp870-lat2
+P852EOL2            LOCALE    IBMPC OEM 852-slav to OpenEd EBCDIC cp870-lat2
+P852EOTR            LOCALE    IBMPC OEM 852-slav to OpenEd EBCDIC cp1026-tr
+P852LAT2            LOCALE    IBMPC OEM 852-slav to ISO 8859/2-latin2
+P852LAT5            LOCALE    IBMPC OEM 852-slav to ISO 8859/9-latin5
+P852P857            LOCALE    IBMPC OEM 852-slav to IBMPC OEM 857-tr
+P852UNIC            LOCALE    IBMPC OEM 852-slav to Unicode mapping
+P852WLT1            LOCALE    IBMPC OEM 852-slav to Win Cp1252-latin1
+P852WLT2            LOCALE    IBMPC OEM 852-slav to Win cp1250-latin2
+P852_CCL            LOCALE    IBMPC OEM 852-slav Char Classification CCL Table
+P852_LCS            LOCALE    IBMPC OEM 852-slav Lowcase
+P852_SCC            LOCALE     
+P852_UCS            LOCALE    IBMPC OEM 852-slav Upcase
+P855ACYR            LOCALE    IBMPC OEM 855-cyrl to Mac cp10007-cyrill
+P855AUKR            LOCALE    IBMPC OEM 855-cyrl to Mac cp10152-ukraine
+P855CYRL            LOCALE    IBMPC OEM 855-cyrl to ISO 8859/5-cyrill
+P855E880            LOCALE    IBMPC OEM 855-cyrl to EBCDIC cp880-ru
+P855ECYR            LOCALE    IBMPC OEM 855-cyrl to EBCDIC cp1025-cyrl
+P855EOCY            LOCALE    IBMPC OEM 855-cyrl to OPEN EBCDIC cp1025-cyr
+P855UNIC            LOCALE    IBMPC OEM 855-cyrl to Unicode mapping
+P855WCYR            LOCALE    IBMPC OEM 855-cyrl to Win cp1251-cyrill
+P855_CCL            LOCALE    IBMPC OEM 855-cyrl Char Classification CCL Table
+P855_LCS            LOCALE    IBMPC OEM 855-cyrl Lowcase
+P855_UCS            LOCALE    IBMPC OEM 855-cyrl Upcase
+P857ATUR            LOCALE    IBMPC OEM 857-tr to Mac cp10035-turk
+P857EOTR            LOCALE    IBMPC OEM 857-tr to OPEN EBCDIC cp1026-tr
+P857ETUR            LOCALE    IBMPC OEM 857-tr to EBCDIC cp1026-tr
+P857LAT5            LOCALE    IBMPC OEM 857-tr to ISO 8859/9-latin5
+P857P852            LOCALE    IBMPC OEM 857-tr to IBMPC OEM 852-slav
+P857UNIC            LOCALE    IBMPC OEM 857-tr to Unicode mapping
+P857WLT1            LOCALE    IBMPC OEM 857-tr to Win Cp1252-latin1
+P857WTUR            LOCALE    IBMPC OEM 857-tr to Win cp1254-turkish
+P857_CCL            LOCALE    IBMPC OEM 857-tr Char Classification CCL Table
+P857_LCS            LOCALE    IBMPC OEM 857-tr Lowcase
+P857_SCC            LOCALE     
+P857_UCS            LOCALE    IBMPC OEM 857-tr Upcase
+P858AROM            LOCALE    IBMPC OEM 858-euro to MacOS 0-roman
+P858E037            LOCALE    IBMPC OEM 858-euro to EBCDIC cp037-us
+P858E140            LOCALE    IBMPC OEM 858-euro to EBCDIC cp1140-us
+P858E141            LOCALE    IBMPC OEM 858-euro to EBCDIC cp1141-de
+P858E142            LOCALE    IBMPC OEM 858-euro to EBCDIC cp1142-da
+P858E143            LOCALE    IBMPC OEM 858-euro to EBCDIC cp1143-fi
+P858E144            LOCALE    IBMPC OEM 858-euro to EBCDIC cp1144-it
+P858E145            LOCALE    IBMPC OEM 858-euro to EBCDIC cp1145-es
+P858E146            LOCALE    IBMPC OEM 858-euro to EBCDIC cp1146-uk
+P858E147            LOCALE    IBMPC OEM 858-euro to EBCDIC cp1147-fr
+P858E148            LOCALE    IBMPC OEM 858-euro to EBCDIC cp1148-inter
+P858E273            LOCALE    IBMPC OEM 858-euro to EBCDIC cp273-de
+P858E275            LOCALE    IBMPC OEM 858-euro to EBCDIC cp275-br
+P858E277            LOCALE    IBMPC OEM 858-euro to EBCDIC cp277-da
+P858E278            LOCALE    IBMPC OEM 858-euro to EBCDIC cp278-fi
+P858E280            LOCALE    IBMPC OEM 858-euro to EBCDIC cp280-it
+P858E284            LOCALE    IBMPC OEM 858-euro to EBCDIC cp284-es
+P858E285            LOCALE    IBMPC OEM 858-euro to EBCDIC cp285-uk
+P858E297            LOCALE    IBMPC OEM 858-euro to EBCDIC cp297-fr
+P858E500            LOCALE    IBMPC OEM 858-euro to EBCDIC cp500-inter
+P858E924            LOCALE    IBMPC OEM 858-euro to EBCDIC cp924-lat
+P858ELAT            LOCALE    IBMPC OEM 858-euro to EBCDIC cp1047-la
+P858EO40            LOCALE    IBMPC OEM 858-euro to OpenEd EBCDIC cp1140-us
+P858EO41            LOCALE    IBMPC OEM 858-euro to OpenEd EBCDIC cp1141-de
+P858EO42            LOCALE    IBMPC OEM 858-euro to OpenEd EBCDIC cp1142-da
+P858EO43            LOCALE    IBMPC OEM 858-euro to OpenEd EBCDIC cp1143-fi
+P858EO44            LOCALE    IBMPC OEM 858-euro to OpenEd EBCDIC cp1144-it
+P858EO45            LOCALE    IBMPC OEM 858-euro to OpenEd EBCDIC cp1145-es
+P858EO46            LOCALE    IBMPC OEM 858-euro to OpenEd EBCDIC cp1146-uk
+P858EO47            LOCALE    IBMPC OEM 858-euro to OpenEd EBCDIC cp1147-fr
+P858EO48            LOCALE    IBMPC OEM 858-euro to OpenEd EBCDIC cp1148-inter
+P858EOBR            LOCALE    IBMPC OEM 858-euro to OpenEd cp275-br
+P858EODA            LOCALE    IBMPC OEM 858-euro to OpenEd cp277-da
+P858EODE            LOCALE    IBMPC OEM 858-euro to OpenEd cp273-de
+P858EOES            LOCALE    IBMPC OEM 858-euro to OpenEd cp284-es
+P858EOFI            LOCALE    IBMPC OEM 858-euro to OpenEd cp278-fi
+P858EOFR            LOCALE    IBMPC OEM 858-euro to OpenEd cp297-fr
+P858EOIT            LOCALE    IBMPC OEM 858-euro to OpenEd cp280-it
+P858EOL1            LOCALE    IBMPC OEM 858-euro to OpenEd cp1047-la
+P858EOLT            LOCALE    IBMPC OEM 858-euro to OpenEd cp924-lat
+P858EOSW            LOCALE    IBMPC OEM 858-euro to OpenEd cp500-int
+P858EOUK            LOCALE    IBMPC OEM 858-euro to OpenEd cp285-uk
+P858EOUS            LOCALE    IBMPC OEM 858-euro to OpenEd cp037-usa
+P858LAT1            LOCALE    IBMPC OEM 858-euro to ISO 8859/1-latin
+P858LAT9            LOCALE    IBMPC OEM 858-euro to ISO 8859/15-lati
+P858P437            LOCALE    IBMPC OEM 858-euro to IBMPC OEM 437-us
+P858P865            LOCALE    IBMPC OEM 858-euro to IBMPC OEM 865-nord
+P858UNIC            LOCALE    IBMPC OEM 858-euro to Unicode mapping
+P858WLT1            LOCALE    IBMPC OEM 858-euro to Win Cp1252-latin
+P858_CCL            LOCALE    IBMPC OEM 858-euro Char Classification CCL Table
+P858_LCS            LOCALE    IBMPC OEM 858-euro Lowcase
+P858_SCC            LOCALE     
+P858_UCS            LOCALE    IBMPC OEM 858-euro Upcase
+P860AROM            LOCALE    IBMPC OEM 860-pt to Mac cp10000-roman
+P860E037            LOCALE    IBMPC OEM 860-pt to EBCDIC cp037-us
+P860E275            LOCALE    IBMPC OEM 860-pt to EBCDIC cp275-pb
+P860E924            LOCALE    IBMPC OEM 860-pt to EBCDIC 924
+P860ELAT            LOCALE    IBMPC OEM 860-pt to EBCDIC cp1047-lat1
+P860LAT1            LOCALE    IBMPC OEM 860-pt to ISO 8859/1-latin1
+P860P437            LOCALE    IBMPC OEM 860-pt to IBMPC OEM 437-us
+P860P850            LOCALE    IBMPC OEM 860-pt to IBMPC OEM 850-west
+P860UNIC            LOCALE    IBMPC OEM 860-pt to Unicode mapping
+P860WLT1            LOCALE    IBMPC OEM 860-pt to Win cp1252-latin1
+P860_CCL            LOCALE    IBMPC OEM 860-pt Char Classification CCL Table
+P860_LCS            LOCALE    IBMPC OEM 860-pt Lowcase
+P860_SCC            LOCALE     
+P860_UCS            LOCALE    IBMPC OEM 860-pt Upcase
+P861AICE            LOCALE    IBMPC OEM 861-ice Mac cp10079-iceland
+P861UNIC            LOCALE    IBMPC OEM 861-is to Unicode mapping
+P861_CCL            LOCALE    IBMPC OEM 861-is Char Classification CCL Table
+P861_LCS            LOCALE    IBMPC OEM 861-is Lowcase
+P861_UCS            LOCALE    IBMPC OEM 861-is Upcase
+P862AHEB            LOCALE    IBMPC OEM 862-iw to Mac cp10005-hebrew
+P862E424            LOCALE    IBMPC OEM 862-iw EBCDIC cp424-iw
+P862EOIW            LOCALE    IBMPC OEM 862-iw to OPEN EBCDIC cp424-iw
+P862HEBR            LOCALE    IBMPC OEM 862-iw to ISO 8859/8-hebrew
+P862UNIC            LOCALE    IBMPC OEM 862-iw to Unicode mapping
+P862WHEB            LOCALE    IBMPC OEM 862-iw to Win cp1255-hebrew
+P862WLT1            LOCALE    IBMPC OEM 862-iw to Win Cp1252-latin1
+P862_CCL            LOCALE    IBMPC OEM 862-iw Char Classification CCL Table
+P862_LCS            LOCALE    IBMPC OEM 862-iw Lowcase
+P862_SCC            LOCALE     
+P862_UCS            LOCALE    IBMPC OEM 862-iw Upcase
+P863AROM            LOCALE    IBMPC OEM 863-fc to Mac cp10000-roman
+P863E037            LOCALE    IBMPC OEM 863-fc to EBCDIC cp037-us
+P863E924            LOCALE    IBMPC OEM 863-fc to EBCDIC 924
+P863EOLT            LOCALE    IBMPC OEM 863-fc to OpenEd EBCDIC cp924-lat1
+P863LAT1            LOCALE    IBMPC OEM 863-fc to ISO 8859/1-latin1
+P863P850            LOCALE    IBMPC OEM 863-fc to IBMPC OEM 850-west
+P863UNIC            LOCALE    IBMPC OEM 863-fc to Unicode mapping
+P863WLT1            LOCALE    IBMPC OEM 863-fc to Win cp1252-latin1
+P863_CCL            LOCALE    IBMPC OEM 863-fc Char Classification CCL Table
+P863_LCS            LOCALE    IBMPC OEM 863-fc Lowcase
+P863_SCC            LOCALE     
+P863_UCS            LOCALE    IBMPC OEM 863-fc Upcase
+P864AARA            LOCALE    IBMPC OEM 864-ar to MacOS 4-arabic
+P864ARAB            LOCALE    IBMPC OEM 864-ar to ISO 8859/6-arabic
+P864E420            LOCALE    IBMPC OEM 864-ar EBCDIC cp420-ar
+P864E425            LOCALE    IBMPC OEM 864-ar to EBCDIC cp425-ar
+P864EOA2            LOCALE    IBMPC OEM 864-ar to OpenEd cp870-lat2
+P864EOAR            LOCALE    IBMPC OEM 864-ar to OPEN EBCDIC cp420-ar
+P864P720            LOCALE    IBMPC OEM 864-ar to P720
+P864UNIC            LOCALE    IBMPC OEM 864-ar to Unicode mapping
+P864WARA            LOCALE    IBMPC OEM 864-ar to Win cp1256-arabic
+P864WLT1            LOCALE    IBMPC OEM 864-ar to Win Cp1252-latin1
+P864_CCL            LOCALE    IBMPC OEM 864-ar Char Classification CCL Table
+P864_LCS            LOCALE    IBMPC OEM 864-ar Lowcase
+P864_SCC            LOCALE     
+P864_UCS            LOCALE    IBMPC OEM 864-ar Upcase
+P865AROM            LOCALE    IBMPC OEM 865-nord to MacOS 0-roman
+P865E924            LOCALE    IBMPC OEM 865-nord to EBCDIC 924
+P865ELAT            LOCALE    IBMPC OEM 865-nord to EBCDIC cp1047-lat1
+P865EOL1            LOCALE    IBMPC OEM 865-nord to OpenEd EBCDIC cp1047-lat1
+P865LAT1            LOCALE    IBMPC OEM 865-nord to ISO 8859/1-latin1
+P865LAT9            LOCALE    IBMPC OEM 865-nord to ISO 8859/15-latin9
+P865P437            LOCALE    IBMPC OEM 865-nord to IBMPC OEM 437-us
+P865P850            LOCALE    IBMPC OEM 865-nord to IBMPC OEM 850-west
+P865P858            LOCALE    IBMPC OEM 865-nord to IBMPC OEM 858-euro
+P865UNIC            LOCALE    IBMPC OEM 865-nord to Unicode mapping
+P865WLT1            LOCALE    IBMPC OEM 865-nord to Win Cp1252-latin1
+P865_CCL            LOCALE    BMPC OEM 865-nord Char Classification CCL Table
+P865_LCS            LOCALE    IBMPC OEM 865-nord Lowcase
+P865_SCC            LOCALE     
+P865_UCS            LOCALE    IBMPC OEM 865-nord Upcase
+P866ACYR            LOCALE    IBMPC OEM 866-cyrl to Mac cp10007-cyrill
+P866AUKR            LOCALE    IBMPC OEM 866-cyrl to Mac cp10152-ukraine
+P866CYRL            LOCALE    IBMPC OEM 866-cyrl to ISO 8859/5-cyrill
+P866E880            LOCALE    IBMPC OEM 866-cyrl to EBCDIC cp880-ru
+P866ECYR            LOCALE    IBMPC OEM 866-cyrl to EBCDIC cp1025-cyrl
+P866EOCY            LOCALE    IBMPC OEM 866-cyrl to OPEN EBCDIC cp1025-cyr
+P866LAT5            LOCALE    IBMPC OEM 866-cyrl to ISO 8859/9-latin5
+P866UNIC            LOCALE    IBMPC OEM 866-cyrl to Unicode mapping
+P866WCYR            LOCALE    IBMPC OEM 866-cyrl to Win cp1251-cyrill
+P866WLT1            LOCALE    IBMPC OEM 866-cyrl to Win Cp1252-latin1
+P866_CCL            LOCALE    IBMPC OEM 866-cyrl Char Classification CCL Table
+P866_LCS            LOCALE    IBMPC OEM 866-cyrl Lowcase
+P866_SCC            LOCALE     
+P866_UCS            LOCALE    IBMPC OEM 866-cyrl Upcase
+P869AGRK            LOCALE    IBMPC OEM 869-el to Mac cp10006-greek
+P869E875            LOCALE    IBMPC OEM 869-el to EBCDIC cp875-el
+P869EOEL            LOCALE    IBMPC OEM 869-el to OPEN EBCDIC cp875-el
+P869GREK            LOCALE    IBMPC OEM 869-el to ISO 8859/7-greek
+P869UNIC            LOCALE    IBMPC OEM 869-el to Unicode mapping
+P869WGRK            LOCALE    IBMPC OEM 869-el to Win cp1253-greek
+P869WLT1            LOCALE    IBMPC OEM 869-el to Win Cp1252-latin1
+P869_CCL            LOCALE    IBMPC OEM 869-el Char Classification CCL Table
+P869_LCS            LOCALE    IBMPC OEM 869-el Lowcase
+P869_SCC            LOCALE     
+P869_UCS            LOCALE    IBMPC OEM 869-el Upcase
+P874ATHA            LOCALE    IBMPC OEM 874-th to Mac cp10021-thai
+P874E160            LOCALE    IBMPC P874-th to EBCDIC cp1160-th
+P874E838            LOCALE    IBMPC OEM 874-th to EBCDIC cp838-th
+P874EO60            LOCALE    IBMPC P874-th to OpenEd EBCDIC cp1160-th
+P874EOTH            LOCALE    IBMPC OEM 874-th to OPEN EBCDIC cp838-th
+P874THAI            LOCALE    IBMPC OEM 874-th ISO 8859/11-thai
+P874UNIC            LOCALE    IBMPC OEM 874-th to Unicode mapping
+P874WLT1            LOCALE    IBMPC OEM 874-th to Win Cp1252-latin1
+P874_CCL            LOCALE    IBMPC OEM 874-th Char Classification CCL Table
+P874_LCS            LOCALE    IBMPC OEM 874-th Lowcase
+P874_SCC            LOCALE     
+P874_UCS            LOCALE    IBMPC OEM 874-th Upcase
+P921AEUR            LOCALE    IBMPC OEM 921-balt to Mac cp10029-latin2
+P921EBAL            LOCALE    IBMPC OEM 921-balt to EBCDIC cp1112-balt
+P921EOBL            LOCALE    IBMPC OEM 921-balt to OPEN EBCDIC cp1112-balt
+P921LAT6            LOCALE    IBMPC OEM 921-balt to ISO 8859/10-latin6
+P921UNIC            LOCALE    IBMPC OEM 921-balt to Unicode mapping
+P921WBAL            LOCALE    IBMPC OEM 921-balt to IBMPC OEM 921-balt
+P921WLT1            LOCALE    IBMPC OEM 921-balt to Win Cp1252-latin1
+P921_CCL            LOCALE    IBMPC OEM 921-balt Char Classification CCL Table
+P921_LCS            LOCALE    IBMPC OEM 921-balt Lowcase
+P921_SCC            LOCALE     
+P921_UCS            LOCALE    IBMPC OEM 921-balt Upcase
+P922AEUR            LOCALE    IBMPC OEM 922-et to Mac cp10029-latin2
+P922EEST            LOCALE    IBMPC OEM 922-et to EBCDIC cp1122-et
+P922EOET            LOCALE    IBMPC OEM 922-et to OPEN EBCDIC cp1122-et
+P922LAT6            LOCALE    IBMPC OEM 922-et to ISO 8859/10-latin6
+P922P775            LOCALE    IBMPC OEM 922-et to MSDOS OEM 775-balt
+P922UNIC            LOCALE    IBMPC OEM 922-et to Unicode mapping
+P922WBAL            LOCALE    IBMPC OEM 922-et to IBMPC OEM 921-balt
+P922WLT1            LOCALE    IBMPC OEM 922-et to Win Cp1252-latin1
+P922_CCL            LOCALE    IBMPC OEM 922-et Char Classification CCL Table
+P922_LCS            LOCALE    IBMPC OEM 922-et Lowcase
+P922_SCC            LOCALE     
+P922_UCS            LOCALE    IBMPC OEM 922-et Upcase
+PLSOLAT2            HOST       
+PLSOLAT2            LOCALE    Polish sort for ISO 8859/2-latin2
+PLSOWLT2            LOCALE    Polish sort for Win cp1250-latin2
+POLISH              HOST       
+PVIEAROM            LOCALE    IBMPC OEM 1129-vi to MacOS 0-roman
+PVIEEOVI            LOCALE    IBMPC OEM 1129-vi to OpenEd cp1130-vi
+PVIEEVIE            LOCALE    IBMPC OEM 1129-vi to EBCDIC cp1130-vi
+PVIELAT1            LOCALE    IBMPC OEM 1129-vi to ISO 8859/1-latin1
+PVIEP437            LOCALE    IBMPC OEM 1129-vi to IBMPC OEM 437-us
+PVIEUNIC            LOCALE    IBMPC OEM 1129-vi to Unicode mapping
+PVIEWLT1            LOCALE    IBMPC OEM 1129-vi to Win Cp1252-latin1
+PVIEWVIE            LOCALE    IBMPC OEM 1129-vi to Win Cp1258-vi
+PVIE_CCL            LOCALE    IBMPC OEM 1129-vi Char Classification CCL Table
+PVIE_LCS            LOCALE    IBMPC OEM 1129-vi Lowcase
+PVIE_SCC            LOCALE     
+PVIE_UCS            LOCALE    IBMPC OEM 1129-vi Upcase
+REVERSE             HOST       
+ROM8UNIC            LOCALE    HP Roman 8 to Unicode mapping
+ROM8WLT1            LOCALE    HP Roman 8 to Wlatin1-cp1252
+ROM8_CCL            LOCALE    HP Roman 8 Char Classification CCL Table
+ROM8_LCS            LOCALE    HP Roman 8 Lowcase
+ROM8_UCS            LOCALE    HP Roman 8 Upcase
+SASGTAB0            HOST       
+SELTUNIC            LOCALE    SAS OEM Mainframe to Unicode mapping
+SELT_CCL            LOCALE    SAS OEM Mainframe Char Classification CCL Table
+SELT_LCS            LOCALE    SAS OEM Mainframe Lowcase
+SELT_UCS            LOCALE    SAS OEM Mainframe Upcase
+SLSOLAT2            LOCALE    Slovenian sort for ISO 8859/2-latin2
+SLSOWLT2            LOCALE    Slovenain sort for Win cp1250-latin2
+SLT1UNIC            LOCALE    SAS OEM Latin-1 to Unicode mapping
+SLT1_CCL            LOCALE    SAS OEM Latin1 Char Classification CCL Table
+SLT1_LCS            LOCALE    SAS OEM Latin1 Lowcase
+SLT1_UCS            LOCALE    SAS OEM Latin1 Upcase
+SLT2UNIC            LOCALE    SAS OEM Latin-2 to Unicode mapping
+SLT2_CCL            LOCALE    SAS OEM Latin2 Char Classification CCL Table
+SLT2_LCS            LOCALE    SAS OEM Latin2 Lowcase
+SLT2_UCS            LOCALE    SAS OEM Latin2 Upcase
+SPANISH             HOST       
+SVLAT1              HOST       
+SWEDISH             HOST       
+T721_E2A            LOCALE    EBCDIC cp1156-balt to IBMPC OEM 921-balt Remote Scanner Table
+T7L6_E2A            LOCALE    EBCDIC cp1156-balt to ISO 8859/10-latin6 Remote Scanner Table
+T7WB_E2A            LOCALE    EBCDIC cp1156-balt to Win cp1257-baltic Remote Scanner Table
+TH74_E2A            LOCALE    EBCDIC cp838-th to IBMPC OEM 874-th Remote Scanner Table
+THAIATHA            LOCALE    ISO 8859/11-thai to MacOS 21-thai
+THAIE838            LOCALE    ISO 8859/11-thai to EBCDIC cp838-th
+THAIEOTH            LOCALE    ISO 8859/11-thai to OpenEd cp838-th
+THAIP874            LOCALE    ISO 8859/11-thai to IBMPC OEM 874-th
+THAIUNIC            LOCALE    ISO 8859/11-thai to Unicode mapping
+THAI_CCL            LOCALE    ISO 8859/11-thai Char Classification CCL Table
+THAI_LCS            LOCALE    ISO 8859/11-thai Lowcase
+THAI_UCS            LOCALE    ISO 8859/11-thai Upcase
+THAT_E2A            LOCALE    EBCDIC cp838-th to MacOS 21-thai Remote Scanner Table
+THTH_E2A            LOCALE    EBCDIC cp838-th to ISO 8859/11-thai Remote Scanner Table
+TLAT_CCL            LOCALE    Teradata LATIN CCL Table
+TLAT_LCS            LOCALE    Teradata LATIN LCS Table
+TLAT_UCS            LOCALE    Teradata LATIN UCS Table
+TR52_E2A            LOCALE    EBCDIC cp1026-tr to IBMPC OEM 852-slav Remote Scanner Table
+TR57_E2A            LOCALE    EBCDIC cp1026-tr to IBMPC OEM 857-tr Remote Scanner Table
+TRAT_E2A            LOCALE    EBCDIC cp1026-tr to MacOS 35-turkish Remote Scanner Table
+TRL5_E2A            LOCALE    EBCDIC cp1026-tr to ISO 8859/9-latin5 Remote Scanner Table
+TRWT_E2A            LOCALE    EBCDIC cp1026-tr to Win cp1254-turkish Remote Scanner Table
+UK37_E2A            LOCALE    EBCDIC cp1146-uk to IBMPC OEM 437-usa Remote Scanner Table
+UK50_E2A            LOCALE    EBCDIC cp285-uk to IBMPC OEM 850-west Remote Scanner Table
+UK58_E2A            LOCALE    EBCDIC cp1146-uk to IBMPC OEM 858-euro Remote Scanner Table
+UKAR_E2A            LOCALE    EBCDIC cp1146-uk to MacOS 0-roman Remote Scanner Table
+UKL1_E2A            LOCALE    EBCDIC cp1146-uk to ISO 8859/1-latin1 Remote Scanner Table
+UKL9_E2A            LOCALE    EBCDIC cp1146-uk to ISO 8859/15-latin9 Remote Scanner Table
+UKW1_E2A            LOCALE    EBCDIC cp1146-uk to Win cp1252-latin1 Remote Scanner Table
+WARAAARA            LOCALE    Win cp1256-arabic to MacOS 4-arabic
+WARAARAB            LOCALE    Win cp1256-arabic to ISO 8859/6-arabic
+WARAE097            LOCALE    Win Cp1256-Arabic to EBCDIC cp1097-Farsi
+WARAE420            LOCALE    Win cp1256-arabic EBCDIC cp420-ar
+WARAE425            LOCALE    Win Cp1256-arabic to EBCDIC cp425-ar
+WARAEOA2            LOCALE    Win Cp1256-arabic to OpenEd cp870-lat2
+WARAEOAR            LOCALE    Win cp1256-arabic to OPEN EBCDIC cp420-ar
+WARAEOFA            LOCALE    Win Cp1256-Arabic to OpenEdition EBCDIC cp1097-Farsi
+WARAP720            LOCALE    Win Cp1256-arabic to p720
+WARAP864            LOCALE    Win cp1256-arabic to IBMPC OEM 864-ar
+WARAUNIC            LOCALE    Win Cp1256-arabic to Unicode mapping
+WARAWLT1            LOCALE    Win Cp1256-arabic to Win Cp1252-latin1
+WARA_CCL            LOCALE    Win Cp1256-arabic Char Classification CCL Table
+WARA_LCS            LOCALE    Win Cp1256-arabic Lowcase
+WARA_SCC            LOCALE     
+WARA_UCS            LOCALE    Win Cp1256-arabic Upcase
+WBALAEUR            LOCALE    Win Cp1257-baltic to MacOS 29-easteuro
+WBALE156            LOCALE    Win Cp1257-baltic to EBCDIC cp1156-baltic
+WBALE157            LOCALE    Win Cp1257-baltic to EBCDIC cp1157-et
+WBALEBAL            LOCALE    Win Cp1257-baltic to EBCDIC cp1112-bal
+WBALEEST            LOCALE    Win Cp1257-baltic to EBCDIC cp1122-et
+WBALEO56            LOCALE    Win Cp1257-baltic to OpenEdition EBCDIC cp1156-baltic
+WBALEO57            LOCALE    Win Cp1257-baltic to OpenEdition EBCDIC cp1157-et
+WBALEOBL            LOCALE    Win Cp1257-baltic to OpenEd cp1112-bal
+WBALEOET            LOCALE    Win Cp1257-baltic to OpenEd cp1122-et
+WBALLAT4            LOCALE    Win Cp1257-baltic to ISO 8859/4-latin4
+WBALLAT6            LOCALE    Win cp1257-baltic ISO 8859/10-latin6
+WBALLAT7            LOCALE    Win Cp1257 to ISO 8859/13-Latin7
+WBALP775            LOCALE    Win cp1257-baltic to IBMPC OEM 775-balt
+WBALP921            LOCALE    Win Cp1257-baltic to IBMPC OEM 921-bal
+WBALP922            LOCALE    Win Cp1257-baltic to IBMPC OEM 922-et
+WBALUNIC            LOCALE    Win Cp1257-baltic to Unicode mapping
+WBALWLT1            LOCALE    Win Cp1257-baltic to Win Cp1252-latin1
+WBAL_CCL            LOCALE    Win Cp1257-baltic Char Classification CCL Table
+WBAL_LCS            LOCALE    Win Cp1257-baltic Lowcase
+WBAL_SCC            LOCALE     
+WBAL_UCS            LOCALE    Win Cp1257-baltic Upcase
+WCYRACYR            LOCALE    Win cp1251-cyrill to Mac cp10007-cyrill
+WCYRAUKR            LOCALE    Win cp1251-cyrill to Mac cp10152-ukraine
+WCYRCYRL            LOCALE    Win cp1251-cyrill to ISO 8859/5-cyrill
+WCYRE154            LOCALE    Win Cp1251-Cyrillic to EBCDIC cp1154-Cyrillic
+WCYRE158            LOCALE    Win Cp1251-Cyrillic to EBCDIC cp1158-ru_UA
+WCYRE880            LOCALE    Win Cp1251-cyrill to EBCDIC cp880-ru
+WCYRECYR            LOCALE    Win cp1251-cyrill to EBCDIC cp1025-cyrl
+WCYREO54            LOCALE    Win Cp1251-Cyrillic to OpenEdition EBCDIC cp1154-Cyrillic
+WCYREO58            LOCALE    Win Cp1251-Cyrillic to OpenEdition EBCDIC cp1158-ru_UA
+WCYREOCY            LOCALE    Win cp1251-cyrill to OPEN EBCDIC cp1025-cyr
+WCYRP855            LOCALE    Win cp1251-cyrill IBMPC OEM 855-cyrl
+WCYRP866            LOCALE    Win cp1251-cyrill to IBMPC OEM 866-cyrl
+WCYRUNIC            LOCALE    Win Cp1251-cyrill to Unicode mapping
+WCYRWLT1            LOCALE    Win Cp1251-cyrill to Win Cp1252-latin1
+WCYR_CCL            LOCALE    Win Cp1251-cyrill Char Classification CCL Table
+WCYR_LCS            LOCALE    Win Cp1251-cyrill Lowcase
+WCYR_SCC            LOCALE     
+WCYR_UCS            LOCALE    Win Cp1251-cyrill Upcase
+WGRKAGRK            LOCALE    Win cp1253-greek to Mac cp10006-greek
+WGRKE875            LOCALE    Win cp1253-greek to EBCDIC cp875-el
+WGRKEOEL            LOCALE    Win cp1253-greek to OPEN EBCDIC cp875-el
+WGRKGREK            LOCALE    Win cp1253-greek to ISO 8859/7-greek
+WGRKP737            LOCALE    Win cp1253-greek IBMPC OEM 737-el
+WGRKP869            LOCALE    Win cp1253-greek to IBMPC OEM 869-el
+WGRKUNIC            LOCALE    Win Cp1253-greek to Unicode mapping
+WGRKWLT1            LOCALE    Win Cp1253-greek to Win Cp1252-latin1
+WGRK_CCL            LOCALE    Win Cp1253-greek Char Classification CCL Table
+WGRK_LCS            LOCALE    Win Cp1253-greek Lowcase
+WGRK_SCC            LOCALE     
+WGRK_UCS            LOCALE    Win Cp1253-greek Upcase
+WHEBAHEB            LOCALE    Win cp1255-hebrew to Mac cp10005-hebrew
+WHEBE424            LOCALE    Win cp1255-hebrew EBCDIC cp424-iw
+WHEBEOIW            LOCALE    Win cp1255-hebrew to OPEN EBCDIC cp424-iw
+WHEBHEBR            LOCALE    Win cp1255-hebrew to ISO 8859/8-hebrew
+WHEBP862            LOCALE    Win cp1255-hebrew to IBMPC OEM 862-iw
+WHEBUNIC            LOCALE    Win Cp1255-hebrew to Unicode mapping
+WHEBWLT1            LOCALE    Win Cp1255-hebrew to Win Cp1252-latin1
+WHEB_CCL            LOCALE    Win Cp1255-hebrew Char Classification CCL Table
+WHEB_LCS            LOCALE    Win Cp1255-hebrew Lowcase
+WHEB_SCC            LOCALE     
+WHEB_UCS            LOCALE    Win Cp1255-hebrew Upcase
+WLT1AICE            LOCALE    Win Cp1252-latin1 to MacOS 37-icelandic
+WLT1ANSI            LOCALE    Win Cp1252-latin1 to 7-bit ASCII
+WLT1AROM            LOCALE    Win cp1252-latin1 to Mac cp10000-roman
+WLT1BIG5            LOCALE    Win Cp1252-latin1 to Win cp950-Big5-zt
+WLT1E037            LOCALE    Win Cp1252-latin1 to EBCDIC cp037-us
+WLT1E137            LOCALE    Win Cp1252-latin1 to EBCDIC cp1137 - Devanagari
+WLT1E140            LOCALE    Win Cp1252-latin1 to EBCDIC cp1140-us
+WLT1E141            LOCALE    Win Cp1252-latin1 to EBCDIC cp1141-de
+WLT1E142            LOCALE    Win Cp1252-latin1 to EBCDIC cp1142-da
+WLT1E143            LOCALE    Win Cp1252-latin1 to EBCDIC cp1143-fi
+WLT1E144            LOCALE    Win Cp1252-latin1 to EBCDIC cp1144-it
+WLT1E145            LOCALE    Win Cp1252-latin1 to EBCDIC cp1145-es
+WLT1E146            LOCALE    Win Cp1252-latin1 to EBCDIC cp1146-uk
+WLT1E147            LOCALE    Win Cp1252-latin1 to EBCDIC cp1147-fr
+WLT1E148            LOCALE    Win Cp1252-latin1 to EBCDIC cp1148-inter
+WLT1E149            LOCALE    Win Cp1252-latin1 to EBCDIC cp1149-is
+WLT1E273            LOCALE    Win Cp1252-latin1 to EBCDIC cp273-de
+WLT1E275            LOCALE    Win Cp1252-latin1 to EBCDIC cp275-br
+WLT1E277            LOCALE    Win Cp1252-latin1 to EBCDIC cp277-da
+WLT1E278            LOCALE    Win Cp1252-latin1 to EBCDIC cp278-fi
+WLT1E280            LOCALE    Win Cp1252-latin1 to EBCDIC cp280-it
+WLT1E284            LOCALE    Win Cp1252-latin1 to EBCDIC cp284-es
+WLT1E285            LOCALE    Win Cp1252-latin1 to EBCDIC cp285-uk
+WLT1E297            LOCALE    Win Cp1252-latin1 to EBCDIC cp297-fr
+WLT1E500            LOCALE    Win Cp1252-latin1 to EBCDIC cp500-inter
+WLT1E905            LOCALE    Win Cp1252-latin1 to EBCDIC cp905-ru_UA
+WLT1E924            LOCALE    Win Cp1252-latin1 to EBCDIC cp924-lat9
+WLT1ELAT            LOCALE    Win cp1252-latin1 to EBCDIC cp1047-lat1
+WLT1EO40            LOCALE    Win Cp1252-latin1 to OpenEd EBCDIC cp1140-us
+WLT1EO41            LOCALE    Win Cp1252-latin1 to OpenEd EBCDIC cp1141-de
+WLT1EO42            LOCALE    Win Cp1252-latin1 to OpenEd EBCDIC cp1142-da
+WLT1EO43            LOCALE    Win Cp1252-latin1 to OpenEd EBCDIC cp1143-fi
+WLT1EO44            LOCALE    Win Cp1252-latin1 to OpenEd EBCDIC cp1144-it
+WLT1EO45            LOCALE    Win Cp1252-latin1 to OpenEd EBCDIC cp1145-es
+WLT1EO46            LOCALE    Win Cp1252-latin1 to OpenEd EBCDIC cp1146-uk
+WLT1EO47            LOCALE    Win Cp1252-latin1 to OpenEd EBCDIC cp1147-fr
+WLT1EO48            LOCALE    Win Cp1252-latin1 to OpenEd EBCDIC cp1148-inter
+WLT1EOBR            LOCALE    Win Cp1252-latin1 to OpenEd cp275-br
+WLT1EODA            LOCALE    Win Cp1252-latin1 to OpenEd cp277-da
+WLT1EODE            LOCALE    Win Cp1252-latin1 to OpenEd cp273-de
+WLT1EOES            LOCALE    Win Cp1252-latin1 to OpenEd cp284-es
+WLT1EOFI            LOCALE    Win Cp1252-latin1 to OpenEd cp278-fi
+WLT1EOFR            LOCALE    Win Cp1252-latin1 to OpenEd cp297-fr
+WLT1EOIN            LOCALE    Win Cp1252-latin1 to OpenEd EBCDIC cp1137-Devanagari
+WLT1EOIS            LOCALE    Win Cp1252-latin1 to OpenEdition EBCDIC cp1149-is
+WLT1EOIT            LOCALE    Win Cp1252-latin1 to OpenEd cp280-it
+WLT1EOL1            LOCALE    Win cp1252-latin1 to OPEN EBCDIC cp1047-lat
+WLT1EOL3            LOCALE    Win Cp1252-latin1 to OpenEdition EBCDIC cp905-ru_UA
+WLT1EOLT            LOCALE    Win Cp1252-latin1 to OpenEd cp924-lat9
+WLT1EOSW            LOCALE    Win Cp1252-latin1 to OpenEd cp500-int
+WLT1EOUK            LOCALE    Win Cp1252-latin1 to OpenEd cp285-uk
+WLT1EOUS            LOCALE    Win Cp1252-latin1 to OpenEd cp037-usa
+WLT1J932            LOCALE    Win Cp1252-latin1 to J932 cp932-ja
+WLT1KWIN            LOCALE    Win Cp1252-latin1 to Win cp949 - Korea
+WLT1KZ48            LOCALE    Win Cp1252-latin1 to Kazakh 1048 - IBM1174
+WLT1LAT1            LOCALE    Win cp1252-latin1 to ISO 8859/1-latin1
+WLT1LAT8            LOCALE    Win Cp1252-latin1 to Celtic ISO 8859/14-latin8
+WLT1LAT9            LOCALE    Win Cp1252-latin1 to ISO 8859/15-latin
+WLT1P437            LOCALE    Win cp1252-latin1 to IBMPC OEM 437-usa
+WLT1P850            LOCALE    Win cp1252-latin1 to IBMPC OEM 850-west
+WLT1P852            LOCALE    Win Cp1252-latin1 to IBMPC OEM 852-slav
+WLT1P857            LOCALE    Win Cp1252-latin1 to IBMPC OEM 857-tr
+WLT1P858            LOCALE    Win Cp1252-latin1 to IBMPC OEM 858-eur
+WLT1P860            LOCALE    Win cp1252-latin1 to IBMPC OEM 860-pt
+WLT1P862            LOCALE    Win Cp1252-latin1 to IBMPC OEM 862-iw
+WLT1P863            LOCALE    Win cp1252-latin1 to IBMPC OEM 863-fc
+WLT1P864            LOCALE    Win Cp1252-latin1 to IBMPC OEM 864-ar
+WLT1P865            LOCALE    Win Cp1252-latin1 to IBMPC OEM 865-nord
+WLT1P866            LOCALE    Win Cp1252-latin1 to IBMPC OEM 866-cyrl
+WLT1P869            LOCALE    Win Cp1252-latin1 to IBMPC OEM 869-el
+WLT1P874            LOCALE    Win Cp1252-latin1 to IBMPC OEM 874-th
+WLT1P921            LOCALE    Win Cp1252-latin1 to IBMPC OEM 921-balt
+WLT1P922            LOCALE    Win Cp1252-latin1 to IBMPC OEM 922-et
+WLT1PVIE            LOCALE    Win Cp1252-latin1 to IBMPC OEM 1129-vi
+WLT1ROM8            LOCALE    Wlatin1-cp1252 to HP Roman 8
+WLT1UNIC            LOCALE    Win Cp1252-latin1 to Unicode mapping
+WLT1WARA            LOCALE    Win Cp1252-latin1 to Win Cp1256-arabic
+WLT1WBAL            LOCALE    Win Cp1252-latin1 to Win Cp1257-baltic
+WLT1WCYR            LOCALE    Win Cp1252-latin1 to Win Cp1251-cyrill
+WLT1WGRK            LOCALE    Win Cp1252-latin1 to Win Cp1253-greek
+WLT1WHEB            LOCALE     
+WLT1WLT1            LOCALE    Identity
+WLT1WLT2            LOCALE    Win Cp1252-latin1 to Win Cp1250-latin2
+WLT1WTUR            LOCALE    Win Cp1252-latin1 to Win Cp1254-turkish
+WLT1WVIE            LOCALE    Win Cp1252-latin1 to Win Cp1258-vietamese
+WLT1ZWIN            LOCALE    Win Cp1252-latin1 to Win cp936-zh
+WLT1_CCL            LOCALE    Win Cp1252-latin1 Char Classification CCL Table
+WLT1_LCS            LOCALE    Win Cp1252-latin1 Lowcase
+WLT1_SCC            LOCALE     
+WLT1_UCS            LOCALE    Win Cp1252-latin1 Upcase
+WLT2AEUR            LOCALE    Win cp1250-latin2 to Mac cp10029-latin2
+WLT2E153            LOCALE    Win Cp1250-latin2 to EBCDIC cp1153-latin2
+WLT2E870            LOCALE    Win cp1250-latin2 to EBCDIC cp870-lat2
+WLT2EO53            LOCALE    Win Cp1250-latin2 to OpenEdition EBCDIC cp1153-latin2
+WLT2EOL2            LOCALE    Win cp1250-latin2 to OPEN EBCDIC cp870-lat2
+WLT2LA10            LOCALE    Win Cp1250 to ISO 8859/16-Latin10
+WLT2LAT2            LOCALE    Win cp1250-latin2 to ISO 8859/2-latin2
+WLT2P852            LOCALE    Win cp1250-latin2 to IBMPC OEM 852-slav
+WLT2UNIC            LOCALE    Win Cp1250-latin2 to Unicode mapping
+WLT2WLT1            LOCALE    Win Cp1250-latin2 to Win Cp1252-latin1
+WLT2_CCL            LOCALE    Win Cp1250-latin2 Char Classification CCL Table
+WLT2_LCS            LOCALE    Win Cp1250-latin2 Lowcase
+WLT2_SCC            LOCALE     
+WLT2_UCS            LOCALE    Win Cp1250-latin2 Upcase
+WTURATUR            LOCALE    Win cp1254-turkish to Mac cp10035-turk
+WTURE155            LOCALE    Win Cp1254-tr to EBCDIC cp1155-tr
+WTUREO55            LOCALE    Win Cp1254-tr to OpenEdition EBCDIC cp1155-tr
+WTUREOTR            LOCALE    Win cp1254-turkish to OPEN EBCDIC cp1026-tr
+WTURETUR            LOCALE    Win cp1254-turkish to EBCDIC cp1026-tr
+WTURLAT5            LOCALE    Win cp1254-turkish to ISO 8859/9-latin5
+WTURP857            LOCALE    Win cp1254-turkish to IBMPC OEM 857-tr
+WTURUNIC            LOCALE    Win Cp1254-turkish to Unicode mapping
+WTURWLT1            LOCALE    Win Cp1254-turkish to Win Cp1252-latin1
+WTUR_CCL            LOCALE    Win Cp1254-turkish Char Classification CCL Table
+WTUR_LCS            LOCALE    Win Cp1254-turkish Lowcase
+WTUR_SCC            LOCALE     
+WTUR_UCS            LOCALE    Win Cp1254-turkish Upcase
+WVIEAROM            LOCALE    Win Cp1258-vi to MacOS 0-roman
+WVIEE164            LOCALE    Win Cp1258 to EBCDIC cp1164 - Vietnamese
+WVIEEO64            LOCALE    Win Cp1258 to OpenEd EBCDIC cp1164-Vi
+WVIEEOVI            LOCALE    Win Cp1258-vi to OpenEd cp1130-vi
+WVIEEVIE            LOCALE    Win Cp1258-vi to EBCDIC cp1130-vi
+WVIELAT1            LOCALE    Win Cp1258-vi to ISO 8859/1-latin1
+WVIEPVIE            LOCALE    Win Cp1258-vi to IBMPC OEM 1129-vi
+WVIEUNIC            LOCALE    Win Cp1258-vietam to Unicode mapping
+WVIEWLT1            LOCALE    Win Cp1258-vietamese to Win Cp1252-latin1
+WVIE_CCL            LOCALE    Win Cp1258-vietam Char Classification CCL Table
+WVIE_LCS            LOCALE    Win Cp1258-vietam Lowcase
+WVIE_SCC            LOCALE     
+WVIE_UCS            LOCALE    Win Cp1258-vietam Upcase
+YIBMEOL1            LOCALE    Scanner translate table for EBCDIC cp037
+YPCSANSI            LOCALE    Trad. Chinese cp1114-Zt to ANSI cp367
+YPCSE037            LOCALE    Trad. Chinese cp1114-Zt to EBCDIC cp037
+YPCSEOUS            LOCALE    Trad. Chinese cp1114-Zt to OPEN EBCDIC cp037
+YPCS_CCL            LOCALE    Trad Chinese cp1114-Zt Char Classification CCL Table
+YPCS_LCS            LOCALE    Trad Chinese cp1114-Zt LCS Table
+YPCS_UCS            LOCALE    Trad Chinese cp1114-Zt UCS Table
+Z836ANSI            LOCALE    EBCDIC cp836-Zh to ANSI cp367
+Z836ELAT            LOCALE    Old Scanner translate table for EBCDIC cp836
+Z836ZPCS            LOCALE    EBCDIC cp836-Zh to Simpl. Chinese PC data cp1115-Zh
+Z836_CCL            LOCALE    EBCDIC cp836-Zh Char Classification CCL Table
+Z836_LCS            LOCALE    EBCDIC cp836-Zh LCS Table
+Z836_UCS            LOCALE    EBCDIC cp836-Zh UCS Table
+ZIBMEOL1            LOCALE    Scanner translate table for EBCDIC cp836
+ZOSCANSI            LOCALE    OPEN EBCDIC cp836-Zh to ANSI cp367
+ZOSCZPCS            LOCALE    OPEN EBCDIC cp836-Zh to Simpl. Chinese PC data cp1115-Zh
+ZPCSANSI            LOCALE    Simpl. Chinese PC data cp1115-Zh to ANSI cp367
+ZPCSZ836            LOCALE    Simpl. Chinese PC data cp1115-Zh to EBCDIC cp836-Zh
+ZPCSZOSC            LOCALE    Simpl. Chinese PC data cp1115-Zh to OPEN EBCDIC cp836-Zh
+ZPCS_CCL            LOCALE    Simpl. Chinese PC data cp1115-Zh Char Classification CCL Table
+ZPCS_LCS            LOCALE    Simpl. Chinese PC data cp1115-Zh LCS Table
+ZPCS_UCS            LOCALE    Simpl. Chinese PC data cp1115-Zh UCS Table
+ZWIN_CCL            LOCALE    Win cp936 - Simpl. Chinese CCL table
+ZWIN_LCS            LOCALE    Win cp936 - Simpl. Chinese LCS table
+ZWIN_UCS            LOCALE    Win cp936 - Simpl. Chinese UCS table
