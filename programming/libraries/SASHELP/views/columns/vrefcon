@@ -1,0 +1,13 @@
+ 1  libname        char     8  Library Name
+ 2  memname        char    32  Member Name
+ 3  constraint_catachar    32  Constraint Catalog
+ 4  constraint_schechar     8  Constraint Schema
+ 5  constraint_namechar    32  Constraint Name
+ 6  unique_constraichar    32  Unique Constraint Catalog
+ 7  unique_constraichar     8  Unique Constraint Schema
+ 8  unique_libname char     8  Unique Library Name
+ 9  unique_memname char    32  Unique Member Name
+10  unique_constraichar    32  Unique Constraint Name
+11  match_option   char     8  Match Option
+12  update_rule    char    12  Update Rule
+13  delete_rule    char    12  Delete Rule

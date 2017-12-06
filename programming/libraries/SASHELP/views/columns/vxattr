@@ -1,0 +1,7 @@
+ 1  libname        char     8  Library Name
+ 2  memname        char    32  Member Name
+ 3  name           char    32  Column Name
+ 4  xattr          char    32  Extended Attribute Name
+ 5  xtype          char     4  Extended Attribute Type
+ 6  xoffset        num      8  Offset Into Extended Attribute Value
+ 7  xvalue         char   200  Extended Attribute Value

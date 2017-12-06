@@ -1,0 +1,9 @@
+ 1  fileref        char     8  Fileref
+ 2  xpath          char  1024  Pathname
+ 3  xengine        char     8  Engine Name
+ 4  modate         num      8  Date Modified                           DATETIME.
+ 5  filesize       num      8  Size of File
+ 6  level          num      8  File Concatenation Level
+ 7  directory      char     3  Directory?
+ 8  exists         char     3  Exists?
+ 9  temporary      char     3  Temporary?

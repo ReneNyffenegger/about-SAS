@@ -1,0 +1,9 @@
+ 1  libname        char     8  Library Name
+ 2  memname        char    32  Member Name
+ 3  name           char    32  SAS Name for Filter
+ 4  filtername     char  1024  Filter Name
+ 5  id             char  1024  Filter ID
+ 6  path           char  1024  Filter Path
+ 7  promptusage    char     6  Filter Prompt Usage
+ 8  usagepromptid  char  1024  Prompt ID Usage with Filter
+ 9  description    char  1024  Filter Description

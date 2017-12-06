@@ -1,0 +1,10 @@
+ 1  libname        char     8  Library Name
+ 2  memname        char    32  Member Name
+ 3  memtype        char     8  Member Type
+ 4  objname        char    32  Object Name
+ 5  objtype        char     8  Object Type
+ 6  objdesc        char   256  Object Description
+ 7  created        num      8  Date Created                            DATETIME.
+ 8  modified       num      8  Date Modified                           DATETIME.
+ 9  alias          char    32  Object Alias
+10  level          num      8  Library Concatenation Level

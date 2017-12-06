@@ -1,0 +1,13 @@
+ 1  libname        char     8  Library Name
+ 2  memname        char    32  Member Name
+ 3  path           char  1024  Pathname
+ 4  objname        char    32  Object Name
+ 5  fmtname        char    32  Format Name
+ 6  fmttype        char     1  Format Type
+ 7  source         char     1  Format Source
+ 8  minw           num      8  Minimum Width
+ 9  mind           num      8  Minimum Decimal Width
+10  maxw           num      8  Maximum Width
+11  maxd           num      8  Maximum Decimal Width
+12  defw           num      8  Default Width
+13  defd           num      8  Default Decimal Width

@@ -1,0 +1,5 @@
+ 1  engine         char     8  Engine Name
+ 2  alias          char     8  Alias
+ 3  description    char    40  Description
+ 4  preferred      char     3  Preferred?
+ 5  properties     char  1024  Engine Dialog Properties

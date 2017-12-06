@@ -1,0 +1,18 @@
+ 1  libname        char     8  Library Name
+ 2  memname        char    32  Member Name
+ 3  memtype        char     8  Member Type
+ 4  name           char    32  Column Name
+ 5  type           char     4  Column Type
+ 6  length         num      8  Column Length
+ 7  npos           num      8  Column Position
+ 8  varnum         num      8  Column Number in Table
+ 9  label          char   256  Column Label
+10  format         char    49  Column Format
+11  informat       char    49  Column Informat
+12  idxusage       char     9  Column Index Type
+13  sortedby       num      8  Order in Key Sequence
+14  xtype          char    12  Extended Type
+15  notnull        char     3  Not NULL?
+16  precision      num      8  Precision
+17  scale          num      8  Scale
+18  transcode      char     3  Transcoded?

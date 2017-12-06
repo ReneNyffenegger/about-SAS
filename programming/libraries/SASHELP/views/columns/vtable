@@ -1,0 +1,41 @@
+ 1  libname        char     8  Library Name
+ 2  memname        char    32  Member Name
+ 3  memtype        char     8  Member Type
+ 4  dbms_memtype   char    32  DBMS Member Type
+ 5  memlabel       char   256  Data Set Label
+ 6  typemem        char     8  Data Set Type
+ 7  crdate         num      8  Date Created                            DATETIME.
+ 8  modate         num      8  Date Modified                           DATETIME.
+ 9  nobs           num      8  Number of Physical Observations
+10  obslen         num      8  Observation Length
+11  nvar           num      8  Number of Variables
+12  protect        char     3  Type of Password Protection
+13  compress       char     8  Compression Routine
+14  encrypt        char     8  Encryption
+15  npage          num      8  Number of Pages
+16  filesize       num      8  Size of File
+17  pcompress      num      8  Percent Compression
+18  reuse          char     3  Reuse Space
+19  bufsize        num      8  Bufsize
+20  delobs         num      8  Number of Deleted Observations
+21  nlobs          num      8  Number of Logical Observations
+22  maxvar         num      8  Longest variable name
+23  maxlabel       num      8  Longest label
+24  maxgen         num      8  Maximum number of generations
+25  gen            num      8  Generation number
+26  attr           char     3  Data Set Attributes
+27  indxtype       char     9  Type of Indexes
+28  datarep        char    32  Data Representation
+29  sortname       char     8  Name of Collating Sequence
+30  sorttype       char     4  Sorting Type
+31  sortchar       char     8  Charset Sorted By
+32  reqvector      char    24  Requirements Vector                     $HEX48.
+33  datarepname    char   170  Data Representation Name
+34  encoding       char   256  Data Encoding
+35  audit          char     3  Audit Trail Active?
+36  audit_before   char     3  Audit Before Image?
+37  audit_admin    char     3  Audit Admin Image?
+38  audit_error    char     3  Audit Error Image?
+39  audit_data     char     3  Audit Data Image?
+40  num_character  num      8  Number of Character Variables
+41  num_numeric    num      8  Number of Numeric Variables

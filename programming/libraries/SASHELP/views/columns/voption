@@ -1,0 +1,8 @@
+ 1  optname        char    32  Option Name
+ 2  opttype        char     8  Option type
+ 3  offset         num      8  Offset into option value
+ 4  setting        char  1024  Option Setting
+ 5  optdesc        char   160  Option Description
+ 6  level          char     8  Option Location
+ 7  optstart       char     8  Option Set
+ 8  group          char    32  Option Group

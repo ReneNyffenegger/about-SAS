@@ -1,0 +1,4 @@
+ 1  constraint_catachar    32  Constraint Catalog
+ 2  constraint_schechar     8  Constraint Schema
+ 3  constraint_namechar    32  Constraint Name
+ 4  check_clause   char   256  Check Clause

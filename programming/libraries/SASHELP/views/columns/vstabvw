@@ -1,0 +1,3 @@
+ 1  libname        char     8  Library Name
+ 2  memname        char    32  Member Name
+ 3  memtype        char     8  Member Type

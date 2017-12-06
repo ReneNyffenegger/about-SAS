@@ -1,0 +1,3 @@
+ 1  type           char     1  Title Location
+ 2  number         num      8  Title Number
+ 3  text           char   256  Title Text

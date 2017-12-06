@@ -1,0 +1,6 @@
+ 1  libname        char     8  Library Name
+ 2  memname        char    32  Member Name
+ 3  id             char  1024  Prompt ID
+ 4  order          num      8  Order Number of XML String
+ 5  length         num      8  XML String Length
+ 6  xml            char  33E3  Prompt XML String

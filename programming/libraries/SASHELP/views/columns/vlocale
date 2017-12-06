@@ -1,0 +1,9 @@
+ 1  locale         char     5  Locale name
+ 2  language       char    60  Language                                $UESCE60.
+ 3  region         char    60  Region                                  $UESCE60.
+ 4  currsym        char   360  Currency Symbol                         $UESCE360.
+ 5  icurrsym       char     3  International Currency Symbol
+ 6  currrad        char     6  Currency Radix                          $UESCE6.
+ 7  currsep        char     6  Currency Separator                      $UESCE6.
+ 8  currfrac       num      8  Number of Digits for Fraction
+ 9  currifrac      num      8  Number of Digits for International Fract

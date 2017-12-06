@@ -1,0 +1,10 @@
+ 1  memname        char    32  Member Name
+ 2  memlabel       char   256  Data Set Label
+ 3  name           char    32  Column Name
+ 4  type           char     4  Column Type
+ 5  length         num      8  Column Length
+ 6  npos           num      8  Column Position
+ 7  varnum         num      8  Column Number in Table
+ 8  label          char   256  Column Label
+ 9  format         char    49  Column Format
+10  informat       char    49  Column Informat

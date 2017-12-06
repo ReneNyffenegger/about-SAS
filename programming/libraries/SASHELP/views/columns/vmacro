@@ -1,0 +1,4 @@
+ 1  scope          char    32  Macro Scope
+ 2  name           char    32  Macro Variable Name
+ 3  offset         num      8  Offset into Macro Variable
+ 4  value          char   200  Macro Variable Value

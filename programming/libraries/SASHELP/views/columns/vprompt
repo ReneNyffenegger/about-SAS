@@ -1,0 +1,11 @@
+ 1  libname        char     8  Library Name
+ 2  memname        char    32  Member Name
+ 3  name           char    32  SAS Name for Prompt
+ 4  promptname     char  1024  Prompt Name
+ 5  id             char  1024  Prompt ID
+ 6  text           char  1024  Prompting Text
+ 7  type           char     4  Prompt Value Type
+ 8  length         num      8  Prompt Value Length
+ 9  prompttype     char    64  Prompt Value SQL Type
+10  dependentpid   char  1024  Dependent Prompt ID
+11  description    char  1024  Prompt Description

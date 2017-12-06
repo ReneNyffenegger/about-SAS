@@ -1,0 +1,2 @@
+ 1  libname        char     8  Library Name
+ 2  path           char  1024  Pathname

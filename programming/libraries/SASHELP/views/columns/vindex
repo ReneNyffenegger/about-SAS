@@ -1,0 +1,9 @@
+ 1  libname        char     8  Library Name
+ 2  memname        char    32  Member Name
+ 3  memtype        char     8  Member Type
+ 4  name           char    32  Column Name
+ 5  idxusage       char     9  Column Index Type
+ 6  indxname       char    32  Index Name
+ 7  indxpos        num      8  Position of Column in Concatenated Key
+ 8  nomiss         char     3  Nomiss Option
+ 9  unique         char     3  Unique Option

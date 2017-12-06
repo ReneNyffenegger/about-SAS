@@ -1,0 +1,6 @@
+ 1  table_catalog  char     8  Libname
+ 2  table_schema   char     8  Table Schema
+ 3  table_name     char    32  Table
+ 4  constraint_catachar    32  Constraint Catalog
+ 5  constraint_schechar     8  Constraint Schema
+ 6  constraint_namechar    32  Constraint Name

@@ -1,0 +1,7 @@
+ 1  source         char     1  Format Source
+ 2  fncname        char    32  Function name
+ 3  minarg         num      8  Minimum args to function
+ 4  maxarg         num      8  Maximum args to function
+ 5  fnctype        char     1  Function type
+ 6  fncargs        num      8  Argument attributes
+ 7  fncprod        char     1  Function implementation type

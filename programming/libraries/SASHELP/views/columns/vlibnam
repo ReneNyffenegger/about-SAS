@@ -1,0 +1,11 @@
+ 1  libname        char     8  Library Name
+ 2  engine         char     8  Engine Name
+ 3  path           char  1024  Pathname
+ 4  level          num      8  Library Concatenation Level
+ 5  fileformat     char     8  Default File Format
+ 6  readonly       char     3  Read-only?
+ 7  sequential     char     3  Sequential?
+ 8  sysdesc        char  1024  System Information Description
+ 9  sysname        char  1024  System Information Name
+10  sysvalue       char  1024  System Information Value
+11  temp           char     3  Temp Access?
