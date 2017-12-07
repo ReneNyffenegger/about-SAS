@@ -15,4 +15,4 @@ quit;
 */
 
 ods html close;
-ode listing;
+ods listing;
