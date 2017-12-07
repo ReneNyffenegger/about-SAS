@@ -13,7 +13,7 @@ data german;
   num = 2; gr = 'zwei' ; output;
   num = 3; gr = 'drei' ; output;
   num = 4; gr = 'vier' ; output;
-  num = 5; gr = 'fÃ¼nf' ; output;
+  num = 5; gr = 'fünf' ; output;
 run;
 
 data translation;
@@ -29,5 +29,5 @@ proc print data=translation noobs; run;
    two       2     zwei 
    three     3     drei 
    four      4     vier 
-   five      5     fÃ¼nf
+   five      5     fünf
 */
