@@ -24,6 +24,11 @@ proc transpose
     );
 run;
 
-proc print
+proc print noobs
      data = tq84_numbers_transposed;
 run;
+/*
+  _NAME_    a    b    c    d
+
+   num      1    2    3    4
+*/
