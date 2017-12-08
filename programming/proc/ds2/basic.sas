@@ -1,0 +1,10 @@
+proc ds2;
+  data _null_;
+    method init();
+      dcl varchar(16) someMessage;
+      someMessage = 'Hello World.';
+      put someMessage;
+    end;
+  enddata;
+  run;
+quit;
