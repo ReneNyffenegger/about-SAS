@@ -8,6 +8,8 @@ proc optsave
      key='TQ84\OPTIONS_SAVE';
 run;
 
+/* View the contents of the registry under the
+   key where the option values had been saved to: */
 proc registry
      list
      startat='TQ84\OPTIONS_SAVE';
