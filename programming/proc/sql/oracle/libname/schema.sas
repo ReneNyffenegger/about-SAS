@@ -11,7 +11,7 @@ libname tq84_ora
    sql_functions            = all
    db_length_semantics_byte = no;
    
-/* Use sastrace option to see what Oralce actually sends to SAS. */
+/* Use sastrace option to see what Oracle actually sends to SAS. */
 options
   sastrace    =  ',,,d'
   sastraceloc =  saslog;
